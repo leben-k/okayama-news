@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>このサイトについて|岡山 事件・事故・災害・催しまとめ</title>
+<style>
+:root {
+  box-sizing: border-box;
+  padding-top: env(safe-area-inset-top, 0px);
+  padding-bottom: env(safe-area-inset-bottom, 0px);
+  --bg:#eef2f7; --surface:#ffffff; --ink:#14202e; --sub:#44536a; --line:#c9d3e0; --indigo:#1f3a5f; --on:#ffffff; --badge:#ffffff;
+  --s-op:#1f3a5f; --s-me:#14639f; --s-di:#b35900; --s-pr:#6a3fa0; --s-ct:#1f7a40;
+}
+@media (prefers-color-scheme: dark) {
+  :root { --bg:#10151c; --surface:#1a222c; --ink:#f0f4f9; --sub:#b4c0d0; --line:#364457; --indigo:#9bbbe6; --on:#101820; --badge:#222d3a;
+    --s-op:#9bbbe6; --s-me:#74bdf5; --s-di:#f5a850; --s-pr:#c3a3f0; --s-ct:#6fd596; }
+}
+html { font-size:17px; scroll-padding-top:env(safe-area-inset-top, 0px); }
+html[data-size="l"] { font-size:19.5px; }
+html[data-size="xl"] { font-size:22px; }
+* { box-sizing:border-box; }
+body { margin:0; background:var(--bg); color:var(--ink); line-height:1.9; font-size:1rem;
+  font-family:"Hiragino Kaku Gothic ProN","Hiragino Sans","BIZ UDPGothic","Yu Gothic","Noto Sans JP",Meiryo,sans-serif; }
+.wrap { max-width:760px; margin:0 auto; padding:0 14px 56px; }
+.ic { width:1.35em; height:1.35em; flex:none; vertical-align:-.28em; }
+a { color:var(--indigo); font-weight:700; }
+a:focus-visible, button:focus-visible, select:focus-visible, input:focus-visible, textarea:focus-visible { outline:3px solid var(--indigo); outline-offset:3px; }
+header { padding-top:14px; }
+.back { margin:0 0 10px; font-size:.95rem; }
+.banner { display:flex; align-items:center; gap:12px; padding:14px 16px; border:3px solid var(--indigo); border-radius:20px;
+  background:linear-gradient(135deg, #cfe8fa, #ffe3ea); color:#14202e; }
+@media (prefers-color-scheme: dark) { .banner { background:linear-gradient(135deg, #1b2a4a, #3a2a46); color:#f0f4f9; } }
+.banner .ic { width:3em; height:3em; }
+h1 { font-size:1.5rem; line-height:1.35; margin:0; font-weight:800; }
+.banner p { margin:2px 0 0; font-size:.9rem; }
+nav { margin:14px 0 0; display:grid; grid-template-columns:repeat(3,1fr); gap:8px; }
+@media (min-width:640px) { nav { grid-template-columns:repeat(5,1fr); } }
+nav a { display:flex; flex-direction:column; align-items:center; gap:2px; text-align:center; text-decoration:none; font-size:.85rem; line-height:1.35;
+  padding:10px 4px; border:3px solid var(--c); border-radius:14px; background:var(--surface); color:var(--ink); }
+nav a .ic { width:1.9em; height:1.9em; color:var(--c); }
+.sizebar { display:flex; align-items:center; gap:8px; margin-top:14px; flex-wrap:wrap; font-size:.95rem; }
+.sizebar .lab { display:inline-flex; align-items:center; gap:6px; font-weight:800; }
+.sz { font:inherit; font-size:.95rem; min-height:44px; padding:6px 16px; border-radius:999px; border:2px solid var(--indigo); background:var(--surface); color:var(--ink); cursor:pointer; }
+.sz[aria-pressed="true"] { background:var(--indigo); color:var(--bg); font-weight:800; }
+
+#operator, nav .n-op { --c:var(--s-op); } #method, nav .n-me { --c:var(--s-me); } #disclaimer, nav .n-di { --c:var(--s-di); }
+#privacy, nav .n-pr { --c:var(--s-pr); } #contact, nav .n-ct { --c:var(--s-ct); }
+section { margin-top:26px; background:var(--surface); border:3px solid var(--c); border-radius:20px; padding:4px 18px 18px; }
+h2 { display:flex; align-items:center; gap:12px; margin:14px -6px 6px; padding:8px 14px; font-size:1.25rem; line-height:1.4; background:var(--c); color:var(--on); border-radius:14px; }
+h2 .ic { width:2.1em; height:2.1em; padding:.3em; background:var(--badge); color:var(--c); border-radius:50%; vertical-align:middle; }
+h3 { font-size:1.05rem; margin:18px 0 2px; padding-left:10px; border-left:6px solid var(--c); }
+p { margin:6px 0; }
+ul { margin:6px 0; padding-left:1.3em; }
+li { margin:5px 0; }
+dl { margin:8px 0; display:grid; grid-template-columns:6.5em 1fr; gap:8px 12px; }
+dt { color:var(--c); font-weight:800; } dd { margin:0; }
+form { margin:10px 0 0; display:grid; gap:14px; }
+label { display:block; font-size:1rem; font-weight:800; }
+label small { font-weight:400; color:var(--sub); }
+input[type="text"], input[type="email"], select, textarea { display:block; width:100%; margin-top:4px; font:inherit; font-size:1rem; color:var(--ink);
+  background:var(--bg); border:2px solid var(--line); border-radius:10px; padding:10px 12px; min-height:48px; }
+textarea { min-height:9em; resize:vertical; }
+button.send { font:inherit; font-size:1.05rem; font-weight:800; min-height:52px; padding:10px 26px; border:0; border-radius:12px; background:var(--c); color:var(--on); cursor:pointer; justify-self:start; display:inline-flex; align-items:center; gap:8px; }
+button.send[disabled] { opacity:.6; cursor:default; }
+.hp { position:absolute; left:-9999px; width:1px; height:1px; overflow:hidden; }
+.note { font-size:.9rem; color:var(--sub); }
+#formMsg { min-height:1.6em; font-size:1rem; font-weight:800; }
+.notice { display:flex; gap:12px; align-items:flex-start; margin-top:14px; padding:12px 16px; background:var(--surface); border:3px solid var(--s-di); border-radius:16px; }
+.notice .ic { width:2em; height:2em; color:var(--s-di); margin-top:2px; }
+.notice p { margin:0; }
+.date { margin-top:28px; font-size:.9rem; color:var(--sub); }
+</style>
+<script>try{var z=localStorage.getItem("okayama-size");if(z)document.documentElement.setAttribute("data-size",z)}catch(e){}</script>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <p class="back"><a href="./">← 一覧にもどる</a></p>
+    <div class="banner"><svg class="ic" aria-hidden="true"><use href="icons.svg#i-peach"/></svg><div><h1>このサイトについて</h1><p>岡山 事件・事故・災害・催しまとめ</p></div></div>
+    <nav aria-label="目次">
+      <a class="n-op" href="#operator"><svg class="ic" aria-hidden="true"><use href="icons.svg#i-info"/></svg>運営者情報</a>
+      <a class="n-me" href="#method"><svg class="ic" aria-hidden="true"><use href="icons.svg#i-doc"/></svg>収集方法</a>
+      <a class="n-di" href="#disclaimer"><svg class="ic" aria-hidden="true"><use href="icons.svg#i-warn"/></svg>免責事項</a>
+      <a class="n-pr" href="#privacy"><svg class="ic" aria-hidden="true"><use href="icons.svg#i-lock"/></svg>プライバシー</a>
+      <a class="n-ct" href="#contact"><svg class="ic" aria-hidden="true"><use href="icons.svg#i-mail"/></svg>お問い合わせ</a>
+    </nav>
+    <div class="sizebar" role="group" aria-label="文字の大きさ">
+      <span class="lab"><svg class="ic" aria-hidden="true"><use href="icons.svg#i-text"/></svg>文字の大きさ</span>
+      <button class="sz" data-size="m" aria-pressed="true">ふつう</button>
+      <button class="sz" data-size="l" aria-pressed="false">大きい</button>
+      <button class="sz" data-size="xl" aria-pressed="false">とても大きい</button>
+    </div>
+  </header>
+
+  <section id="operator">
+    <h2><svg class="ic" aria-hidden="true"><use href="icons.svg#i-info"/></svg>運営者情報・公開方法</h2>
+    <dl>
+      <dt>サイト名</dt><dd>岡山 事件・事故・災害・催しまとめ</dd>
+      <dt>運営者</dt><dd>地域情報室</dd>
+      <dt>公開方法</dt><dd>Web上限定。本サイトの情報は、このWebサイト上でのみ公開しています。</dd>
+      <dt>連絡先</dt><dd>このページ下部の<a href="#contact">お問い合わせフォーム</a>からご連絡ください。</dd>
+      <dt>内容</dt><dd>岡山県に関する事件・事故・火災・災害のニュースと、催しの予定の見出しを集めて一覧にしています。</dd>
+    </dl>
+  </section>
+
+  <section id="method">
+    <h2><svg class="ic" aria-hidden="true"><use href="icons.svg#i-doc"/></svg>収集方法</h2>
+    <h3>集める情報</h3>
+    <ul>
+      <li>Googleニュースの検索結果(RSS)に出てくる、岡山県に関する記事の見出し・配信元・日時・リンク</li>
+      <li>気象庁の防災情報(岡山地方気象台が発表する警報、土砂災害警戒情報など)。出典:気象庁</li>
+    </ul>
+    <h3>集める時間</h3>
+    <p>毎日、日本時間の5:00、11:30、19:00、22:00に、自動で取得します。通信状況などにより、数分から数十分遅れたり、取得できない回があったりします。</p>
+    <h3>絞り込みと分類</h3>
+    <ul>
+      <li>見出しに岡山県内の地名が含まれるものなどを、岡山県に関する記事として選びます。</li>
+      <li>見出しの言葉をもとに、事件・事故・火災・災害・催しに自動で分けます。人が1件ずつ確認しているわけではありません。</li>
+      <li>催しは、見出しに日付があり、その日付がすでに過ぎているものを除いています。日付がないものは、過去の催しが含まれることがあります。</li>
+    </ul>
+    <h3>保存するもの</h3>
+    <p>保存するのは見出し、配信元、掲載日時、元記事へのリンクだけです。記事の本文や写真は取得も転載もしません。取得してから7日たった情報は、取得のたびに古いものから一覧から消えます。</p>
+  </section>
+
+  <section id="disclaimer">
+    <h2><svg class="ic" aria-hidden="true"><use href="icons.svg#i-warn"/></svg>免責事項</h2>
+    <ul>
+      <li>掲載内容は自動で集めて分類したものです。誤り、抜け、重複、分類違いがあることがあります。内容の正確さ、完全さ、最新であることは保証しません。</li>
+      <li>詳しい内容は、必ずリンク先の元記事や、警察・自治体・気象台などの公式発表で確認してください。</li>
+      <li>災害時の避難などの判断は、自治体や気象庁の公式情報にしたがってください。本サイトの表示だけを頼りにしないでください。</li>
+      <li>事件の報道は、捜査や裁判の途中の段階のものがあります。逮捕や容疑の報道は、有罪が確定したことを意味しません。</li>
+      <li>催しの日時、場所、内容は、変更や中止になることがあります。参加前に主催者の案内を確認してください。</li>
+      <li>リンク先の外部サイトの内容や、そのサイトで起きた問題について、運営者は責任を負いません。</li>
+      <li>本サイトの利用や、掲載内容にもとづく行動によって生じた損害について、運営者は責任を負いません。</li>
+      <li>記事の掲載の見直しや削除を希望される方は、お問い合わせフォームからご連絡ください。内容を確認し、必要に応じて対応します。</li>
+      <li>予告なく、サイトの内容の変更や、運営の中止をすることがあります。</li>
+    </ul>
+  </section>
+
+  <section id="privacy">
+    <h2><svg class="ic" aria-hidden="true"><use href="icons.svg#i-lock"/></svg>プライバシーポリシー</h2>
+    <h3>個人情報の取得</h3>
+    <p>サイトを見るだけでは、氏名、住所、メールアドレスなどの個人情報は取得しません。会員登録とコメント欄はありません。お問い合わせフォームから送られた情報だけを、次の「お問い合わせフォームで受け取る情報」のとおり扱います。</p>
+    <h3>お問い合わせフォームで受け取る情報</h3>
+    <ul>
+      <li>受け取る情報:お名前、メールアドレス、表題、内容</li>
+      <li>使う目的:お問い合わせへの回答と対応のためだけに使います。</li>
+      <li>送信のしくみ:フォームの送受信には「Formspree」というサービスを使っています。送られた内容はFormspreeのサーバー(海外にあることがあります)を通って運営者に届きます。その扱いはFormspreeのプライバシーポリシーによります。</li>
+      <li>法令にもとづく場合を除き、ご本人の同意なく第三者に提供しません。</li>
+      <li>対応が終わり、必要がなくなった内容は削除します。</li>
+    </ul>
+    <h3>Cookie・アクセス解析</h3>
+    <p>Cookieや、アクセス解析、広告配信のしくみは使っていません。「文字の大きさ」を選ぶと、その設定が利用者のブラウザの中だけに保存されます。運営者には送られません。</p>
+    <h3>検索欄に入力した言葉</h3>
+    <p>「見出しを検索」に入力した言葉は、利用者のブラウザの中だけで使われます。運営者や外部のサーバーには送られず、保存もされません。</p>
+    <h3>サイトを置いているサービス</h3>
+    <p>本サイトはGitHub Pagesで公開しています。このため、サイトを見たときのIPアドレスなどのアクセス記録を、GitHubが取得することがあります。その扱いはGitHubのプライバシーに関する定めによります。運営者は、これらの記録を見たり利用したりしていません。</p>
+    <h3>外部サイトへのリンク</h3>
+    <p>記事の見出しをタップすると、元記事のサイトに移ります。移った先での情報の扱いは、各サイトの定めによります。</p>
+    <h3>記事に含まれる個人名など</h3>
+    <p>報道の見出しに、人の名前や年齢などが含まれていることがあります。本サイトは、報道されたものを見出しとリンクの形で紹介しているだけです。削除などのご希望は、お問い合わせフォームからご連絡ください。</p>
+    <h3>改定</h3>
+    <p>この内容は、必要に応じて改定します。改定後は、このページに掲載します。</p>
+  </section>
+
+  <section id="contact">
+    <h2><svg class="ic" aria-hidden="true"><use href="icons.svg#i-mail"/></svg>お問い合わせ</h2>
+    <p>記事の削除や修正のご希望、誤りのご指摘、ご意見はこちらからお送りください。返信が必要な場合は、メールアドレスを正しく入力してください。送信された内容の扱いは、上の「プライバシーポリシー」をご覧ください。</p>
+    <form id="contactForm" action="https://formspree.io/f/xeaowndg" method="POST">
+      <label>お名前
+        <input type="text" name="name" required autocomplete="name">
+      </label>
+      <label>あなたのメールアドレス
+        <input type="email" name="email" required autocomplete="email">
+      </label>
+      <label>表題 <small>(〇〇〇について)</small>
+        <input type="text" name="表題" required placeholder="〇〇〇について" maxlength="100">
+      </label>
+      <label>内容
+        <textarea name="message" required></textarea>
+      </label>
+      <p class="note">記事の削除・修正をご希望の場合は、該当する記事の見出しか、このサイトのアドレスを内容に書いてください。</p>
+      <input type="hidden" name="_subject" id="subjectField" value="">
+      <div class="hp" aria-hidden="true"><label>ここは空のままにしてください<input type="text" name="_gotcha" tabindex="-1" autocomplete="off"></label></div>
+      <button type="submit" id="sendBtn" class="send"><span id="sendTxt">送信</span></button>
+      <p id="formMsg" role="status" aria-live="polite"></p>
+    </form>
+  </section>
+
+  <aside class="notice" role="note">
+    <svg class="ic" aria-hidden="true"><use href="icons.svg#i-warn"/></svg>
+    <p><b>注意</b><br>この連絡フォームを利用して、宣伝や加入、登録を促す記事を送信することはご遠慮ください。</p>
+  </aside>
+
+
+  <p class="date">運営者:地域情報室 / 制定:2026年10月4日</p>
+</div>
+<script>
+(function () {
+  var form = document.getElementById("contactForm");
+  var msg = document.getElementById("formMsg");
+  var btn = document.getElementById("sendBtn");
+  var txt = document.getElementById("sendTxt");
+  form.addEventListener("submit", function (e) {
+    e.preventDefault();
+    document.getElementById("subjectField").value = "【岡山まとめ】" + form.elements["表題"].value;
+    btn.disabled = true; txt.textContent = "送信中…"; msg.textContent = "";
+    fetch(form.action, { method: "POST", body: new FormData(form), headers: { Accept: "application/json" } })
+      .then(function (r) {
+        if (r.ok) { form.reset(); msg.textContent = "送信しました。ありがとうございます。"; }
+        else { return r.json().then(function (d) {
+          msg.textContent = "送信できませんでした。" + ((d && d.errors) ? d.errors.map(function (x) { return x.message; }).join(" ") : "しばらくしてからもう一度お試しください。");
+        }, function () { msg.textContent = "送信できませんでした。しばらくしてからもう一度お試しください。"; }); }
+      })
+      .catch(function () { msg.textContent = "送信できませんでした。通信の状態を確認して、もう一度お試しください。"; })
+      .then(function () { btn.disabled = false; txt.textContent = "送信"; });
+  });
+})();
+</script>
+<script>
+(function () {
+  function setSize(z) {
+    document.documentElement.setAttribute("data-size", z);
+    document.querySelectorAll(".sz").forEach(function (b) { b.setAttribute("aria-pressed", String(b.dataset.size === z)); });
+    try { localStorage.setItem("okayama-size", z); } catch (e) {}
+  }
+  document.querySelectorAll(".sz").forEach(function (b) { b.onclick = function () { setSize(b.dataset.size); }; });
+  setSize(document.documentElement.getAttribute("data-size") || "m");
+})();
+</script>
+</body>
+</html>

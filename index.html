@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>岡山 事件・事故・災害・催しまとめ</title>
+<meta name="description" content="岡山県の事件・事故・火災・災害のニュースと、これから開かれる催しの見出しを、毎日4回自動で集めて一覧にしています。">
+<meta name="robots" content="index,follow,max-snippet:-1">
+<meta name="theme-color" content="#1f3a5f">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="ja_JP">
+<meta property="og:site_name" content="岡山 事件・事故・災害・催しまとめ">
+<meta property="og:title" content="岡山 事件・事故・災害・催しまとめ">
+<meta property="og:description" content="岡山県の事件・事故・火災・災害のニュースと、これから開かれる催しの見出しを、毎日4回自動で集めて一覧にしています。">
+<!--SEO-START--><!--SEO-END-->
+<script>try{var z=localStorage.getItem("okayama-size");if(z)document.documentElement.setAttribute("data-size",z)}catch(e){}</script>
+<style>
+:root {
+  box-sizing: border-box;
+  padding-top: env(safe-area-inset-top, 0px);
+  padding-bottom: env(safe-area-inset-bottom, 0px);
+  --bg:#eef2f7; --surface:#ffffff; --ink:#14202e; --sub:#44536a; --line:#c9d3e0;
+  --indigo:#1f3a5f; --indigo-ink:#ffffff; --new:#c22d14; --on:#ffffff; --badge:#ffffff;
+  --sky1:#9fd3f5; --sky2:#e9f6ff; --hill1:#8cc79a; --hill2:#5fae7a; --sun:#ffd24d;
+  --morning:#a85a05; --day:#14639f; --eve:#9a3573; --night:#2b3a68;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg:#10151c; --surface:#1a222c; --ink:#f0f4f9; --sub:#b4c0d0; --line:#364457;
+    --indigo:#9bbbe6; --indigo-ink:#0f1722; --new:#ff9a85; --on:#101820; --badge:#222d3a;
+    --sky1:#1b2a4a; --sky2:#3a5078; --hill1:#2f5a47; --hill2:#244838; --sun:#f1ead0;
+    --morning:#e8a24a; --day:#6cb6f0; --eve:#e58ac0; --night:#9fb0ef;
+  }
+}
+/* 種類ごとの色 (--c 枠・文字 / --t 背景) */
+[data-cat="すべて"] { --c:var(--indigo); --t:var(--surface); }
+[data-cat="事件"] { --c:#a3224f; --t:#fbe9f0; }
+[data-cat="事故"] { --c:#b35900; --t:#fff0dc; }
+[data-cat="火災"] { --c:#c8281a; --t:#fde7e3; }
+[data-cat="災害"] { --c:#14639f; --t:#e2effb; }
+[data-cat="催し"] { --c:#1f7a40; --t:#e2f4e8; }
+@media (prefers-color-scheme: dark) {
+  [data-cat="事件"] { --c:#f58fb3; --t:#35202a; }
+  [data-cat="事故"] { --c:#f5a850; --t:#37281a; }
+  [data-cat="火災"] { --c:#ff8c78; --t:#3a2220; }
+  [data-cat="災害"] { --c:#74bdf5; --t:#17283a; }
+  [data-cat="催し"] { --c:#6fd596; --t:#18301f; }
+}
+
+html { font-size:17px; scroll-padding-top:env(safe-area-inset-top, 0px); }
+html[data-size="l"] { font-size:19.5px; }
+html[data-size="xl"] { font-size:22px; }
+* { box-sizing:border-box; }
+body { margin:0; background:var(--bg); color:var(--ink); line-height:1.8; font-size:1rem;
+  font-family:"Hiragino Kaku Gothic ProN","Hiragino Sans","BIZ UDPGothic","Yu Gothic","Noto Sans JP",Meiryo,sans-serif; }
+.wrap { max-width:760px; margin:0 auto; padding:0 14px 56px; }
+.ic { width:1.35em; height:1.35em; flex:none; vertical-align:-.28em; }
+a:focus-visible, button:focus-visible, select:focus-visible, input:focus-visible { outline:3px solid var(--indigo); outline-offset:3px; }
+
+/* ヘッダー */
+header { padding-top:14px; }
+.hero { border:3px solid var(--indigo); border-radius:20px; overflow:hidden; line-height:0; }
+.hero svg { width:100%; height:auto; display:block; }
+h1 { display:flex; align-items:center; gap:10px; font-size:1.55rem; line-height:1.35; margin:16px 0 4px; font-weight:800; }
+h1 .ic { width:2em; height:2em; }
+.lead { margin:0; color:var(--sub); font-size:.95rem; }
+
+.status { margin:14px 0 0; padding:12px 14px; background:var(--surface); border:3px solid var(--indigo); border-radius:16px; }
+.status .line { display:flex; flex-wrap:wrap; gap:4px 18px; font-size:1rem; }
+.status .line span { display:inline-flex; align-items:center; gap:6px; }
+.slots { display:grid; grid-template-columns:repeat(4,1fr); gap:8px; margin-top:12px; }
+.slot { text-align:center; border:2px solid var(--c); border-radius:12px; padding:6px 2px; background:var(--surface); color:var(--c); line-height:1.35; }
+.slot b { display:block; font-size:1.05rem; color:var(--ink); }
+.slot small { display:block; font-size:.78rem; color:var(--sub); min-height:1.2em; }
+.slot.next { background:var(--c); color:var(--on); }
+.slot.next b, .slot.next small { color:var(--on); font-weight:800; }
+.slot.morning { --c:var(--morning); } .slot.day { --c:var(--day); } .slot.eve { --c:var(--eve); } .slot.night { --c:var(--night); }
+
+.sizebar { display:flex; align-items:center; gap:8px; margin-top:12px; flex-wrap:wrap; font-size:.95rem; }
+.sizebar .lab { display:inline-flex; align-items:center; gap:6px; font-weight:700; }
+.sz { font:inherit; font-size:.95rem; min-height:44px; padding:6px 16px; border-radius:999px; border:2px solid var(--indigo); background:var(--surface); color:var(--ink); cursor:pointer; }
+.sz[aria-pressed="true"] { background:var(--indigo); color:var(--indigo-ink); font-weight:800; }
+
+/* 種類カード(絞り込み) */
+.cats { display:grid; grid-template-columns:repeat(2,1fr); gap:10px; margin-top:20px; }
+@media (min-width:640px) { .cats { grid-template-columns:repeat(3,1fr); } }
+.cat { display:flex; align-items:center; gap:10px; text-align:left; font:inherit; color:var(--ink); cursor:pointer;
+  background:var(--t); border:3px solid var(--c); border-radius:16px; padding:10px 10px; min-height:72px; }
+.cat .badge { width:46px; height:46px; }
+.cat .badge .ic { width:28px; height:28px; }
+.cat .txt { display:block; min-width:0; line-height:1.3; }
+.cat .name { display:block; font-weight:800; font-size:1.1rem; }
+.cat .desc { display:block; font-size:.78rem; color:var(--sub); }
+.cat .num { display:block; font-size:.9rem; font-weight:800; color:var(--c); }
+.cat[aria-pressed="true"] { background:var(--c); color:var(--on); box-shadow:0 0 0 3px var(--surface), 0 0 0 6px var(--c); }
+.cat[aria-pressed="true"] .desc, .cat[aria-pressed="true"] .num { color:var(--on); }
+.cat[aria-pressed="true"] .badge { border-color:var(--on); }
+
+.badge { flex:none; display:inline-flex; align-items:center; justify-content:center; border-radius:50%;
+  background:var(--badge); color:var(--c); border:3px solid var(--c); }
+
+.finder { display:grid; grid-template-columns:1fr; gap:12px; margin-top:16px; padding:14px; background:var(--surface); border:3px solid var(--indigo); border-radius:16px; }
+@media (min-width:560px) { .finder { grid-template-columns:1fr 1.4fr; } }
+.finder label { display:block; font-weight:800; font-size:.95rem; }
+.finder label .ic { color:var(--indigo); }
+select, input[type="search"] { display:block; width:100%; margin-top:4px; font:inherit; font-size:1rem; color:var(--ink); background:var(--bg);
+  border:2px solid var(--line); border-radius:10px; padding:10px 12px; min-height:48px; }
+.count { margin:12px 2px 0; font-size:1rem; font-weight:800; }
+
+/* 取得時間のまとまり */
+.batch { margin-top:26px; }
+.batch h2 { display:flex; align-items:center; gap:10px; margin:0 0 12px; padding:9px 14px; font-size:1.05rem; line-height:1.4;
+  border-radius:14px; background:var(--c); color:var(--on); }
+.batch.morning { --c:var(--morning); } .batch.day { --c:var(--day); } .batch.eve { --c:var(--eve); } .batch.night { --c:var(--night); }
+.batch h2 .ic { width:1.6em; height:1.6em; }
+.batch h2 .new { margin-left:auto; background:var(--on); color:var(--c); padding:1px 10px; border-radius:999px; font-size:.85rem; font-weight:800; }
+
+/* 記事 */
+.item { display:flex; gap:12px; align-items:flex-start; text-decoration:none; color:var(--ink); background:var(--t);
+  border:3px solid var(--c); border-radius:18px; padding:12px; margin-bottom:12px; }
+.item .badge { width:54px; height:54px; margin-top:2px; }
+.item .badge .ic { width:32px; height:32px; }
+.item .body { display:block; min-width:0; flex:1; }
+.item:hover .title, .item:focus-visible .title { text-decoration:underline; text-underline-offset:3px; }
+.meta { display:flex; flex-wrap:wrap; gap:6px 8px; align-items:center; font-size:.88rem; color:var(--sub); line-height:1.4; }
+.pill { display:inline-flex; align-items:center; gap:4px; padding:1px 10px; border-radius:999px; font-weight:700; white-space:nowrap; }
+.pill.cat-pill { background:var(--c); color:var(--on); }
+.pill.area { border:2px solid var(--c); color:var(--ink); background:var(--surface); }
+.pill.area .ic { color:var(--c); }
+.pill.when { background:var(--surface); border:2px solid var(--c); color:var(--c); font-weight:800; }
+.pill.new { background:var(--new); color:var(--on); }
+.title { display:block; margin-top:6px; font-size:1.1rem; line-height:1.55; font-weight:800; }
+.src { display:inline-flex; align-items:center; gap:4px; }
+
+.msg { padding:28px 8px; text-align:center; color:var(--sub); font-size:1rem; }
+.msg .ic { width:84px; height:84px; display:block; margin:0 auto 6px; }
+
+footer { margin-top:36px; padding:16px; background:var(--surface); border:3px solid var(--line); border-radius:16px; font-size:.9rem; color:var(--sub); }
+footer p { margin:0 0 8px; }
+footer p:last-child { margin:0; }
+footer a { color:var(--indigo); font-weight:700; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="hero" aria-hidden="true">
+      <svg viewBox="0 0 720 220" preserveAspectRatio="xMidYMid slice">
+        <defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" style="stop-color:var(--sky1)"/><stop offset="1" style="stop-color:var(--sky2)"/></linearGradient></defs>
+        <rect width="720" height="220" fill="url(#sky)"/>
+        <circle cx="86" cy="62" r="44" style="fill:var(--sun)" opacity=".28"/>
+        <circle cx="86" cy="62" r="30" style="fill:var(--sun)"/>
+        <g fill="#fff" opacity=".92"><ellipse cx="230" cy="52" rx="46" ry="13"/><ellipse cx="256" cy="43" rx="28" ry="13"/><ellipse cx="200" cy="45" rx="24" ry="10"/>
+          <ellipse cx="620" cy="40" rx="40" ry="11"/><ellipse cx="644" cy="32" rx="24" ry="11"/></g>
+        <path d="M0 160 Q110 108 250 150 T500 138 T720 150 V220 H0Z" style="fill:var(--hill1)"/>
+        <path d="M0 186 Q180 166 360 184 T720 178 V220 H0Z" style="fill:var(--hill2)"/>
+        <path d="M0 204 Q180 192 360 202 T720 198 V220 H0Z" fill="#5aaee6" opacity=".85"/>
+        <!-- 岡山城 -->
+        <polygon points="396,188 416,154 504,154 524,188" fill="#8d939e"/>
+        <path d="M424 164h72M418 174h84" stroke="#737985" stroke-width="2"/>
+        <rect x="422" y="120" width="76" height="34" fill="#2a2e37"/>
+        <polygon points="408,120 512,120 498,105 422,105" fill="#3b404c"/>
+        <rect x="436" y="84" width="48" height="21" fill="#2a2e37"/>
+        <polygon points="426,84 494,84 483,69 437,69" fill="#3b404c"/>
+        <rect x="447" y="50" width="26" height="19" fill="#2a2e37"/>
+        <polygon points="437,50 483,50 460,26" fill="#3b404c"/>
+        <g fill="#e8b923"><circle cx="438" cy="48" r="4"/><circle cx="482" cy="48" r="4"/><circle cx="460" cy="24" r="3.5"/></g>
+        <g fill="#f4e6b4"><rect x="432" y="130" width="9" height="12"/><rect x="455" y="130" width="9" height="12"/><rect x="478" y="130" width="9" height="12"/>
+          <rect x="446" y="90" width="9" height="10"/><rect x="465" y="90" width="9" height="10"/><rect x="456" y="55" width="9" height="9"/></g>
+        <!-- 松 -->
+        <g fill="#2f7d4f"><polygon points="352,186 366,150 380,186"/><polygon points="356,166 366,136 376,166"/>
+          <polygon points="548,186 560,154 572,186"/><polygon points="551,168 560,142 569,168"/></g>
+        <g fill="#6b4a2f"><rect x="364" y="184" width="4" height="8"/><rect x="558" y="184" width="4" height="8"/></g>
+        <!-- 桃 -->
+        <use href="icons.svg#i-peach" x="196" y="132" width="70" height="70"/>
+        <use href="icons.svg#i-peach" x="258" y="152" width="48" height="48"/>
+        <use href="icons.svg#i-peach" x="612" y="150" width="52" height="52"/>
+        <path d="M600 82q6-7 12 0q6-7 12 0M630 66q5-6 10 0q5-6 10 0" stroke="#4d5d73" stroke-width="2.4" fill="none" stroke-linecap="round" opacity=".7"/>
+      </svg>
+    </div>
+    <h1><svg class="ic" aria-hidden="true"><use href="icons.svg#i-peach"/></svg>岡山 事件・事故・災害・催しまとめ</h1>
+    <p class="lead">岡山県のニュースの見出しを、1日4回、自動で集めています。</p>
+
+    <div class="status">
+      <div class="line" id="statusLine"></div>
+      <div class="slots" id="slots" aria-label="更新の時刻"></div>
+    </div>
+
+    <div class="sizebar" role="group" aria-label="文字の大きさ">
+      <span class="lab"><svg class="ic" aria-hidden="true"><use href="icons.svg#i-text"/></svg>文字の大きさ</span>
+      <button class="sz" data-size="m" aria-pressed="true">ふつう</button>
+      <button class="sz" data-size="l" aria-pressed="false">大きい</button>
+      <button class="sz" data-size="xl" aria-pressed="false">とても大きい</button>
+    </div>
+  </header>
+
+  <div class="cats" id="cats" role="group" aria-label="種類を選ぶ"></div>
+
+  <div class="finder">
+    <label><svg class="ic" aria-hidden="true"><use href="icons.svg#i-pin"/></svg> 地域をえらぶ
+      <select id="area"></select>
+    </label>
+    <label><svg class="ic" aria-hidden="true"><use href="icons.svg#i-search"/></svg> ことばでさがす
+      <input type="search" id="q" placeholder="例:倉敷、花火">
+    </label>
+  </div>
+  <p class="count" id="count"></p>
+
+  <main id="list"><!--LIST-START--><p class="msg">読み込み中…</p><!--LIST-END--></main>
+
+  <footer>
+    <p>見出しと元記事へのリンクだけを表示しています。くわしい内容は、必ず元記事で確認してください。</p>
+    <p>種類や地域は、見出しの言葉による自動判定です。まちがいや、もれがあります。催しの開催日は元記事で確認してください。</p>
+    <p>情報源:Googleニュース(RSS)、気象庁(岡山地方気象台の防災情報)</p>
+    <p><a href="about.html">このサイトについて(収集方法・免責事項・プライバシーポリシー・お問い合わせ)</a></p>
+    <p>運営:地域情報室</p>
+  </footer>
+</div>
+
+<script>
+const CATS = [
+  { k: "すべて", icon: "i-all", d: "ぜんぶ見る" },
+  { k: "事件", icon: "i-siren", d: "逮捕・詐欺など" },
+  { k: "事故", icon: "i-car", d: "交通事故・水難など" },
+  { k: "火災", icon: "i-fire", d: "火事・出火" },
+  { k: "災害", icon: "i-storm", d: "大雨・地震・警報" },
+  { k: "催し", icon: "i-fireworks", d: "これからのイベント" },
+];
+const ICON = {}; CATS.forEach(c => ICON[c.k] = c.icon);
+let DATA = { items: [], slots: [], updated: "" };
+let cat = "すべて", area = "県内すべて", q = "";
+const $ = id => document.getElementById(id);
+const esc = s => String(s).replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+const safeUrl = u => /^https?:\/\//.test(u) ? u : "#";
+const ic = id => `<svg class="ic" aria-hidden="true"><use href="icons.svg#${id}"/></svg>`;
+const WD = "日月火水木金土";
+const parse = s => { const m = /^(\d{4})-(\d\d)-(\d\d)T(\d\d):(\d\d)/.exec(s || ""); return m ? new Date(+m[1], +m[2] - 1, +m[3], +m[4], +m[5]) : null; };
+const fmtDay = d => `${d.getMonth() + 1}月${d.getDate()}日(${WD[d.getDay()]})`;
+const fmtTime = d => `${d.getHours()}:${String(d.getMinutes()).padStart(2, "0")}`;
+function slotOf(h) {
+  if (h >= 4 && h < 10) return ["morning", "i-sunrise", "朝"];
+  if (h >= 10 && h < 17) return ["day", "i-sun", "昼"];
+  if (h >= 17 && h < 21) return ["eve", "i-sunset", "夕"];
+  return ["night", "i-moon", "夜"];
+}
+
+/* 文字の大きさ */
+function setSize(z) {
+  document.documentElement.setAttribute("data-size", z);
+  document.querySelectorAll(".sz").forEach(b => b.setAttribute("aria-pressed", String(b.dataset.size === z)));
+  try { localStorage.setItem("okayama-size", z); } catch (e) {}
+}
+document.querySelectorAll(".sz").forEach(b => b.onclick = () => setSize(b.dataset.size));
+setSize(document.documentElement.getAttribute("data-size") || "m");
+
+function renderStatus() {
+  const upd = parse(DATA.updated);
+  const now = new Date();
+  const slots = DATA.slots || [];
+  let nextIdx = -1;
+  if (slots.length) {
+    const mins = now.getHours() * 60 + now.getMinutes();
+    nextIdx = slots.findIndex(s => +s.slice(0, 2) * 60 + +s.slice(3) > mins);
+    if (nextIdx === -1) nextIdx = 0;
+  }
+  $("statusLine").innerHTML = upd
+    ? `<span>${ic("i-clock")}<b>最終取得</b> ${fmtDay(upd)} ${fmtTime(upd)}</span>`
+    : `<span>${ic("i-clock")}まだデータがありません</span>`;
+  $("slots").innerHTML = slots.map((s, i) => {
+    const [cls, icon] = slotOf(+s.slice(0, 2));
+    return `<div class="slot ${cls}${i === nextIdx ? " next" : ""}">${ic(icon)}<b>${esc(s)}</b><small>${i === nextIdx ? "次回" : ""}</small></div>`;
+  }).join("");
+}
+
+function match(i, useCat) {
+  return (!useCat || cat === "すべて" || i.cat === cat) &&
+    (area === "県内すべて" || i.area === area) &&
+    (!q || i.title.includes(q) || i.area.includes(q) || i.source.includes(q));
+}
+function renderCats() {
+  $("cats").innerHTML = CATS.map(c => {
+    const n = DATA.items.filter(i => match(i, false) && (c.k === "すべて" || i.cat === c.k)).length;
+    return `<button class="cat" data-cat="${c.k}" aria-pressed="${c.k === cat}">
+      <span class="badge">${ic(c.icon)}</span>
+      <span class="txt"><span class="name">${c.k}</span><span class="desc">${c.d}</span><span class="num">${n}件</span></span></button>`;
+  }).join("");
+  $("cats").querySelectorAll(".cat").forEach(b => b.onclick = () => { cat = b.dataset.cat; renderCats(); renderList(); });
+}
+function renderAreas() {
+  const areas = ["県内すべて", ...Array.from(new Set(DATA.items.map(i => i.area))).sort((a, b) => a.localeCompare(b, "ja"))];
+  if (!areas.includes(area)) area = "県内すべて";
+  $("area").innerHTML = areas.map(a => `<option ${a === area ? "selected" : ""}>${esc(a)}</option>`).join("");
+}
+
+function renderList() {
+  const rows = DATA.items.filter(i => match(i, true));
+  $("count").textContent = `${rows.length}件 見つかりました`;
+  if (!DATA.items.length) { $("list").innerHTML = `<div class="msg">${ic("i-empty")}まだ記事がありません。<br>最初の取得が終わると、ここに表示されます。</div>`; return; }
+  if (!rows.length) { $("list").innerHTML = `<div class="msg">${ic("i-empty")}条件に合う記事がありません。<br>種類や地域を変えてみてください。</div>`; return; }
+  const groups = new Map();
+  rows.forEach(r => { if (!groups.has(r.fetched)) groups.set(r.fetched, []); groups.get(r.fetched).push(r); });
+  $("list").innerHTML = Array.from(groups.entries()).map(([k, g]) => {
+    const d = parse(k);
+    const [cls, icon] = d ? slotOf(d.getHours()) : ["day", "i-sun"];
+    const head = d ? `${fmtDay(d)} ${fmtTime(d)} 取得分` : esc(k);
+    return `<section class="batch ${cls}"><h2>${ic(icon)}${head}${k === DATA.updated ? '<span class="new">新着</span>' : ""}</h2>` + g.map(r => {
+      const p = parse(r.published);
+      const ed = r.event_date ? parse(r.event_date + "T00:00") : null;
+      return `<a class="item" href="${esc(safeUrl(r.url))}" target="_blank" rel="noopener noreferrer" data-cat="${esc(r.cat)}">
+        <span class="badge">${ic(ICON[r.cat] || "i-news")}</span>
+        <span class="body"><span class="meta"><span class="pill cat-pill">${esc(r.cat)}</span><span class="pill area">${ic("i-pin")}${esc(r.area)}</span>${ed ? `<span class="pill when">${ic("i-cal")}開催日 ${ed.getMonth() + 1}/${ed.getDate()}</span>` : ""}${p ? `<span>${p.getMonth() + 1}/${p.getDate()} ${fmtTime(p)}</span>` : ""}<span class="src">${ic("i-news")}${esc(r.source)}</span></span>
+        <span class="title">${esc(r.title)}</span></span></a>`;
+    }).join("") + `</section>`;
+  }).join("");
+}
+
+$("area").onchange = e => { area = e.target.value; renderCats(); renderList(); };
+$("q").oninput = e => { q = e.target.value.trim(); renderCats(); renderList(); };
+
+fetch("data.json?t=" + Date.now())
+  .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
+  .then(d => { DATA = d; renderStatus(); renderAreas(); renderCats(); renderList(); })
+  .catch(() => {
+    renderStatus(); renderCats(); $("count").textContent = "";
+    if ($("list").textContent.indexOf("読み込み中") !== -1) $("list").innerHTML = `<div class="msg">${ic("i-empty")}データを読み込めませんでした。<br>公開したページ(GitHub Pages)で開いてください。</div>`;
+  });
+</script>
+</body>
+</html>
