@@ -74,7 +74,18 @@ EVENT_KW = ["開催", "イベント", "祭", "まつり", "花火", "フェス",
             "特別展", "写真展", "作品展", "公演", "コンサート", "マラソン", "ライブ", "開幕",
             "大会", "フェア", "マルシェ", "催し", "ワークショップ", "上映", "発表会"]
 EVENT_EXCLUDE = ["開催された", "開かれた", "行われた", "閉幕", "盛況", "にぎわ", "賑わ",
-                 "優勝", "結果"]
+                 "優勝", "結果", "最優秀", "準決勝", "決勝", "表彰台", "受賞",
+                 "名が参加", "人が参加", "名参加", "人参加"]
+
+# 岡山県以外の地名(見出しに岡山の地名がないときだけ、除外に使う)
+OTHER_PLACES = [
+    "香川", "高松", "まんのう", "丸亀", "坂出", "広島", "福山", "愛媛", "松山", "兵庫", "神戸", "姫路",
+    "大阪", "京都", "東京", "神奈川", "横浜", "千葉", "埼玉", "北海道", "青森", "岩手", "宮城", "秋田",
+    "山形", "福島", "茨城", "栃木", "群馬", "新潟", "富山", "石川", "福井", "山梨", "長野", "岐阜",
+    "静岡", "愛知", "名古屋", "三重", "滋賀", "奈良", "和歌山", "鳥取", "島根", "山口", "徳島", "高知",
+    "福岡", "佐賀", "長崎", "熊本", "大分", "宮崎", "鹿児島", "沖縄",
+]
+OKAYAMA_WORDS = ["岡山"] + [w for words in AREAS.values() for w in words]
 
 
 def classify(title):
@@ -93,12 +104,26 @@ def find_area(title):
     return "県内・その他"
 
 
-def is_okayama(title, source):
-    if "岡山" in title:
+def clean_title(raw):
+    """配信元の飾り(「 | 岡山・香川のニュース | …」「(KSB瀬戸内海放送)」「【画像】」など)を取り除く。"""
+    t = re.sub(r"\s*\|\s.*$", "", raw)
+    t = re.sub(r"\s*[（(]\d{4}年\d{1,2}月\d{1,2}日掲載[）)]\s*$", "", t)
+    t = re.sub(r"\s*[（(][^（）()]*(放送|新聞|オンライン|NEWS|ニュース|テレビ)[^（）()]*[）)]\s*$", "", t)
+    t = t.replace("【画像】", "")
+    return t.strip()
+
+
+def is_okayama(raw, title, source):
+    # 配信元の飾りに入っている「岡山」は数えず、清書した見出しで判断する
+    if any(w in title for w in OKAYAMA_WORDS):
         return True
-    if any(w in title for words in AREAS.values() for w in words):
-        return True
-    return any(s in source for s in LOCAL_SOURCES)
+    # 全国の「震度○ ○○」一覧は、岡山の地名がなければ岡山の記事ではない
+    if "地震詳細" in raw or re.match(r"^震度\d", title):
+        return False
+    # 他県の地名があれば除外(RSKなどは香川のニュースも流すため)
+    if any(p in title for p in OTHER_PLACES):
+        return False
+    return any(w in source or w in raw for w in LOCAL_SOURCES)
 
 
 def event_date(title, today):
@@ -119,7 +144,8 @@ def event_date(title, today):
 
 
 def norm_key(title):
-    t = re.sub(r"[\s\u3000、。・「」『』()()\-—–:：!！?？]", "", title)
+    t = re.sub(r"【[^】]*】", "", title)
+    t = re.sub(r"[\s\u3000、。・「」『』()()\-—–:：!！?？]", "", t)
     return hashlib.sha1(t.encode("utf-8")).hexdigest()[:12]
 
 
@@ -136,9 +162,10 @@ def fetch(url, tries=3):
     raise last
 
 
-def make_item(title, url, source, published, now):
-    """条件に合えば記事の辞書を返す。合わなければ None。"""
-    if not is_okayama(title, source):
+def make_item(raw, url, source, published, now):
+    """条件に合えば記事の辞書を返す。合わなければ None。raw は配信元の飾りつきの見出し。"""
+    title = clean_title(raw)
+    if not title or not is_okayama(raw, title, source):
         return None
     cat = classify(title)
     if not cat:
@@ -150,7 +177,8 @@ def make_item(title, url, source, published, now):
             return None
         ed = d.isoformat() if d else ""
     return {
-        "id": norm_key(title), "title": title, "url": url, "source": source,
+        "id": norm_key(title), "title": title, "raw": raw if raw != title else "",
+        "url": url, "source": source,
         "cat": cat, "area": find_area(title),
         "published": published.astimezone(JST).strftime("%Y-%m-%dT%H:%M"),
         "event_date": ed,
@@ -343,8 +371,24 @@ def main():
             old = json.loads(OUT.read_text(encoding="utf-8"))
         except json.JSONDecodeError:
             pass
-    items = old.get("items", [])
-    seen = {i["id"] for i in items}
+    items, seen = [], set()
+    stored = sorted(old.get("items", []), key=lambda i: (i.get("fetched", ""), i.get("published", "")), reverse=True)
+    for it in stored:   # 保存済みの記事にも最新のルールを当てはめ直す
+        if it.get("source") != "気象庁":
+            try:
+                pub = datetime.strptime(it["published"], "%Y-%m-%dT%H:%M").replace(tzinfo=JST)
+                fetched = it["fetched"]
+            except (KeyError, ValueError):
+                continue
+            fixed = make_item(it.get("raw") or it["title"], it["url"], it["source"], pub, now)
+            if not fixed:
+                continue
+            fixed["fetched"] = fetched
+            it = fixed
+        if it["id"] in seen:
+            continue
+        seen.add(it["id"])
+        items.append(it)
     added = 0
     for it in found:
         if it["id"] in seen:
