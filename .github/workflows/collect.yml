@@ -8,14 +8,19 @@ on:
       - "scripts/collect.py"
   schedule:
     # 日本時間 = UTC + 9時間
-    - cron: "0 20 * * *"   # 日本時間 05:00
-    - cron: "30 2 * * *"   # 日本時間 11:30
-    - cron: "0 10 * * *"   # 日本時間 19:00
-    - cron: "0 13 * * *"   # 日本時間 22:00
+    # 毎時0分ちょうどは GitHub が混み合って遅れたり飛ばされたりするため、少しずらしています
+    - cron: "7 20 * * *"    # 日本時間 05:07
+    - cron: "37 2 * * *"    # 日本時間 11:37
+    - cron: "7 10 * * *"    # 日本時間 19:07
+    - cron: "7 13 * * *"    # 日本時間 22:07
   workflow_dispatch:
 
 permissions:
   contents: write
+
+concurrency:
+  group: collect
+  cancel-in-progress: false
 
 jobs:
   collect:
@@ -39,4 +44,5 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A
           git diff --cached --quiet || git commit -m "update $(TZ=Asia/Tokyo date '+%Y-%m-%d %H:%M')"
+          git pull --rebase
           git push
