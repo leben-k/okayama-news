@@ -1,0 +1,41 @@
+name: okayama-news-collect
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/collect.yml"
+      - "scripts/collect.py"
+  schedule:
+    # 日本時間 = UTC + 9時間
+    - cron: "0 20 * * *"   # 日本時間 05:00
+    - cron: "30 2 * * *"   # 日本時間 11:30
+    - cron: "0 10 * * *"   # 日本時間 19:00
+    - cron: "0 13 * * *"   # 日本時間 22:00
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Collect news
+        run: python scripts/collect.py
+
+      - name: Save changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "update $(TZ=Asia/Tokyo date '+%Y-%m-%d %H:%M')"
