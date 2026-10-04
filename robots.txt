@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://leben-k.github.io/okayama-news/sitemap.xml
