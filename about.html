@@ -10,7 +10,7 @@
   padding-top: env(safe-area-inset-top, 0px);
   padding-bottom: env(safe-area-inset-bottom, 0px);
   --bg:#eef2f7; --surface:#ffffff; --ink:#14202e; --sub:#44536a; --line:#c9d3e0; --indigo:#1f3a5f; --on:#ffffff; --badge:#ffffff;
-  --s-op:#1f3a5f; --s-me:#14639f; --s-di:#b35900; --s-pr:#6a3fa0; --s-ct:#1f7a40;
+  --s-op:#1f3a5f; --s-me:#14639f; --s-di:#a35000; --s-pr:#6a3fa0; --s-ct:#1f7a40;
 }
 @media (prefers-color-scheme: dark) {
   :root { --bg:#10151c; --surface:#1a222c; --ink:#f0f4f9; --sub:#b4c0d0; --line:#364457; --indigo:#9bbbe6; --on:#101820; --badge:#222d3a;
@@ -87,12 +87,13 @@ button.send[disabled] { opacity:.6; cursor:default; }
     </nav>
     <div class="sizebar" role="group" aria-label="文字の大きさ">
       <span class="lab"><svg class="ic" aria-hidden="true"><use href="icons.svg#i-text"/></svg>文字の大きさ</span>
-      <button class="sz" data-size="m" aria-pressed="true">ふつう</button>
-      <button class="sz" data-size="l" aria-pressed="false">大きい</button>
-      <button class="sz" data-size="xl" aria-pressed="false">とても大きい</button>
+      <button type="button" class="sz" data-size="m" aria-pressed="true">ふつう</button>
+      <button type="button" class="sz" data-size="l" aria-pressed="false">大きい</button>
+      <button type="button" class="sz" data-size="xl" aria-pressed="false">とても大きい</button>
     </div>
   </header>
 
+  <main>
   <section id="operator">
     <h2><svg class="ic" aria-hidden="true"><use href="icons.svg#i-info"/></svg>運営者情報・公開方法</h2>
     <dl>
@@ -112,7 +113,7 @@ button.send[disabled] { opacity:.6; cursor:default; }
       <li>気象庁の防災情報(岡山地方気象台が発表する警報、土砂災害警戒情報など)。出典:気象庁</li>
     </ul>
     <h3>集める時間</h3>
-    <p>毎日、日本時間の5:00、11:30、19:00、22:00に、自動で取得します。通信状況などにより、数分から数十分遅れたり、取得できない回があったりします。</p>
+    <p>毎日、日本時間の5時ごろ、11時30分ごろ、19時ごろ、22時ごろの4回、自動で取得します。通信状況などにより、数分から数十分遅れたり、取得できない回があったりします。</p>
     <h3>絞り込みと分類</h3>
     <ul>
       <li>見出しに岡山県内の地名が含まれるものなどを、岡山県に関する記事として選びます。</li>
@@ -195,6 +196,7 @@ button.send[disabled] { opacity:.6; cursor:default; }
 
 
   <p class="date">運営者:地域情報室 / 制定:2026年10月4日</p>
+  </main>
 </div>
 <script>
 (function () {
