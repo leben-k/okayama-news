@@ -13,6 +13,7 @@ import os
 import re
 import sys
 import time
+import unicodedata
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -41,14 +42,19 @@ NEWS_QUERIES = [
 
 JMA_FEED = "https://www.data.jma.go.jp/developer/xml/feed/extra.xml"
 JMA_PAGE = "https://www.jma.go.jp/bosai/warning/#area_type=offices&area_code=330000"
-JMA_TITLES = ["気象特別警報・警報・注意報", "土砂災害警戒情報", "指定河川洪水予報",
-              "記録的短時間大雨情報", "竜巻注意情報"]
+JMA_TITLES = ["気象特別警報・警報・注意報", "気象警報・注意報(H27)", "土砂災害警戒情報",
+              "指定河川洪水予報", "記録的短時間大雨情報", "竜巻注意情報"]
+JMA_WARNING_TITLES = ["気象特別警報・警報・注意報", "気象警報・注意報(H27)"]  # 中身に「警報」があるものだけ載せる
+
+
+def _nfkc(t):
+    return unicodedata.normalize("NFKC", t)
 
 # ---- 地域(表示名: 見出しに含まれる語) ----
 AREAS = {
-    "岡山市": ["岡山市"], "倉敷市": ["倉敷"], "津山市": ["津山"], "玉野市": ["玉野"],
+    "岡山市": ["岡山市", "岡山駅", "岡山城", "後楽園", "表町", "奉還町", "問屋町", "西大寺"], "倉敷市": ["倉敷"], "津山市": ["津山"], "玉野市": ["玉野"],
     "笠岡市": ["笠岡"], "井原市": ["井原"], "総社市": ["総社"], "高梁市": ["高梁"],
-    "新見市": ["新見市"], "備前市": ["備前市"], "瀬戸内市": ["瀬戸内市"], "赤磐市": ["赤磐"],
+    "新見市": ["新見市"], "備前市": ["備前市", "備前焼"], "瀬戸内市": ["瀬戸内市", "牛窓", "邑久"], "赤磐市": ["赤磐"],
     "真庭市": ["真庭"], "美作市": ["美作"], "浅口市": ["浅口"], "和気町": ["和気町"],
     "早島町": ["早島"], "里庄町": ["里庄"], "矢掛町": ["矢掛"], "新庄村": ["新庄村"],
     "鏡野町": ["鏡野"], "勝央町": ["勝央"], "奈義町": ["奈義"], "西粟倉村": ["西粟倉"],
@@ -218,12 +224,12 @@ def parse_jma(data, now):
         author = e.findtext(f"{ns}author/{ns}name") or ""
         if "岡山地方気象台" not in author:
             continue
-        title = (e.findtext(ns + "title") or "").strip()
+        title = _nfkc((e.findtext(ns + "title") or "").strip())
         if title not in JMA_TITLES:
             continue
         content = " ".join((e.findtext(ns + "content") or "").split())
         body = re.sub(r"【[^】]*】", "", content)  # 見出しの【…気象警報・注意報】は除いて判定
-        if title == "気象特別警報・警報・注意報" and "警報" not in body:
+        if title in JMA_WARNING_TITLES and "警報" not in body:
             continue  # 注意報だけのものは載せない
         try:
             pub = datetime.fromisoformat((e.findtext(ns + "updated") or "").replace("Z", "+00:00"))
