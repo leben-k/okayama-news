@@ -2,13 +2,11 @@ name: collect
 
 on:
   schedule:
-    # cronはUTC(日本時間 - 9時間)
-    - cron: '0 20 * * *'    # 日本時間 05:00
-    - cron: '30 2 * * *'    # 日本時間 11:30
-    - cron: '0 7 * * *'     # 日本時間 16:00
-    - cron: '0 10 * * *'    # 日本時間 19:00
-    - cron: '0 13 * * *'    # 日本時間 22:00
-  workflow_dispatch:         # 手動実行ボタン
+    # 日本時間 5:00〜23:59 の間、30分ごとに「集め損ねていないか」を確認します。
+    # 集める時刻(5:00 / 11:30 / 16:00 / 19:00 / 22:00)を過ぎて未収集なら、その場で集めます。
+    # cronはUTC(日本時間 - 9時間)。分は混雑を避けて 5分・35分 にしています。
+    - cron: '5,35 20-23,0-14 * * *'
+  workflow_dispatch:         # 手動実行ボタン(押すと必ず集めます)
 
 concurrency:
   group: collect
@@ -34,19 +32,26 @@ jobs:
           python-version: '3.12'
 
       - name: Collect news and build site
+        id: collect
+        env:
+          FORCE: ${{ github.event_name == 'workflow_dispatch' && '1' || '0' }}
         run: python collect.py
 
       - uses: actions/configure-pages@v5
+        if: steps.collect.outputs.skip != 'true'
 
       - uses: actions/upload-pages-artifact@v3
+        if: steps.collect.outputs.skip != 'true'
         with:
           path: site
 
       - name: Deploy to GitHub Pages
         id: deployment
+        if: steps.collect.outputs.skip != 'true'
         uses: actions/deploy-pages@v4
 
       - name: Save data.json
+        if: steps.collect.outputs.skip != 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
