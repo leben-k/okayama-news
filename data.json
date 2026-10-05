@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T21:12:22.113387+09:00",
+ "updated": "2026-10-05T21:21:58.754829+09:00",
  "items": [
   {
    "id": "5aa06c0edbd439b1",
@@ -19,6 +19,16 @@
    "cat": "事件",
    "region": "県内・その他",
    "pub": "2026-10-05T19:51:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "3dbc7c279a82d98d",
+   "title": "熊本地震の被災者を支援 岡山・美作市の小学生が募金活動 (2026年10月5日掲載)",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBRMmFrMnZEM1dtZlZIYmI3Q3hEX1c5NEF2a18zTlZqcVUzeFBQbW9GM3ZQaUNIVlVaUWRYU3IzekxwX2w1aUhBZFZ4RFUzRy1qcDFlVmxkR2ZlY0x3ZXc?oc=5",
+   "source": "ライブドアニュース",
+   "cat": "災害",
+   "region": "美作市",
+   "pub": "2026-10-05T19:32:30+09:00",
    "event_date": ""
   },
   {
@@ -209,6 +219,16 @@
    "cat": "火災",
    "region": "総社市",
    "pub": "2026-10-05T09:28:01+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "0ab893685a49905b",
+   "title": "【ホテルグランヴィア岡山】中四国地域初！大人気のサンリオキャラクターズがやってくる「きゅあかわ！ふぇすてぃばる！」開催",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmaGFNX09TWGFYY1o1MkRYNGZWN051T3RqcncwU0thbExMSHM0TTJRQ0xTbW42akt4T1BtQmVvNjhTSEZ4SFRZOVpwaVRzNDNGdFE?oc=5",
+   "source": "sanyonews.jp",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-10-04T19:48:22+09:00",
    "event_date": ""
   },
   {
