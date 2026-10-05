@@ -25,7 +25,7 @@ from email.utils import parsedate_to_datetime
 BASE_URL = "https://leben-k.github.io/okayama-news/"
 SITE_TITLE = "岡山 事件・事故・災害・催しまとめ"
 OPERATOR = "地域情報室"
-UPDATE_TIMES_TEXT = "5:00 / 11:30 / 19:00 / 22:00ごろ"  # 表示用の文言(時刻はcollect.ymlのcronで決まります)
+UPDATE_TIMES_TEXT = "5:00 / 11:30 / 16:00 / 19:00 / 22:00ごろ"  # 表示用の文言(時刻はcollect.ymlのcronで決まります)
 
 DATA_FILE = "data.json"
 SITE_DIR = "site"
@@ -363,10 +363,13 @@ def save_data(items, now):
 # ページ作成
 # ------------------------------------------------------------
 CSS = """
-:root{--bg:#f6f7f9;--fg:#1c2430;--sub:#5a6677;--card:#fff;--line:#dfe3e9;--main:#1f3a5f;--on:#fff;
---c1:#b3261e;--c2:#b45309;--c3:#c2410c;--c4:#1d4ed8;--c5:#15803d}
-@media (prefers-color-scheme:dark){:root{--bg:#10151c;--fg:#e8ecf1;--sub:#a3adbb;--card:#18202a;--line:#2a3441;--main:#7fa6d8;--on:#10151c;
---c1:#ff8a80;--c2:#fbbf6a;--c3:#fdba8c;--c4:#93b4ff;--c5:#86e0a0}}
+:root{--bg:#f3f5f8;--fg:#1c2430;--sub:#566274;--card:#fff;--line:#d5dbe4;--main:#1f3a5f;--on:#fff}
+@media (prefers-color-scheme:dark){:root{--bg:#10151c;--fg:#e8ecf1;--sub:#a3adbb;--card:#18202a;--line:#2a3441;--main:#7fa6d8;--on:#10151c}}
+.k-事件{--k:#c62828;--kt:rgba(198,40,40,.09)}
+.k-事故{--k:#c75000;--kt:rgba(199,80,0,.09)}
+.k-火災{--k:#ad1457;--kt:rgba(173,20,87,.09)}
+.k-災害{--k:#1565c0;--kt:rgba(21,101,192,.09)}
+.k-催し{--k:#2e7d32;--kt:rgba(46,125,50,.09)}
 *{box-sizing:border-box}
 html{font-size:100%}
 html.fs2{font-size:118%}html.fs3{font-size:138%}
@@ -374,25 +377,29 @@ body{margin:0;background:var(--bg);color:var(--fg);font-family:-apple-system,Bli
 [hidden]{display:none!important}
 header{background:var(--main);color:var(--on);padding:14px 16px}
 header h1{margin:0;font-size:1.15rem;line-height:1.35}
-header p{margin:6px 0 0;font-size:.82rem;opacity:.92}
+header p{margin:6px 0 0;font-size:.82rem;opacity:.95}
 main{max-width:820px;margin:0 auto;padding:12px}
 .panel{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:12px;margin-bottom:12px}
 .row{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin:0 0 10px}
 .row:last-child{margin-bottom:0}
 .lbl{font-size:.78rem;color:var(--sub);width:100%}
 button,select,input{font:inherit;color:var(--fg)}
-.chip{border:1px solid var(--line);background:var(--card);border-radius:999px;padding:7px 14px;cursor:pointer;min-height:40px}
+.chip{border:2px solid var(--line);background:var(--card);border-radius:999px;padding:6px 14px;cursor:pointer;min-height:42px;font-weight:600}
 .chip[aria-pressed=true]{background:var(--main);color:var(--on);border-color:var(--main)}
+.chip.cat{border-color:var(--k);color:var(--k)}
+.chip.cat[aria-pressed=true]{background:var(--k);color:#fff;border-color:var(--k)}
+.chip small{font-weight:400;opacity:.9;margin-left:2px}
 select,input[type=search]{border:1px solid var(--line);background:var(--card);border-radius:8px;padding:9px 10px;min-height:42px;flex:1;min-width:140px}
 .count{font-size:.85rem;color:var(--sub);margin:4px 2px 8px}
-section.day h2{font-size:.95rem;margin:16px 2px 6px;color:var(--sub)}
+section.day h2{font-size:1rem;margin:18px 2px 8px;color:var(--fg);border-bottom:2px solid var(--line);padding-bottom:4px}
 ul{list-style:none;margin:0;padding:0}
-li{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:10px 12px;margin-bottom:8px}
+li{background:linear-gradient(var(--kt),var(--kt)),var(--card);border:1px solid var(--line);border-left:8px solid var(--k);border-radius:10px;padding:10px 12px;margin-bottom:8px}
 .meta{display:flex;flex-wrap:wrap;gap:6px 8px;font-size:.78rem;color:var(--sub);margin-bottom:4px;align-items:center}
-.tag{font-weight:700;border:1px solid currentColor;border-radius:6px;padding:0 6px}
-.t-事件{color:var(--c1)}.t-事故{color:var(--c2)}.t-火災{color:var(--c3)}.t-災害{color:var(--c4)}.t-催し{color:var(--c5)}
-.ev{color:var(--c5);font-weight:700}
-li a{color:var(--fg);text-decoration:none;font-weight:600;word-break:break-all}
+.tag{background:var(--k);color:#fff;font-weight:700;font-size:.85rem;border-radius:6px;padding:1px 10px}
+.new{background:#ffd600;color:#222;font-weight:700;border-radius:6px;padding:0 7px}
+.ev{background:#e8f5e9;color:#1b5e20;font-weight:700;border-radius:6px;padding:0 7px}
+@media (prefers-color-scheme:dark){.ev{background:#1f3d24;color:#a5e6ad}}
+li a{color:var(--fg);text-decoration:none;font-weight:700;word-break:break-all;font-size:1.02rem}
 li a:hover,li a:focus{text-decoration:underline}
 .note{font-size:.8rem;color:var(--sub);margin:16px 2px}
 footer{max-width:820px;margin:0 auto;padding:4px 12px 28px;font-size:.8rem;color:var(--sub)}
@@ -468,18 +475,20 @@ def render_index(items, now):
         parts.append('<section class="day"><h2>%d月%d日(%s)</h2><ul>' % (d.month, d.day, WEEK[d.weekday()]))
         for pub, it in g["items"]:
             ev = ""
+            if now - pub <= timedelta(hours=3):
+                ev += '<span class="new">新着</span>'
             if it.get("event_date"):
                 ed = it["event_date"]
                 ev = '<span class="ev">開催日 %d/%d</span>' % (int(ed[5:7]), int(ed[8:10]))
             search_text = (it["title"] + " " + it["region"] + " " + it["source"] + " " + it["cat"]).lower()
             parts.append(
-                '<li data-cat="%s" data-region="%s" data-t="%s">'
-                '<div class="meta"><span class="tag t-%s">%s</span><span>%s</span>%s'
+                '<li class="k-%s" data-cat="%s" data-region="%s" data-t="%s">'
+                '<div class="meta"><span class="tag">%s</span><span>%s</span>%s'
                 '<span>%d/%d %d:%02d</span><span>%s</span></div>'
                 '<a href="%s" target="_blank" rel="noopener nofollow">%s</a></li>'
                 % (
-                    esc(it["cat"]), esc(it["region"]), esc(search_text),
-                    esc(it["cat"]), esc(it["cat"]), esc(it["region"]), ev,
+                    esc(it["cat"]), esc(it["cat"]), esc(it["region"]), esc(search_text),
+                    esc(it["cat"]), esc(it["region"]), ev,
                     pub.month, pub.day, pub.hour, pub.minute, esc(it["source"]),
                     esc(it["url"]), esc(it["title"]),
                 )
@@ -492,12 +501,17 @@ def render_index(items, now):
     region_opts = '<option value="all">すべての地域</option>' + "".join(
         '<option value="%s">%s</option>' % (esc(r), esc(r)) for r in order if r in regions_present
     )
-    cat_btns = '<button class="chip" data-catbtn="all" aria-pressed="true">すべて</button>' + "".join(
-        '<button class="chip" data-catbtn="%s" aria-pressed="false">%s</button>' % (c, c) for c in CATS
+    counts = {c: 0 for c in CATS}
+    for it in items:
+        if it["cat"] in counts:
+            counts[it["cat"]] += 1
+    cat_btns = '<button class="chip" data-catbtn="all" aria-pressed="true">すべて<small>%d</small></button>' % len(items) + "".join(
+        '<button class="chip cat k-%s" data-catbtn="%s" aria-pressed="false">%s<small>%d</small></button>' % (c, c, c, counts[c])
+        for c in CATS
     )
 
     updated_text = "%d年%d月%d日 %d:%02d" % (now.year, now.month, now.day, now.hour, now.minute)
-    desc = "岡山県の事件・事故・火災・災害のニュースと、これから開かれる催しの見出しを、毎日4回自動で集めて一覧にしています。"
+    desc = "岡山県の事件・事故・火災・災害のニュースと、これから開かれる催しの見出しを、毎日5回自動で集めて一覧にしています。"
 
     page = """<!DOCTYPE html>
 <html lang="ja">
@@ -519,7 +533,7 @@ def render_index(items, now):
 <body>
 <header>
 <h1>__TITLE__</h1>
-<p>最終更新:__UPDATED__ ・ 1日4回(__TIMES__)自動で更新</p>
+<p>最終更新:__UPDATED__ ・ 1日5回(__TIMES__)自動で更新</p>
 </header>
 <main>
 <div class="panel">
@@ -576,7 +590,7 @@ FALLBACK_ABOUT = """<!DOCTYPE html>
 <h2>運営者</h2>
 <p>__OPERATOR__(<a href="https://leben-k.github.io/">https://leben-k.github.io/</a>)</p>
 <h2>収集方法</h2>
-<p>Googleニュース(RSS)と気象庁の防災情報から、岡山県に関する見出しを自動で集めています。1日4回、プログラムが自動で更新します。本文は転載せず、見出しと元記事へのリンクだけを表示します。</p>
+<p>Googleニュース(RSS)と気象庁の防災情報から、岡山県に関する見出しを自動で集めています。1日5回、プログラムが自動で更新します。本文は転載せず、見出しと元記事へのリンクだけを表示します。</p>
 <h2>免責事項</h2>
 <p>種類や地域は見出しの言葉による自動判定のため、まちがいやもれがあります。くわしい内容や最新の情報は、必ず元記事や公的機関の情報で確認してください。当サイトの利用により生じた損害について、責任を負いかねます。</p>
 <h2>プライバシーポリシー</h2>
