@@ -412,9 +412,37 @@ def update_pages(items, updated, today):
             f"User-agent: *\nAllow: /\n\nSitemap: {base}sitemap.xml\n", encoding="utf-8")
 
 
+def slot_is_due(now, updated):
+    """予定の取得時刻(SLOTS)を過ぎていて、まだその分を取得していなければ True。
+    GitHub の自動実行が遅れたり飛ばされたりしても、次に動いたときに取りこぼしを取り戻すための判定。"""
+    last_due = None
+    for offset in (0, -1):
+        day = now.date() + timedelta(days=offset)
+        for slot in SLOTS:
+            t = datetime(day.year, day.month, day.day, int(slot[:2]), int(slot[3:]), tzinfo=JST)
+            if t <= now and (last_due is None or t > last_due):
+                last_due = t
+    if last_due is None or not updated:
+        return True
+    try:
+        done = datetime.strptime(updated, "%Y-%m-%dT%H:%M").replace(tzinfo=JST)
+    except ValueError:
+        return True
+    return done < last_due
+
+
 def main():
     now = datetime.now(JST)
     run = now.strftime("%Y-%m-%dT%H:%M")
+    if os.environ.get("EVENT_NAME") == "schedule":   # 定期の確認のとき: 取得の時刻でなければ何もしない
+        updated = ""
+        try:
+            updated = json.loads(OUT.read_text(encoding="utf-8")).get("updated", "")
+        except (OSError, ValueError):
+            pass
+        if not slot_is_due(now, updated):
+            print("NOT_DUE: 予定の取得時刻ではないか、取得ずみです")
+            return
     found, ok = [], 0
 
     for q, when in NEWS_QUERIES:
