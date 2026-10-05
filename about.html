@@ -118,7 +118,8 @@ button.send[disabled] { opacity:.6; cursor:default; }
     <ul>
       <li>見出しに岡山県内の地名が含まれるものなどを、岡山県に関する記事として選びます。</li>
       <li>見出しの言葉をもとに、事件・事故・火災・災害・催しに自動で分けます。人が1件ずつ確認しているわけではありません。</li>
-      <li>催しは、見出しに日付があり、その日付がすでに過ぎているものを除いています。日付がないものは、過去の催しが含まれることがあります。</li>
+      <li>催しは、見出しの日付(「10月23日から25日」「10日」「11月から」など)を読み取り、終わったものを自動で外します。日付が読み取れないものは、掲載から1日たつと外します。ただし、「開催します」など予定を示す言葉があるものは、7日間載せます。</li>
+      <li>中止になった催しや、すでに終わった行事の報告は、載せないようにしています。見出しだけで判断するため、まちがいが残ることがあります。</li>
     </ul>
     <h3>保存するもの</h3>
     <p>保存するのは見出し、配信元、掲載日時、元記事へのリンクだけです。記事の本文や写真は取得も転載もしません。取得してから7日たった情報は、取得のたびに古いものから一覧から消えます。</p>
@@ -160,14 +161,13 @@ button.send[disabled] { opacity:.6; cursor:default; }
     <h3>外部サイトへのリンク</h3>
     <p>記事の見出しをタップすると、元記事のサイトに移ります。移った先での情報の扱いは、各サイトの定めによります。</p>
     <h3>記事に含まれる個人名など</h3>
-    <p>報道の見出しに、人の名前や年齢などが含まれていることがあります。本サイトは、報道されたものを見出しとリンクの形で紹介しているだけです。削除などのご希望は、連絡先フォームからご連絡ください。</p>
+    <p>報道の見出しに、人の名前や年齢などが含まれていることがあります。本サイトは、報道されたものを見出しとリンクの形で紹介しているだけです。</p>
     <h3>改定</h3>
     <p>この内容は、必要に応じて改定します。改定後は、このページに掲載します。</p>
   </section>
 
   <section id="contact">
     <h2><svg class="ic" aria-hidden="true"><use href="icons.svg#i-mail"/></svg>連絡先</h2>
-    <p>記事の削除や修正のご希望、誤りのご指摘、ご意見はこちらからお送りください。返信が必要な場合は、メールアドレスを正しく入力してください。送信された内容の扱いは、上の「プライバシーポリシー」をご覧ください。</p>
     <form id="contactForm" action="https://formspree.io/f/xeaowndg" method="POST">
       <label>お名前
         <input type="text" name="name" required autocomplete="name">
@@ -181,7 +181,6 @@ button.send[disabled] { opacity:.6; cursor:default; }
       <label>内容
         <textarea name="message" required></textarea>
       </label>
-      <p class="note">記事の削除・修正をご希望の場合は、該当する記事の見出しか、このサイトのアドレスを内容に書いてください。</p>
       <input type="hidden" name="_subject" id="subjectField" value="">
       <div class="hp" aria-hidden="true"><label>ここは空のままにしてください<input type="text" name="_gotcha" tabindex="-1" autocomplete="off"></label></div>
       <button type="submit" id="sendBtn" class="send"><span id="sendTxt">送信</span></button>
