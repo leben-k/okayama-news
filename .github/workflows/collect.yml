@@ -7,13 +7,10 @@ on:
       - ".github/workflows/collect.yml"
       - "scripts/collect.py"
   schedule:
-    # 日本時間 = UTC + 9時間
-    # 毎時0分ちょうどは GitHub が混み合って遅れたり飛ばされたりするため、少しずらしています
-    - cron: "7 20 * * *"    # 日本時間 05:07
-    - cron: "37 2 * * *"    # 日本時間 11:37
-    - cron: "7 7 * * *"     # 日本時間 16:07
-    - cron: "7 10 * * *"    # 日本時間 19:07
-    - cron: "7 13 * * *"    # 日本時間 22:07
+    # 毎時 7分と37分に確認します(GitHub の自動実行は遅れたり飛ばされたりするため、何度も確認します)。
+    # 予定の取得時刻(日本時間 05:07 / 11:37 / 16:07 / 19:07 / 22:07)を過ぎていて、
+    # まだ取得していなければ、そのときに取得します。取得ずみなら、何もしません。
+    - cron: "7,37 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -38,12 +35,14 @@ jobs:
           python-version: "3.12"
 
       # 失敗しても、原因が分かるように run_log.txt に記録して、あとの手順へ進む
-      # (scripts/scripts/collect.py のように、フォルダが二重になっていたら、自動で正しい場所へ移す)
       - name: Collect news
         id: collect
         continue-on-error: true
         shell: bash
+        env:
+          EVENT_NAME: ${{ github.event_name }}
         run: |
+          code=0
           {
             date -u '+start %Y-%m-%d %H:%M UTC'
             python --version
@@ -54,19 +53,34 @@ jobs:
               echo "moved scripts/scripts/collect.py to scripts/collect.py"
             fi
             python scripts/collect.py
-          } 2>&1 | tee run_log.txt
+          } > run.out 2>&1 || code=$?
+          cat run.out
+          if grep -q '^NOT_DUE' run.out; then
+            rm -f run.out
+          else
+            mv run.out run_log.txt
+          fi
+          exit $code
 
       - name: Save changes
+        id: save
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A
-          git diff --cached --quiet || git commit -m "update $(TZ=Asia/Tokyo date '+%Y-%m-%d %H:%M')"
-          git pull --rebase
-          git push
+          if git diff --cached --quiet; then
+            echo "変更がないので、保存しません"
+            echo "committed=false" >> "$GITHUB_OUTPUT"
+          else
+            git commit -m "update $(TZ=Asia/Tokyo date '+%Y-%m-%d %H:%M')"
+            git pull --rebase
+            git push
+            echo "committed=true" >> "$GITHUB_OUTPUT"
+          fi
 
       # 自動の保存だけではサイトの表示が更新されないことがあるため、公開の更新を直接お願いする
       - name: Request Pages build
+        if: steps.save.outputs.committed == 'true'
         continue-on-error: true
         env:
           GH_TOKEN: ${{ github.token }}
