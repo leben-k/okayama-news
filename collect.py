@@ -107,6 +107,9 @@ RE_OTHER_AREA = re.compile(
 )
 RE_LOCAL_SOURCE = re.compile(r"山陽新聞|津山朝日|OHK|岡山放送|RSK|山陽放送|山陽新聞デジタル")
 
+# 収集する時刻(日本時間)。取りこぼしたら、次の30分ごとの確認で取り戻します
+SLOTS = [(5, 0), (11, 30), (16, 0), (19, 0), (22, 0)]
+
 JMA_FEED = "https://www.data.jma.go.jp/developer/xml/feed/extra.xml"
 JMA_LINK = "https://www.jma.go.jp/bosai/warning/#area_type=offices&area_code=330000"
 WEEK = ["月", "火", "水", "木", "金", "土", "日"]
@@ -632,9 +635,50 @@ def write_site(items, now):
 
 
 # ------------------------------------------------------------
+def latest_slot(now):
+    """いちばん新しい『集める予定の時刻』(いま以前)を返す"""
+    cands = []
+    for day_back in (0, 1):
+        d = now - timedelta(days=day_back)
+        for h, m in SLOTS:
+            cands.append(d.replace(hour=h, minute=m, second=0, microsecond=0))
+    cands = [c for c in cands if c <= now]
+    return max(cands)
+
+
+def last_updated():
+    try:
+        with open(DATA_FILE, encoding="utf-8") as f:
+            d = json.load(f)
+        return datetime.fromisoformat(d["updated"])
+    except Exception:  # noqa: BLE001
+        return None
+
+
+def set_output(skip):
+    path = os.environ.get("GITHUB_OUTPUT")
+    if path:
+        with open(path, "a", encoding="utf-8") as f:
+            f.write("skip=%s\n" % ("true" if skip else "false"))
+
+
 def main():
     now = datetime.now(JST)
     print("開始:", now.strftime("%Y-%m-%d %H:%M:%S JST"))
+
+    # 手動実行(FORCE=1)のときは必ず集める。自動実行のときは「集め損ねている時だけ」集める
+    if os.environ.get("FORCE") != "1":
+        slot = latest_slot(now)
+        upd = last_updated()
+        print("直近の予定時刻:", slot.strftime("%m/%d %H:%M"), "/ 前回の収集:", upd.strftime("%m/%d %H:%M") if upd else "なし")
+        if upd is not None and upd >= slot:
+            print("すでに収集済みのため、今回は何もしません。")
+            set_output(True)
+            return
+        print("未収集のため、収集します。")
+    else:
+        print("手動実行のため、収集します。")
+    set_output(False)
 
     raws, ok_news = collect_gnews()
     jma_items, ok_jma = collect_jma()
