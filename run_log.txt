@@ -1,3 +1,4 @@
-start 2026-10-05 03:30 UTC
+start 2026-10-05 03:59 UTC
 Python 3.12.14
-python: can't open file '/home/runner/work/okayama-news/okayama-news/scripts/collect.py': [Errno 2] No such file or directory
+moved scripts/scripts/collect.py to scripts/collect.py
+取得元 16 件成功 / 新規 5 件 / 保存 102 件
