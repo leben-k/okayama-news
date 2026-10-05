@@ -25,7 +25,7 @@ from email.utils import parsedate_to_datetime
 BASE_URL = "https://leben-k.github.io/okayama-news/"
 SITE_TITLE = "岡山 事件・事故・災害・催しまとめ"
 OPERATOR = "地域情報室"
-UPDATE_TIMES_TEXT = "5:00 / 11:30 / 16:00 / 19:00 / 22:00ごろ"  # 表示用の文言(時刻はcollect.ymlのcronで決まります)
+UPDATE_TIMES_TEXT = "1時間ごとに"  # 表示用の文言(時刻はcollect.ymlのcronで決まります)
 
 DATA_FILE = "data.json"
 SITE_DIR = "site"
@@ -108,7 +108,7 @@ RE_OTHER_AREA = re.compile(
 RE_LOCAL_SOURCE = re.compile(r"山陽新聞|津山朝日|OHK|岡山放送|RSK|山陽放送|山陽新聞デジタル")
 
 # 収集する時刻(日本時間)。取りこぼしたら、次の30分ごとの確認で取り戻します
-SLOTS = [(5, 0), (11, 30), (16, 0), (19, 0), (22, 0)]
+SLOTS = [(h, 0) for h in range(24)]  # 毎時0分(1時間ごと)
 
 JMA_FEED = "https://www.data.jma.go.jp/developer/xml/feed/extra.xml"
 JMA_LINK = "https://www.jma.go.jp/bosai/warning/#area_type=offices&area_code=330000"
@@ -514,7 +514,7 @@ def render_index(items, now):
     )
 
     updated_text = "%d年%d月%d日 %d:%02d" % (now.year, now.month, now.day, now.hour, now.minute)
-    desc = "岡山県の事件・事故・火災・災害のニュースと、これから開かれる催しの見出しを、毎日5回自動で集めて一覧にしています。"
+    desc = "岡山県の事件・事故・火災・災害のニュースと、これから開かれる催しの見出しを、1時間ごとに自動で集めて一覧にしています。"
 
     page = """<!DOCTYPE html>
 <html lang="ja">
@@ -536,7 +536,7 @@ def render_index(items, now):
 <body>
 <header>
 <h1>__TITLE__</h1>
-<p>最終更新:__UPDATED__ ・ 1日5回(__TIMES__)自動で更新</p>
+<p>最終更新:__UPDATED__ ・ __TIMES__自動で更新</p>
 </header>
 <main>
 <div class="panel">
@@ -593,7 +593,7 @@ FALLBACK_ABOUT = """<!DOCTYPE html>
 <h2>運営者</h2>
 <p>__OPERATOR__(<a href="https://leben-k.github.io/">https://leben-k.github.io/</a>)</p>
 <h2>収集方法</h2>
-<p>Googleニュース(RSS)と気象庁の防災情報から、岡山県に関する見出しを自動で集めています。1日5回、プログラムが自動で更新します。本文は転載せず、見出しと元記事へのリンクだけを表示します。</p>
+<p>Googleニュース(RSS)と気象庁の防災情報から、岡山県に関する見出しを自動で集めています。1時間ごとに、プログラムが自動で更新します。本文は転載せず、見出しと元記事へのリンクだけを表示します。</p>
 <h2>免責事項</h2>
 <p>種類や地域は見出しの言葉による自動判定のため、まちがいやもれがあります。くわしい内容や最新の情報は、必ず元記事や公的機関の情報で確認してください。当サイトの利用により生じた損害について、責任を負いかねます。</p>
 <h2>プライバシーポリシー</h2>
