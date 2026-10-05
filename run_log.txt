@@ -1,0 +1,6 @@
+start 2026-10-05 03:18 UTC
+Python 3.12.14
+  File "/home/runner/work/okayama-news/okayama-news/scripts/collect.py", line 3
+    on:
+       ^
+SyntaxError: invalid syntax
