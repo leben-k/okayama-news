@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T20:46:44.959501+09:00",
+ "updated": "2026-10-05T20:53:57.107700+09:00",
  "items": [
   {
    "id": "5aa06c0edbd439b1",
@@ -192,6 +192,16 @@
    "event_date": "2026-10-05"
   },
   {
+   "id": "46038b780f0e5f4b",
+   "title": "岡山県産ぶどうや名産品が新宿に集結 朝採れ直送とうもろこしも「晴れの国おかやま×ルミネアグリマルシェ」",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNa20tUnJwOEVnYkNxV05jN2YxbGhoSkhwNng4RjBRajN0OWlyVFBwQzFsQWlKM3dPY3FYLVd2bjEtaVdCZHplM3dUa1R4eU5KWW9lYTdZYjh6WFFJb2tsVWR3aElXT1EyRWxOWWxIRmF6UnZ2SmthUWl5aXJ6QkZyQnNkOEtLSFVsUUljYdIBkgFBVV95cUxNeEQ0eGtLQ1hkRjBFSnRmTHVOTm1yaHV3ckNrRlNBajhnSDV4bUNGUHN3YUN3Y1lRS0pQWVljd1lSOGY5aC1sYTRscVZ3My14YjhyQ2w1NkxJbGJvR0YwZU9JNlhtdmtka2N1THdZV0hvMGFvb2dnTEs4Q29RZ3BCNnlacTJkZXAyeVNXM0hWUFJmQQ?oc=5",
+   "source": "ｄメニューニュース",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-10-05T10:00:00+09:00",
+   "event_date": ""
+  },
+  {
    "id": "9f79d5e8c230c68f",
    "title": "総社市で下草火災 １人が死亡 【岡山・総社市】（OHK岡山放送）",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yYlRqLXFlazkwZmJJd2lYUlBseEJsVWd5aENsN1Y5QjdVUjBnUmpLS01QTFJQclpDc210MElOaUxBLVJvc29KbFN4cUZubVN0UnFJVmhsaWNfZTdKZ3MzTlZhMmlDNEFIUHlhLUN1SmRDci1Ma2ZULXhsUmx1RUU?oc=5",
@@ -269,6 +279,16 @@
    "cat": "火災",
    "region": "総社市",
    "pub": "2026-10-04T16:02:26+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "b618548529b4153d",
+   "title": "台湾チームと岡山、広島の中学生交流 真庭で第１回軟式野球大会 ８チーム１９０人がはつらつプレー",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1oYXhwcGVJc1U0S2kyVkpkd3dYc0VUYWlFa1Fra3FNaFgxWVFLZWl1V2wzRTNqWFBfVDJ3NzJvdHlXZ21hdDgzREc3NjJQbWVKOFE?oc=5",
+   "source": "sanyonews.jp",
+   "cat": "催し",
+   "region": "真庭市",
+   "pub": "2026-10-04T14:01:32+09:00",
    "event_date": ""
   },
   {
@@ -548,6 +568,26 @@
    "source": "山陽新聞",
    "cat": "催し",
    "region": "瀬戸内市",
+   "pub": "2026-10-03T16:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "4ea22fc398e783b9",
+   "title": "通信指令 正確さ競う 岡山県警本部で競技大会 匿流事件を想定 美咲署優勝",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4yYWE0YUc3Z2doZURtQ2pjbWhUMDNVcTMyNFFFMFlwVmprNHNheG00Z283cTZlaThwckUxQzRycmpnSEZwNGRkSmVhUG02UGpxWlE?oc=5",
+   "source": "sanyonews.jp",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-10-03T16:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "477ac1ec80e5c973",
+   "title": "高梁・変電所で火災 、伯備線が半日運転見合わせ 倒木で架線損傷が原因か",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBUSGdjWkZNY25vOHNib25RMU9UcFNYaTJXd1lHc19GWkJCZkxPcXFGeVhPSHYtOHJieWZ6eGthYXV1S1Q3T2J6V09zb2tvSjRxV2dpREFHNWlkMkxLUkNGdWo5R29yY2xncngwQlFvY3FnNUdfWTBV?oc=5",
+   "source": "sanyonews.jp",
+   "cat": "火災",
+   "region": "高梁市",
    "pub": "2026-10-03T16:00:00+09:00",
    "event_date": ""
   },
@@ -1049,6 +1089,16 @@
    "cat": "事故",
    "region": "岡山市",
    "pub": "2026-10-01T09:59:10+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "e9cb697a7b9d7e94",
+   "title": "バレー、軟式野球、ソフトテニス全国大会出場 備前市が児童生徒激励",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1BSU1JM0JCN01mY0FNc2VWV3V2LVFwcHJtNXVtSE9QM2Q4b1B2cDF4Nk80dHhuUFpfemFiaDNfR3VoVzhISThISFBzMlhBWlNWaV9OdFpqNWZzTmRYZF9CejA1aw?oc=5",
+   "source": "sanyonews.jp",
+   "cat": "催し",
+   "region": "備前市",
+   "pub": "2026-10-01T09:37:01+09:00",
    "event_date": ""
   },
   {
