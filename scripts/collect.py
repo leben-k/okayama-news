@@ -76,12 +76,17 @@ KW = [
     ("事故", ["事故", "衝突", "追突", "横転", "転落", "ひき逃げ", "はねられ", "はねた", "接触",
               "脱線", "溺れ", "水難", "遭難", "重傷", "巻き込まれ", "死亡", "搬送"]),
 ]
-EVENT_KW = ["開催", "イベント", "祭", "まつり", "花火", "フェス", "展示", "展覧会", "企画展",
-            "特別展", "写真展", "作品展", "公演", "コンサート", "ライブ", "開幕",
-            "フェア", "マルシェ", "催し", "ワークショップ", "上映", "発表会"]
+EVENT_KW = ["開催", "イベント", "まつり", "祭り", "花火大会", "フェス", "展示", "展覧会", "企画展",
+            "特別展", "写真展", "作品展", "公演", "コンサート", "ライブ", "開幕", "フェア", "マルシェ",
+            "催し", "ワークショップ", "上映", "発表会", "セミナー", "試食会", "芸術祭", "音楽祭", "映画祭",
+            "収穫祭", "秋祭", "夏祭", "冬祭", "春祭", "大祭", "例祭", "献穀祭"]
+# 日付がない催しでも、これから行われる予定だと分かる言葉(あると7日間、ないと1日間だけ載せる)
+EVENT_FUTURE = ["開催へ", "開催予定", "開催します", "開催されます", "開催されるみたい", "開催決定", "開催に挑む",
+                "上映へ", "上演へ", "発売開始", "受付", "募集", "初開催", "を開催！", "を開催!", "開催！", "開催!"]
 EVENT_EXCLUDE = ["開催された", "開かれた", "行われた", "閉幕", "盛況", "にぎわ", "賑わ",
                  "優勝", "結果", "最優秀", "準決勝", "決勝", "表彰台", "受賞",
-                 "名が参加", "人が参加", "名参加", "人参加", "密着", "凱旋"]
+                 "名が参加", "人が参加", "名参加", "人参加", "密着", "凱旋", "実績", "寄付", "終了しました",
+                 "開催しました", "行われました", "開かれました", "中止", "取り止め"]
 
 # 岡山県以外の地名(見出しに岡山の地名がないときだけ、除外に使う)
 OTHER_PLACES = [
@@ -132,21 +137,75 @@ def is_okayama(raw, title, source):
     return any(w in source or w in raw for w in LOCAL_SOURCES)
 
 
-def event_date(title, today):
-    """見出しに「10月12日」のような日付があれば date を返す(なければ None)。"""
-    m = re.search(r"(\d{1,2})月(\d{1,2})日", title)
-    if not m:
-        return None
+_WD = "月火水木金土日"
+
+
+def _mk(y, m, d):
     try:
-        d = date(today.year, int(m.group(1)), int(m.group(2)))
+        return date(y, m, d)
     except ValueError:
         return None
-    if d < today - timedelta(days=180):  # 年末に見た「1月」は来年
-        try:
-            d = date(today.year + 1, d.month, d.day)
-        except ValueError:
-            return None
-    return d
+
+
+def event_window(title, pub):
+    """見出しから催しの日付(始まり, 終わり)を読み取る。読み取れなければ None。
+    対応: 10月23日から25日 / 10月17日・18日 / 12月3日(木) / 【10/18(日)】 / 10日 / ３、４日 / 11月から"""
+    t = unicodedata.normalize("NFKC", title)
+    pd = pub.date()
+
+    def resolve(m, d, y=None, wd=None):
+        if y:
+            return _mk(y, m, d)
+        if wd is not None:       # 曜日が書いてあれば、曜日が合う年を選ぶ
+            for yy in (pd.year, pd.year + 1):
+                c = _mk(yy, m, d)
+                if c and c.weekday() == wd and c >= pd - timedelta(days=180):
+                    return c
+        base = _mk(pd.year, m, d)
+        if base and base < pd - timedelta(days=180):   # 半年以上前なら来年の話とみなす
+            return _mk(pd.year + 1, m, d) or base
+        return base
+
+    dates = []
+
+    def add_with_continuation(d0, rest):
+        dates.append(d0)
+        while True:   # 「・18日」「から25日」「〜25日」のつづき
+            cm = re.match(r"(?:[・、,]|から|〜|～|~|-)(\d{1,2})(?![\d月/])日?", rest)
+            if not cm:
+                break
+            dd = _mk(d0.year, d0.month, int(cm.group(1)))
+            if dd:
+                dates.append(dd)
+            rest = rest[cm.end():]
+
+    for m in re.finditer(r"(?:(\d{4})年)?(\d{1,2})月(\d{1,2})(?:日|(?=[・、,]\d{1,2}日))(?:[(][月火水木金土日][)])?", t):
+        wd = re.search(r"[(]([月火水木金土日])[)]", m.group(0))
+        d0 = resolve(int(m.group(2)), int(m.group(3)), int(m.group(1)) if m.group(1) else None,
+                     _WD.index(wd.group(1)) if wd else None)
+        if d0:
+            add_with_continuation(d0, t[m.end():])
+    for m in re.finditer(r"(?<=[【〔\[])(\d{1,2})/(\d{1,2})(?:[(]([月火水木金土日])[)])?", t):   # 【10/18(日)】
+        d0 = resolve(int(m.group(1)), int(m.group(2)), None, _WD.index(m.group(3)) if m.group(3) else None)
+        if d0:
+            add_with_continuation(d0, t[m.end():])
+    if not dates:   # 「11月から」「12月上旬」
+        for m in re.finditer(r"(\d{1,2})月(?:から|上旬|中旬|下旬)", t):
+            mo = int(m.group(1))
+            if 1 <= mo <= 12 and mo >= pd.month:
+                first = _mk(pd.year, mo, 1)
+                last = _mk(pd.year + (mo == 12), mo % 12 + 1, 1)
+                if first and last:
+                    dates += [first, last - timedelta(days=1)]
+    if not dates:   # 「10日」「９日に」「３、４日」(月がないときは掲載月の日とみなす。掲載日より前の日は過去)
+        for m in re.finditer(r"(?<![\d月/])(\d{1,2}(?:[・、,]\d{1,2})*)日(?![間前後以目あ])", t):
+            for n in re.split(r"[・、,]", m.group(1)):
+                dd = _mk(pd.year, pd.month, int(n))
+                if dd:
+                    dates.append(dd)
+    if not dates:
+        return None
+    return min(dates), max(dates)
 
 
 def norm_key(title):
@@ -176,18 +235,25 @@ def make_item(raw, url, source, published, now):
     cat = classify(title)
     if not cat:
         return None
-    ed = ""
+    ed = end = ""
     if cat == "催し":
-        d = event_date(title, now.date())
-        if d and d < now.date():   # 日付が過去のものは除外
-            return None
-        ed = d.isoformat() if d else ""
+        win = event_window(title, published.astimezone(JST))
+        if win:
+            if win[1] < now.date():          # 終わった催しは載せない
+                return None
+            shown = win[0] if win[0] >= now.date() else win[1]
+            ed, end = shown.isoformat(), win[1].isoformat()
+        else:                                 # 日付がないものは、掲載から日がたったら外す
+            age = now - published
+            future = any(w in title for w in EVENT_FUTURE)
+            if age > timedelta(days=7 if future else 1):
+                return None
     return {
         "id": norm_key(title), "title": title, "raw": raw if raw != title else "",
         "url": url, "source": source,
         "cat": cat, "area": find_area(title),
         "published": published.astimezone(JST).strftime("%Y-%m-%dT%H:%M"),
-        "event_date": ed,
+        "event_date": ed, "event_end": end,
     }
 
 
