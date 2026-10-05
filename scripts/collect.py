@@ -28,7 +28,7 @@ UA = "Mozilla/5.0 (compatible; okayama-news-digest/1.0)"
 
 # 取得時刻(日本時間)。GitHub Actions の cron(.github/workflows/collect.yml)と合わせる。
 # ページの「次回更新」表示にも使われる。
-SLOTS = ["05:00", "11:30", "19:00", "22:00"]
+SLOTS = ["05:07", "11:37", "16:07", "19:07", "22:07"]
 
 # ---- 検索クエリ(クエリ, 何日前まで) ----
 NEWS_QUERIES = [
