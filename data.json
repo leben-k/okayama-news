@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T06:24:58.835538+09:00",
+ "updated": "2026-10-06T06:56:35.077172+09:00",
  "items": [
   {
    "id": "4cfd97d54c5b9677",
@@ -29,6 +29,16 @@
    "cat": "事件",
    "region": "県内・その他",
    "pub": "2026-10-05T20:01:28+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "f239905ab78ca1ab",
+   "title": "滑走路でウオーキングしませんか？ １０月に岡山空港で初開催",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9mNVZGODhEa0JscnZiQ1lCeUNhWXcyVXNQcVQwUlBFNWpodjJwOExHQnU3OVhBZ3pJSmlWRmhoT1RmQ05MSFFBR3lSNVcwamI3S0Ryb21xTUwxU1RpX21j?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-10-05T19:56:32+09:00",
    "event_date": ""
   },
   {
@@ -1198,6 +1208,16 @@
    "source": "山陽新聞",
    "cat": "事故",
    "region": "県内・その他",
+   "pub": "2026-10-01T16:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "b0329b918650332e",
+   "title": "トライフープ選手と交流 真庭で親子参加フェスタ",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1nR3ZTdmNzQzVlV2pBU3RPaU9KMEhYWU9UZzdtank5T2pZbm8wYjZvT0I5aWdTY1Vpd1JQc1ZCSUprQmdXdEdFUV9tSzktdlRlNkE?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "真庭市",
    "pub": "2026-10-01T16:00:00+09:00",
    "event_date": ""
   },
