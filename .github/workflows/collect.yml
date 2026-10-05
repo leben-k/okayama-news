@@ -38,12 +38,23 @@ jobs:
           python-version: "3.12"
 
       # 失敗しても、原因が分かるように run_log.txt に記録して、あとの手順へ進む
+      # (scripts/scripts/collect.py のように、フォルダが二重になっていたら、自動で正しい場所へ移す)
       - name: Collect news
         id: collect
         continue-on-error: true
         shell: bash
         run: |
-          { date -u '+start %Y-%m-%d %H:%M UTC'; python --version; python scripts/collect.py; } 2>&1 | tee run_log.txt
+          {
+            date -u '+start %Y-%m-%d %H:%M UTC'
+            python --version
+            if [ ! -f scripts/collect.py ] && [ -f scripts/scripts/collect.py ]; then
+              mkdir -p scripts
+              mv scripts/scripts/collect.py scripts/collect.py
+              rmdir scripts/scripts 2>/dev/null || true
+              echo "moved scripts/scripts/collect.py to scripts/collect.py"
+            fi
+            python scripts/collect.py
+          } 2>&1 | tee run_log.txt
 
       - name: Save changes
         run: |
