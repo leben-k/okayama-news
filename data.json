@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T20:53:57.107700+09:00",
+ "updated": "2026-10-05T21:12:22.113387+09:00",
  "items": [
   {
    "id": "5aa06c0edbd439b1",
@@ -989,6 +989,16 @@
    "cat": "火災",
    "region": "美咲町",
    "pub": "2026-10-01T16:09:13+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "619a3a4c39fd9cfd",
+   "title": "業者がハチ駆除中スプレーに引火か 住宅全焼 けが人なし 岡山・美咲町",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GakY5cFZNdVFYejdPM1hHd1VrZEs1ZjQwb3ZVdkJGeno5YUxGZFV1a285MV96YkRhU0k0NmQteW1WaDRQcmlja1JLdjdXOFF5blJwUnFZVThwM3paSWkxVF9yMEpnd1lPZGlybFV6eWrSAXZBVV95cUxOcF83OTh3a0Vjc2ZvaFQ4bi1pTms3SXVTSEZGNTF6Tjl4Q0dJSVpfVUw1bFJ3VkFGeWRmNDBva2xLNUQybzNSVmUxMkxpMV9nUGVjVkt2dXhlaF9SSksycmlZdFg5YUhxcHBHZ3pPN0FoNGV0Sm1R?oc=5",
+   "source": "ｄメニューニュース",
+   "cat": "火災",
+   "region": "美咲町",
+   "pub": "2026-10-01T16:09:00+09:00",
    "event_date": ""
   },
   {
