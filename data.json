@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T22:42:11.515104+09:00",
+ "updated": "2026-10-06T06:17:59.599168+09:00",
  "items": [
   {
    "id": "4cfd97d54c5b9677",
@@ -49,6 +49,16 @@
    "cat": "災害",
    "region": "美作市",
    "pub": "2026-10-05T19:32:30+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "8da85acc1eecb511",
+   "title": "とげが刺さらないように…総社市の園児が栗拾いに挑戦「楽しい」「いっぱいとれた」 岡山",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBuSlZWbzJfR29DdzdQSXNySnhrWno4RXhqWXlUREtPcy11NEtldE5qTjhaUGVZcFNST0J0ampYVlY2b2hqeDFsd0RsQlZ5SlJIWFFhNGZCQkNocEk0Ukpn?oc=5",
+   "source": "ライブドアニュース",
+   "cat": "事件",
+   "region": "総社市",
+   "pub": "2026-10-05T19:32:29+09:00",
    "event_date": ""
   },
   {
@@ -222,16 +232,6 @@
    "event_date": ""
   },
   {
-   "id": "63f5da3d5db861d2",
-   "title": "【岡山市北区】表町商店街「ありがとうファーム GALLERY＆CAFE」前で新スイーツ「あんみるく」の大試食会が開催されるみたい。10月5日（月）10:00～11:30",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB6VVA0cVE3aGFiUllVV2dxOWlxckE4WkdHU01VUUNGTUVqUVREY2ctR3lqRzAyQmtKeGthY1VxV1dFak5VY0ZGeWR3?oc=5",
-   "source": "岡山おにさんぽ",
-   "cat": "催し",
-   "region": "岡山市",
-   "pub": "2026-10-05T10:00:00+09:00",
-   "event_date": "2026-10-05"
-  },
-  {
    "id": "46038b780f0e5f4b",
    "title": "岡山県産ぶどうや名産品が新宿に集結 朝採れ直送とうもろこしも「晴れの国おかやま×ルミネアグリマルシェ」",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNa20tUnJwOEVnYkNxV05jN2YxbGhoSkhwNng4RjBRajN0OWlyVFBwQzFsQWlKM3dPY3FYLVd2bjEtaVdCZHplM3dUa1R4eU5KWW9lYTdZYjh6WFFJb2tsVWR3aElXT1EyRWxOWWxIRmF6UnZ2SmthUWl5aXJ6QkZyQnNkOEtLSFVsUUljYdIBkgFBVV95cUxNeEQ0eGtLQ1hkRjBFSnRmTHVOTm1yaHV3ckNrRlNBajhnSDV4bUNGUHN3YUN3Y1lRS0pQWVljd1lSOGY5aC1sYTRscVZ3My14YjhyQ2w1NkxJbGJvR0YwZU9JNlhtdmtka2N1THdZV0hvMGFvb2dnTEs4Q29RZ3BCNnlacTJkZXAyeVNXM0hWUFJmQQ?oc=5",
@@ -329,6 +329,16 @@
    "cat": "火災",
    "region": "総社市",
    "pub": "2026-10-04T16:02:26+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "6633635c95e5857e",
+   "title": "備前市美術館 開館１周年の記念うちわ製作 市教委、有料展示室来場者に無料配布",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9aUEM4WkJQUndzUlZ6bHdyWlVsRHFTNXM1MjZPWTJtcVNrWGQ4Ml9lTms3SzJRMWpGSEJXVWYxek8xODd1VTVyc2lsUDlUUnlGaU1lTDZrakpUTU9NWEwwRGhVWHc1V1k?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "備前市",
+   "pub": "2026-10-04T16:00:00+09:00",
    "event_date": ""
   },
   {
@@ -552,6 +562,16 @@
    "event_date": ""
   },
   {
+   "id": "d407ae5fc9cf9c48",
+   "title": "救急車や消防ポンプ車などを画用紙いっぱいに描写 津山市でこども消防写生大会【岡山】",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB5V21MVC1WbnBFUzZuZVRyZGlBdEFWNC01TWtYcVFUTE9YRE1OU0hnQ2ROU2luTEZSY2hpSGxwemJ1M3IybVNXckVlQzkyaVRP?oc=5",
+   "source": "OHK 岡山放送",
+   "cat": "催し",
+   "region": "津山市",
+   "pub": "2026-10-03T18:16:23+09:00",
+   "event_date": ""
+  },
+  {
    "id": "77ca1cccc8547cce",
    "title": "救急車や消防ポンプ車などを画用紙いっぱいに描写 津山市でこども消防写生大会【岡山】（OHK岡山放送）",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zOGg5ZmlobkhtX3Y4VW5kYzE5eFZMclh4OU1wSDBTSlZNaXVVQWIzU2pCWE14cE15cko1cjh6Mlc4eE5iaW1ia1MyS2gyMGppWi0xcGR6REZuY3FkTHRlRWN6am00Njkwc254UVB5UWpYWEUtOEZ2aTV3eVRmUFU?oc=5",
@@ -672,6 +692,26 @@
    "event_date": ""
   },
   {
+   "id": "aa255e92b571e74a",
+   "title": "おかやま桃アニメ祭 ２６日に開催 表町商店街 声優トークやコスプレ",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXeS0tR2U5YmtZOVUxX0Z5ZUdfNElzYS1oZkwxUTdseEMzTnFNYkphX0Z0TVdXLXBILU5xRmJld0ZSMV93VTJXOUNDYVZybmJmU0E?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-10-03T16:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "a2ac504795f5cf55",
+   "title": "山あいの町に、映画と人が集まる。岡山・真庭の手作りミニシアターから生まれた「第4回ニューガーデン映画祭2026」開催（3月27日-29日）",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5fY0lQeEpoNTZiZVJfS2NvUjdNWXNCbktVVXZ1LTdSOHE4X3BYRW1YTUJOLWVCVy1rVU45YUFoa2wwWkIzaWR1UWlLRE1ZNllraUE?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "真庭市",
+   "pub": "2026-10-03T16:00:00+09:00",
+   "event_date": "2027-03-27"
+  },
+  {
    "id": "9e04dd36d55d0bf8",
    "title": "「売却してお金を得るためだった」消防ホースの筒先2本（1万6,000円相当）を盗んだ疑い 土木作業員の男を逮捕【岡山】",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAtWmlwMEx1TEZzTlhWeTFBcnJSZmg1Nk5Uc3NWcFoyanJZaHhRNWtGWnkzbVFYMlozSF9oYWc4bFNNWG9qYXU1OXZBU0o3WkpYTkxuLW5yUThVZFBhV19NNUlOZ05GRnQzeE90eXJuQdIBdEFVX3lxTFB2dnJyd0EwUnVwcXA5eGhHOW1kd1NJUERld25kZnpHeElqbUNnd0dETDRFYlh5bGZucDV6QjJISFlDOUdmS1FQVEpEcmNFdkV1UDVITVFtZGtYeVUybVVONkU2UGxGMno2NU9IbmxGMFZ4SWhC?oc=5",
@@ -739,6 +779,16 @@
    "cat": "催し",
    "region": "県内・その他",
    "pub": "2026-10-03T11:37:26+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "c3fb0917023ed3f8",
+   "title": "行方不明だった岡山市の男性（90）無事保護 岡山県警",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5oNVFHWVhaR1hnZUh6bmdQMzRQUXpSNXlrOFRaV29KTkZ4TlB3ZVd0VnBLZ3dITXVfNTVhSjRKNWMzNkRJT3pDSGFPeXh2WkMyMFRGY1l2WlRmU1R4X2ZqUjF6ODBfRXBGUGZxeGhRMzjSAXZBVV95cUxNTUxNVjllWW53cXljSFltREhBazg3TTdSY3dGUzY0STByaWhwX2JmQkdmUmIteWpRWjFPOFp2MTNXRC1IRkQwZ0pXRDJKVV91OTBrVm9XQk56bHFKSUF4eGtkT0NpeU5tYUxQWkU0QjFha1N3S3pn?oc=5",
+   "source": "ｄメニューニュース",
+   "cat": "事件",
+   "region": "岡山市",
+   "pub": "2026-10-03T09:42:53+09:00",
    "event_date": ""
   },
   {
@@ -939,6 +989,16 @@
    "cat": "事故",
    "region": "県内・その他",
    "pub": "2026-10-02T14:41:34+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "27c486a2ecb1d94e",
+   "title": "【警報級大雨のおそれ】気象庁週間予報（3日～9日）台風27号の影響は？進路次第では大荒れ・警報級大雨の可能性...雨風シミュレーション【2日発表】",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAxVk4xZm1keGlReTRtWnAxV3hIYmx6bDItU2dmQks3QUtRbFVmc1dmWTNBUkJEbmx4OGNpdXFjazR5dXFOeFUwMjNuZzRtZEhGNDhEYkYxT2lCbWtDc3d1UnZwV3M4UGs?oc=5",
+   "source": "TBS NEWS DIG",
+   "cat": "災害",
+   "region": "県内・その他",
+   "pub": "2026-10-02T14:00:00+09:00",
    "event_date": ""
   },
   {
