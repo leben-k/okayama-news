@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T06:17:59.599168+09:00",
+ "updated": "2026-10-06T06:24:58.835538+09:00",
  "items": [
   {
    "id": "4cfd97d54c5b9677",
@@ -109,6 +109,16 @@
    "cat": "災害",
    "region": "美作市",
    "pub": "2026-10-05T18:15:42+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "1adc461e49a5960b",
+   "title": "わいせつ動画、第三者に送った疑い 男逮捕 倉敷署",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zd19pMGM3cW1QcExGNkxaWkJoTC1yUDNaeG9nWk5ybGVwTHZCNXppOWtMYWtlWnlPMTRaUjc5MnlCRW41Ml9JMktWRjNxS2NabHBZNFpueTlFNWExWjBoSHJXWl83SzA?oc=5",
+   "source": "山陽新聞",
+   "cat": "事件",
+   "region": "倉敷市",
+   "pub": "2026-10-05T17:11:07+09:00",
    "event_date": ""
   },
   {
@@ -957,6 +967,26 @@
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Wdl80WXBMa25teDVGMC02SzdscVZUQXY4UklpelZ5cEdzNF9raW51ZUM3ZUNZZkJHdEdmbmlEMzRERUNyQnl6Yy1iMUx2OVR3aUE?oc=5",
    "source": "山陽新聞",
    "cat": "催し",
+   "region": "浅口市",
+   "pub": "2026-10-02T16:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "fa069d663f743bab",
+   "title": "武久・瀬戸内市長が退任正式表明 「新リーダーの下で発展を」",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5CbE9sVU5NUVp6U2FDRUFIY0NqUEpCMUFVREhwUEQ4T3VUeF9IQ0VZWWpaNnhkWHUxQ2FzcG9sZlotUnQ5eWJlWVVhNjZJd2NhUFE?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "瀬戸内市",
+   "pub": "2026-10-02T16:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "acffcad5a7276052",
+   "title": "花火大会 ８月から１１月に変更 浅口市、台風など中止リスク考慮",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1IaEVBSUlYODJaekJHRVViQXQyMTFWS2MzcWV4a3pkZktWaWp5aEtmZXNDcmFMTHpCS0FFUU1Kc0dBU3o2UWcwU05XU2tmWnZaRWc?oc=5",
+   "source": "山陽新聞",
+   "cat": "災害",
    "region": "浅口市",
    "pub": "2026-10-02T16:00:00+09:00",
    "event_date": ""
