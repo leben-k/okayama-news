@@ -1,6 +1,46 @@
 {
- "updated": "2026-10-06T16:14:15.633748+09:00",
+ "updated": "2026-10-06T17:52:34.701181+09:00",
  "items": [
+  {
+   "id": "095e10a98e41706d",
+   "title": "【速報】岡山市で路線バスと乗用車2台がからむ事故 バスの乗客1人が指にけが",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBjUkF0SzFWWFFiZ0ljeGxaYTk4akNLdURlcnM4WURWWUNseFQ2REJ6V1NkQmNmVjByZzdQUkY2b1Z6cmJ4b3ktWkVlQ0tQUnEy?oc=5",
+   "source": "KSBニュース",
+   "cat": "事故",
+   "region": "岡山市",
+   "pub": "2026-10-06T17:40:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "3c2638d808288f58",
+   "title": "キツネの顔の形そっくり？ 岡山・高梁市特産のナスのなかま「フォックスフェイス」のイベントが10月16日に開催",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5oM1ZycHZ4bkxfOE80OGtSaExsa0lxdXVsWm9xTHFzR2wtdWV5dHozLXB1MVFpRzlTdlNtNVBOMEdab1h5NUVTTmtSMG1OcFJt?oc=5",
+   "source": "KSBニュース",
+   "cat": "催し",
+   "region": "高梁市",
+   "pub": "2026-10-06T17:14:00+09:00",
+   "event_date": "2026-10-16"
+  },
+  {
+   "id": "639bc83897ce0856",
+   "title": "車の中でコカイン0.083gを所持した疑い 岡山・北区の建設業の男を逮捕",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBoR3ZlamtOTGRwY1NCNl8xQ2VLQzZtVnJFd05zMU12SDZYWTYwaEVNdWd5UElvcG9IeXY0TlJNS2RZWW9fbkx2THpWUUxKVEwyN3VLODNSekNHc3dXaEJvVERrY9IBY0FVX3lxTFBoR3ZlamtOTGRwY1NCNl8xQ2VLQzZtVnJFd05zMU12SDZYWTYwaEVNdWd5UElvcG9IeXY0TlJNS2RZWW9fbkx2THpWUUxKVEwyN3VLODNSekNHc3dXaEJvVERrYw?oc=5",
+   "source": "Infoseek",
+   "cat": "事件",
+   "region": "県内・その他",
+   "pub": "2026-10-06T15:07:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "0ddd8744cc1250ba",
+   "title": "コカインを所持した疑い 建設業の男（28）を逮捕 【岡山】（RSK山陽放送）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5PSDNFNGpUQ2VKQV9lOW5sOFQ0SU51VzdlZzJMOTg2dHowZzhPOGhiblNrT0ZwUVJ6VEk4SFZSbnVDOXhMZ09FM2tmN01hUnQ4M3h0V2dOOEZkNE9XUTFSSklSNzE4SC1IdEpqRlJCOHg5blRPbmxxZXk1T2dYejQ?oc=5",
+   "source": "Yahoo!ニュース",
+   "cat": "事件",
+   "region": "県内・その他",
+   "pub": "2026-10-06T14:54:19+09:00",
+   "event_date": ""
+  },
   {
    "id": "76e0552534fa1407",
    "title": "「大学があれば地域に人は残るのか」 岡山とスウェーデンの大学が地域の人材育成を考える OLIVE設立へプレキックオフイベント",
@@ -518,6 +558,16 @@
    "source": "山陽新聞",
    "cat": "事故",
    "region": "県内・その他",
+   "pub": "2026-10-04T16:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "8b024586b8311194",
+   "title": "行方不明の２歳男児を無事保護 矢掛町東三成",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhQ1JBS29OQmlKTU9mRV9EUmViMkp3eXhGMlJ0RFZCM0RoVVBJLTlzVTdRc0lwOXpEVE9kVm5kWTNqZ1R5NUJFb0hLT1FrQ3R0N0E?oc=5",
+   "source": "山陽新聞",
+   "cat": "事件",
+   "region": "矢掛町",
    "pub": "2026-10-04T16:00:00+09:00",
    "event_date": ""
   },
@@ -2039,26 +2089,6 @@
    "cat": "火災",
    "region": "岡山市",
    "pub": "2026-09-29T18:02:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "6a4adebfe40501a6",
-   "title": "企業のSNSアカウントに不正アクセスした疑いで女（28）を逮捕 岡山県警",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1aMnFVWTczYUJGeENCY01VTFc3bnZ0Z2RZZVdlNlNSX0xBelR1LWxjeXY1Y3pvOF9JU2VvOXJ2RThhRlFUQ3Y5alV1a0JlcnJJZUtTQXJBZGJsVUtoYnZpYnNWVHYxc2tQR19CYmtHVGPSAXZBVV95cUxNZklWTDBhMkY3TWJVWkxpWndkaUVLUVcxM2h6ZmhIQzNPdFNkSDBnRE1WLS00NE5lUWJFOGJyNGo5SlhLUmFSaHUzNFZSeGpORjNQRmxUMkFhVE9ZeGp0Z3V1Q2EtY1lveXF2Vm1iZkNiX2dqaWVR?oc=5",
-   "source": "ｄメニューニュース",
-   "cat": "事件",
-   "region": "県内・その他",
-   "pub": "2026-09-29T17:22:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "6be39033a29ceea0",
-   "title": "海岸で発見された身元不明の遺体 沖に流され行方不明になっていた岡山県の男子高校生と判明 鳥取県岩美町（日本海テレビ）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKX3d0X2lSbjF0cW91c2NFa3kxV2JkejY0Xzd4NjJ2ajBFaE43TzIwR1BndjJYRlYwc3NkOTl0ZE1tcGZYN2ZiSnJOckU2WWhNaFV4RHpmZjUtU0tpaTAtdnlHNXlTYnV1OWZIenRTV1NwajFwaTB0OEc4eGVWOG8?oc=5",
-   "source": "Yahoo!ニュース",
-   "cat": "事件",
-   "region": "県内・その他",
-   "pub": "2026-09-29T16:35:00+09:00",
    "event_date": ""
   },
   {
