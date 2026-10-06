@@ -1,6 +1,66 @@
 {
- "updated": "2026-10-06T20:38:51.883204+09:00",
+ "updated": "2026-10-07T00:50:32.160385+09:00",
  "items": [
+  {
+   "id": "a97e5b62a5d283fb",
+   "title": "路線バスと車2台絡む事故 4人軽傷、岡山",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qZGlGNjZPWGVFTXlobkhSMlVnZVFBX0NlM1RVc3dIVXhQeFlGZ284REtESUhyRzY4YUluNnN1clI3NkNMdmZ0YUhSdXpYaTRxdHhYX29xM3F2Xzl6N2hMenYxQkRzVWxmZ1ZCNTd3b0FXLU0wY2c?oc=5",
+   "source": "Excite エキサイト",
+   "cat": "事故",
+   "region": "県内・その他",
+   "pub": "2026-10-06T22:20:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "65b6f348c9ccf513",
+   "title": "岡山の交差点で路線バスと車2台絡む事故 4人軽傷（山陽新聞デジタル）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FYXFDbUZBWU1peGEwOHktT3hPV1ZsRVAtSFlkYVE4RGNiOW9lUzE1OVhvdThVcHhlWmt0cmVubks4c0dWcEs0VHl3X2FGYXlzWWg4cTBZczR0T0tBcWR1UmxmdFF5TEJwVWVrSm03Y1p2QlI4NUxSbkptWDFYRVU?oc=5",
+   "source": "Yahoo!ニュース",
+   "cat": "事故",
+   "region": "県内・その他",
+   "pub": "2026-10-06T22:01:21+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "04e065753ec5b907",
+   "title": "傷害、恐喝で岡山県倉敷市の3人を逮捕 知人に金要求、顔殴った疑い（山陽新聞デジタル）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1fU3ZZV2RsRTVpYkVKTHo3WWVIM0VUcTdnNkFYWTVScl9UYWJXbzU3c1YzN2xXdFZ1OVdWSy1pTVFZZGYyWFBRdmdfOG5ycGdhYVVuVWxxOUxsRzByMDRKeVIyOFdwVHdnSXZzSG43cFQ0XzBVV3hscDNybVpRN2M?oc=5",
+   "source": "Yahoo!ニュース",
+   "cat": "事件",
+   "region": "倉敷市",
+   "pub": "2026-10-06T21:33:56+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "122902313063554b",
+   "title": "傷害、恐喝の疑いで３人を逮捕 倉敷署",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5TM1ZYMDVTNEttOGFTaERIczhsc0t3REhieW1BT2xFMHpjcmpCMTJ1NC1rcWNCX2JydGdBSU5lblZ0VTlSTVNVR0EwUDZKc1hwN2gyNWF6bGJfLVJnamk5bzluTHBjOHZkOUFxTVdaX1U0MmM?oc=5",
+   "source": "山陽新聞",
+   "cat": "事件",
+   "region": "倉敷市",
+   "pub": "2026-10-06T21:21:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "525e7db57c89dd2b",
+   "title": "無免許でひき逃げ 水島署が男を逮捕",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kNkI3aTl3aHNyY3VoUmxhOEVVSzJYV0t5OHh0WDdINDRjMzVNMlZFQ2VSR2NySWFVR2FsM0hqMnFpUXF3alVQMWo3X2NiTW9HWVFzR1VIQTlyQkdEbjVZ?oc=5",
+   "source": "山陽新聞",
+   "cat": "事件",
+   "region": "県内・その他",
+   "pub": "2026-10-06T21:17:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "9120c5e413993821",
+   "title": "【続報】乗客ら4人が軽傷 岡山市南区の市道交差点で路線バスと乗用車2台が絡む事故 (2026年10月6日掲載)",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ldXBpclhHN0NtLUs5eUpRTDJJNXFaOVl6Vk1FYkE0ejg2OF9qbWZDNGxYdVZ5RDVUWUtBUGl4UUoydl9QRzVYYmVkeDdfUWF5NEhuLWdvSDBXaVczU0E?oc=5",
+   "source": "ライブドアニュース",
+   "cat": "事故",
+   "region": "岡山市",
+   "pub": "2026-10-06T20:58:22+09:00",
+   "event_date": ""
+  },
   {
    "id": "87acfbfbb2391b1c",
    "title": "【続報】乗客ら複数人がけがか 岡山市南区で路線バスと乗用車2台が絡む事故（RSK山陽放送）",
@@ -9,6 +69,16 @@
    "cat": "事故",
    "region": "岡山市",
    "pub": "2026-10-06T19:10:25+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "ffd0da0f3d431cce",
+   "title": "秋の高校野球岡山県大会 創志学園と倉敷商が決勝へ 中国大会出場決める 6日",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5PQklOUHM5UGpyUFYtd1pOQWVoVUt6eUpJZjhUTmJURmRjd3h6X00zYXdQX3hqSkhRZF9PaWxWX3d6WkZOelJXaGJ2MDVYdnU5VUFhY01EOHVVTkFaZXVZS3AxMnZSZEVTLXhLRloyd1FlX3BJM3fSAXZBVV95cUxOT0JJTlBzOVBqclBWLXdaTkFlaFVLenlKSWY4VE5iVEZkY3d4el9NM2F3UF94akpIUWRfT2lsVl93elpGTnpSV2hidjA1WHZ1OVVBYWNNRDh1VU5BWmV1WUtwMTJ2UmRFUy14S0ZaMndRZV9wSTN3?oc=5",
+   "source": "ｄメニューニュース",
+   "cat": "催し",
+   "region": "倉敷市",
+   "pub": "2026-10-06T19:07:00+09:00",
    "event_date": ""
   },
   {
@@ -42,6 +112,16 @@
    "event_date": ""
   },
   {
+   "id": "6e781be25a8ece00",
+   "title": "【続報】乗客ら4人が軽傷 岡山市南区の市道交差点で路線バスと乗用車2台が絡む事故",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43QTUtckc2VEFYcXBRVWNDa0FUNUFVWjBRWWtyTjlpazc3VUdhQ3c1eTZ2cVp3UFVJRDBqMk1GTlVqclVkbThHR250eDVrWXg0U2NRbV8xcVY4US0tdXotQzRDWExHMHM?oc=5",
+   "source": "TBS NEWS DIG",
+   "cat": "事故",
+   "region": "岡山市",
+   "pub": "2026-10-06T18:56:00+09:00",
+   "event_date": ""
+  },
+  {
    "id": "8caf50784149906c",
    "title": "倉敷アイビースクエアでデニム商品の展示即売会 “DENIM ON LIFE” 県内14メーカーのジーンズや、バッグ・アクセサリーなど【岡山】",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB0ZjZmb0w3ai10dFFsUHBmRVcxTUV5SFRBZWVjQzZrR2otRmI1eFcyRFR3eDktdkVNcVozU19KSTl6MTVVWXRmNXFuQVUydlhTYWRGMS1jV1VaRjRlUGpKZU84SFMtMV9IVVRIVEh3UzdUWnJj0gF0QVVfeXFMUHRmNmZvTDdqLXR0UWxQcGZFVzFNRXlIVEFlZWNDNmtHai1GYjV4VzJEVHd4OS12RU1xWjNTX0pJOXoxNVVZdGY1cW5BVTJ2WFNhZEYxLWNXVVpGNGVQakplTzhIUy0xX0hVVEhUSHdTN1RacmM?oc=5",
@@ -49,6 +129,16 @@
    "cat": "催し",
    "region": "倉敷市",
    "pub": "2026-10-06T18:45:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "2e1cce02b7a88d8e",
+   "title": "アートで製品や地場産業アピール 玉野中心に「産業芸術祭」３１日まで",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNczlHRjZXOUc0ZEpva0pmXzRmZWx1WWZ3MlVoLWhFY05iYUdadWprdWItVndKZzhad3JsRzVEZVJpUldMV2gxcGFEbkM5al9wQjVOaHZkM1JpdmhFS0ZrbWpRSHJpelNFa3lrS193QjVjNWl4Zjk5R2hvZTN2NUFrLVZ6ONIBgwFBVV95cUxNczlHRjZXOUc0ZEpva0pmXzRmZWx1WWZ3MlVoLWhFY05iYUdadWprdWItVndKZzhad3JsRzVEZVJpUldMV2gxcGFEbkM5al9wQjVOaHZkM1JpdmhFS0ZrbWpRSHJpelNFa3lrS193QjVjNWl4Zjk5R2hvZTN2NUFrLVZ6OA?oc=5",
+   "source": "ｄメニューニュース",
+   "cat": "催し",
+   "region": "玉野市",
+   "pub": "2026-10-06T17:44:00+09:00",
    "event_date": ""
   },
   {
@@ -92,6 +182,16 @@
    "event_date": "2026-10-16"
   },
   {
+   "id": "f9d50cbbca78e8fb",
+   "title": "無免許でひき逃げか 48歳の容疑者を逮捕 岡山県警",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE95anVEcnoyMDFmQVNlWUYtQ2lmMzE2aGRDc2Rjd3llY1hNbmNZZjBMdkxKOF9wVmdDa3BpSmtnZ0JHVndHYzBtbFBHQmlvREsyeEdyYkdtdjBqWDBqZHE4?oc=5",
+   "source": "NHKニュース",
+   "cat": "事件",
+   "region": "県内・その他",
+   "pub": "2026-10-06T16:42:00+09:00",
+   "event_date": ""
+  },
+  {
    "id": "0296fe99bd896551",
    "title": "岡山市の４３歳男を組織犯罪処罰法違反の疑いで逮捕 海外拠点の詐欺グループ内で「かけ子」管理か【香川】",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE54Y1FYUGNQdjU3MjB2bzlGcHFKTnhyazItbXl0bkpLdzUydnFvWVVxdDNWYXFXekNkRkdtaUpNRXczalc3QnBocGFWUjFHVklz?oc=5",
@@ -129,6 +229,16 @@
    "cat": "事件",
    "region": "県内・その他",
    "pub": "2026-10-06T14:54:19+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "12f426ed38749918",
+   "title": "コカインを含む粉末1袋（0.083g、末端価格1gあたり2万4000円）を所持した疑い 建設業の男（28）を逮捕 【岡山】",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1VdllwZkM4UEZvd2ZucTdNbzhKRnJnNXVmdllEQkV4N0Z2OTZjZ1BwX0Nua1VLaFFfOVYzSUZRMlh4N0FETVd5ekZjZE1kWVo4RFI1bXdMX0p1SzJ5NXNDS3FGVUpKQm8?oc=5",
+   "source": "TBS NEWS DIG",
+   "cat": "事件",
+   "region": "県内・その他",
+   "pub": "2026-10-06T14:50:00+09:00",
    "event_date": ""
   },
   {
@@ -678,6 +788,16 @@
    "source": "山陽新聞",
    "cat": "事件",
    "region": "矢掛町",
+   "pub": "2026-10-04T16:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "290688bab8d4716e",
+   "title": "路線バスと車２台絡む事故 ４人軽傷、岡山",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5OaC1FZVNvVFNHYlRlSTRvWmNhOFdnWEJrWk1FZENFNnRtQ0hYMU5mX2hCdi1yaXh5Ni00bTJUTVhhWFlqTDVYcnpVVlA5RW1yOUp5S3JJekUwZUxHWVVoUUt2OUZjd3BI?oc=5",
+   "source": "山陽新聞",
+   "cat": "事故",
+   "region": "県内・その他",
    "pub": "2026-10-04T16:00:00+09:00",
    "event_date": ""
   },
@@ -1882,6 +2002,16 @@
    "event_date": ""
   },
   {
+   "id": "09fd1f8d63216d78",
+   "title": "来年の岡山・裸祭り「宝木争奪戦」中止で調整 今年2月に2人死亡（朝日新聞）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aMlpMQ196T3JlOFJqMzliRkNmLW9KWFlsRlhkUWZFZmpVSUMtTEI1akZvTl9zRDJyeU4ydE40UXBRMzFoY094aEprd0tOejJsbTVPakJLbS10ak9JNmYzR01sVmloM0NjaEFRajIwU0VjTHdNUVUwSS02N05zSXc?oc=5",
+   "source": "Yahoo!ニュース",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-09-30T17:07:01+09:00",
+   "event_date": ""
+  },
+  {
    "id": "b41bdbda39aa3a99",
    "title": "岡山市の「裸祭り」の死亡事故受け来年の宝木争奪戦中止の方針",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE56QjRObG9YcEhaYlJmQXF2OE4wMFpZeXM4NkdJUHQtNjZOanZ2azZ2NmVaZW5qZzZNMEl2a19WU3J2SktQOVQ0dThPQUhNQ1hQT2NaMlQ3SW1GdlRpWGZZ?oc=5",
@@ -2109,16 +2239,6 @@
    "cat": "事件",
    "region": "岡山市",
    "pub": "2026-09-30T05:50:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "aaa96afb8eb43c55",
-   "title": "ひき逃げ容疑の男を逮捕、岡山中央署 生活道路で女性はね逃走",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1sVThBTW16SFJxUEFxY2QzcWRyM3RQNURuMnMzZHc0bDE1UUxkaUdzd1oyMk5EN091ZVN3aEVhVXNvTy1LWHlrRHdfYUc2TmhaVWc?oc=5",
-   "source": "山陽新聞",
-   "cat": "事件",
-   "region": "県内・その他",
-   "pub": "2026-09-29T22:54:00+09:00",
    "event_date": ""
   },
   {
