@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T08:12:10.570546+09:00",
+ "updated": "2026-10-06T09:04:49.929326+09:00",
  "items": [
   {
    "id": "46a3c4b7ef8fb5be",
@@ -368,6 +368,16 @@
    "source": "山陽新聞",
    "cat": "催し",
    "region": "備前市",
+   "pub": "2026-10-04T16:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "a4172133274a8e13",
+   "title": "「命に優劣ない。社会に理解広げたい」 相模原殺傷 岡山の障害者家族の思い",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qZ0lna3BJMGtaMEZHck81eldTX19YaTc3WlZoU2d6cklETUJIM1pNUWx0Rmt1X3l1NjZ4LXJRMWpBUXE3dlVXOWdPb0JPRFpGcFE?oc=5",
+   "source": "山陽新聞",
+   "cat": "事件",
+   "region": "県内・その他",
    "pub": "2026-10-04T16:00:00+09:00",
    "event_date": ""
   },
@@ -1332,6 +1342,16 @@
    "event_date": ""
   },
   {
+   "id": "8d38442c79b6e077",
+   "title": "岡山県瀬戸内市・瀬戸内市民電力・三ッ輪ホールディングスが地域の未来を考える親子体験スクールを実施しました[岡山県瀬戸内",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9HVzFFS2JSR3EyY3cyU2JfTTBLUFVMU3l3MjI0bzVyUEdNaVN5QzE2X0NJS1ktQlp0aFRLOUlWVUNrcWpNM2xkd1FtVGRhaGFoOC0ydQ?oc=5",
+   "source": "ニコニコニュース",
+   "cat": "催し",
+   "region": "瀬戸内市",
+   "pub": "2026-09-30T23:30:33+09:00",
+   "event_date": ""
+  },
+  {
    "id": "c97c8dbaa2821d91",
    "title": "今日は交通事故死ゼロをめざす日 総社市で啓発活動",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBadldUOWg1Z3JXZzNENFZJa2diN3VwZU1WLVhMcEo5OHJjNWhsYUY1NUE5TWp0enRwSnlyWHdnLTVDZ2FKMVJBazh5TDZLaUZRM2stOTZGeGw?oc=5",
@@ -1990,16 +2010,6 @@
    "region": "県内・その他",
    "pub": "2026-09-29T10:30:00+09:00",
    "event_date": "2026-10-10"
-  },
-  {
-   "id": "be4fb2fcf71f9c35",
-   "title": "JR津山線が運転再開 倒木で一部区間の運転見合わせ 岡山【29日午後0時30分現在】",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5STmt6UWJfUjhEY1htMGNyU1JPMy1mMjRoY0lBRVBURUlwRElyVHU5MW1yOFVwNDc3LTVuOGY3UkVSQ21MY3pDSTY1TDl2N3RIWW92OFBiQ1Y5VE5NWmxrZ2lSb0lQMjJjdHBmZGNB?oc=5",
-   "source": "au Webポータル",
-   "cat": "災害",
-   "region": "津山市",
-   "pub": "2026-09-29T08:46:00+09:00",
-   "event_date": ""
   },
   {
    "id": "99b943ca94a57807",
