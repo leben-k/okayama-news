@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T00:50:32.160385+09:00",
+ "updated": "2026-10-07T04:18:35.228969+09:00",
  "items": [
   {
    "id": "a97e5b62a5d283fb",
@@ -199,6 +199,16 @@
    "cat": "事件",
    "region": "岡山市",
    "pub": "2026-10-06T16:30:28+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "bb2cee859b79d771",
+   "title": "ファジ観戦で出会いを ２５日 岡山でイベント",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBsb2JwUWxxTG42X0JXUTktemppak1ya1hicGg0ZGNwZ1pwSGdTSy1qYko5T1dnNWdvR0pTUEdPQnJPT3VhTHQtT09pcWRKUDBXT2ZzdEM2VXE1VTVqNnVNcFN6MFUtaE14dG14WXNCSkZrWjhkbGZ1aVRtNnZmd9IBgwFBVV95cUxOUkl4SktPdzJaejhHQnJpbzh3b05rcnZtcHJYMGs4Vmo2ODJWS2s5Y0JTd2Z3SzV6ZExYRl9RVVJmWnVCcGJUcWtyRW5sQ3BpMHhpUkNVMHZYS1U3S2UzeDduR2FrbmNKbm84aXBWMmVuaWxIcXhMbk16cnlSN2lHTG1ZWQ?oc=5",
+   "source": "ｄメニューニュース",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-10-06T16:30:00+09:00",
    "event_date": ""
   },
   {
@@ -1738,6 +1748,16 @@
    "source": "山陽新聞",
    "cat": "催し",
    "region": "真庭市",
+   "pub": "2026-10-01T16:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "fe023ba77b1b883c",
+   "title": "【災害から学ぶ】住民グループ発足 防災・減災の要 高齢化進み共助の維持課題 鳥取県西部地震で被災の新見市千屋地区",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zbTRoWWdNc2xCUjRUMW1vNXMxMVJlOUZJbFFqN255UWNCZlRFaTZFYy1kVC1TODBaei10NHQyLU1nT08xQkNuR0JpY1hqRVd2UVE?oc=5",
+   "source": "山陽新聞",
+   "cat": "災害",
+   "region": "新見市",
    "pub": "2026-10-01T16:00:00+09:00",
    "event_date": ""
   },
