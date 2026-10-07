@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T10:56:44.077796+09:00",
+ "updated": "2026-10-07T12:12:08.855023+09:00",
  "items": [
   {
    "id": "b431217cdccaf70c",
@@ -99,6 +99,16 @@
    "cat": "事件",
    "region": "美作市",
    "pub": "2026-10-06T20:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "2455bf3b276c8d59",
+   "title": "【画像】【速報】岡山市で路線バスと乗用車2台がからむ事故 バスの乗客や乗用車の運転手ら4人が軽傷",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE81TFlxcFpSTGp3aHItYzBiaS04TkVYQWQ4N0drRWVSVi1ZV2R5S1JSR0wzYVpyRkxRUnp0d2hXbTZJa3U3dXQ4MEFVUHo4cm9kUFM4TkJhR2xGUzVack9UN2s3MjVRTFZPd3BSUG5jdWtxNkJmSGt2MHR0ZGo?oc=5",
+   "source": "ライブドアニュース",
+   "cat": "事故",
+   "region": "岡山市",
+   "pub": "2026-10-06T19:52:28+09:00",
    "event_date": ""
   },
   {
