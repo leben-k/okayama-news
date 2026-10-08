@@ -1,6 +1,26 @@
 {
- "updated": "2026-10-08T22:46:02.393178+09:00",
+ "updated": "2026-10-09T04:48:43.642942+09:00",
  "items": [
+  {
+   "id": "f749c940a514e3c2",
+   "title": "【速報】「車が逆走している」山陽道で軽乗用車が逆走か 下り方面・赤穂IC－備前ICを通行止め【岡山】",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0temlwNzk1a0ZDMGpDQmgxYXkwZXlpZEZUQmVYVmRkY3N5RFhiV1Zsd2tlUk1KVjR3ZktDTnVvMngtblRnN2U1bFhaRm5pMmxtQlc5c1Iyck92OW5BbkEwOWV0RXp1MnhUT0I2T1pR?oc=5",
+   "source": "au Webポータル",
+   "cat": "災害",
+   "region": "県内・その他",
+   "pub": "2026-10-08T23:38:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "47ae642b13757bee",
+   "title": "【山陽道 交通情報】山陽道 赤穂/備前市境区間で逆走車 赤穂IC→備前IC間で通行止めが発生「現地の様子が明らかに」渋滞状況は？…（News Quick Up）",
+   "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9qV3JYRlA0ekxaMmtUUGNUVlhPZC1vcjNFR0JLcVg4WkYxZHZPa2dGeldJVlcwRTlNMWV3?oc=5",
+   "source": "Howl.link",
+   "cat": "災害",
+   "region": "備前市",
+   "pub": "2026-10-08T23:25:32+09:00",
+   "event_date": ""
+  },
   {
    "id": "36995dd7eb70984b",
    "title": "教育施設から室外機盗む、兄弟2組逮捕 岡山県鏡野町、容疑で美作署など（山陽新聞デジタル）",
@@ -50,6 +70,16 @@
    "region": "美作市",
    "pub": "2026-10-08T19:56:00+09:00",
    "event_date": ""
+  },
+  {
+   "id": "cc385515ae10a265",
+   "title": "2026年10月10日(土)～10月11日（日）岡山週末イベントスケジュール - パート 4",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ndHgzaHdNbEZhSFhwUEFoNjU4N25NUTN6N3M4VGMtTVZRa1M0MXBlYnZKbXVVd0FHSGViNFRHeHIteEo5WTJQY1pXd3c?oc=5",
+   "source": "岡山おにさんぽ",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-10-08T19:45:38+09:00",
+   "event_date": "2026-10-10"
   },
   {
    "id": "711dd725ca1243d5",
@@ -419,6 +449,26 @@
    "cat": "火災",
    "region": "県内・その他",
    "pub": "2026-10-07T19:35:27+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "55093d2ef005eab5",
+   "title": "「土の多様な側面を表現したい」備前焼作家・伊勢崎晃一朗さん作品展 岡山市のデパートで開催中【岡山】",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAybVVVMnUxU0RQV0FsVFZnUDUwRnBEQW5TbktMcmJDWHp6WjlHRVFFTXJrQXBQdkZ0NnhucXBnYWdtSXpGOEZrWk1KemI2dnhrZW02T2I2aWk4T19ZQ3F2TTRDTHFoOWhxdEhMb2J3?oc=5",
+   "source": "au Webポータル",
+   "cat": "催し",
+   "region": "岡山市",
+   "pub": "2026-10-07T19:23:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "12985cd930744a86",
+   "title": "ガソリンスタンド所有の廃タイヤに放火した疑い 従業員の女を逮捕 岡山（KSB瀬戸内海放送）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5lcTIyQnhCTWJITWpMdF9OeXFJeFN6bnJXN0RsTy1BNld1OUw1aHJ2MkNWN1RjODFNX203QUJodkJhYjJhUVN2SHZqSnNUTmR4TkVIdHM2bDEzR3VLa1gya0lteFhwZWZJa25tcTU3N2lrWlI3Y0RuZ3ktUkRzTXM?oc=5",
+   "source": "Yahoo!ニュース",
+   "cat": "事件",
+   "region": "県内・その他",
+   "pub": "2026-10-07T19:14:52+09:00",
    "event_date": ""
   },
   {
