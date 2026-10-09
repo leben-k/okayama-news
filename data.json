@@ -1,6 +1,26 @@
 {
- "updated": "2026-10-09T23:18:18.479742+09:00",
+ "updated": "2026-10-10T04:40:40.272749+09:00",
  "items": [
+  {
+   "id": "ec724f09b2d14146",
+   "title": "【速報】岡山市北区下伊福の共同住宅で火災 3人けが",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RSGhicGx6X0JMMUtHN3l3RnA1ZDkxejV4OHJsd2ZWVEcyd2gxc0hKNVJxN3RZcnJHVEszRkdLbUNBNDZ5aEdza3hQUURTZjF5dVFQdDJxZTJRenFkaGxXWjJOTkVZVm50OW1teGR5Z3c?oc=5",
+   "source": "newsdigest.jp",
+   "cat": "火災",
+   "region": "岡山市",
+   "pub": "2026-10-10T03:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "0ece60a448d6b014",
+   "title": "（岡山）美作市右手でクマ出没 １０月８日",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVTBrdjVUdmxRRm5ZbFhRSlBjaXViUmF0cUtiTjhkZnFQbWc4cWNpYjNOWER4U3dlSXlBQk1BdWJaZ2VlVG9CS0VVRmxuZDhSRVgxNVl4RmR0OUhnQl91cE0zeEhIN1JZcmg2YjFjREo0dHJ2bEdVZzdhb1pFcm5rTGItdXpzTllsZXVXZnBtQlpPYmw2RzhKVmFvTFdtejVkRVg1ai15dXB5ck1hVTVN0gGiAUFVX3lxTFBSYVgzbXVLZWpBZVJiZmtoeHVtSF9ZSy1zMnlmX09YZHVPaEZ5Y01QY2REazZKSERRblFUcHlHZlNWNGJ6OUREQllmS3BIVC1VdnlnTXR1YXFuT3ZlaF9EZWNHSGVMSUt1RGhSc3pBV0pEakVJVFJRWjJyaE5lYzF1Z09vN3BrZ25BdHhxU0hLNWFFaURLR3ZtalFZSTE0Ul9fUQ?oc=5",
+   "source": "ｄメニューニュース",
+   "cat": "事件",
+   "region": "美作市",
+   "pub": "2026-10-10T01:49:19+09:00",
+   "event_date": ""
+  },
   {
    "id": "f97d876d1295a09c",
    "title": "森の芸術祭へ津山の食文化発信で機運高める 郷土と歴をを紡ぐ特別ディナー【岡山】",
@@ -50,6 +70,16 @@
    "region": "県内・その他",
    "pub": "2026-10-09T17:50:00+09:00",
    "event_date": "2026-10-10"
+  },
+  {
+   "id": "a2d008ea01f6b3f5",
+   "title": "秋のおかやま桃太郎まつり 岡山城一帯で１０日開幕 芸能、歴史、食 多彩な催し 会場準備整う",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE00VXdONklmSXF2aVFiTmpnei1YbmZxNGtvb3RXQ3ZQamxVMzlRVzhya242bkhNYlBTVUxMcXlrZGMtcWJ1N1VtVmd4TmgySlc2Z0E?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-10-09T17:27:40+09:00",
+   "event_date": ""
   },
   {
    "id": "3911d662861a2f62",
@@ -972,6 +1002,16 @@
    "event_date": ""
   },
   {
+   "id": "73db0dece943161d",
+   "title": "面手（玉野出身）・長崎組８強入り アジア大会卓球女子複",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TWXZHS1JXOGhkXzI5VWQ5YVNDay0tN1ZpdzZpeGoxRHgwb3djVE0zRTZfX1VCdHZrcVdtZTlFaHl6ZFc5bFE0V0JEd3BoZ2xxaWc?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "玉野市",
+   "pub": "2026-10-07T16:00:00+09:00",
+   "event_date": ""
+  },
+  {
    "id": "0a556f3a73356714",
    "title": "知らない土地だった真庭を、知っている人のいるまちへ。銘建工業が始めた入社前の地域体験",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5RM1N1bGJuelVzU0w4UTVhTUVjaUljZ2V2NlZpUWMzdGJ5UVZfY3NnZERPVm9aRXpLMTFBT3Mycmloa3NfNk13bERxMlRuN3ZJSnR0d2lvRDVzRVA3UlE?oc=5",
@@ -1759,6 +1799,16 @@
    "cat": "災害",
    "region": "美作市",
    "pub": "2026-10-05T18:15:42+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "ce50a5197c146d39",
+   "title": "【画像】熊本地震の被災者を支援 岡山・美作市の小学生が募金活動",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1NeGNzX0RYbXVkdXJxVGxaUDJBUGR3MHhGN3lkYjFFdzJQeER5VlljUGc2WU9JVFVuREt4cnZEd1g4YlhxX3VHOVl4T3NuUnBaWUJmbWlaZWJrWUVHT2Y1bGt5Qjl4bWExbHhMSlRZMUVBbnlwYWJvcXcxdDI?oc=5",
+   "source": "ライブドアニュース",
+   "cat": "災害",
+   "region": "美作市",
+   "pub": "2026-10-05T18:15:00+09:00",
    "event_date": ""
   },
   {
