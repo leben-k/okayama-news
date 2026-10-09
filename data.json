@@ -1,6 +1,36 @@
 {
- "updated": "2026-10-09T10:58:12.009018+09:00",
+ "updated": "2026-10-09T14:27:26.508938+09:00",
  "items": [
+  {
+   "id": "94625e87ac61b435",
+   "title": "園児の首を手で押さえる 岡山南署 暴行容疑で保育士の男を逮捕",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1UUW1Fa0NWZDZyZ211X21uYlFZa2FRWlhwUlNsalRfUUNRLXZZWjBaWm9tUnZ6cjE3ZHV4SGM5LUpZNFBlM1JPX1dXMjY2bE1zNjVrWV9ZV19PVklqUEpIZE5vMmdmZzZE?oc=5",
+   "source": "山陽新聞",
+   "cat": "事件",
+   "region": "県内・その他",
+   "pub": "2026-10-09T12:16:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "ba4e99c2250ed25d",
+   "title": "男子園児の首を押させつけるなどした疑い 岡山市の保育士の男を逮捕【岡山】",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4tbElpSHFyN2F3Nm5lRG5KVnhnSUVzcE9uRFhvekhoN3JzdTZkRWJLdGVnTjNhdnNvYU5ZbEx5MHN1NW55MVpCR1VFblREUQ?oc=5",
+   "source": "FNNプライムオンライン",
+   "cat": "事件",
+   "region": "岡山市",
+   "pub": "2026-10-09T11:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "8bc5b964fdfd4017",
+   "title": "秋の週末をグルメ店巡り 岡山市北区の杜の街グレースで「THE MARKET」開催【岡山】",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB0V3NyTC1zTkFERlpEeTVOaFZDS043Z21mUW9Kc3RUV1ExaVBZN056Y2w5MFlLcHBxZjREWkE0MVhQZ3U4R0plTW8yNWFrXzBkcE9hYTNpazA2cXV4eUgtVDZZODhxYmpsYVZCM9IBckFVX3lxTE5tMWN5cWlnSmw0NjZqWEtWZHNWWEo2MXBBbEk1RHhKZEZ5bVZoSmZQYUx5X1hBNVVmempsc28wbzluMjVvUUFKeF85Zl9KVjZtSWtuOF9RQ3Q4RWVOb2hVLS1obU5pdGZHTURJVUVCX3J4QQ?oc=5",
+   "source": "ｄメニューニュース",
+   "cat": "催し",
+   "region": "岡山市",
+   "pub": "2026-10-09T11:00:00+09:00",
+   "event_date": ""
+  },
   {
    "id": "a1f79fd2fc7593b9",
    "title": "蛇口20個、エアコン室外機2台など盗んだ疑い 兄弟2組の4人を逮捕／岡山・美作市、津山市（津山朝日新聞）",
@@ -9,6 +39,16 @@
    "cat": "事件",
    "region": "津山市",
    "pub": "2026-10-09T10:41:55+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "cb3784076d5fa5b5",
+   "title": "蛇口20個、エアコン室外機2台など盗んだ疑い 兄弟2組の4人を逮捕／岡山・美作市、津山市",
+   "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQVncyZjlkREF1bnA2c0VRSlhzZlhmcHgtR3B5NWZCakluS09nT0RfTVM0SThWaGRyWnAxemlJeUdwMWxxemJXZFRRRFNJclFSeXZjY2UzQU95eGttanJ6SlJXNzBpVkp4bjEyTHl6VVd6ZUlFT1NJXzk0YVZTOTYzTGtRUkpDSlpoRkZJUF84WHVTRlZPQXdJb2RCamVxbGkxOUY0RmU5bmM5T2tiNzV5YVFVeFdDa2JIZWtNUFlwMU5JQ1hfdUptNUJZUFZkY25KNjFRREFodzFsWGFXQ2RwdHRhd2l1S1FtSGRycGJRQUlHMFo0U0toUlE2SUppRUJHTDM5WmkwZmlMSktjLWV6RkFCNUMxc096ZHhxZThQRG1MUHF0RUQ5Sm9vY2JoVzlyX2FBYmpWaVJ0dkxmRnRQb2Z3?oc=5",
+   "source": "津山朝日新聞社",
+   "cat": "事件",
+   "region": "津山市",
+   "pub": "2026-10-09T10:38:47+09:00",
    "event_date": ""
   },
   {
@@ -29,6 +69,16 @@
    "cat": "事件",
    "region": "岡山市",
    "pub": "2026-10-09T10:27:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "ad5ed296ff3e2870",
+   "title": "進む復旧、岡山・南区の山林火災現場 治山ダムほぼ完成、落石防止も",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMFAyblJidzg4bHY3RFFxZk03Z3RXeUlQZzZSOXhIbl9MUlN2X0diU1ZqaHZNdllvWlJsZmwtZGo4YWJfekMxTDdFZFR1MFRhZjYydVowNUg2MlEzZDlNb1ozWWFMaWRESWhhZGVJSXlLc1o1SW55S0ZYdlRoQkRvaWV3NURWMDhNOXpCUDVUUnJ6WEFsNjAxTHBTM1dQQdIBngFBVV95cUxPMFAyblJidzg4bHY3RFFxZk03Z3RXeUlQZzZSOXhIbl9MUlN2X0diU1ZqaHZNdllvWlJsZmwtZGo4YWJfekMxTDdFZFR1MFRhZjYydVowNUg2MlEzZDlNb1ozWWFMaWRESWhhZGVJSXlLc1o1SW55S0ZYdlRoQkRvaWV3NURWMDhNOXpCUDVUUnJ6WEFsNjAxTHBTM1dQQQ?oc=5",
+   "source": "ｄメニューニュース",
+   "cat": "火災",
+   "region": "県内・その他",
+   "pub": "2026-10-09T10:15:00+09:00",
    "event_date": ""
   },
   {
@@ -62,6 +112,16 @@
    "event_date": ""
   },
   {
+   "id": "d1d2465a558cb48d",
+   "title": "岡山市の認可保育施設で園児を暴行した疑い 保育士の男（33）を逮捕",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5STHRKNDUzVHRiLTA0RDRhX09rSHJLUy0zR2Q0R004OHVfUF9zRHdCMXdTUVE0b1Q4TkFJUzlVeVJhSFpXSVIwaDg3QmhNMVM2OWtfa3ZLaDBydw?oc=5",
+   "source": "TBS NEWS DIG",
+   "cat": "事件",
+   "region": "岡山市",
+   "pub": "2026-10-09T09:34:00+09:00",
+   "event_date": ""
+  },
+  {
    "id": "c4bd255dfab7dc03",
    "title": "地ビールや特産品集める 「岡山オクトーバーフェスト」 １２日 農マル園芸吉備路農園（総社）",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBLdkhoenVSOXpUMmh3OFBxZHhDMzlxUTBaaU40UVV2VTdZM0hpVUd0SXBDbkR5cVotdDFTaVdHOENWclZ5Sm1FMVdNWHNvTlIzT0tzYTVPZ0RmOTZnNW9WQ2o1dVBlSEdrbUxyLUp5MDk5eHM5ZkQyRm4tUTdEQdIBgwFBVV95cUxQUU56anA4d2lQN0xBcF9mVTZJOEJJb3cxTG5MYW1MdmljNUdSZTBodUhza2VyUEgzNkNUMnEzd3BjTXJ0RU5ad1ZKV0NSQTRFd1lpSkZlTkpTczRGbnFTRVAtMWtiRjZaS0x1cmt6S0lCOEJFZF9xTFlHWTI0QXhoMng0bw?oc=5",
@@ -80,6 +140,26 @@
    "region": "県内・その他",
    "pub": "2026-10-09T07:47:28+09:00",
    "event_date": "2026-10-19"
+  },
+  {
+   "id": "a46a54102d0d4509",
+   "title": "【岡山】2026年10月10日・11日・12日三連休の無料イベント7選 秋祭り＆マルシェも",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1OZ2ZsVnZCaFlUSTJEOE0zdmgtZ1RPME9BcWpNSWJKc3lrc1ZUV2o1VnFIZ3dLWTk2ZlNxeHQ0NTd3SU4zcXBHaHJ0X0Vma1Rsamc?oc=5",
+   "source": "いこーよニュース",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-10-09T06:23:08+09:00",
+   "event_date": "2026-10-10"
+  },
+  {
+   "id": "e20ef85729e113cd",
+   "title": "【山陽道】赤穂/備前市境区間で逆走車情報 一部通行止め解除（8日23:45現在）",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBrbHJ4WEtPbTdtdW9TeEttTmJQcGpyTWVCV0pXMG93dVlITVgxc1k0cW43MWRDeTgwaXRaQ1phYW5OTFpoUUZnWGQ0M3l2U1JBVzAxM240cnFlRVh4M1NF?oc=5",
+   "source": "千葉テレビ放送株式会社",
+   "cat": "災害",
+   "region": "備前市",
+   "pub": "2026-10-08T23:59:01+09:00",
+   "event_date": ""
   },
   {
    "id": "f749c940a514e3c2",
@@ -359,6 +439,16 @@
    "cat": "事件",
    "region": "赤磐市",
    "pub": "2026-10-08T13:34:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "b4da9b239a86e3ce",
+   "title": "知人女性にストーカー行為をした疑い 高校教諭の男（36）を逮捕（岡山）（RSK山陽放送）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rWnkxS1lDVXVNNUZQaUV4SUxiM21Da2cwZHhkRHZlTnlSRnZjN1k0YnZ5RHppNTFyUHRBNmlSMDlsM3VsYUxhdTl0UmlVNnBwaFhMQy1jYm1OaXV1aHBIZV96V1VxbmZOUVRFZGxkVEMwaGtwTklqbGVoNWcwZk0?oc=5",
+   "source": "Yahoo!ニュース",
+   "cat": "事件",
+   "region": "県内・その他",
+   "pub": "2026-10-08T13:13:14+09:00",
    "event_date": ""
   },
   {
@@ -1489,6 +1579,16 @@
    "cat": "災害",
    "region": "美作市",
    "pub": "2026-10-05T18:15:42+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "48564f1f8204072f",
+   "title": "交通事故ゼロ目指し活動を 玉野で交通安全推進大会",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GeWIxYldHbnVIcDMteDVTMDM0RlR5a2RRelZrbG9xOWNZempTQlVFRHRZRmJSRHpOM3FUOU1JbFE5Y2pJd1JCdG5vNTdMbnFKeTNWdVlFNERfRTFXSDFzbUpBUGpDclU?oc=5",
+   "source": "山陽新聞",
+   "cat": "事故",
+   "region": "玉野市",
+   "pub": "2026-10-05T18:04:12+09:00",
    "event_date": ""
   },
   {
@@ -2750,16 +2850,6 @@
    "region": "岡山市",
    "pub": "2026-10-02T14:36:00+09:00",
    "event_date": "2026-11-01"
-  },
-  {
-   "id": "27c486a2ecb1d94e",
-   "title": "【警報級大雨のおそれ】気象庁週間予報（3日～9日）台風27号の影響は？進路次第では大荒れ・警報級大雨の可能性...雨風シミュレーション【2日発表】",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAxVk4xZm1keGlReTRtWnAxV3hIYmx6bDItU2dmQks3QUtRbFVmc1dmWTNBUkJEbmx4OGNpdXFjazR5dXFOeFUwMjNuZzRtZEhGNDhEYkYxT2lCbWtDc3d1UnZwV3M4UGs?oc=5",
-   "source": "TBS NEWS DIG",
-   "cat": "災害",
-   "region": "県内・その他",
-   "pub": "2026-10-02T14:00:00+09:00",
-   "event_date": ""
   },
   {
    "id": "bf0f684ddf6adc19",
