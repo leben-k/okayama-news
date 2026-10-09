@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T07:08:48.508845+09:00",
+ "updated": "2026-10-10T08:58:09.839173+09:00",
  "items": [
   {
    "id": "ec724f09b2d14146",
@@ -169,6 +169,16 @@
    "cat": "事件",
    "region": "県内・その他",
    "pub": "2026-10-09T12:16:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "f921acd76f76d4d7",
+   "title": "金光駅西公園 浅口市が整備基本計画 ５ゾーン分け運動、防災機能配置",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1nNkpTb19zcWU3Rk5EYUxTNmJoLTNhdk9aU2pMNENZdWFfSVpCSDNQblgyMllwX2VlcFM5b2tubERRQjVZTUxQb2dGeWV6R0NxSXFNNThGd3Y?oc=5",
+   "source": "山陽新聞",
+   "cat": "災害",
+   "region": "浅口市",
+   "pub": "2026-10-09T11:41:20+09:00",
    "event_date": ""
   },
   {
@@ -992,6 +1002,16 @@
    "event_date": "2026-11-29"
   },
   {
+   "id": "61f66bf196d7faa1",
+   "title": "【画像】2人死亡の事故受け 西大寺会陽あり方検討委員会 アンケート結果などを報告 岡山",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBNYXJiaEtWNlFkQ1dRSXc4ekRFeDY0TmtxVjJPTTIwWXh2UlpRV3V3eHdRQlF0bEdvcm9WeGRQOUlqdWVZMmxteHNZdGY1TUdwSWllNUNESHFSTmhicklDdUlDU1Q5QXpuaTNIcHZOS1pmYzBQV2VWSUJjOWs?oc=5",
+   "source": "ライブドアニュース",
+   "cat": "事故",
+   "region": "県内・その他",
+   "pub": "2026-10-07T17:00:00+09:00",
+   "event_date": ""
+  },
+  {
    "id": "08173245a9ce2287",
    "title": "備前焼まつり（10月17日、18日開催) 備前焼小町がKSBでPR 岡山",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5PS2c5ai1lanR1WVNHeTBKV2hHWVVtT080Z0lULVc0MTdNdkxNcWpqRkVzUmZ2X3FJLV9kZ2gzTUhERnN2M0dSVVJNVXpDSUF4?oc=5",
@@ -1488,6 +1508,16 @@
    "source": "山陽新聞",
    "cat": "催し",
    "region": "瀬戸内市",
+   "pub": "2026-10-06T16:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "fe023ba77b1b883c",
+   "title": "【災害から学ぶ】住民グループ発足 防災・減災の要 高齢化進み共助の維持課題 鳥取県西部地震で被災の新見市千屋地区",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zbTRoWWdNc2xCUjRUMW1vNXMxMVJlOUZJbFFqN255UWNCZlRFaTZFYy1kVC1TODBaei10NHQyLU1nT08xQkNuR0JpY1hqRVd2UVE?oc=5",
+   "source": "山陽新聞",
+   "cat": "災害",
+   "region": "新見市",
    "pub": "2026-10-06T16:00:00+09:00",
    "event_date": ""
   },
@@ -2809,16 +2839,6 @@
    "cat": "事件",
    "region": "岡山市",
    "pub": "2026-10-03T09:42:53+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "4a873dae5c01c50e",
-   "title": "行方不明になっていた岡山市中区の90歳の男性 本人から家族に電話があり無事保護される【岡山】（RSK山陽放送）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pUTN1TmdnX0ZzTnRYWG5KZ0FYbjkyWDlVcTlNRVE2bUF1Z1RTWGFBZ245LTVHY2VmOXNxcTctMHdJOVBNMnZHSGtTMi04ZWFYd0VLdHRKc2loNHdUUXB4TUhTSXNEV0hyMjhsLVpBM1FhdUlfd3BnUFFUVnZlTkU?oc=5",
-   "source": "Yahoo!ニュース",
-   "cat": "事件",
-   "region": "岡山市",
-   "pub": "2026-10-03T08:52:14+09:00",
    "event_date": ""
   },
   {
