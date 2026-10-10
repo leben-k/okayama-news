@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T14:38:08.019665+09:00",
+ "updated": "2026-10-10T17:35:49.160193+09:00",
  "items": [
   {
    "id": "a689b2dfc6b7ec95",
@@ -239,6 +239,16 @@
    "cat": "災害",
    "region": "浅口市",
    "pub": "2026-10-09T11:41:20+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "d90bfc595ea91cb5",
+   "title": "秋の週末をグルメ店巡り 岡山市北区の杜の街グレースで「ＴＨＥ ＭＡＲＫＥＴ」開催【岡山】（OHK岡山放送）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE53OExsVV9id25ZcGZ6X1BhMnBwSzdCcnoyaFQwbktabU0wUWg5bjJtajdvZU5YOXFiaDlHdlJodHFSZV9ybEFXR29sb0FsREJxcU5IMmsxT2Z5RnBuVnJQUmJWME9PNE03REtkT0l1OUR3NGg4cF81S3FsTWlKTEE?oc=5",
+   "source": "Yahoo!ニュース",
+   "cat": "催し",
+   "region": "岡山市",
+   "pub": "2026-10-09T11:31:01+09:00",
    "event_date": ""
   },
   {
@@ -619,6 +629,16 @@
    "cat": "事件",
    "region": "鏡野町",
    "pub": "2026-10-08T16:29:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "a0903bffa74f0958",
+   "title": "岡山でコーポ全焼 やけどなどで３人搬送【動画あり】",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBqUUJpcXFZWmM4Q2c1clJXUXdhZGNQd0gwc3BYZjVJVDJ6WF8yTzRhOERXajNEckpTbUlZTVRXSEtjM1VuaTJDdmVLS1g2V0R2SVE?oc=5",
+   "source": "山陽新聞",
+   "cat": "火災",
+   "region": "県内・その他",
+   "pub": "2026-10-08T16:00:00+09:00",
    "event_date": ""
   },
   {
@@ -2692,16 +2712,6 @@
    "event_date": ""
   },
   {
-   "id": "477ac1ec80e5c973",
-   "title": "高梁・変電所で火災 、伯備線が半日運転見合わせ 倒木で架線損傷が原因か",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBUSGdjWkZNY25vOHNib25RMU9UcFNYaTJXd1lHc19GWkJCZkxPcXFGeVhPSHYtOHJieWZ6eGthYXV1S1Q3T2J6V09zb2tvSjRxV2dpREFHNWlkMkxLUkNGdWo5R29yY2xncngwQlFvY3FnNUdfWTBV?oc=5",
-   "source": "sanyonews.jp",
-   "cat": "火災",
-   "region": "高梁市",
-   "pub": "2026-10-03T16:00:00+09:00",
-   "event_date": ""
-  },
-  {
    "id": "aabc880bad89c639",
    "title": "「第38回和文字焼きまつり」にてアキッパの公式駐車場運営が決定",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vTVJhOEdHcDJlS0NNVzlzUGxzd0VZWWlkWWZaS2J0LXJJUnYzeDFUaVNqaWVBd1BYdnA3c1VqdlFBS1NUQUhKU1FnUzNzcmFqeGc?oc=5",
@@ -2762,36 +2772,6 @@
    "event_date": ""
   },
   {
-   "id": "76124315e6b01113",
-   "title": "岡山市の戸建て住宅で水道メーター盗難",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92ZmhTOENKQW1SYUNMdUsySjlEdDVfUWJBeHhVVHhWR1BsYzBxSV9LY3RobS0xYTZNRkVBOXc5RXd6NmlfUHVGLUJrSmlYdU9tNXhvUWxJWmlySlA3N3NtQXp5Nkl1X0E?oc=5",
-   "source": "sanyonews.jp",
-   "cat": "事件",
-   "region": "岡山市",
-   "pub": "2026-10-03T16:00:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "31f98fdb4bd40630",
-   "title": "鳥取の海岸 男性遺体は行方不明の美作高生",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1MQTMzS18wY2x4a2tqNDJ2bFdzWXdDWGI4d2IyOTFTdThOeVlza3ZONGRHTXBCN055MENBMEVQTTU4Z0pvSlpRYjJTajJtcDFlMFl3aGRNYVZWWWtObkFYVW9DOVZWeWM?oc=5",
-   "source": "山陽新聞",
-   "cat": "事件",
-   "region": "美作市",
-   "pub": "2026-10-03T16:00:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "d3785b5dc077aa96",
-   "title": "【岡山・山林火災３日目】鎮圧も見通せない状況 焼失面積が拡大",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5HdjRqcGRxY2ZCUWpfV1kzZnJ1ay1wRmgzVjR1c2JydXN6RVdDbEpHWVQwakNFWGg3Wk9va2d1aEZpakFrWVdVZEFyQjRXZXpDZjQtYUx5ZGx6OWEwT3ZQVGx1T1F0OVBaZzIxZTlwMTBoanBQSHJz?oc=5",
-   "source": "山陽新聞",
-   "cat": "火災",
-   "region": "県内・その他",
-   "pub": "2026-10-03T16:00:00+09:00",
-   "event_date": ""
-  },
-  {
    "id": "da245a3fe8a0bec9",
    "title": "愛犬と一緒に楽しめるマルシェ！岡山県岡山市で「しっぽいち vol.9」開催",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5VVWdXbGtDNWhrSkJWaHdDMHdvYU5XTm1qVTJSNmpiNlhvd3FIWHRjTzZac044SWpLY3NHUlRmSk93cENhX3RaYXY2cUEyNlY3MTd4Y9IBWkFVX3lxTE5VSTIxdl9weDMxWFBJcDM0d25fNnBXeXNyY0FyWE40V041NzRMQzU0TTRseUhGdGhlNFJrdVZ3UlVUN19ScmxrWE9HUU1FbElOVG9IRkhVRzFCQQ?oc=5",
@@ -2832,16 +2812,6 @@
    "event_date": ""
   },
   {
-   "id": "9e04dd36d55d0bf8",
-   "title": "「売却してお金を得るためだった」消防ホースの筒先2本（1万6,000円相当）を盗んだ疑い 土木作業員の男を逮捕【岡山】",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAtWmlwMEx1TEZzTlhWeTFBcnJSZmg1Nk5Uc3NWcFoyanJZaHhRNWtGWnkzbVFYMlozSF9oYWc4bFNNWG9qYXU1OXZBU0o3WkpYTkxuLW5yUThVZFBhV19NNUlOZ05GRnQzeE90eXJuQdIBdEFVX3lxTFB2dnJyd0EwUnVwcXA5eGhHOW1kd1NJUERld25kZnpHeElqbUNnd0dETDRFYlh5bGZucDV6QjJISFlDOUdmS1FQVEpEcmNFdkV1UDVITVFtZGtYeVUybVVONkU2UGxGMno2NU9IbmxGMFZ4SWhC?oc=5",
-   "source": "ｄメニューニュース",
-   "cat": "事件",
-   "region": "県内・その他",
-   "pub": "2026-10-03T15:49:00+09:00",
-   "event_date": ""
-  },
-  {
    "id": "fc8d03c73d9cd2d0",
    "title": "第33回牛窓オリーブ収穫祭2026(岡山県)の情報",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ycDAyX1BacXdldThrUVJTRlhBNjJnM3J0MlBXSVpsam1PTDJVUDRWSWhmNWN2MGs1d0RmV0s1VHZITll5UE51TU9kd0gyY2JQdDJXelZCTGFXUkE?oc=5",
@@ -2849,16 +2819,6 @@
    "cat": "催し",
    "region": "県内・その他",
    "pub": "2026-10-03T15:03:02+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "6c6aa0fd6b874db6",
-   "title": "消防ホースの筒先を盗んだ疑い、68歳男を逮捕 約50本を売却か 管内では30件相次ぐ／岡山・鏡野町",
-   "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOZmUtQmtfUTRvTFVwaXRKdEoxb1BlRGdOLVFMdjVKWW1LelkwYmZhdEplZ0c4WXUwanE0eC1Qd2huWGJ0bDdzR3R0TTh1bTRLWV9HQzVINHdqc0l5bGliMWpJREgybVR3cGF2blRUdW4waHRVeEFkNUR6ZXJnWlp3WTFBREs1bTFuVWdwRzlra0VEYmM1cDFVTjVwbDc2Mnp2MzJRM2RLZ2JsNnBweURQa29mdEVZVVBxVHQyYWo4dW5oV3JOeXhoNXlzS294UTlNVDkzYnZWWTd1YjlPb202MGVPaXNCUDAwc2kta3A2ZXV5RGFFbW0tMXVydXMwVEFUVUp6aTFWZDNIYjJaSWctdlBvZFBma29JWnhnWEFuRzhKVGljYjZ5MWFMNWhzbXQ1RzBlNG5qaTZZRlhRMlFyelRJWkRDd0laWmVPdw?oc=5",
-   "source": "津山朝日新聞社",
-   "cat": "事件",
-   "region": "鏡野町",
-   "pub": "2026-10-03T14:57:53+09:00",
    "event_date": ""
   },
   {
