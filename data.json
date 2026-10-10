@@ -1,6 +1,86 @@
 {
- "updated": "2026-10-10T17:35:49.160193+09:00",
+ "updated": "2026-10-10T21:21:34.525032+09:00",
  "items": [
+  {
+   "id": "324d82b118dacc7a",
+   "title": "山陽自動車道 通行止め 倉敷JCT～早島IC",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9LR1dTQkRXOUlVR1BjLXhYTmVEZkpWcEU3cFFMSFNSTTEzLWxhMGpXaU5Rd2tTakJraUNGbUxkOHA2cTk3OXBCaDlzQXVqeDItVEt5ekNBRmYwd2l1a3Y4?oc=5",
+   "source": "NHKニュース",
+   "cat": "災害",
+   "region": "倉敷市",
+   "pub": "2026-10-10T19:16:54+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "886febdf51045ce9",
+   "title": "【道路情報】車両火災で通行止め 山陽道 倉敷JCT－早島IC（山陽新聞デジタル）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wYjl5N2NBX0NTSXZsekhGNkltVXpsb1VEYUlIZ2VocUtDUHktVldIbkNSM09BT2ZpcXNUUk9VTGJqOW50aU02N2hBQzB2N29EYkNlN2NMcGQtRWQ3XzJTYm1oeC1ZV1hYMmUyek4yTUtvSnh0b3EyakJFeC1keEk?oc=5",
+   "source": "Yahoo!ニュース",
+   "cat": "火災",
+   "region": "倉敷市",
+   "pub": "2026-10-10T19:09:39+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "379fc8414d333bda",
+   "title": "【山陽道】早島支線で車両火災 一部通行止め（10日18:30現在）",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zUWpSMWJlRTRDM18wdFgyZ2pxbU5wMjM5TDBqMjdqUGFBMjljcjVNdTZpZXZnalZMRG0tNFBFd1FqMUFKeW5XNDcxM3pUM21LdXZZb2RhcWQ4bW9NM1lV?oc=5",
+   "source": "千葉テレビ放送株式会社",
+   "cat": "火災",
+   "region": "早島町",
+   "pub": "2026-10-10T18:41:06+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "3db7f168068fb4ad",
+   "title": "ＢＭＸのプロライダーが技を披露 高松市で都市型スポーツを楽しめるイベント開催【香川】（OHK岡山放送）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9peEs5anZhQm9HWWhsMndqbmZWVUh3YS1JWFp1SS1CQXpqQllkRm1WWDdqa3FpdUwxTVJmY0t4Z2g4YmZ3b2l3VmhkWEQtMXB3anQxY1N3aUJCMFdqV3JVaGZHVFg5aWJEX1RJb3p6emtnc0UzS0xwMGI4ZWVJUk0?oc=5",
+   "source": "Yahoo!ニュース",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-10-10T18:26:01+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "7a8747db202982ff",
+   "title": "特別展「セラミック・レゾナンス」備前市美術館で開幕 現代陶芸家の意欲作１２０点が共鳴",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1wWWJtTmhUMXEtTzY1UW9xaWZKRzF3MDZuVExna1ltX3NiWFNwU1o5NVBXT1dFT1dHUUVYNjNNMk82ejE3SUZzYmtlYw?oc=5",
+   "source": "47NEWS",
+   "cat": "催し",
+   "region": "備前市",
+   "pub": "2026-10-10T18:12:11+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "41f2f28dc39ba255",
+   "title": "ミシュランガイド掲載店など岡山県内外の５３店が出店 岡山市でグルメイベント開催【岡山】",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBZUFFJMzdxQjVxZmF6ZTBzTWdOSVRCd0l6ZjA1X0ZYdjM3Tnp6eEtsclJVSmdHb3gtejdXRDBqNEQ3aVVySGlEQ2hFNVhqMk9LamNzcVgxanZqcHdSQjdzXzY1YVRDazFpNEVpUmZ6aDFMUdIBckFVX3lxTFBZUFFJMzdxQjVxZmF6ZTBzTWdOSVRCd0l6ZjA1X0ZYdjM3Tnp6eEtsclJVSmdHb3gtejdXRDBqNEQ3aVVySGlEQ2hFNVhqMk9LamNzcVgxanZqcHdSQjdzXzY1YVRDazFpNEVpUmZ6aDFMUQ?oc=5",
+   "source": "ｄメニューニュース",
+   "cat": "催し",
+   "region": "岡山市",
+   "pub": "2026-10-10T18:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "bc28584e08d22603",
+   "title": "おかやまアーツフェスのメイン期間開幕 演奏や演劇で県都の秋を盛り上げ",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSjlCZG5aMHdaNW5zNlNZb212eTZGRnhpZlF6SnAxTDFTSjJmOWhvV3Y1TWljeEM2ZnptemRfUDA0YjlfWERCZEZDM3FBUGh4TzNtaEtVSXNIU1l2bm5fNjJMcmhHaVFrbmljTURPYk9aY1FjZmllSWt0d0k0ekQ4bTRPNNIBgwFBVV95cUxQSjlCZG5aMHdaNW5zNlNZb212eTZGRnhpZlF6SnAxTDFTSjJmOWhvV3Y1TWljeEM2ZnptemRfUDA0YjlfWERCZEZDM3FBUGh4TzNtaEtVSXNIU1l2bm5fNjJMcmhHaVFrbmljTURPYk9aY1FjZmllSWt0d0k0ekQ4bTRPNA?oc=5",
+   "source": "ｄメニューニュース",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-10-10T17:13:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "ec93f3c8f8c00561",
+   "title": "コーポの4部屋が全焼 3人が病院へ搬送 岡山市（KSB瀬戸内海放送）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92N0d4NUNkck9heUFtTGxHWVA4Y1ZiZGNrNzBvYXkwQmVKUzZMY2tGM25lUG94UVd2dFRQb0pWTUFpSWRvN1JrYVkyVFdtWHlVSEdrU0pUQW5Pa1MzclZQN0pRYmtqRmtXTWJyaWVjV3haYVkxYTBPOHJoQjREZFk?oc=5",
+   "source": "Yahoo!ニュース",
+   "cat": "火災",
+   "region": "岡山市",
+   "pub": "2026-10-10T13:28:04+09:00",
+   "event_date": ""
+  },
   {
    "id": "a689b2dfc6b7ec95",
    "title": "コーポの4部屋が全焼 3人が病院へ搬送 岡山市",
@@ -52,6 +132,16 @@
    "event_date": ""
   },
   {
+   "id": "7e934d3a517ed2e1",
+   "title": "Ｂ’ｚ稲葉浩志さんの誕生日を祝う６２発の花火とファンの大合唱！かつてない熱気に包まれた故郷・津山での凱旋ライブ２ｄａｙｓを追った【岡山発】",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9uOXc0dmgxUjR6YjhBUDNPeDNqQTFKSDRHVnBrREhvdkZ3TTNWX0NuMHVncWFiTzNyS21UMk4xMjlodzlYNllPajFSamdJMjAtTEV6eERCb0tycGh4UnpzNlItbjVaNkx1Zkw3ZTR3?oc=5",
+   "source": "au Webポータル",
+   "cat": "催し",
+   "region": "津山市",
+   "pub": "2026-10-10T07:02:00+09:00",
+   "event_date": ""
+  },
+  {
    "id": "ec724f09b2d14146",
    "title": "【速報】岡山市北区下伊福の共同住宅で火災 3人けが",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RSGhicGx6X0JMMUtHN3l3RnA1ZDkxejV4OHJsd2ZWVEcyd2gxc0hKNVJxN3RZcnJHVEszRkdLbUNBNDZ5aEdza3hQUURTZjF5dVFQdDJxZTJRenFkaGxXWjJOTkVZVm50OW1teGR5Z3c?oc=5",
@@ -89,6 +179,16 @@
    "cat": "催し",
    "region": "井原市",
    "pub": "2026-10-09T20:29:38+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "d3785b5dc077aa96",
+   "title": "【岡山・山林火災３日目】鎮圧も見通せない状況 焼失面積が拡大",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5HdjRqcGRxY2ZCUWpfV1kzZnJ1ay1wRmgzVjR1c2JydXN6RVdDbEpHWVQwakNFWGg3Wk9va2d1aEZpakFrWVdVZEFyQjRXZXpDZjQtYUx5ZGx6OWEwT3ZQVGx1T1F0OVBaZzIxZTlwMTBoanBQSHJz?oc=5",
+   "source": "山陽新聞",
+   "cat": "火災",
+   "region": "県内・その他",
+   "pub": "2026-10-09T19:22:32+09:00",
    "event_date": ""
   },
   {
@@ -1972,6 +2072,16 @@
    "event_date": ""
   },
   {
+   "id": "92012cdc32c76c54",
+   "title": "消防ホースの筒先を盗んだ疑い、68歳男を逮捕 約50本を売却か 管内では30件相次ぐ／岡山・鏡野町（津山朝日新聞）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1naTlBdHYxMTJOYmNFcUljVEtubE9IWEIxNm1ZZXFUb3lNYnd6R3FaZEpsUkZDbC1XWHV6RU5XOXdNdlZ1MjJOdkVzTGtvWjZNVU4xUnNiRHJUek9DcGxWTEg3TjRyMFI3UGxhZEVTSlZRbWx5azBlbS1pT3JYejg?oc=5",
+   "source": "Yahoo!ニュース",
+   "cat": "事件",
+   "region": "津山市",
+   "pub": "2026-10-05T17:01:00+09:00",
+   "event_date": ""
+  },
+  {
    "id": "0f336c2a23f453f3",
    "title": "クレーン車走行 市道陥没 車通行止め、復旧時期未定",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qOEZBWFJ2dGZRVmVHa2x5T0M5ekpNZG5Bbk9oT2V6akNtQThKSExqUVhHYV9wZXRvMEhGTDZkcDhzX1FzNk5maUlOQWlIZnJGa2xrLUJoVmZ0MV94VlJYaGJBRTN2SGs?oc=5",
@@ -2589,16 +2699,6 @@
    "cat": "催し",
    "region": "倉敷市",
    "pub": "2026-10-03T21:31:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "4dd40525894f77fb",
-   "title": "総社 田んぼの中の小屋が焼ける １人重体 １人けが",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4RzNLWm1MemQtSWhSQUFOTHh2aWdTMDczd0U3NzRXWm1NZ3BxZnBmWWM5M2w4TjJ1RTNER1pzSE1WR1pnNllEejF4N2tBbFRrUXk1UUYzZW0?oc=5",
-   "source": "NHKニュース",
-   "cat": "事故",
-   "region": "総社市",
-   "pub": "2026-10-03T20:10:00+09:00",
    "event_date": ""
   },
   {
