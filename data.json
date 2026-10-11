@@ -1,6 +1,16 @@
 {
- "updated": "2026-10-11T05:39:57.136898+09:00",
+ "updated": "2026-10-11T09:11:30.581030+09:00",
  "items": [
+  {
+   "id": "a29107773174d6bf",
+   "title": "出航直後の貨物船（全長72.4m）が乗揚げ事故 けが人や浸水、油の流出はなし 岡山県倉敷市の水島港",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xNThEUUROMnh0azFUbVRZRkIyN3F3SWRWa0JKWlVLaml3d0JuMUpLNmRCLTV5YlZRZTg4M2dkVlRKSVc1bTBDRHhRVWotbGhDWUNZTlREVDVGMWFNNzVha3JDQkdqaTA?oc=5",
+   "source": "TBS NEWS DIG",
+   "cat": "災害",
+   "region": "倉敷市",
+   "pub": "2026-10-11T07:07:00+09:00",
+   "event_date": ""
+  },
   {
    "id": "324d82b118dacc7a",
    "title": "山陽自動車道 通行止め 倉敷JCT～早島IC",
@@ -318,6 +328,16 @@
    "source": "山陽新聞",
    "cat": "催し",
    "region": "高梁市",
+   "pub": "2026-10-09T16:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "2d7bd2f2ef1387b5",
+   "title": "熱中症予防に利用して 浅口市内９公共施設、「涼み処」で開放",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9nV2ttZWFINVZubE1FZmZWSi14M3A4RW9TQ2VaZHRiOHVnc2ExSkpCQV9Fd1YxTjUxczZnYUQ4V1JpaVB5ZktZX055RXc1d1JrQmpLV0RsNXdvRWJBaWhFMThCTjNJdkg4LTVTZFpjZUthbDNNdDdB?oc=5",
+   "source": "山陽新聞",
+   "cat": "災害",
+   "region": "浅口市",
    "pub": "2026-10-09T16:00:00+09:00",
    "event_date": ""
   },
@@ -1142,6 +1162,16 @@
    "event_date": ""
   },
   {
+   "id": "b7812a916855daf5",
+   "title": "ガソリンスタンドの廃タイヤに放火した疑いで従業員の女（23）を逮捕 容疑を認める【岡山】（RSK山陽放送）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1tVnRNS2o5ZEtvTVJoS0YxVno5TjhJODMtT3Fwb3MxaV9OR2NnYm9lLUpRc3hrYlJZeHhuVGJjWXdFUTFOdnlXYTNaOVNTUGdoNGpMUmM1dVlJRHFES3ZLOGZiWUppV01DMmtBd3dKRzNJd3c0OXJCRnBUZ3RUM00?oc=5",
+   "source": "Yahoo!ニュース",
+   "cat": "事件",
+   "region": "県内・その他",
+   "pub": "2026-10-07T18:59:13+09:00",
+   "event_date": ""
+  },
+  {
    "id": "f4c580a4fa9b099b",
    "title": "スーパーに車が突っ込む事故 踏み間違えか 岡山",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE05SUdPR0p1d2p6SXczdEo5Qk5MSFJYSGJwUFBhdXA3ZGhuanNNcWw5Y3pzdzRjRGpKRnhIY3kyWDRYYnFnSlRyVklUX3B6TVNCbmVNYWhOR25raFZlQ1lv?oc=5",
@@ -1757,6 +1787,16 @@
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zbTRoWWdNc2xCUjRUMW1vNXMxMVJlOUZJbFFqN255UWNCZlRFaTZFYy1kVC1TODBaei10NHQyLU1nT08xQkNuR0JpY1hqRVd2UVE?oc=5",
    "source": "山陽新聞",
    "cat": "災害",
+   "region": "新見市",
+   "pub": "2026-10-06T16:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "5f64c63c9ffd2531",
+   "title": "新見の８４歳女性が行方不明 ２１日最後の目撃、身長１５０センチ",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE80STFSYkVleHY3TjVTOHpHOE91Wml4UEFVMG5KbUMwZGpLN0lmbFdGaW5CQVFlNHJkZEt6M1hla0dTNXg4czZZcUlKbkt4RGxQdTJlQnV1OTJWZW82T2pRbkM2MzQyQzQ?oc=5",
+   "source": "山陽新聞",
+   "cat": "事件",
    "region": "新見市",
    "pub": "2026-10-06T16:00:00+09:00",
    "event_date": ""
@@ -2649,56 +2689,6 @@
    "cat": "火災",
    "region": "総社市",
    "pub": "2026-10-04T09:14:01+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "f976ca887043d4cf",
-   "title": "下草が焼ける火事「けが人が1人と黒こげの人がいる」男性1人の遺体 岡山 (2026年10月4日掲載)",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5yOEI0UXUtWnVVVjZtZ3JQUFFDUS1fWFRkRDdyTlhRXzc5Vmo1eVlSMnN4LVNWUzFFYm4za3JCMWs1WlhFRGI2ejhyVm1ROWxudWk5TzZMalFla19DOVE?oc=5",
-   "source": "ライブドアニュース",
-   "cat": "火災",
-   "region": "県内・その他",
-   "pub": "2026-10-04T08:45:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "9797345332277d1a",
-   "title": "【画像】下草が焼ける火事「けが人が1人と黒こげの人がいる」男性1人の遺体 岡山",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE93cnNnc1dwUUNvSkVnc01mV0lMaDJ5aVRTRWhrMW1PMFA1bEFMRDFkVmp3OEdjVkwxRXVYbmpWRVQ2d1dLUU5ObS10RnBkR1BpR05OYWk1TFRPeWlKMGlmeEs4dUlKU1lSdWdyQXN2b0hKVTY0a2ZicTFiVjM?oc=5",
-   "source": "ライブドアニュース",
-   "cat": "火災",
-   "region": "県内・その他",
-   "pub": "2026-10-04T08:45:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "765afb1516f79943",
-   "title": "総社市の休耕田で下草火災 1人死亡1人軽傷見込み 野焼きをしていたか (2026年10月4日掲載)",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1PX3VlN1ZCMWl3UGNuYUZZZ29TUXcwRnQwQm1SRlNQNklDODBqQW92LTlzRzhXckhVMGw1bXRqY1FrVDNOLTNOTmlROEFCS2ZOVF9kUXRUZWw1S01pN2c?oc=5",
-   "source": "ライブドアニュース",
-   "cat": "火災",
-   "region": "総社市",
-   "pub": "2026-10-04T08:22:25+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "bbd8df03c72d62d2",
-   "title": "総社市の休耕田で下草火災 1人死亡1人軽傷見込み 野焼きをしていたか (KSB瀬戸内海放送)",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPX0xtX3E3T21ycHVnUi00aWpZdjBVMjhhWTQ4bGh3amhxb3pZXzF4OGZQMHJkc1FzVWNaeElZUUZrVzc2aVZyUWZaTDVwR2JXZ25EOWYzWF9GMmFqLVVtVHNCY1R5aFZudEZscG1mMHhFeU1EQmFYanFyNmczczNYOVdQSGcxSDN4bHo5NE5n?oc=5",
-   "source": "Yahoo!ニュース",
-   "cat": "火災",
-   "region": "総社市",
-   "pub": "2026-10-04T07:22:16+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "969b8e6cf7db1448",
-   "title": "総社市の休耕田で下草火災 1人死亡1人軽傷見込み 野焼きをしていたか",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1oWjRKeVNoc2JOV1pLeHliMV9MR0ZkdUtsaFFsYnZ1Q1NJallKbHZtVlJydmg3NzF0QXJtbDc5aGg5Z0lzVWZMQjdFSU9yWlpF?oc=5",
-   "source": "KSBニュース",
-   "cat": "火災",
-   "region": "総社市",
-   "pub": "2026-10-04T07:22:00+09:00",
    "event_date": ""
   },
   {
