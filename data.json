@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T09:11:30.581030+09:00",
+ "updated": "2026-10-11T12:14:55.038389+09:00",
  "items": [
   {
    "id": "a29107773174d6bf",
@@ -9,6 +9,16 @@
    "cat": "災害",
    "region": "倉敷市",
    "pub": "2026-10-11T07:07:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "707d5fe14171994e",
+   "title": "山陽自動車道 通行止め解除 倉敷JCT～早島IC",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE50elBPZVQwUE5MaVZjQldnQW9fdzN6YzBuQUtXTnFaNGZUS3JYajFoeUN4TWYwY3lCdVZQc3hGemw2N0cyeVNPcjZtQ2xqVThndzlXTFQ3WS1yMEpzVUVR?oc=5",
+   "source": "NHKニュース",
+   "cat": "災害",
+   "region": "倉敷市",
+   "pub": "2026-10-10T23:11:56+09:00",
    "event_date": ""
   },
   {
@@ -749,6 +759,16 @@
    "cat": "催し",
    "region": "玉野市",
    "pub": "2026-10-08T17:54:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "b2ee72957500afca",
+   "title": "総社 下水管損傷箇所修復へ７日から土壌改良 ６月中旬の復旧完了見通し、通行止めは継続",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4tbGxWU2ZCb2VrMkRkZEZVUXFIazMzaDl5eWlUbzF5RjIxXzBzODVPMXBUVURCY0hMS1Z2el80LU9jb25sbmJkeDNLWVNuS0ZBX3c?oc=5",
+   "source": "山陽新聞",
+   "cat": "災害",
+   "region": "総社市",
+   "pub": "2026-10-08T17:49:02+09:00",
    "event_date": ""
   },
   {
@@ -2679,16 +2699,6 @@
    "cat": "催し",
    "region": "岡山市",
    "pub": "2026-10-04T09:37:05+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "feb747d6ecd6105d",
-   "title": "総社市の休耕田で下草焼き延焼か 焼け跡で男性1人の遺体見つかる (山陽新聞デジタル)",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUVY2bjNDTWNzRy1OUGYxaVNRMXlKdW03NWZwVHdnNHpTRlNGYmdCeUh0ZVMwdlR4d2hTVWlJaFl0aFdlNjNKcjE2ZHp5WkNwcHFPRVNzVEpnaTNuZjRwOW5rNEw1N3BYUGoxZUpQUVFhOGpZVXo5Qk1GaS0tWnVHMjFtTzlJcm5RMVpfRGZn?oc=5",
-   "source": "Yahoo!ニュース",
-   "cat": "火災",
-   "region": "総社市",
-   "pub": "2026-10-04T09:14:01+09:00",
    "event_date": ""
   },
   {
