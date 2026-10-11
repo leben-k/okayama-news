@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11T12:14:55.038389+09:00",
+ "updated": "2026-10-11T15:19:40.266122+09:00",
  "items": [
   {
    "id": "a29107773174d6bf",
@@ -99,6 +99,16 @@
    "cat": "催し",
    "region": "県内・その他",
    "pub": "2026-10-10T17:13:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "f403ef73cc880585",
+   "title": "第55回 北海道の物産と観光展(岡山県)の情報",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4yY3R2QVd5SS1xRGVrZ3pMblhNcGpsZERRLTBnT0Fsd3NYZFlLeDBORmxyT1ROWmM0cFdZSjJzNmNHX2NleVVWckQtWl96YUkxSXQ1MEVoU1V3em8?oc=5",
+   "source": "ウォーカープラス",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-10-10T15:13:09+09:00",
    "event_date": ""
   },
   {
@@ -352,6 +362,16 @@
    "event_date": ""
   },
   {
+   "id": "020e5c9f7185c094",
+   "title": "被災者向け市営住宅確保へ 玉野市、電気や水道常時契約",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA5S2hrZk1UdEVLd204elZTWmVmbjczYzRaLWVJNWplSDNlMlNLOFBtVDhySGZGLVdSaVhLRW44ZXdzZmxRcEJZOEREZ1hkeGd5SVE?oc=5",
+   "source": "山陽新聞",
+   "cat": "災害",
+   "region": "玉野市",
+   "pub": "2026-10-09T16:00:00+09:00",
+   "event_date": ""
+  },
+  {
    "id": "eae61f318c912171",
    "title": "玉井宮東照宮秋季大祭 龍神祭（秋祭り）(岡山県)の情報",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FUzBRVlpZVnljUHpMUU1zRmJSV2lkaHF1NzhxTFR2SWdvOS0taGI1aW5ZZVFIaW5sOTZmVFdRUzd3QjJ1QzAtTC1CZXZMZmR0dkE3RXhaa3lQeFE?oc=5",
@@ -566,6 +586,16 @@
    "title": "園児に暴行した疑い 保育士の男を逮捕 岡山市",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0tcmVSYVA2RWpQNTBVZUp6b3dzcndFZ18tY2lmTURKM1hIOXlUcTNodHpwQm1Mdk9UeENBNmFpaWU4Uk1qUk9FX3BVbWxMSWJyd2todWtHY3dfdDROY1FOWWVNM2llMlJ5Q0xlbmI0bi3SAXZBVV95cUxPR1RxQ3p0MVQzQUdJMHNJZzg0ZzA2Z0trWUQ4MFJtbml1V3NqdExVQXNlOVdiUEMwTENYRkFTTDctUVZtR3QyS1FXVGRaSzVtbWpQWmZTdVJhTU5PU2VUTVl3YTBWRkVNb0pqRU9XN2k0UjE4cEtn?oc=5",
    "source": "ｄメニューニュース",
+   "cat": "事件",
+   "region": "岡山市",
+   "pub": "2026-10-09T09:37:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "f3e2a7e863e1d113",
+   "title": "「保育士として許される範囲のこと」 岡山市の認可保育施設で園児に暴行か 保育士の男を逮捕",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9nbC1sVDQwNTk4anJkR3Nya0hVNDhIYVY4Wi1oajNva19MRzg1THNYdmlvdk1EcVYwYThmUWFfNVZObUIzT3FBQjFZcUZuZDRRZXViYUhuSU1ST0pHT193?oc=5",
+   "source": "ライブドアニュース",
    "cat": "事件",
    "region": "岡山市",
    "pub": "2026-10-09T09:37:00+09:00",
@@ -828,6 +858,26 @@
    "source": "山陽新聞",
    "cat": "火災",
    "region": "総社市",
+   "pub": "2026-10-08T16:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "626adac76c572e28",
+   "title": "西大寺会陽３人死傷事故で現場確認 原因究明に向けて岡山県警",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBaam85N3R0WEdjbGtEYTk4THByYVVSVG9Wdm9rUGdSM3plbURYUlBBUVZUWkpIbmlhLVpGaFd4QUs0R2RsTXBhOERKLUlKdXd0WUE?oc=5",
+   "source": "山陽新聞",
+   "cat": "事故",
+   "region": "県内・その他",
+   "pub": "2026-10-08T16:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "633d331a697c39d4",
+   "title": "【ズームアップ】児島署長になった山本俊二さん 詐欺被害 署員一丸で抑止",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BRHdpMmE2dkxwaWVERWw0eHdNOHpxSUVNSTdBLWplbjFFUHlRaXpzTFhVUFJsQjVkQkZYejJ6R0R4eVVQY2ZvTERBdmpFSm9BSUE?oc=5",
+   "source": "山陽新聞",
+   "cat": "事件",
+   "region": "県内・その他",
    "pub": "2026-10-08T16:00:00+09:00",
    "event_date": ""
   },
@@ -1482,6 +1532,16 @@
    "event_date": ""
   },
   {
+   "id": "6be39033a29ceea0",
+   "title": "海岸で発見された身元不明の遺体 沖に流され行方不明になっていた岡山県の男子高校生と判明 鳥取県岩美町（日本海テレビ）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKX3d0X2lSbjF0cW91c2NFa3kxV2JkejY0Xzd4NjJ2ajBFaE43TzIwR1BndjJYRlYwc3NkOTl0ZE1tcGZYN2ZiSnJOckU2WWhNaFV4RHpmZjUtU0tpaTAtdnlHNXlTYnV1OWZIenRTV1NwajFwaTB0OEc4eGVWOG8?oc=5",
+   "source": "Yahoo!ニュース",
+   "cat": "事件",
+   "region": "県内・その他",
+   "pub": "2026-10-07T00:02:00+09:00",
+   "event_date": ""
+  },
+  {
    "id": "a97e5b62a5d283fb",
    "title": "路線バスと車2台絡む事故 4人軽傷、岡山",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qZGlGNjZPWGVFTXlobkhSMlVnZVFBX0NlM1RVc3dIVXhQeFlGZ284REtESUhyRzY4YUluNnN1clI3NkNMdmZ0YUhSdXpYaTRxdHhYX29xM3F2Xzl6N2hMenYxQkRzVWxmZ1ZCNTd3b0FXLU0wY2c?oc=5",
@@ -2012,6 +2072,16 @@
    "event_date": ""
   },
   {
+   "id": "0d299ebdd13fc1d1",
+   "title": "倒木直撃で作業員死亡 岡山県内の会社と現場責任者を書類送検（山陽新聞デジタル）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4VVhOTW9RcExjdWU2QmNrZWdkS0ZVQVN4ajRXSHFSSkdydHVrLXlmM2tJVnphNUxWSWVjYUV0OXFBX3dhb2hwenpmcWNGbjQ0Szh0WGUzOWdLc1ZJNGRuTUVRanBMMFBoeS1YclV4ZEU5WHpJVnVhbDhBUFhwckk?oc=5",
+   "source": "Yahoo!ニュース",
+   "cat": "事件",
+   "region": "県内・その他",
+   "pub": "2026-10-05T20:08:23+09:00",
+   "event_date": ""
+  },
+  {
    "id": "5aa06c0edbd439b1",
    "title": "倒木直撃で作業員死亡 岡山県内の会社と現場責任者を書類送検",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2blJRWXRrTGxQenRHMTFaVVRUbEVPbWNRUmN1Vkh6ZWhZWF9PR3Z1WkdGRVNKZDhCOU1uejlkQjFLWjJFc2Y4MEpmeGNBV2tSMzV6SHBKSzZpWWxyZXI4?oc=5",
@@ -2188,6 +2258,16 @@
    "source": "山陽新聞",
    "cat": "災害",
    "region": "県内・その他",
+   "pub": "2026-10-05T16:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "3da1c076e191b1d2",
+   "title": "夕日と星楽しもう ９、１０月 美作でキャンプイベント",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zdkpWQlVENDU5a2lLdU94eG1FNWJpZXRaOW1GcWxkZTlJZnNSZFZMbGZibGdxRF9CbVhDZURueHNkM0l0NTIxbTZzTGVsUjRid2c?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "美作市",
    "pub": "2026-10-05T16:00:00+09:00",
    "event_date": ""
   },
@@ -2572,16 +2652,6 @@
    "event_date": ""
   },
   {
-   "id": "621a2683a882eb1a",
-   "title": "国宝・講堂を火災から守れ 備前・旧閑谷学校で関係者ら訓練",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZOS1YRWdFbE1sSTI1N0xXb04wV2pnemNORkVzN244LXBOSXNPTXBlRjU3Y0U4MUYxcEh4VmFYWlJfQ3lYekhKeGNMdzZMWEl1Tmc?oc=5",
-   "source": "山陽新聞",
-   "cat": "火災",
-   "region": "県内・その他",
-   "pub": "2026-10-04T13:46:29+09:00",
-   "event_date": ""
-  },
-  {
    "id": "9715b76c6110ba66",
    "title": "吉備高原の魅力を発信「吉備高原フェスタRSKラジオまつり」アナウンサーも集合【岡山】",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE02X0xHY1UxQmFEb2RwNHBrN3hhTVhKZjgzZWlwazgzVDRSSUMwMWRpN1FOMmlaSFBGYnVhU0dWT242S1g0MGIta1Rpa2pkVUoyZG9JSmdzYnBiZFVvYTJ0bkJDWlhKa0JmeGg0ZGdjekV3aWpp0gF0QVVfeXFMTTZfTEdjVTFCYURvZHA0cGs3eGFNWEpmODNlaXBrODNUNFJJQzAxZGk3UU4yaVpIUEZidWFTR1ZPbjZLWDQwYi1rVGlramRVSjJkb0lKZ3NicGJkVW9hMnRuQkNaWEprQmZ4aDRkZ2N6RXdpamk?oc=5",
@@ -2599,16 +2669,6 @@
    "cat": "催し",
    "region": "備前市",
    "pub": "2026-10-04T12:34:48+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "40809fa5a3774d29",
-   "title": "総社市で下草火災 １人が死亡 【岡山・総社市】",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5UbGVLdEN6ZWNiRHRhUHU4SzV6OTYyS2RIN0w3UjBnb1BSc3FIYlhSMHloR1B2dThTVGNabk5VWEFyNGN1aHlydGoweEdIV3BYWFBTXzBLdjVRSTFjdXBQWTdBTzVnZkdSRDJxUDlR?oc=5",
-   "source": "Excite エキサイト",
-   "cat": "火災",
-   "region": "総社市",
-   "pub": "2026-10-04T12:17:00+09:00",
    "event_date": ""
   },
   {
