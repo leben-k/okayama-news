@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T16:37:51.848773+09:00",
+ "updated": "2026-10-12T18:02:51.576785+09:00",
  "items": [
   {
    "id": "7b8b3ed13123e37b",
@@ -229,6 +229,16 @@
    "cat": "催し",
    "region": "玉野市",
    "pub": "2026-10-11T17:18:02+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "001d47cc5b14bc56",
+   "title": "歌とダンスの祭典「Own Your Light」に向け合同練習 Lugz＆Jeraさん（岡山出身）ら総勢300人のステージに",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPdnlINlFvMmF6UlRMcHFMT1ZPa2FQWUc2Q0hDMjJCXy1qWHh4Z0pjUG1aOVVhclU2OEtlZkRoLXFmbVBPSldYVVRZaFFDSjFmSVU5bGdVSkoyZw?oc=5",
+   "source": "TBS NEWS DIG",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-10-11T17:00:00+09:00",
    "event_date": ""
   },
   {
@@ -998,6 +1008,16 @@
    "source": "山陽新聞",
    "cat": "催し",
    "region": "赤磐市",
+   "pub": "2026-10-09T16:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "02fa9ef65f5d20f0",
+   "title": "全焼のコープ総社東店建て替え 来春に営業再開へ",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA5Ri01UzFuVnBnci1lVTNwdlBoaC1Rb29rT05YdUt0UGtnT2cyOHdjeVl6RndoV2pJS1JPUEMza29yRllJZGQxcjluc181QkxpVUE?oc=5",
+   "source": "山陽新聞",
+   "cat": "火災",
+   "region": "総社市",
    "pub": "2026-10-09T16:00:00+09:00",
    "event_date": ""
   },
@@ -2959,26 +2979,6 @@
    "cat": "事故",
    "region": "玉野市",
    "pub": "2026-10-05T18:04:12+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "1adc461e49a5960b",
-   "title": "わいせつ動画、第三者に送った疑い 男逮捕 倉敷署",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zd19pMGM3cW1QcExGNkxaWkJoTC1yUDNaeG9nWk5ybGVwTHZCNXppOWtMYWtlWnlPMTRaUjc5MnlCRW41Ml9JMktWRjNxS2NabHBZNFpueTlFNWExWjBoSHJXWl83SzA?oc=5",
-   "source": "山陽新聞",
-   "cat": "事件",
-   "region": "倉敷市",
-   "pub": "2026-10-05T17:11:07+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "92012cdc32c76c54",
-   "title": "消防ホースの筒先を盗んだ疑い、68歳男を逮捕 約50本を売却か 管内では30件相次ぐ／岡山・鏡野町（津山朝日新聞）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1naTlBdHYxMTJOYmNFcUljVEtubE9IWEIxNm1ZZXFUb3lNYnd6R3FaZEpsUkZDbC1XWHV6RU5XOXdNdlZ1MjJOdkVzTGtvWjZNVU4xUnNiRHJUek9DcGxWTEg3TjRyMFI3UGxhZEVTSlZRbWx5azBlbS1pT3JYejg?oc=5",
-   "source": "Yahoo!ニュース",
-   "cat": "事件",
-   "region": "津山市",
-   "pub": "2026-10-05T17:01:00+09:00",
    "event_date": ""
   }
  ]
