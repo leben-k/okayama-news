@@ -1,6 +1,46 @@
 {
- "updated": "2026-10-13T12:12:05.756220+09:00",
+ "updated": "2026-10-13T17:21:10.436841+09:00",
  "items": [
+  {
+   "id": "6209e1c93fc34061",
+   "title": "コンフォールひなせ朝市＆秋の感謝祭",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKT1VyYjU5RGdlMkJraEZUTlNhakJJdy0tNHI3SE85UVRXWUpyaDdaOWpjaTF2RC16MHRuc2NGTXplbUFselloOHlzcVBhUWdaLXZyN0NZLXpZUWFhVFkwR3BlaGc?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-10-13T15:25:45+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "1869996716b54d47",
+   "title": "２日間で１０万人見込む 秋恒例の「備前焼まつり」が１０月１７日から開催【岡山】（OHK岡山放送）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE03b19HbDQ5WjZjQ1JfUVFyM1ZjS01Ebnl6bktXS3NLVUtuMkdEUjhOTlhjLXozdUJhRVZTX1ZXdHkwWk01ZEZ2STI5dlQ2Q3pWSXAyc3EwRjFxWVNNYkpobTBqbXNsM3AwcUNjMVowb1JONHJuTzlWb2xhblVBZHc?oc=5",
+   "source": "Yahoo!ニュース",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-10-13T13:10:01+09:00",
+   "event_date": "2026-10-17"
+  },
+  {
+   "id": "1644fb4781f1a677",
+   "title": "２日間で１０万人見込む 秋恒例の「備前焼まつり」が１０月１７日から開催【岡山】",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9kUWEwYkZuUnJxclU4VEhmdzRJaV9pdEdiTXdWdDctSnhGTmVER0FrckI1d09xdTNhZnY0QnVBQmdod2VIRThNUHRxdXk1QWhMbzhJekktTVZQbDVGdnVybE03NGE1MHlnOS1IVEFUQTE5d9IBckFVX3lxTE9kUWEwYkZuUnJxclU4VEhmdzRJaV9pdEdiTXdWdDctSnhGTmVER0FrckI1d09xdTNhZnY0QnVBQmdod2VIRThNUHRxdXk1QWhMbzhJekktTVZQbDVGdnVybE03NGE1MHlnOS1IVEFUQTE5dw?oc=5",
+   "source": "ｄメニューニュース",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-10-13T13:00:00+09:00",
+   "event_date": "2026-10-17"
+  },
+  {
+   "id": "913cbe4b744bc617",
+   "title": "サッカー佐野海舟選手(津山市出身)のドイツリーグで着用のシューズを岡山県庁に展示 10月19日から",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9UYm9tQXJSV1l3cGJtaV9WODdnaHZGYUtXY2ZVdUQwXzhaWmlHdEdOekRzaEE0SFNIUWZQZXIyaEQyVEhNa3ZBSnBmYjVYNXptTEt1N0cyb0FIOW1wVy1WQkY3SzFBVG03QVlvMG93?oc=5",
+   "source": "Excite エキサイト",
+   "cat": "催し",
+   "region": "津山市",
+   "pub": "2026-10-13T11:55:00+09:00",
+   "event_date": "2026-10-19"
+  },
   {
    "id": "60cd9ad3043dcba3",
    "title": "JR山陽線の新倉敷駅～金光駅間 列車が人と接触 順次運転見合わせ",
@@ -29,6 +69,16 @@
    "cat": "催し",
    "region": "倉敷市",
    "pub": "2026-10-13T10:00:02+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "4de097a3382c907b",
+   "title": "「室内でコードが燃えている」と妻が119番通報 住宅1棟を全焼 住人は逃げ出して無事【岡山】（RSK山陽放送）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92M09OOTVtSVZTdHhKYlhzUmtHNm9fMVo4emJXaWpVR3VjLWtfM053UFZEYkpvR1JVelhaeDV6WEx5SURjcnlSVEJaUUVsdWk5SUJYQzcwZWtzMW9JaWx1OGNNOExtSi1fUUkxeUN6cWNBamg1ekVoeFljVTBaeUU?oc=5",
+   "source": "Yahoo!ニュース",
+   "cat": "火災",
+   "region": "県内・その他",
+   "pub": "2026-10-13T09:20:26+09:00",
    "event_date": ""
   },
   {
@@ -762,6 +812,16 @@
    "event_date": ""
   },
   {
+   "id": "0dcb82e79536ddd1",
+   "title": "夜空に大輪咲く 仕掛け花火、見物客ら魅了 高梁市成羽町「成羽愛宕大花火」",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9IUllsaFc4MVdKb2JFZ2NtQm1TY2NIMDJ4bWY2LXppU09wbVRka1RILVFLbmJlSWlFYlE1SEZOR09XdW1WbFd4QTROS002emctOTgzaXdWV3ZJaWJzVURtaW9wQUMwR28?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "高梁市",
+   "pub": "2026-10-10T16:00:00+09:00",
+   "event_date": ""
+  },
+  {
    "id": "f403ef73cc880585",
    "title": "第55回 北海道の物産と観光展(岡山県)の情報",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4yY3R2QVd5SS1xRGVrZ3pMblhNcGpsZERRLTBnT0Fsd3NYZFlLeDBORmxyT1ROWmM0cFdZSjJzNmNHX2NleVVWckQtWl96YUkxSXQ1MEVoU1V3em8?oc=5",
@@ -849,6 +909,16 @@
    "cat": "火災",
    "region": "県内・その他",
    "pub": "2026-10-10T11:20:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "12e09c3e3fe8b05c",
+   "title": "被災地や戦下の人に手編みの暖 岡山の女性ら、ひざ掛け贈る活動続け [岡山県]",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1NV2JTMm82RjVIRDY0U1NDQlo2R3g2UTMwRV9zODFTdjczcUdwUGxUSm43cGpteERGS2lPSnNIUElKVGdmTGpmZl9PUVJqSVNzVVdlNFFnR3M0WG9qV0NBcDl0d2hNVkU?oc=5",
+   "source": "朝日新聞",
+   "cat": "災害",
+   "region": "県内・その他",
+   "pub": "2026-10-10T10:15:01+09:00",
    "event_date": ""
   },
   {
@@ -1749,6 +1819,16 @@
    "cat": "災害",
    "region": "総社市",
    "pub": "2026-10-08T17:49:02+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "c49471c4cd2ebec3",
+   "title": "過去最大の山火事 復旧進む現場 岡山市（2026年10月8日掲載）｜RNC NEWS NNN",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMVo5am51SFBTLTZTcFk5RHl3aDdvUDIyb1J4SW5nV2NUYWowMEF2OHVGNUU2R0NWeC1iY3BNS2ppVWRGOVVxY29pV3FkaFdYY2RETGNmekhSLXRoWVpLZjF6ekZ2ZDVNWVdMakdQckF1bGZ2M0VLV3hyaDBybm1mWkJtQTFpRXM?oc=5",
+   "source": "日テレNEWS NNN",
+   "cat": "火災",
+   "region": "岡山市",
+   "pub": "2026-10-08T17:18:00+09:00",
    "event_date": ""
   },
   {
@@ -2870,166 +2950,6 @@
    "region": "県内・その他",
    "pub": "2026-10-06T17:23:00+09:00",
    "event_date": ""
-  },
-  {
-   "id": "3c2638d808288f58",
-   "title": "キツネの顔の形そっくり？ 岡山・高梁市特産のナスのなかま「フォックスフェイス」のイベントが10月16日に開催",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5oM1ZycHZ4bkxfOE80OGtSaExsa0lxdXVsWm9xTHFzR2wtdWV5dHozLXB1MVFpRzlTdlNtNVBOMEdab1h5NUVTTmtSMG1OcFJt?oc=5",
-   "source": "KSBニュース",
-   "cat": "催し",
-   "region": "高梁市",
-   "pub": "2026-10-06T17:14:00+09:00",
-   "event_date": "2026-10-16"
-  },
-  {
-   "id": "f9d50cbbca78e8fb",
-   "title": "無免許でひき逃げか 48歳の容疑者を逮捕 岡山県警",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE95anVEcnoyMDFmQVNlWUYtQ2lmMzE2aGRDc2Rjd3llY1hNbmNZZjBMdkxKOF9wVmdDa3BpSmtnZ0JHVndHYzBtbFBHQmlvREsyeEdyYkdtdjBqWDBqZHE4?oc=5",
-   "source": "NHKニュース",
-   "cat": "事件",
-   "region": "県内・その他",
-   "pub": "2026-10-06T16:42:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "0296fe99bd896551",
-   "title": "岡山市の４３歳男を組織犯罪処罰法違反の疑いで逮捕 海外拠点の詐欺グループ内で「かけ子」管理か【香川】",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE54Y1FYUGNQdjU3MjB2bzlGcHFKTnhyazItbXl0bkpLdzUydnFvWVVxdDNWYXFXekNkRkdtaUpNRXczalc3QnBocGFWUjFHVklz?oc=5",
-   "source": "ohk.co.jp",
-   "cat": "事件",
-   "region": "岡山市",
-   "pub": "2026-10-06T16:30:28+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "bb2cee859b79d771",
-   "title": "ファジ観戦で出会いを ２５日 岡山でイベント",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBsb2JwUWxxTG42X0JXUTktemppak1ya1hicGg0ZGNwZ1pwSGdTSy1qYko5T1dnNWdvR0pTUEdPQnJPT3VhTHQtT09pcWRKUDBXT2ZzdEM2VXE1VTVqNnVNcFN6MFUtaE14dG14WXNCSkZrWjhkbGZ1aVRtNnZmd9IBgwFBVV95cUxOUkl4SktPdzJaejhHQnJpbzh3b05rcnZtcHJYMGs4Vmo2ODJWS2s5Y0JTd2Z3SzV6ZExYRl9RVVJmWnVCcGJUcWtyRW5sQ3BpMHhpUkNVMHZYS1U3S2UzeDduR2FrbmNKbm84aXBWMmVuaWxIcXhMbk16cnlSN2lHTG1ZWQ?oc=5",
-   "source": "ｄメニューニュース",
-   "cat": "催し",
-   "region": "県内・その他",
-   "pub": "2026-10-06T16:30:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "7bbeaef0004ed5e0",
-   "title": "廃タイヤなどに放火 容疑で女逮捕 総社署",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAyX0piZEJrTXoxX29lYVBKNy1raTQ0MEpoZm1SMjJqdzVWWW9fM2RuOUxfWWZXcTUwY2paYVdNck5CNlRNQm9LZHdqTF9tMl9nTVE?oc=5",
-   "source": "山陽新聞",
-   "cat": "事件",
-   "region": "総社市",
-   "pub": "2026-10-06T16:00:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "10b6608362aae717",
-   "title": "【牛窓花火大会の復活とマリンスポーツによる観光振興へ】岡山県瀬戸内市が地域おこし協力隊3名を新たに任命[岡山県瀬戸内市]：山陽新聞デジタル｜さんデジ",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fWnpuYU0tNHl0WkoxNkFrbENUOVJ3QUFnbGRLSUlvdU9nSXV6OG8xTXJWSzFYRHdrejMwc0NvN2J3cFlOcHVaaGRFZTh3RjlfcFBQaHV2bWVTZnNUQ2dVdmhtdEFlNGs?oc=5",
-   "source": "山陽新聞",
-   "cat": "催し",
-   "region": "瀬戸内市",
-   "pub": "2026-10-06T16:00:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "fe023ba77b1b883c",
-   "title": "【災害から学ぶ】住民グループ発足 防災・減災の要 高齢化進み共助の維持課題 鳥取県西部地震で被災の新見市千屋地区",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zbTRoWWdNc2xCUjRUMW1vNXMxMVJlOUZJbFFqN255UWNCZlRFaTZFYy1kVC1TODBaei10NHQyLU1nT08xQkNuR0JpY1hqRVd2UVE?oc=5",
-   "source": "山陽新聞",
-   "cat": "災害",
-   "region": "新見市",
-   "pub": "2026-10-06T16:00:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "5f64c63c9ffd2531",
-   "title": "新見の８４歳女性が行方不明 ２１日最後の目撃、身長１５０センチ",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE80STFSYkVleHY3TjVTOHpHOE91Wml4UEFVMG5KbUMwZGpLN0lmbFdGaW5CQVFlNHJkZEt6M1hla0dTNXg4czZZcUlKbkt4RGxQdTJlQnV1OTJWZW82T2pRbkM2MzQyQzQ?oc=5",
-   "source": "山陽新聞",
-   "cat": "事件",
-   "region": "新見市",
-   "pub": "2026-10-06T16:00:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "639bc83897ce0856",
-   "title": "車の中でコカイン0.083gを所持した疑い 岡山・北区の建設業の男を逮捕",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBoR3ZlamtOTGRwY1NCNl8xQ2VLQzZtVnJFd05zMU12SDZYWTYwaEVNdWd5UElvcG9IeXY0TlJNS2RZWW9fbkx2THpWUUxKVEwyN3VLODNSekNHc3dXaEJvVERrY9IBY0FVX3lxTFBoR3ZlamtOTGRwY1NCNl8xQ2VLQzZtVnJFd05zMU12SDZYWTYwaEVNdWd5UElvcG9IeXY0TlJNS2RZWW9fbkx2THpWUUxKVEwyN3VLODNSekNHc3dXaEJvVERrYw?oc=5",
-   "source": "Infoseek",
-   "cat": "事件",
-   "region": "県内・その他",
-   "pub": "2026-10-06T15:07:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "0ddd8744cc1250ba",
-   "title": "コカインを所持した疑い 建設業の男（28）を逮捕 【岡山】（RSK山陽放送）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5PSDNFNGpUQ2VKQV9lOW5sOFQ0SU51VzdlZzJMOTg2dHowZzhPOGhiblNrT0ZwUVJ6VEk4SFZSbnVDOXhMZ09FM2tmN01hUnQ4M3h0V2dOOEZkNE9XUTFSSklSNzE4SC1IdEpqRlJCOHg5blRPbmxxZXk1T2dYejQ?oc=5",
-   "source": "Yahoo!ニュース",
-   "cat": "事件",
-   "region": "県内・その他",
-   "pub": "2026-10-06T14:54:19+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "12f426ed38749918",
-   "title": "コカインを含む粉末1袋（0.083g、末端価格1gあたり2万4000円）を所持した疑い 建設業の男（28）を逮捕 【岡山】",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1VdllwZkM4UEZvd2ZucTdNbzhKRnJnNXVmdllEQkV4N0Z2OTZjZ1BwX0Nua1VLaFFfOVYzSUZRMlh4N0FETVd5ekZjZE1kWVo4RFI1bXdMX0p1SzJ5NXNDS3FGVUpKQm8?oc=5",
-   "source": "TBS NEWS DIG",
-   "cat": "事件",
-   "region": "県内・その他",
-   "pub": "2026-10-06T14:50:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "76e0552534fa1407",
-   "title": "「大学があれば地域に人は残るのか」 岡山とスウェーデンの大学が地域の人材育成を考える OLIVE設立へプレキックオフイベント",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1PVVlJdElVRUdnYmV5bWNwWEZuaDd5MGk0RjNqa21MbWZMLWJaYXZBWXFuZzNlNDgtZzlGUlFLV1RfVXRJSldfTE5wTnlIRENBRlBsNFFxcGFXbTlOakpzVUFxaEl2UmJIS3p2UlhDd1bSAXZBVV95cUxPbk5vMVVVeWdrckdPeHR4ZzU4aExPRTBERkVOTmNpaTVSaV9aWHRCRmZSTm1UZEZnRzFJQzRnMFgzT0VPR0p0SS1uZlVyWVl2M2JRTWNRYzRKNVo3Z2otQm5pNk1FN0h4TTd6ZXF1QTNRS3pSU0dR?oc=5",
-   "source": "ｄメニューニュース",
-   "cat": "催し",
-   "region": "県内・その他",
-   "pub": "2026-10-06T14:44:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "951a98c2db863b1e",
-   "title": "知人男性から財布脅し取り集団で暴行か 10代〜20代の3人逮捕 岡山・倉敷市",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBNVzhrS0VSR2dSTEFiUXFPeEJGSE84ZEd1ZVZFeDk5X2V5QVVlemM2TXdpNlpPd3J6RGNNdGZRNVRyZ0hxR0xCVU1QcHNTeERWMXJjWlhrTkplaEJDYnZSeTY5ZVNPQ1lwQi1GRGlxYkjSAXZBVV95cUxQRDFqc2lPNV9tR2c5MnpjbXlGY21KZTZ3am9nWml6S2dBZ2oyR1JHdERQclo3ZTRzZXhXMHZjU3hYbGttQTVLaTBEcGluSXpYMkpuZUJ1bnZNclRueC1mMWxvV1R4SjVRRUlSQzdRZW1EeDlNMzh3?oc=5",
-   "source": "ｄメニューニュース",
-   "cat": "事件",
-   "region": "倉敷市",
-   "pub": "2026-10-06T14:29:05+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "0395523058fee510",
-   "title": "「おしごと体験はどうだい？in岡山」～こどもと中小企業をつなぐプロジェクト2026～岡山の中小企業とこどもたちをつなぐ職業体験イベントを2026年11月29日(日)岡山県岡山市で開催！",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9BVEkyTFRzbndYdF9iV3ZYS1poQWVqcHA0S1NJdVRHeEJydDIxRzhScGc0ZEhKdy1GQjhLNV9XS1FfYll0LW1rSl80eTA5a0FHMUQ1VWRBcTFvNGxiNHRrSlNlSG4yelF2UWRN?oc=5",
-   "source": "時事ドットコム",
-   "cat": "催し",
-   "region": "岡山市",
-   "pub": "2026-10-06T14:16:00+09:00",
-   "event_date": "2026-11-29"
-  },
-  {
-   "id": "3c2b3ca7b253de50",
-   "title": "磐田市・玉野市の両首長が語る、「選ばれるまち」になるための次の一手を探る 『首長シンポジウム』を11/9にオンライン開催",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9FbTA3eHRpb3BQUGdZNFVJZjQzTUxWQ2lhbi1ZUE05dTJZUDNjY0pqRzVMV1J5a05oZWVSMjQ2VXczekMzWW9UNDVxcU41YUJ0a2NwUmdfc19UQTA0TUYxSkdB?oc=5",
-   "source": "ライブドアニュース",
-   "cat": "催し",
-   "region": "玉野市",
-   "pub": "2026-10-06T13:00:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "b5d3257ccacae2cc",
-   "title": "「おしごと体験はどうだい？in岡山」〜こどもと中小企業をつなぐプロジェクト2026〜岡山の中小企業とこどもたちをつなぐ職業体験イベントを2026年11月29日(日)岡山県岡山市で開催！",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9tMm5zbGF3U0JwYUtwQ1VIelNaUDJEbDAtZmdoUnV5Z3lrN29TSDN1dEkzcnhnQTRxeXNpaktjMDhjc011Z1FpTmF5aVFleTVZQXpVd1ViQ3QxcXg5ZldkWHpBY3ZJc01MQ2c?oc=5",
-   "source": "PR TIMES",
-   "cat": "催し",
-   "region": "岡山市",
-   "pub": "2026-10-06T12:24:43+09:00",
-   "event_date": "2026-11-29"
   }
  ]
 }
