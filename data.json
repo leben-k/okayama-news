@@ -1,6 +1,46 @@
 {
- "updated": "2026-10-14T01:21:15.144218+09:00",
+ "updated": "2026-10-14T06:20:01.415866+09:00",
  "items": [
+  {
+   "id": "0a23c8126e2660aa",
+   "title": "【岡山地方気象台】気象特別警報・警報・注意報「【岡山県気象警報・注意報】注意報を解除します。」",
+   "url": "https://www.jma.go.jp/bosai/warning/#area_type=offices&area_code=330000",
+   "source": "気象庁",
+   "cat": "災害",
+   "region": "県内・その他",
+   "pub": "2026-10-14T05:55:13+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "fdca4a6924e72e14",
+   "title": "【岡山地方気象台】気象警報・注意報（Ｈ２７）「【岡山県気象警報・注意報】注意報を解除します。」",
+   "url": "https://www.jma.go.jp/bosai/warning/#area_type=offices&area_code=330000",
+   "source": "気象庁",
+   "cat": "災害",
+   "region": "県内・その他",
+   "pub": "2026-10-14T05:55:13+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "11ce3fec9a483cb5",
+   "title": "【岡山地方気象台】気象警報・注意報（Ｒ０６）（その他注意報）「【岡山県雷注意報】注意報を解除します。」",
+   "url": "https://www.jma.go.jp/bosai/warning/#area_type=offices&area_code=330000",
+   "source": "気象庁",
+   "cat": "災害",
+   "region": "県内・その他",
+   "pub": "2026-10-14T05:55:03+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "f97fcf034435d500",
+   "title": "岡山：火災時救出方法 東疇小が訓練、岡山市南消防署などと：地域ニュース",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9wZmJjakxrVlVwS21GN0tkOWdkSmhwT29UOGVuZ3VncWRUXy1QOE9qUlhkNHN0NDlSbnI4YUM3RV8xbVFsMUN1TEM1ZG5kTTYwZk5abDV5eDF2dmtTSnkwVVVEdVM5UmdnWlBSWDZ4WGxmUms?oc=5",
+   "source": "読売新聞",
+   "cat": "火災",
+   "region": "岡山市",
+   "pub": "2026-10-14T05:00:00+09:00",
+   "event_date": ""
+  },
   {
    "id": "b23195306df45618",
    "title": "【岡山地方気象台】気象警報・注意報（Ｈ２７）「【岡山県気象警報・注意報】岡山県では、落雷に注意してください。」",
@@ -29,6 +69,16 @@
    "cat": "災害",
    "region": "県内・その他",
    "pub": "2026-10-13T18:43:36+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "c5a2f9b8c3ae884a",
+   "title": "傷害、恐喝の疑いで３人を逮捕 倉敷署",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Pc1RLQWgxcmdZVHBKaHN1bENVUHNkNEllOE9oaUg2bG1uOThpVk1odXdXMjhQUHdDOHNuSmItMFNhWjlxVGJONk1OUVRmdFFYZW9Oc0szQUVQZTFPbHJ3X1NlbE11enM?oc=5",
+   "source": "山陽新聞",
+   "cat": "事件",
+   "region": "倉敷市",
+   "pub": "2026-10-13T18:35:26+09:00",
    "event_date": ""
   },
   {
@@ -272,6 +322,16 @@
    "event_date": "2026-10-18"
   },
   {
+   "id": "8369e09f017ac8a2",
+   "title": "道の駅 笠岡ベイファームで秋を楽しむ「15周年感謝祭」 10月18日開催 岡山・笠岡市 (2026年10月12日掲載)",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XMndGQ0lTTXBXNmVORjJZLWtKQXh0aTZRSXBtdzZSRkRHeVBWX3k2ZHc2cmZWVXd3eVV5VGhObElFdUxWUWh1QU9MSl9MRF9YQXV6Z2RiT2JKUWs2LXc?oc=5",
+   "source": "ライブドアニュース",
+   "cat": "催し",
+   "region": "笠岡市",
+   "pub": "2026-10-12T15:57:00+09:00",
+   "event_date": "2026-10-18"
+  },
+  {
    "id": "7b8b3ed13123e37b",
    "title": "美咲町で婚活イベント「秋風薫る まきばの休日」参加者募集 11月15日開催 岡山（KSB瀬戸内海放送）",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSckNQV1dEUmdUbXhHeUVUOEVrV3FVZXByMzYtV0FzYzdMQVpJbWc1SDVQYUtRSlFaUjNteDBTVGhyVDF5NVhPVkR2ZmgwVmRzT3JnNUlDVW9VN0doY0NBX0x0SjM2U01scFQzSlRMWE1fMjZqdmJUWHpSQUg5Qm8?oc=5",
@@ -359,6 +419,16 @@
    "cat": "催し",
    "region": "岡山市",
    "pub": "2026-10-12T12:08:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "58fe2854119835ad",
+   "title": "「スポーツの日」に市民参加の体育大会 リレーや長縄とびなど約2600人が参加 世代を超えて交流【岡山】",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fS19hOHIwNUl4RmtQUTJPeExLaWxBZFUxZmZfSFVLTTVwNlV5QVpqTHBCeXFQanN2SmM5TzZCdFRST2xGM18zQ1lSN3ZyNmtqSTdCVC1iQ2pMdw?oc=5",
+   "source": "TBS NEWS DIG",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-10-12T11:47:00+09:00",
    "event_date": ""
   },
   {
@@ -662,6 +732,16 @@
    "event_date": ""
   },
   {
+   "id": "e9b045fa25d91246",
+   "title": "全岡山県立校に安全管理徹底を通知 福島バス事故で県教委",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GOEFQaE40SWZNczM2MkFuZW1hSllBWUpQdjJjS3F2djU4V0s4LWFsSjV6UTlNZ1VJNjVIM3YxVERKbmRETzJPMTNEY2xicnUxUGc?oc=5",
+   "source": "山陽新聞",
+   "cat": "事故",
+   "region": "県内・その他",
+   "pub": "2026-10-11T16:00:00+09:00",
+   "event_date": ""
+  },
+  {
    "id": "5556f29fbe252c31",
    "title": "出航直後の貨物船（全長72.4m）が乗揚げタグボートで引き出し完了 けが人や浸水、油の流出はなし 岡山県倉敷市の水島港",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vMGo1bUl0Qkx0U0E5RlRNb0RERVJ5dF9hQ0dfbTlIV3pCNm4zVnZEWmItU25fZFJrTkxXSDY3UjlwWjJMVzIxUGhVT3g3cjJWM0Iya21JTTBSZw?oc=5",
@@ -669,6 +749,16 @@
    "cat": "災害",
    "region": "倉敷市",
    "pub": "2026-10-11T13:31:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "e9ae871b5f1c1baa",
+   "title": "「備前岡山だんじり祭」子どもたちがだんじりを曳き 表町商店街に祭囃子が響く【岡山】",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9YQ01CeHkzOE9YbmdvZkg2c2J4WURXajBpNkkwam1XUXZFdHNHM2ZqM0NrRjlLSm5DMFZucloyWmd0NGpyVEJzcTBpSjBNdmFiS2hwZjhDUjBMQ0FyQkI1ZG5FbFhzSHhVQnRESzJqQdIBdEFVX3lxTE9USTVQR0hMVTVvU1B6T09pVEFVUXg4OGRCOS14S2tZcm45TDcwR2ZVMVZsbEFNM1VyUThwdFpmVkNNczU4X3l5UVdrQ0U3T3NHbkU1S01WVWVpUnZKUDhLbFNoMlBEYm9yNmlXWGszZnF2REVf?oc=5",
+   "source": "ｄメニューニュース",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-10-11T12:17:00+09:00",
    "event_date": ""
   },
   {
@@ -842,6 +932,16 @@
    "event_date": ""
   },
   {
+   "id": "d7e3a854f5904cee",
+   "title": "岡山市北区長野で空き家2棟を全焼 山林も焼く火災 消火活動中（3日午後6時現在）",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1kZ2p2VklYY1hyQUwwYlFUdHVQMXlCVXZNSEdWLWYxWHh0TUlfSnJrc0lLZ09XOUxfQVg5WEVMTmZrTVZ5OEJSWXE0YUhHaDhCX1dtX0phXy1OUGNxN2c?oc=5",
+   "source": "TBS NEWS DIG",
+   "cat": "火災",
+   "region": "岡山市",
+   "pub": "2026-10-10T17:38:00+09:00",
+   "event_date": ""
+  },
+  {
    "id": "bc28584e08d22603",
    "title": "おかやまアーツフェスのメイン期間開幕 演奏や演劇で県都の秋を盛り上げ",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSjlCZG5aMHdaNW5zNlNZb212eTZGRnhpZlF6SnAxTDFTSjJmOWhvV3Y1TWljeEM2ZnptemRfUDA0YjlfWERCZEZDM3FBUGh4TzNtaEtVSXNIU1l2bm5fNjJMcmhHaVFrbmljTURPYk9aY1FjZmllSWt0d0k0ekQ4bTRPNNIBgwFBVV95cUxQSjlCZG5aMHdaNW5zNlNZb212eTZGRnhpZlF6SnAxTDFTSjJmOWhvV3Y1TWljeEM2ZnptemRfUDA0YjlfWERCZEZDM3FBUGh4TzNtaEtVSXNIU1l2bm5fNjJMcmhHaVFrbmljTURPYk9aY1FjZmllSWt0d0k0ekQ4bTRPNA?oc=5",
@@ -969,6 +1069,16 @@
    "cat": "災害",
    "region": "新見市",
    "pub": "2026-10-10T16:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "3349ce8996cb914b",
+   "title": "美作市の「熊除け・詐欺除け大使」に高校生タレントの安倉柚羽さんが就任 クマと詐欺に気をつけて【岡山】",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9SV0RKQm1OYWhyeWVUYVE4VHUtLUN4NlJfTUxXYUdlS005WnNhSUJjYm9iWERqZGNxR0FndHN1cU91YWJFcUZHQnNzQVNJY19jLTU1UGljZ2NPVkZwMlMw?oc=5",
+   "source": "TBS NEWS DIG",
+   "cat": "事件",
+   "region": "美作市",
+   "pub": "2026-10-10T15:57:00+09:00",
    "event_date": ""
   },
   {
@@ -1562,6 +1672,16 @@
    "event_date": ""
   },
   {
+   "id": "515f24f831df393f",
+   "title": "来年秋２回目の開催「森の芸術祭晴れの国・岡山」 参加アーティストSputniko！さんらが津山市の会場候補地を視察【岡山】",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Xa0daVzFTN3R2c0FpTFZENmlQU3JaRDVEdFhKZVRGZ1NzQ3g4OVRVYmNZbzZpMUZmVThUbVl0TllQbkE2bmhxX3l1RktsSHAxMVRBazMyTU1mZw?oc=5",
+   "source": "TBS NEWS DIG",
+   "cat": "催し",
+   "region": "津山市",
+   "pub": "2026-10-09T15:04:00+09:00",
+   "event_date": ""
+  },
+  {
    "id": "86f1ee5a0a0af70b",
    "title": "15分以内に完食で無料に！総重量約2kgのチャレンジ丼 チーズオムかつ丼や鶏ざんまいの定食も 岡山【ほっとマルシェ】",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBRVlqZTJDc29Ob21rQjd0dElPVzZsTjVqaEVjY0JzYXkwMWR6MWFOcGdVa1Z2eFNiRExVMWU5eUV0TU92aXB6UjJKYjFoODcxa1kyX195cWpzVTJGdVBkMFlTQzVpbkRmeEthQjR6VW_SAXZBVV95cUxOZzRLN0VCbkllWm9jVlBHV2JlWnZOQmtyaUc3eUpicTZOeXd1RV9lTEszbXBqTlFVemQ0UTFLcTZUQTE5OXI3NXVXdVVWTGRZdFVhTFdwc1JzbU1FcjRDb25qOFFoZlg5NFpRdFdBMXVnMmNvRTRR?oc=5",
@@ -2128,6 +2248,16 @@
    "source": "山陽新聞",
    "cat": "災害",
    "region": "総社市",
+   "pub": "2026-10-08T16:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "08ef1f35d2ac177c",
+   "title": "岡山で路線バスと車２台絡む事故 ４人軽傷",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBWQjJpR0YxQkFBNENWTXBVZkoyYjVvLWc4YWM3aXJkRUJIRDlpWHhvX1hudWdjcFlqeHlVVnJUMjA4Q2hjT0RqZ1BCcHU2cXpOTS1EN1F6TnRrUldnSmV5TnM0Snl6ckRBS1BFenAyRk9sTFNaU0N3?oc=5",
+   "source": "山陽新聞",
+   "cat": "事故",
+   "region": "県内・その他",
    "pub": "2026-10-08T16:00:00+09:00",
    "event_date": ""
   },
