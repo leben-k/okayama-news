@@ -25,7 +25,7 @@ from email.utils import parsedate_to_datetime
 BASE_URL = "https://leben-k.github.io/okayama-news/"
 SITE_TITLE = "岡山 事件・事故・災害・催しまとめ"
 OPERATOR = "地域情報室"
-UPDATE_TIMES_TEXT = "1時間ごとに"  # 表示用の文言(時刻はcollect.ymlのcronで決まります)
+UPDATE_TIMES_TEXT = "適時に"  # 表示用の文言(時刻はcollect.ymlのcronで決まります)
 
 DATA_FILE = "data.json"
 SITE_DIR = "site"
