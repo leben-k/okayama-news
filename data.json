@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T06:20:01.415866+09:00",
+ "updated": "2026-10-14T07:20:07.522927+09:00",
  "items": [
   {
    "id": "0a23c8126e2660aa",
@@ -738,6 +738,26 @@
    "source": "山陽新聞",
    "cat": "事故",
    "region": "県内・その他",
+   "pub": "2026-10-11T16:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "53b66149eb2812ff",
+   "title": "心や生命 映し出す紙彫刻 紙のアーティスト・谷内庸生さん 備前市で個展",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE14UThRbTBVZ25QLW1jUnVsMVRobE9ZcGY2WXEyZUcza0g0U1dORk1QdFUwQ0NzYXQzQVRaR2xIOFFtUk1xZnRGeUJoZzM4c2dYblE?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "備前市",
+   "pub": "2026-10-11T16:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "f1434ceac91a8e97",
+   "title": "赤磐市中央図書館、寄贈図書紛失 １４００冊、窃盗で捜査",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBYckYybFFkQk1Wc3F3enRid1Nnd196ZXZBMWI5XzJNckJmejlpMklGUk44Mkw3bEdoWmZCUWZKcWgwS2RiVGkyd3BNMjBqUVIzXzBQVQ?oc=5",
+   "source": "山陽新聞",
+   "cat": "事件",
+   "region": "赤磐市",
    "pub": "2026-10-11T16:00:00+09:00",
    "event_date": ""
   },
