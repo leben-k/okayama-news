@@ -1,6 +1,26 @@
 {
- "updated": "2026-10-14T11:41:43.577597+09:00",
+ "updated": "2026-10-14T14:07:40.406073+09:00",
  "items": [
+  {
+   "id": "6f57b1016d5c973d",
+   "title": "防災情報メールの個人情報漏えいの可能性 香川県・岡山市など3市 システム運営会社に不正アクセス",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE56VG50cEVCNEhGal96QmN5QkJTRjRBVHI0NzVkUUhBOGdYbFlpN0p4V3BHaHlDRlRERnNMX1YzQlo0R0g3enRVcXpwendhMkp3X0d3SU14R2N0Sk52Nm1sVmJkU0xUSnJaX3FyOUdEMUHSAXZBVV95cUxOMDFzLW14QWZmR1pUbEExUk1sSWxoSFptQ0M4a1BjUEt0MHpCc3NVampDaDZrdHJRRnpONmlrc1p5X0ZfZnRzVmhHMEt2NXlUUXFqZmZ2VWoxeTluUDBoaHNNcVMwT2VtX2dHUXlHM3F2azJuWUZB?oc=5",
+   "source": "ｄメニューニュース",
+   "cat": "災害",
+   "region": "岡山市",
+   "pub": "2026-10-14T12:22:16+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "db90c81be3362262",
+   "title": "SNSで知り合った男に大麻（1グラム5,000円）を譲り渡した疑い 無職の男（37）を逮捕 岡山県警",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9VZU1FTVFvaVhtOE9qM0JYYm9nWVFvM3N0cHV4c0puSVdRWGhBNkJpMUFOYmdJZ3FYR0dWNWRKSk9meTFWaDFVc2NSMWhwbDdhNmFQS0E5eTJ4dk50NWVsT3cyaGdPNmN6RkRTcmNqWdIBdEFVX3lxTFBKU3NUUjk4b1ZQbnNNTi1zd2JGeG5SMmI2bFZ1VHk2UklsZHAyX0RTanBRRnViZVhCdm5LeUhTMEY3Smx2ZlNQTGIwT2pOMjUzNkdqbHRJMl9pdzRPQUJtdmNFUjlBdnk3cVRHel9IclJsd0Q3?oc=5",
+   "source": "ｄメニューニュース",
+   "cat": "事件",
+   "region": "県内・その他",
+   "pub": "2026-10-14T12:12:00+09:00",
+   "event_date": ""
+  },
   {
    "id": "b900920f98eec555",
    "title": "香川県の「防災情報メール」が不正アクセス受ける 個人情報が漏えいした可能性 岡山市や玉野市でも",
@@ -29,6 +49,16 @@
    "cat": "災害",
    "region": "真庭市",
    "pub": "2026-10-14T10:00:08+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "46e1682eb0257725",
+   "title": "【速報】高松自動車道下り線で事故 善通寺IC～さぬき豊中ICで通行止め【香川】 (OHK岡山放送)",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSkxoUjB6a3YzdjVjd1VmeGJNZ08ybWdaY25hdmc2dE1IZGpPN1JuYUpLajJ0RFk5YVZNekVYbkJHME5Gd2ptclljRWtTdTNqbU9yT0U5N3BFV2otaXFmZjFFSmVLTjhDUkR0VExMb2VqSlFueTlsM013eFJZLWZEdXJNdFJQSGgzTGU0Ml9B?oc=5",
+   "source": "Yahoo!ニュース",
+   "cat": "災害",
+   "region": "県内・その他",
+   "pub": "2026-10-14T08:25:50+09:00",
    "event_date": ""
   },
   {
@@ -808,6 +838,16 @@
    "source": "山陽新聞",
    "cat": "催し",
    "region": "真庭市",
+   "pub": "2026-10-11T16:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "5f64c63c9ffd2531",
+   "title": "新見の８４歳女性が行方不明 ２１日最後の目撃、身長１５０センチ",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE80STFSYkVleHY3TjVTOHpHOE91Wml4UEFVMG5KbUMwZGpLN0lmbFdGaW5CQVFlNHJkZEt6M1hla0dTNXg4czZZcUlKbkt4RGxQdTJlQnV1OTJWZW82T2pRbkM2MzQyQzQ?oc=5",
+   "source": "山陽新聞",
+   "cat": "事件",
+   "region": "新見市",
    "pub": "2026-10-11T16:00:00+09:00",
    "event_date": ""
   },
@@ -2939,46 +2979,6 @@
    "cat": "事件",
    "region": "県内・その他",
    "pub": "2026-10-07T14:18:19+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "c6438b2c05c2d528",
-   "title": "【イベント】倉敷で焼き鳥の祭典 「やきとりフェス」が１０月開催【岡山】",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9lWmhoaFYydlhZUXBXNC1TR01Qbk5WdE9QM2pWZWQ4OVA2REZZZzVWUjYxVVcwMTlXS0FZMzZ1S0hRN3hjZjdRVnNKdTAzYnhWV0lVNlp2ZVlybjA1Q3ctR0FWSlM?oc=5",
-   "source": "OHK 岡山放送",
-   "cat": "催し",
-   "region": "倉敷市",
-   "pub": "2026-10-07T13:46:58+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "108aeee993aec117",
-   "title": "美作市の市道で原付バイクが転倒 高齢の女性が意識不明の重体【岡山】（RSK山陽放送）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HT244RkUxYnVCOWtmMlpkUllZaTlsblRvM1QtUjBEUF9peUFObkxmNFpVWGdmZm5YMUpDNkFlb2pIdHp0WU4xUk4xdF9GZjhBTzRQSlI4R3lud2lXTVYwSzY2Wm1jcnp3T2Y1Rmc0R0dNcHFPbGMyQmFyN2M3ZnM?oc=5",
-   "source": "Yahoo!ニュース",
-   "cat": "事故",
-   "region": "美作市",
-   "pub": "2026-10-07T13:23:13+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "e16c41584ac69054",
-   "title": "美作市の市道で原付バイクが転倒 高齢の女性が意識不明の重体【岡山】",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5jam5nRWpEZVFVS2pqU0dhVEVYckRLVHd5dE5qbUp2aHk0NFZFa1R4SjdSMmIxbC1FVEp2enhhZUN5VFhtNlBLRUp5cGItNXU3NWlTLUtuLV93TUl4NFpkdFVpYllOcVE?oc=5",
-   "source": "TBS NEWS DIG",
-   "cat": "事故",
-   "region": "美作市",
-   "pub": "2026-10-07T13:08:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "ca3929c8f9c2373a",
-   "title": "【画像】美作市の市道で原付バイクが転倒 高齢の女性が意識不明の重体【岡山】",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5nTFhSZjZhRklQSENURk1lRUVnc0lSbWx5XzRMYmNCRWVlOGFlclBVWWxxd0F4Wm5MNHl0ZkpQdk5LRlZneHQ4akR1RFUtU19pUGJweVZRVXlZM3hfQ1BrS2QwLWVNdHBCRXBpWVF4QWRRUE9nTU9RVWFaZEQ?oc=5",
-   "source": "ライブドアニュース",
-   "cat": "事故",
-   "region": "美作市",
-   "pub": "2026-10-07T13:08:00+09:00",
    "event_date": ""
   }
  ]
