@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T02:43:15.674402+09:00",
+ "updated": "2026-10-16T06:16:08.695145+09:00",
  "items": [
   {
    "id": "1b8f57366adecf63",
@@ -762,6 +762,16 @@
    "event_date": ""
   },
   {
+   "id": "633d331a697c39d4",
+   "title": "【ズームアップ】児島署長になった山本俊二さん 詐欺被害 署員一丸で抑止",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BRHdpMmE2dkxwaWVERWw0eHdNOHpxSUVNSTdBLWplbjFFUHlRaXpzTFhVUFJsQjVkQkZYejJ6R0R4eVVQY2ZvTERBdmpFSm9BSUE?oc=5",
+   "source": "山陽新聞",
+   "cat": "事件",
+   "region": "県内・その他",
+   "pub": "2026-10-13T16:00:00+09:00",
+   "event_date": ""
+  },
+  {
    "id": "6209e1c93fc34061",
    "title": "コンフォールひなせ朝市＆秋の感謝祭",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKT1VyYjU5RGdlMkJraEZUTlNhakJJdy0tNHI3SE85UVRXWUpyaDdaOWpjaTF2RC16MHRuc2NGTXplbUFselloOHlzcVBhUWdaLXZyN0NZLXpZUWFhVFkwR3BlaGc?oc=5",
@@ -1488,6 +1498,16 @@
    "source": "山陽新聞",
    "cat": "災害",
    "region": "瀬戸内市",
+   "pub": "2026-10-11T16:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "b0329b918650332e",
+   "title": "トライフープ選手と交流 真庭で親子参加フェスタ",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1nR3ZTdmNzQzVlV2pBU3RPaU9KMEhYWU9UZzdtank5T2pZbm8wYjZvT0I5aWdTY1Vpd1JQc1ZCSUprQmdXdEdFUV9tSzktdlRlNkE?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "真庭市",
    "pub": "2026-10-11T16:00:00+09:00",
    "event_date": ""
   },
@@ -2810,16 +2830,6 @@
    "region": "県内・その他",
    "pub": "2026-10-09T07:47:28+09:00",
    "event_date": "2026-10-19"
-  },
-  {
-   "id": "7bbd2da56c561065",
-   "title": "【岡山大学】岡山×スウェーデンで考える「地域で人を育てる」未来～OLIVEプレキックオフイベントを開催",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1fTkVBYjhzeEs3bG40OGU3WGU4U3JVcDRjYXhxU2tvT0lWa01UNkpKTVNLUXIwYWVmcy00TGxzZkRsdW9SandTdEk1Tl9BRzJOal83aXE4LThTZmdXTjZXSW5SM1hTVURIaEx3T0ZqQjBNeDA3TUtvaFdLdw?oc=5",
-   "source": "ニコニコニュース",
-   "cat": "催し",
-   "region": "県内・その他",
-   "pub": "2026-10-09T05:30:28+09:00",
-   "event_date": ""
   }
  ]
 }
