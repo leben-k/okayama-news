@@ -1,6 +1,16 @@
 {
- "updated": "2026-10-16T06:16:08.695145+09:00",
+ "updated": "2026-10-16T08:47:23.106043+09:00",
  "items": [
+  {
+   "id": "4cf3d638b71dddbc",
+   "title": "【岡山】2026年10月17日・18日週末開催の無料イベント7選 備前焼まつり＆マルシェも",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE80dkU3WEYwT2t0aEJWRXdpbG5OTEI5SlZmZlU3T01kZVN2cTYxZmtnVzZILWgwQjRvekFzZl9qX2tyM0dvbC1uMENnLVFmem1YR1E?oc=5",
+   "source": "いこーよニュース",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-10-16T06:21:20+09:00",
+   "event_date": "2026-10-17"
+  },
   {
    "id": "1b8f57366adecf63",
    "title": "新見「土下座まつり」厳かに 大やりや鉄砲携え行列",
@@ -458,6 +468,16 @@
    "source": "山陽新聞",
    "cat": "事件",
    "region": "倉敷市",
+   "pub": "2026-10-14T16:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "957f5ce381f15028",
+   "title": "岡山市、倒木事故防止へ効率管理 街路樹・公園情報クラウドに集約",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1iN3ZFb3IxOFhHMmFoQklCT0FzVl93UXpTWHFZU3hISzdHMTY0QXAtaWQ3UnliS0VWcUxjcHRCQV94bkJnUjkxUEZIdkJRVlh5QVE?oc=5",
+   "source": "山陽新聞",
+   "cat": "事故",
+   "region": "岡山市",
    "pub": "2026-10-14T16:00:00+09:00",
    "event_date": ""
   },
@@ -2820,16 +2840,6 @@
    "region": "総社市",
    "pub": "2026-10-09T09:32:00+09:00",
    "event_date": ""
-  },
-  {
-   "id": "f43e494ac87c43c0",
-   "title": "岡山県の14蔵が集結！業界関係者限定イベント「岡山蔵元大集結2026秋」が、10/19(月)に東京・新橋で開催",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSy1lRk1tVGtTSkxUZjNFTWxTYXRVYmhYczZPX1QtaTlQdkJ2T3RwX2wxRkR4RUF1Y1F6cTBrZXNqSWRQTDdHN0lMckV6VTR6WTA4MUxxTk5rOXFNaG1LZWdUQlhWLUFvOHNJSU1LMjV1eUlYSnhIeFBFbFFDRXgzT20tOA?oc=5",
-   "source": "SAKETIMES",
-   "cat": "催し",
-   "region": "県内・その他",
-   "pub": "2026-10-09T07:47:28+09:00",
-   "event_date": "2026-10-19"
   }
  ]
 }
