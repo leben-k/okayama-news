@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T21:49:11.015127+09:00",
+ "updated": "2026-10-16T02:43:15.674402+09:00",
  "items": [
   {
    "id": "1b8f57366adecf63",
@@ -59,6 +59,36 @@
    "cat": "事件",
    "region": "県内・その他",
    "pub": "2026-10-15T18:05:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "facdef16fa955cb0",
+   "title": "一緒に作って食べて素敵な出会いを！ 岡山市が婚活イベント「クリスマスクッキング教室」の参加者募集",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBEU0FmSW5faXhMbVU1bDd3S3EweXdqdk1BUWRLcHZ3VXNOT09aU2ljSXd3TGRWamVxMGs2OFVLb2syLWg4WXNtM1p5UE9fYUhS?oc=5",
+   "source": "KSBニュース",
+   "cat": "催し",
+   "region": "岡山市",
+   "pub": "2026-10-15T17:54:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "ba14aeefbaace55c",
+   "title": "岡山市消防、戸別訪問で防火呼びかけ 大規模山林火災から間もなく１年",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1sck1JWUJVY0NNbzdNTE9xbXRrbzJBZ2dVaUhsM09xdFVkUjdLeTJyN1hFTkNZYXBIaDRPNFdKXzhRX1dNZTZrSUtLZjhFajQ2aE1iN3BxcHZvdlJuVGl0Y3hlZGhMZXc?oc=5",
+   "source": "山陽新聞",
+   "cat": "火災",
+   "region": "岡山市",
+   "pub": "2026-10-15T17:23:23+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "aa2d94687b78546e",
+   "title": "「おめぇの生きるも死ぬも、全部俺のさじ加減じゃ」動画をネット上に投稿すると脅し…30億円恐喝未遂か 岡山市の会社役員2人逮捕 被害者は自殺（KSB瀬戸内海放送）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PdXFLWlRkWTVZOENBLS1NYlhJeWtPaUZKaE1Qd0xCUHJlWS1oYWlrVkc5a1BzUGREVURLaGtFbF84cWFzZklBcUZRWTEyWDBEd1pFRHNhSVJlZjd6MVp4TEk3ZWxvNXdjbHlqNEhyZkFkRUhmYXBVQTVlYld4RW8?oc=5",
+   "source": "Yahoo!ニュース",
+   "cat": "事件",
+   "region": "岡山市",
+   "pub": "2026-10-15T16:46:22+09:00",
    "event_date": ""
   },
   {
@@ -152,6 +182,16 @@
    "event_date": ""
   },
   {
+   "id": "9f112a5a975bfb40",
+   "title": "交通事故防止に役立てて トマト銀、吉備中央町に旗や夜光たすき贈る",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Eem9ETXA5N19KNVcycXFmNHc1N3NHbl9pa0ppYjByRkNxTkh1MUFWbUlsM05aSE9BOHJUSTdtUl9IV01EYlUyYUJvcEdqOTJQT1E?oc=5",
+   "source": "山陽新聞",
+   "cat": "事故",
+   "region": "吉備中央町",
+   "pub": "2026-10-15T14:11:56+09:00",
+   "event_date": ""
+  },
+  {
    "id": "7174d51c7f33cd86",
    "title": "会社の資材置き場に侵入して金属廃材を盗んだ疑い 元従業員の男（29）を逮捕 岡山県警",
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ZZ05KM0tJRlpwZVN5VElud2lZbm9aMXV6TW5EbTFOQmdLQzVRSTZ6Z2gxSXU2OW9QMGc5d0h5QTQyVUt4UGl2Q051WUZQVFYyUThIZ3g5cWZ0c3dsNTlQSmpIb3VsaXNZSEpjT3ZlSdIBdEFVX3lxTE9mNEdVOHdxX0FRb0tJQWFBOGFrYjRfcmJKcEtwaWVsY0dxWEI5SHVOSjFoQ2RqQ08wSmhMRFV6d3F2S1JHT2JHUFRhUG4zb3RuTkhlZGhZaExEVU5QYWFDMUR6cTFIcjBmdFNjMXBrM2UyM3NT?oc=5",
@@ -212,14 +252,14 @@
    "event_date": "2026-10-17"
   },
   {
-   "id": "94deb8359ceb174d",
-   "title": "広島県東部（備後）と岡山県内のイベント情報＆おでかけガイド【10月15日号】",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QaW5SSjhCUEQxTXI5T2J5alBXSVZmVFhDaDZPSm5HZ0VwSGh2MFZJNU9Zei1Qemd6dE5MVnVrWGdFWWpGdG56ekxtaW43SVVnNTdzVmlSNGU1UQ?oc=5",
-   "source": "中国新聞デジタル",
-   "cat": "催し",
-   "region": "県内・その他",
-   "pub": "2026-10-15T09:55:00+09:00",
-   "event_date": "2026-10-15"
+   "id": "30cef5aaa218c587",
+   "title": "治山ダム完成、山林火災受け整備 岡山市南区に県、土砂被害低減へ",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5QclhFT3haUnI0dFFkUC1XNk01ejkxZGRwQ0htcGRFNVVSVEJ0YmwxNmtXTEJ3SWVYdnRJby1VX0E0ZTVaQ25OTFFXYjFjM0IzOUE?oc=5",
+   "source": "山陽新聞",
+   "cat": "火災",
+   "region": "岡山市",
+   "pub": "2026-10-15T07:05:28+09:00",
+   "event_date": ""
   },
   {
    "id": "021eb8f52b6e3eab",
@@ -262,16 +302,6 @@
    "event_date": ""
   },
   {
-   "id": "d781fa850ac35335",
-   "title": "【岡山市南区】3日間限定「餃子半額イベント」も開催！ディオ妹尾店むかいにつくってた「一康流 福岡ラーメン妹尾店」は10月15日オープンするみたい",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5Ub1ZRRktDYlBucHRnb0E1ckhIeVh0RnJkTEVTVUQ3dHdkcVAxc3ZCZ2dtSDJpc3VtaEpXMURNZzJJczJIQUhGTg?oc=5",
-   "source": "岡山おにさんぽ",
-   "cat": "催し",
-   "region": "岡山市",
-   "pub": "2026-10-14T19:21:32+09:00",
-   "event_date": "2026-10-15"
-  },
-  {
    "id": "54626748dac7283b",
    "title": "【続報】岡山市役所新庁舎１５階展望テラスから１０代男性が転落 展望テラスは当面立ち入り禁止に【岡山】（OHK岡山放送）",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mbHV0N2tCT1QwYkhhMmYxOGJOaDdpYnpkR0ZBeHNhYjVwUGYxQmgwSHFUb2syV3N0MlV0YWNaWkZuWmxvWWJKb1h3Tk1OenlrVmZKRkhtMmRBbkhWRi1sSXQ5QWRjVllZWE8xN01QYTJwbEVGRDRwSU1DdTgzYzg?oc=5",
@@ -289,6 +319,16 @@
    "cat": "事故",
    "region": "岡山市",
    "pub": "2026-10-14T18:15:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "b2ee72957500afca",
+   "title": "総社 下水管損傷箇所修復へ７日から土壌改良 ６月中旬の復旧完了見通し、通行止めは継続",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4tbGxWU2ZCb2VrMkRkZEZVUXFIazMzaDl5eWlUbzF5RjIxXzBzODVPMXBUVURCY0hMS1Z2el80LU9jb25sbmJkeDNLWVNuS0ZBX3c?oc=5",
+   "source": "山陽新聞",
+   "cat": "災害",
+   "region": "総社市",
+   "pub": "2026-10-14T18:10:46+09:00",
    "event_date": ""
   },
   {
@@ -712,6 +752,16 @@
    "event_date": ""
   },
   {
+   "id": "626adac76c572e28",
+   "title": "西大寺会陽３人死傷事故で現場確認 原因究明に向けて岡山県警",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBaam85N3R0WEdjbGtEYTk4THByYVVSVG9Wdm9rUGdSM3plbURYUlBBUVZUWkpIbmlhLVpGaFd4QUs0R2RsTXBhOERKLUlKdXd0WUE?oc=5",
+   "source": "山陽新聞",
+   "cat": "事故",
+   "region": "県内・その他",
+   "pub": "2026-10-13T16:00:00+09:00",
+   "event_date": ""
+  },
+  {
    "id": "6209e1c93fc34061",
    "title": "コンフォールひなせ朝市＆秋の感謝祭",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKT1VyYjU5RGdlMkJraEZUTlNhakJJdy0tNHI3SE85UVRXWUpyaDdaOWpjaTF2RC16MHRuc2NGTXplbUFselloOHlzcVBhUWdaLXZyN0NZLXpZUWFhVFkwR3BlaGc?oc=5",
@@ -779,6 +829,16 @@
    "cat": "災害",
    "region": "倉敷市",
    "pub": "2026-10-13T11:47:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "e7a5c276e2323dbf",
+   "title": "大麻1袋を所持した疑い 自称・会社員の男（22）を現行犯逮捕 倉敷市",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5oRjRlQ3doaW1WY3BUTklNb1U5OW4zbHR1eVhUS2JkVXZVSGxZWVRtYnZQcWNLc0NGbHdiTzJZUVp5eEJJYUNhQWpCTGcxM1ZicjR2U1loNmxIbjRoUTlkbDZabVhVanl3NW1QblNDMFjSAXZBVV95cUxOdFZOSTVTTW01QlpvTFlPQ1JNbVM3VEtfRVpMVmEwMzBKS2w4OEU0RVA1akZkTEh0TU9TSE1vR2pXTW03eTRJa1BqdE4yQ3h6d05ScHNULUdkQkdncFJfUTVfQ1BSSUwwZ2pHblpIQVdYLTB0VGJR?oc=5",
+   "source": "ｄメニューニュース",
+   "cat": "事件",
+   "region": "倉敷市",
+   "pub": "2026-10-13T10:11:00+09:00",
    "event_date": ""
   },
   {
@@ -917,6 +977,16 @@
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1hQzBqV21hdEctYlA2TU4tYTQ2cE1uRWlWa0Vfc19YZmROTzBlTXFrTEdZak1qQUYwQzFzY1pRb19pMTZVY0xWOG02azF5TWhNUFE?oc=5",
    "source": "山陽新聞",
    "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-10-12T16:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "36c823ab058cd69b",
+   "title": "岡山で路線バスと車２台絡む事故 ４人軽傷",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAyak9XSm9tM0tFb1dQdTRHeS1FYXVKOWZyRkFTaEkzajVXUGM5cUlpcTZVazRlY1E1bWpGZlprOFpQeWFQd3BKeFAwWV9pN3lqd3piU1A0S2ljUS16Y29NNC1Gc3BNRkE?oc=5",
+   "source": "山陽新聞",
+   "cat": "事故",
    "region": "県内・その他",
    "pub": "2026-10-12T16:00:00+09:00",
    "event_date": ""
@@ -2102,6 +2172,16 @@
    "event_date": ""
   },
   {
+   "id": "bf713f2a09c765d9",
+   "title": "鏡野の教育施設から室外機など盗んだ疑い 兄弟２組逮捕、美作署など",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qb21KVVpMbGdONkNLSjROcHJqYmd5SHhFLVlyQmxyWkVTZTM4SWhCUGFITlBYcHlTWWdJZFRNSTFyMGdnWHZ2aUotMTJ2UmJJT0E?oc=5",
+   "source": "山陽新聞",
+   "cat": "事件",
+   "region": "美作市",
+   "pub": "2026-10-09T17:46:00+09:00",
+   "event_date": ""
+  },
+  {
    "id": "a2d008ea01f6b3f5",
    "title": "秋のおかやま桃太郎まつり 岡山城一帯で１０日開幕 芸能、歴史、食 多彩な催し 会場準備整う",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE00VXdONklmSXF2aVFiTmpnei1YbmZxNGtvb3RXQ3ZQamxVMzlRVzhya242bkhNYlBTVUxMcXlrZGMtcWJ1N1VtVmd4TmgySlc2Z0E?oc=5",
@@ -2732,43 +2812,13 @@
    "event_date": "2026-10-19"
   },
   {
-   "id": "e20ef85729e113cd",
-   "title": "【山陽道】赤穂/備前市境区間で逆走車情報 一部通行止め解除（8日23:45現在）",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBrbHJ4WEtPbTdtdW9TeEttTmJQcGpyTWVCV0pXMG93dVlITVgxc1k0cW43MWRDeTgwaXRaQ1phYW5OTFpoUUZnWGQ0M3l2U1JBVzAxM240cnFlRVh4M1NF?oc=5",
-   "source": "千葉テレビ放送株式会社",
-   "cat": "災害",
-   "region": "備前市",
-   "pub": "2026-10-08T23:59:01+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "f749c940a514e3c2",
-   "title": "【速報】「車が逆走している」山陽道で軽乗用車が逆走か 下り方面・赤穂IC－備前ICを通行止め【岡山】",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0temlwNzk1a0ZDMGpDQmgxYXkwZXlpZEZUQmVYVmRkY3N5RFhiV1Zsd2tlUk1KVjR3ZktDTnVvMngtblRnN2U1bFhaRm5pMmxtQlc5c1Iyck92OW5BbkEwOWV0RXp1MnhUT0I2T1pR?oc=5",
-   "source": "au Webポータル",
-   "cat": "災害",
+   "id": "7bbd2da56c561065",
+   "title": "【岡山大学】岡山×スウェーデンで考える「地域で人を育てる」未来～OLIVEプレキックオフイベントを開催",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1fTkVBYjhzeEs3bG40OGU3WGU4U3JVcDRjYXhxU2tvT0lWa01UNkpKTVNLUXIwYWVmcy00TGxzZkRsdW9SandTdEk1Tl9BRzJOal83aXE4LThTZmdXTjZXSW5SM1hTVURIaEx3T0ZqQjBNeDA3TUtvaFdLdw?oc=5",
+   "source": "ニコニコニュース",
+   "cat": "催し",
    "region": "県内・その他",
-   "pub": "2026-10-08T23:38:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "47ae642b13757bee",
-   "title": "【山陽道 交通情報】山陽道 赤穂/備前市境区間で逆走車 赤穂IC→備前IC間で通行止めが発生「現地の様子が明らかに」渋滞状況は？…（News Quick Up）",
-   "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9qV3JYRlA0ekxaMmtUUGNUVlhPZC1vcjNFR0JLcVg4WkYxZHZPa2dGeldJVlcwRTlNMWV3?oc=5",
-   "source": "Howl.link",
-   "cat": "災害",
-   "region": "備前市",
-   "pub": "2026-10-08T23:25:32+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "36995dd7eb70984b",
-   "title": "教育施設から室外機盗む、兄弟2組逮捕 岡山県鏡野町、容疑で美作署など（山陽新聞デジタル）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IeHByc1JMdy0zR1VTTml4d0FaTW9LNFdONWJpSEh2ZnpHOVpzZ1ByY1BSQS1IV25XX2VZcVJzTklfRDcyRFRCcE5zTDJsSjZaanhBWWFZbXhXdFZLbEt3dHQ1RXJZQ2k5dmlWb0kwWjRJcDBucjlJYzdGSlktNTg?oc=5",
-   "source": "Yahoo!ニュース",
-   "cat": "事件",
-   "region": "美作市",
-   "pub": "2026-10-08T22:15:30+09:00",
+   "pub": "2026-10-09T05:30:28+09:00",
    "event_date": ""
   }
  ]
