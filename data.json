@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T10:44:38.325633+09:00",
+ "updated": "2026-10-15T11:11:02.644675+09:00",
  "items": [
   {
    "id": "99d9079a5bc1c4e2",
@@ -1689,6 +1689,16 @@
    "cat": "催し",
    "region": "津山市",
    "pub": "2026-10-10T07:02:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "c2f1bccd7961021a",
+   "title": "１４人中１３人が元技能実習生 岡山など銅線ケーブル窃盗団",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB3Q0xBa2RFaW0zZzVxalJKM2k4MnVEY2ZpNmN4TGtES1RWWXJyZGZSaUM5amVMdUs3RHUtLXpsWFM0VU9seDRFamowNVFzZ19SNlE?oc=5",
+   "source": "山陽新聞",
+   "cat": "事件",
+   "region": "県内・その他",
+   "pub": "2026-10-10T05:00:00+09:00",
    "event_date": ""
   },
   {
