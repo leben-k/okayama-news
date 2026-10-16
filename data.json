@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T23:10:30.404152+09:00",
+ "updated": "2026-10-17T03:18:04.950235+09:00",
  "items": [
   {
    "id": "109b055cb76ed025",
@@ -119,6 +119,26 @@
    "cat": "事件",
    "region": "岡山市",
    "pub": "2026-10-16T15:34:01+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "b096e81379b30fef",
+   "title": "岡山市内3カ所で水道メーター盗難 工事業者、岡山西署に被害届提出 (山陽新聞デジタル)",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTEl2X0I4TVpuZ0NrX1RCOW9Nb2xzSWRQcTlOLXlsYWhYNnlQejNYSHlEQnFiVVFyUU9TRnp0bmdNZmRWVHpXWDk4Ym1PYUg3clhyc2ZVVUZBU1hWOUZzZGZYWTdISllkOWtvNkdDc0VIb3hIMGNsZ0E5R01lVTN0YmFpZ09Vd2RBbXZMWDZn?oc=5",
+   "source": "Yahoo!ニュース",
+   "cat": "事件",
+   "region": "岡山市",
+   "pub": "2026-10-16T15:34:01+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "7351fc9979b7fc32",
+   "title": "吹奏楽や合唱、ピアノ 音楽愛好家集いコンサート 備前・三石で１０日",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE50c3ZHZ1hCcDBMS3VmNzloalRnRzY1RE1VUEtCVEJNcXNmWWIxaEhDLU1fMGtYd1JOTGlaX2plQmc5X0dlRWl6UWZKMTN0dW45VWc?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-10-16T15:02:41+09:00",
    "event_date": ""
   },
   {
@@ -428,6 +448,16 @@
    "source": "ｄメニューニュース",
    "cat": "催し",
    "region": "県内・その他",
+   "pub": "2026-10-15T16:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "8b024586b8311194",
+   "title": "行方不明の２歳男児を無事保護 矢掛町東三成",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhQ1JBS29OQmlKTU9mRV9EUmViMkp3eXhGMlJ0RFZCM0RoVVBJLTlzVTdRc0lwOXpEVE9kVm5kWTNqZ1R5NUJFb0hLT1FrQ3R0N0E?oc=5",
+   "source": "山陽新聞",
+   "cat": "事件",
+   "region": "矢掛町",
    "pub": "2026-10-15T16:00:00+09:00",
    "event_date": ""
   },
@@ -1162,6 +1192,16 @@
    "event_date": ""
   },
   {
+   "id": "562eb1f5d914651a",
+   "title": "海の事故防止へパトロール 水島海保、地元企業と啓発",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE53R3NGU3VXcThsVzkybENVYWlQQW50eGYxdmNna3poX0ZGdXZ3QnhyNTRfZWtKNTd3RlE0UEYyeXJJSEFwaDVLRnlkc19nMDBCcHk2T3piZWRxQjJ3QVJPWHR2MmZOaVluUmRBNzZmSXliX0Q5d3hj?oc=5",
+   "source": "山陽新聞",
+   "cat": "事故",
+   "region": "県内・その他",
+   "pub": "2026-10-13T16:00:00+09:00",
+   "event_date": ""
+  },
+  {
    "id": "6209e1c93fc34061",
    "title": "コンフォールひなせ朝市＆秋の感謝祭",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKT1VyYjU5RGdlMkJraEZUTlNhakJJdy0tNHI3SE85UVRXWUpyaDdaOWpjaTF2RC16MHRuc2NGTXplbUFselloOHlzcVBhUWdaLXZyN0NZLXpZUWFhVFkwR3BlaGc?oc=5",
@@ -1229,6 +1269,16 @@
    "cat": "災害",
    "region": "倉敷市",
    "pub": "2026-10-13T11:47:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "342485e153a59dd7",
+   "title": "大麻1袋を所持した疑い 自称・会社員の男（22）を現行犯逮捕 倉敷市（KSB瀬戸内海放送）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GSFNJTEN0ZGhTdE83TEJmSnlXWjFFWHJfUlU5Q1Vwb3o5WkFUV25kVkp3ZUFhXzhYNWNEWVo4akpYQzFWQUhUeDJvZ1l6djd4dkxSYWgzanJoZmx2RXRRbDVpZ21BdU83SllLdjBmei1faEtubjdTRTlrbHpuanc?oc=5",
+   "source": "Yahoo!ニュース",
+   "cat": "事件",
+   "region": "倉敷市",
+   "pub": "2026-10-13T10:11:50+09:00",
    "event_date": ""
   },
   {
@@ -2459,26 +2509,6 @@
    "cat": "事件",
    "region": "県内・その他",
    "pub": "2026-10-10T05:00:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "ec724f09b2d14146",
-   "title": "【速報】岡山市北区下伊福の共同住宅で火災 3人けが",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RSGhicGx6X0JMMUtHN3l3RnA1ZDkxejV4OHJsd2ZWVEcyd2gxc0hKNVJxN3RZcnJHVEszRkdLbUNBNDZ5aEdza3hQUURTZjF5dVFQdDJxZTJRenFkaGxXWjJOTkVZVm50OW1teGR5Z3c?oc=5",
-   "source": "newsdigest.jp",
-   "cat": "火災",
-   "region": "岡山市",
-   "pub": "2026-10-10T03:00:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "0ece60a448d6b014",
-   "title": "（岡山）美作市右手でクマ出没 １０月８日",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVTBrdjVUdmxRRm5ZbFhRSlBjaXViUmF0cUtiTjhkZnFQbWc4cWNpYjNOWER4U3dlSXlBQk1BdWJaZ2VlVG9CS0VVRmxuZDhSRVgxNVl4RmR0OUhnQl91cE0zeEhIN1JZcmg2YjFjREo0dHJ2bEdVZzdhb1pFcm5rTGItdXpzTllsZXVXZnBtQlpPYmw2RzhKVmFvTFdtejVkRVg1ai15dXB5ck1hVTVN0gGiAUFVX3lxTFBSYVgzbXVLZWpBZVJiZmtoeHVtSF9ZSy1zMnlmX09YZHVPaEZ5Y01QY2REazZKSERRblFUcHlHZlNWNGJ6OUREQllmS3BIVC1VdnlnTXR1YXFuT3ZlaF9EZWNHSGVMSUt1RGhSc3pBV0pEakVJVFJRWjJyaE5lYzF1Z09vN3BrZ25BdHhxU0hLNWFFaURLR3ZtalFZSTE0Ul9fUQ?oc=5",
-   "source": "ｄメニューニュース",
-   "cat": "事件",
-   "region": "美作市",
-   "pub": "2026-10-10T01:49:19+09:00",
    "event_date": ""
   }
  ]
