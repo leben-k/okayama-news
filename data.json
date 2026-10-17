@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T21:53:39.681277+09:00",
+ "updated": "2026-10-17T22:07:55.492423+09:00",
  "items": [
   {
    "id": "d9823920834c0d0b",
@@ -20,6 +20,16 @@
    "region": "備前市",
    "pub": "2026-10-17T18:00:00+09:00",
    "event_date": ""
+  },
+  {
+   "id": "ec28debeff72f8a1",
+   "title": "【岡山市北区】西川緑道公園開設50年を記念して10月25日にさまざまなイベントが開催されるようです",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUVVkUUhXU0xZc2NubHo0YVBhdU52ZjVaTGlsMlpIRUl3cURKOFJtQUhkQWZtV19ESEdyanJXV21zZGNWaG1KWTN5QzlPYWlWV3JxOVhZQWVINXdjVl96S0tHSGR5OEIzSmx3QThyd0tvNW5zdE9aQ2haX01uVVVEUEtB?oc=5",
+   "source": "号外NET 岡山市",
+   "cat": "催し",
+   "region": "岡山市",
+   "pub": "2026-10-17T16:00:17+09:00",
+   "event_date": "2026-10-25"
   },
   {
    "id": "76609d652047dfe0",
@@ -339,6 +349,16 @@
    "cat": "催し",
    "region": "県内・その他",
    "pub": "2026-10-16T08:28:58+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "3270ab755a005b20",
+   "title": "SUPER GT 2026年 第1戦（開幕戦）岡山 イベント情報",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ZcUV3VmROTjljSkZUYlZpR3AxUzlzVHU1R1hyNEw1U2d2Nm1GRkotN1BDQWp5bUNlRWUxUndwRHZMN0syWDdueTI4TUx2YXlERXdkdmI5RkkxWGU1RUFLQ0ZzdzllQ3FMMXhYX2Qwcw?oc=5",
+   "source": "GAZOO Racing",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-10-16T08:20:41+09:00",
    "event_date": ""
   },
   {
@@ -2149,6 +2169,16 @@
    "cat": "災害",
    "region": "倉敷市",
    "pub": "2026-10-11T13:31:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "379fc8414d333bda",
+   "title": "【山陽道】早島支線でトラック火災 3時間強ぶり通行止め解除（10日21:45現在）",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zUWpSMWJlRTRDM18wdFgyZ2pxbU5wMjM5TDBqMjdqUGFBMjljcjVNdTZpZXZnalZMRG0tNFBFd1FqMUFKeW5XNDcxM3pUM21LdXZZb2RhcWQ4bW9NM1lV?oc=5",
+   "source": "千葉テレビ放送株式会社",
+   "cat": "火災",
+   "region": "早島町",
+   "pub": "2026-10-11T13:24:35+09:00",
    "event_date": ""
   },
   {
