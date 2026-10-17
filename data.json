@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T06:37:03.351220+09:00",
+ "updated": "2026-10-17T09:17:54.344840+09:00",
  "items": [
   {
    "id": "109b055cb76ed025",
@@ -779,6 +779,16 @@
    "cat": "催し",
    "region": "玉野市",
    "pub": "2026-10-14T17:45:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "fe89197b6df765a1",
+   "title": "書や陶芸１２９点販売 青少年健全育成へ 倉敷で慈善展",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1temVIYnVKTl80TVlLMEstdmRHMFVramlYTmt2bnJ5YXc4OWI5QktxamFUZVEtaXRVbVR6Vmx2b2FRTkJaZm9DcDB0Z1BvTF9xdTFITHp1SmFHZGpvYlJEZUxlOVNmREpZVnMxWjYyR1NJZXFSQTZjSDlQa2kyd9IBgwFBVV95cUxONVlxR2NyVUppTUtoN01FUlJ3ZXFrOEk4RnRBZ1lXNFJhaFNoajBORVZfV1NxWVI2a0k3TkdrNXhvX3FpNGFyU3E5MFIyWEUwVDB3dVhDOGlBZlkzY19EQTlYT0FFeEZuNzY4YlR1UUZpRm5sbkZVZWQ0QXFRd0ZwTzdDYw?oc=5",
+   "source": "ｄメニューニュース",
+   "cat": "催し",
+   "region": "倉敷市",
+   "pub": "2026-10-14T17:30:00+09:00",
    "event_date": ""
   },
   {
@@ -2529,16 +2539,6 @@
    "cat": "災害",
    "region": "県内・その他",
    "pub": "2026-10-10T10:15:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "7e934d3a517ed2e1",
-   "title": "Ｂ’ｚ稲葉浩志さんの誕生日を祝う６２発の花火とファンの大合唱！かつてない熱気に包まれた故郷・津山での凱旋ライブ２ｄａｙｓを追った【岡山発】",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9uOXc0dmgxUjR6YjhBUDNPeDNqQTFKSDRHVnBrREhvdkZ3TTNWX0NuMHVncWFiTzNyS21UMk4xMjlodzlYNllPajFSamdJMjAtTEV6eERCb0tycGh4UnpzNlItbjVaNkx1Zkw3ZTR3?oc=5",
-   "source": "au Webポータル",
-   "cat": "催し",
-   "region": "津山市",
-   "pub": "2026-10-10T07:02:00+09:00",
    "event_date": ""
   }
  ]
