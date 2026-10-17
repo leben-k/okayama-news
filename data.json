@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T07:39:01.358021+09:00",
+ "updated": "2026-10-18T08:56:29.353822+09:00",
  "items": [
   {
    "id": "f73ce634ab197c7b",
@@ -1758,6 +1758,16 @@
    "source": "TBS NEWS DIG",
    "cat": "催し",
    "region": "県内・その他",
+   "pub": "2026-10-12T11:47:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "335cec82a5d4dffe",
+   "title": "出航直後の貨物船（全長72.4m）が乗揚げ事故 けが人や浸水、油の流出はなし 岡山県倉敷市の水島港",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1EbFRrVDNVbHNxTy1Xb0NxbEYyUUJtTTRsc1A4NGlaMkxWX1VaZXVZTm90R0hpUTJFNWRwRUllV2FhaU4wQjlzcjBHNkZ0Yl9HYklBVTE5dHhIWndWSldN?oc=5",
+   "source": "TBS NEWS DIG",
+   "cat": "災害",
+   "region": "倉敷市",
    "pub": "2026-10-12T11:47:00+09:00",
    "event_date": ""
   },
