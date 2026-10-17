@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T01:36:54.944027+09:00",
+ "updated": "2026-10-18T04:12:16.866280+09:00",
  "items": [
   {
    "id": "48a6f6cdcad12c5e",
@@ -29,6 +29,16 @@
    "cat": "催し",
    "region": "備前市",
    "pub": "2026-10-17T18:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "6165c672c9e49378",
+   "title": "「第40回ひなせみなとまつり」にてアキッパの公式駐車場運営が決定",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xODNLaTRXRkFaYWdKby1mWmlQU044ZUV1dG5nejBZLXh1WjNvQmdIUGs1YnpEZmtDckMyS3ZWQ09TOXF1VzlEaWZlRjJxNTgwS1E?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-10-17T16:58:07+09:00",
    "event_date": ""
   },
   {
@@ -742,6 +752,16 @@
    "event_date": ""
   },
   {
+   "id": "186d55778f7bdd9e",
+   "title": "消防車、救急車描いて 山陽新聞こども写生大会 ２４日、笠岡の恐竜公園：山陽新聞デジタル｜さんデジ",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9JN0d0c0F4VGJyX2J0NE9MYXEyLXBubW8yTkpPUmxYUVdtcDRDeXRlM0NuczBjS0w4Uy1ZdFVXaHBPM0hBUkNIZHhFbjBIanVDeXdrSGtHT3FSVWZfV0lfUWRQQkxpUQ?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "笠岡市",
+   "pub": "2026-10-14T19:32:00+09:00",
+   "event_date": ""
+  },
+  {
    "id": "4a8a739557a20f16",
    "title": "先生はアーティスト！ ２４日まで高梁・成羽美術館 城南高教諭６人が展覧会",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE91S29xVHZNN2k0R1puTjg4dGlPU1IyYk9BTmUxUUVnWTJ3MTNucmI0d2RYWi1wdHN5LXVxNk1jUlNpcjhBYnhLQUJVMjlCeXU1ZWlKVHRoMmhjTHdTbi16a1NpREx1azRGZjdKZ01oUGFOUV9lbkVBc01nZ0E0QdIBgwFBVV95cUxQTFZWSFV6YmVYcGR4VUVsc01OUFllOVNNRDJBRWJtRzAxQWRvcVNkWHljdjNBVW1oclc1UnI5U0ZGRXJjUE9QZzlPT3VaWG5zNWRfajY1bnpJRmNFcFYtdU43TXIyWEdhYVQyTFdWY2Y2T2RCSlpMSnhxWTFWWWFqWk5NSQ?oc=5",
@@ -959,6 +979,16 @@
    "cat": "火災",
    "region": "県内・その他",
    "pub": "2026-10-14T16:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "f68322cc8e21978f",
+   "title": "SNSで知り合った男性に大麻を売り渡した疑い 岡山市の無職の男(37)を逮捕",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wdE5tcEtWYThJLWx6N1pIZkdEd21oMGExcnpVVGZ5N3JUMDVvT1dBUXU4ZDhhUVNtMFRZZk52OHFoMllUTDF6d05uVTQtNWduTUtTNFQzclU2TTdwbGdpQmRqSXZhRGdFenFZVXlXZTjSAXZBVV95cUxOR3hJbmZkLVNtRjZoaFpCTEx3WjFScm8zWTNyclkzS3NKNG1DVkdFYzQwQkNrSnFRUEZGZVVlZVRneGU0YW9ZX1BmaktLYnBUZDhpRzBwc1NwVnprb1J2bjVJQmpIUkZlNGF1T2llZWFxWTNBVWNn?oc=5",
+   "source": "ｄメニューニュース",
+   "cat": "事件",
+   "region": "岡山市",
+   "pub": "2026-10-14T15:31:00+09:00",
    "event_date": ""
   },
   {
