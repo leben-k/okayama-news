@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T12:23:09.351590+09:00",
+ "updated": "2026-10-18T13:17:23.504146+09:00",
  "items": [
   {
    "id": "5e734dfeabefe863",
@@ -278,6 +278,16 @@
    "source": "TBS NEWS DIG",
    "cat": "催し",
    "region": "真庭市",
+   "pub": "2026-10-16T16:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "ba68e6e3c832df68",
+   "title": "身体の「運動器年齢」をその場で数値化！ダイヤ工業が地域イベントで健康チェック体験「bonbone check」を実施",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84a0tHSXJvTS1mcS1XR3ZfNzVOZl9jeTVDNkJlQkRMVzdsQTRKMXFFZzltc0tZOHh0eU83bzFaa1ctUExHb05jRFpjZ3hFeWFYVnc?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "県内・その他",
    "pub": "2026-10-16T16:00:00+09:00",
    "event_date": ""
   },
@@ -829,6 +839,16 @@
    "cat": "事件",
    "region": "倉敷市",
    "pub": "2026-10-15T02:32:26+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "b328f6562887aeff",
+   "title": "津山まつり（徳守神社）(岡山県)の情報",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHUGlXM0ZRMURiMW5yRFJaZW02Q2JPLUpvS25yQ0lHdlI0Sk5sOG9BRXA4eDByUm9jR0dYaU9RbFI4LVNGeGhGWUZOMU5XWlI0TjFjdUdCLTdPcjA?oc=5",
+   "source": "ウォーカープラス",
+   "cat": "催し",
+   "region": "津山市",
+   "pub": "2026-10-14T23:04:08+09:00",
    "event_date": ""
   },
   {
