@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T22:09:55.365119+09:00",
+ "updated": "2026-10-19T01:47:08.277186+09:00",
  "items": [
   {
    "id": "f0c45f481196df52",
@@ -72,6 +72,16 @@
    "event_date": ""
   },
   {
+   "id": "aca5bca5cb49d9f3",
+   "title": "手作りうちわ 夏祭りで使って 県立操山中生徒 旭川荘に寄贈",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA5a1doLU5qU3NWMUd4MUtwNHpTV1ZpU1hjS09vNHBaekhBVl9ITTdCM1VEWTlGdVh6UHFCSW9NdHpYWXFPMTMxYVNETjliMVV5QkE?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-10-18T08:37:47+09:00",
+   "event_date": ""
+  },
+  {
    "id": "1824e597f2533dce",
    "title": "被爆体験伝承者、倉敷で育成へ 「5年後は語れる人いなくなるかも。ぜひ参加を」",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wZWNCa3o2bktnUEZEWXZoVzlPM2x3UE1VR2RZSjBXZ0RETk5rZ0ZyY0hYRS1IbXVMM3pubURZZC0yV19sYXpIWklBcVNXaWZwdnF4Q2poZ3N5Zw?oc=5",
@@ -102,16 +112,6 @@
    "event_date": ""
   },
   {
-   "id": "c647123f10be542a",
-   "title": "リノベサミット岡山が10月18日に新築とリノベを考えるイベント開催へ",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ubmJ5b1QyMF9PbW1ZYTJRTjllRS1pUjNqSWVMY0cwSUJxUnctQW42S0tOLUtBQ3ZxUkIwUmNkb2V0ZXdFQXlsdVZmTGo0cFk2UW1RZ3JJUVVaWkk4SFRXY21GZEg?oc=5",
-   "source": "Dellows News",
-   "cat": "催し",
-   "region": "県内・その他",
-   "pub": "2026-10-18T03:19:02+09:00",
-   "event_date": "2026-10-18"
-  },
-  {
    "id": "48a6f6cdcad12c5e",
    "title": "岡山：土と炎の芸術魅力触れて 伊部駅周辺 「備前焼まつり」 ：地域ニュース",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE15cllfVk5mMEh0NTdDQlpmQm41emNWX0QxcEt3ZWMwRjFzTE9nODI4S081M3ZKRGpIT2t1MnRrNmZBaGc1VFd5UmFGeU9KNlJlbDZfQnh1TmhvRU5UcGlnWTFWTUY5c1Z0aEhOdkpuTjM4dG8?oc=5",
@@ -130,6 +130,16 @@
    "region": "浅口市",
    "pub": "2026-10-17T19:34:01+09:00",
    "event_date": ""
+  },
+  {
+   "id": "8dc5d2521eed24ad",
+   "title": "焼き鳥の祭典が倉敷に！「岡山やきとりフェス2026」10月23日（金）～25日（日）開催決定！",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBubV9xWm9uMi05UE9seVoxYkNVLXlfWTd5U3VmXzJlV2Z2bkVyelQ1QWVuRW1mek1ISHJHZVIxVjZwazRhUlAzMmoyZzhlWWN0OFE?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "倉敷市",
+   "pub": "2026-10-17T19:00:58+09:00",
+   "event_date": "2026-10-23"
   },
   {
    "id": "830bd74f60cf3383",
@@ -889,6 +899,16 @@
    "cat": "火災",
    "region": "岡山市",
    "pub": "2026-10-15T07:05:28+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "039a51d8642430f3",
+   "title": "ＪＲ倉敷駅前の複合施設「あちてらす倉敷」オープン５年 集客イベント展開でにぎわい創出も波及効果限定的",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9MamFPR3I5TklONUpIZHozZHN5YnM2MmFYcDhJTGVPeVo5VTU0NjI0LWRWXzJIX1o3TjFhUzZTN3BTa0tIRnVYUXlOa29GTDBfbUE?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "倉敷市",
+   "pub": "2026-10-15T05:06:00+09:00",
    "event_date": ""
   },
   {
@@ -1802,26 +1822,6 @@
    "event_date": ""
   },
   {
-   "id": "ece9eb13d38ff126",
-   "title": "道の駅 笠岡ベイファームで秋を楽しむ「15周年感謝祭」 10月18日開催 岡山・笠岡市",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TSG1wcEZmVjcxeVNKWTNWVUVXcVhJR2pnZWpkVjhFOVhkODlITXVXbWhDdjlCanNHa0dXTzljRndWd0tUMGZEbTVfZGpBUkk4cFhnWHNMMGdOSnZQUjhr?oc=5",
-   "source": "ライブドアニュース",
-   "cat": "催し",
-   "region": "笠岡市",
-   "pub": "2026-10-12T15:57:00+09:00",
-   "event_date": "2026-10-18"
-  },
-  {
-   "id": "8369e09f017ac8a2",
-   "title": "道の駅 笠岡ベイファームで秋を楽しむ「15周年感謝祭」 10月18日開催 岡山・笠岡市 (2026年10月12日掲載)",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XMndGQ0lTTXBXNmVORjJZLWtKQXh0aTZRSXBtdzZSRkRHeVBWX3k2ZHc2cmZWVXd3eVV5VGhObElFdUxWUWh1QU9MSl9MRF9YQXV6Z2RiT2JKUWs2LXc?oc=5",
-   "source": "ライブドアニュース",
-   "cat": "催し",
-   "region": "笠岡市",
-   "pub": "2026-10-12T15:57:00+09:00",
-   "event_date": "2026-10-18"
-  },
-  {
    "id": "7b8b3ed13123e37b",
    "title": "美咲町で婚活イベント「秋風薫る まきばの休日」参加者募集 11月15日開催 岡山（KSB瀬戸内海放送）",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSckNQV1dEUmdUbXhHeUVUOEVrV3FVZXByMzYtV0FzYzdMQVpJbWc1SDVQYUtRSlFaUjNteDBTVGhyVDF5NVhPVkR2ZmgwVmRzT3JnNUlDVW9VN0doY0NBX0x0SjM2U01scFQzSlRMWE1fMjZqdmJUWHpSQUg5Qm8?oc=5",
@@ -1852,16 +1852,6 @@
    "event_date": ""
   },
   {
-   "id": "4323b90166e2dadc",
-   "title": "住宅価格高騰の今こそ、「諦めない家づくり」を。新築か、購入＋リノベかを岡山の工務店4社と考える参加型イベントを10月18日開催",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Sd1p5WFpsRGRQckRPSWJaeXFvb0dlWjlZTXdTX2RZdmk3QzJWZnkyZ2lfdXF1OXNCb0oxc3diSzBvZHhUXzIwYWhJOEVldGlFU3c?oc=5",
-   "source": "山陽新聞",
-   "cat": "催し",
-   "region": "県内・その他",
-   "pub": "2026-10-12T14:43:49+09:00",
-   "event_date": "2026-10-18"
-  },
-  {
    "id": "4054ecb2dd62e853",
    "title": "救助袋の使い方、教職員が体験 東京の学校火災受け岡山で研修",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qVS1uMEN0UllfLW93Ri0xOTRhOFE5U1NYeE5CS2R3aDhyMDRHY2JnS2NzSHlxb2RaN0JRZTZ6NVNDNTZzSndZSVdvSVNUd19QSUE?oc=5",
@@ -1879,6 +1869,16 @@
    "cat": "催し",
    "region": "真庭市",
    "pub": "2026-10-12T14:12:30+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "3331911acf661d40",
+   "title": "「捕まるほど残っていないと…」酒酔い運転で交通事故か 危険運転致傷容疑で団体職員の男(30)を現行犯逮捕 岡山",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1VVNQcktIaEhfdFNKcENFbWk5QnJXMHhldUpsMFlpMXpid3Z3cXF5Qk11X2ZreE9YNXR5SEpDUWt5WmFyUGJsdVlkcVB4MGJCa2VZeFhVZFZ1VF9yT0E?oc=5",
+   "source": "ライブドアニュース",
+   "cat": "事故",
+   "region": "県内・その他",
+   "pub": "2026-10-12T12:22:39+09:00",
    "event_date": ""
   },
   {
