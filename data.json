@@ -1,6 +1,36 @@
 {
- "updated": "2026-10-19T04:22:25.521661+09:00",
+ "updated": "2026-10-19T06:45:51.993577+09:00",
  "items": [
+  {
+   "id": "af41d773821b7aa6",
+   "title": "【岡山地方気象台】気象特別警報・警報・注意報「【岡山県気象警報・注意報】岡山県では、竜巻などの激しい突風や落雷に注意してください。」",
+   "url": "https://www.jma.go.jp/bosai/warning/#area_type=offices&area_code=330000",
+   "source": "気象庁",
+   "cat": "災害",
+   "region": "県内・その他",
+   "pub": "2026-10-19T04:58:13+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "de4e2c212d032fb2",
+   "title": "【岡山地方気象台】気象警報・注意報（Ｈ２７）「【岡山県気象警報・注意報】岡山県では、竜巻などの激しい突風や落雷に注意してください。」",
+   "url": "https://www.jma.go.jp/bosai/warning/#area_type=offices&area_code=330000",
+   "source": "気象庁",
+   "cat": "災害",
+   "region": "県内・その他",
+   "pub": "2026-10-19T04:58:13+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "e08ef82de0404850",
+   "title": "【岡山地方気象台】気象警報・注意報（Ｒ０６）（その他注意報）「【岡山県雷注意報】岡山県では、竜巻などの激しい突風や急な強い雨、落雷に注意してください。」",
+   "url": "https://www.jma.go.jp/bosai/warning/#area_type=offices&area_code=330000",
+   "source": "気象庁",
+   "cat": "災害",
+   "region": "県内・その他",
+   "pub": "2026-10-19T04:34:20+09:00",
+   "event_date": ""
+  },
   {
    "id": "744930d0ddf39ed8",
    "title": "【岡山市北区】ステーキ！海鮮！カニ！スイーツ！！岡山天満屋で「北海道の物産と観光展」が開催されてる。11月3日まで",
@@ -29,6 +59,16 @@
    "cat": "催し",
    "region": "県内・その他",
    "pub": "2026-10-18T18:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "202fbba2d2194486",
+   "title": "「和紅茶」の魅力 奥深さ触れる 備前市美術館 特別展関連セミナー",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE43VjhLd3JSVGE1aktFY0lqc291U2FBbzI5cWRkU2xYRjc0THhqdE5XcFZka2NoZUVjUjRfRHZmdmlrWGNWV0NNdU5GUVJuU3E2bEE?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "備前市",
+   "pub": "2026-10-18T13:46:19+09:00",
    "event_date": ""
   },
   {
@@ -189,6 +229,16 @@
    "cat": "催し",
    "region": "岡山市",
    "pub": "2026-10-17T14:23:03+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "74435c0e4a5534d2",
+   "title": "倉敷市出身の高橋大輔さんが地元・岡山でアイスショー初開催 自身がプロデュース 2027年3月に実施",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1FUmhiSDhWc3o3Y0s1b2xYMU9zVzNrbmZEMXhqOUx3c2tpQ1lxNzNGVGFjYlhZYkczVjZvakg0YWxWdG1fTlcyTFNJWHVTaE9FRHdCM0ZlZi1PT05SR2Jv?oc=5",
+   "source": "ライブドアニュース",
+   "cat": "催し",
+   "region": "倉敷市",
+   "pub": "2026-10-17T11:32:26+09:00",
    "event_date": ""
   },
   {
