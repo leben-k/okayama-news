@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T02:42:56.267995+09:00",
+ "updated": "2026-10-20T07:16:08.323750+09:00",
  "items": [
   {
    "id": "08a171e2e50ddf9e",
@@ -602,6 +602,26 @@
    "event_date": ""
   },
   {
+   "id": "fb1616af8cc16b79",
+   "title": "自転車関係の事故多発７カ所公表 岡山県警初集計 最多は大供交差点（岡山市） 過去５年で１８件",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90YlJfYWplRWxBM2RTUVNCNTcyUUlhYlBHOTRneFlCWDFTV0Zfek9WOHVYMnR6Slp1RzE2ZFdwQ2E4UHNrejFuTmtqS3V4bkc3NXMxa3dVV3FrdVdDdUY5YkVrT2sta00?oc=5",
+   "source": "山陽新聞",
+   "cat": "事故",
+   "region": "岡山市",
+   "pub": "2026-10-17T16:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "53b66149eb2812ff",
+   "title": "心や生命 映し出す紙彫刻 紙のアーティスト・谷内庸生さん 備前市で個展",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE14UThRbTBVZ25QLW1jUnVsMVRobE9ZcGY2WXEyZUcza0g0U1dORk1QdFUwQ0NzYXQzQVRaR2xIOFFtUk1xZnRGeUJoZzM4c2dYblE?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "備前市",
+   "pub": "2026-10-17T16:00:00+09:00",
+   "event_date": ""
+  },
+  {
    "id": "76609d652047dfe0",
    "title": "公開ライブにマルシェ満喫して ＦＭ岡山が「ＤＡＴＥＬＩＮＥ ＯＫＡＹＡＭＡ」 メインは２５日、岡山市南区で",
    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5wclBvdjY1bXdpY2U2aHlOV2laSS03Ymt3SDNrMEZMc1EybFRoSkRUeEpSWkNWanJVbDlMUVFYaXJKZDhXcDgzYm1ONA?oc=5",
@@ -808,6 +828,16 @@
    "source": "山陽新聞",
    "cat": "火災",
    "region": "倉敷市",
+   "pub": "2026-10-16T16:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "f44f2877bc01d70a",
+   "title": "津山で民家全焼 けが人なし【動画あり】",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9BNmpqbTFJbGdBbGd1V3cyTmM4ME9ta0RoZ2VwZ0VuX3ZIS3Z2QTFzMDlheFdubGVDdGNUR0JwUExZeWlSWkpnZ1VXVDBEM0VLWHc?oc=5",
+   "source": "山陽新聞",
+   "cat": "火災",
+   "region": "津山市",
    "pub": "2026-10-16T16:00:00+09:00",
    "event_date": ""
   },
@@ -2260,16 +2290,6 @@
    "region": "新見市",
    "pub": "2026-10-13T07:20:09+09:00",
    "event_date": ""
-  },
-  {
-   "id": "4d52a78b6801488d",
-   "title": "「おしごと体験はどうだい？in岡山」～こどもと中小企業をつなぐプロジェクト2026～岡山の中小企業とこどもたちをつなぐ職業体験イベントを2026年11月29日(日)岡山県岡山市で開催！",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE92QnN0NUY3Xzh1eW5BY0RfbDF5UzYya0ZZMXRCNnVOd3NfaHA2bmNUbUVjcnNSVm5qbHVNLTJ2VmFMcXd3WDBOLWcxTF9zSjAtVEE?oc=5",
-   "source": "山陽新聞",
-   "cat": "催し",
-   "region": "岡山市",
-   "pub": "2026-10-13T06:30:17+09:00",
-   "event_date": "2026-11-29"
   }
  ]
 }
