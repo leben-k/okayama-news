@@ -1,6 +1,46 @@
 {
- "updated": "2026-10-19T06:45:51.993577+09:00",
+ "updated": "2026-10-19T09:06:38.963753+09:00",
  "items": [
+  {
+   "id": "21733686c5f9acbe",
+   "title": "ヒョンデ、岡山県真庭市らと防災・福祉協定を締結 スモールEV「INSTER」1台を寄贈",
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5BYkFoNG9TZy1hQU1MNkxRa0psdno5OFI3el9FaEN1ZjAxVUQ1UFgwdHVaNXo5V0hyVHFNR3ZER3BIWElucUlz?oc=5",
+   "source": "MSRweb",
+   "cat": "災害",
+   "region": "真庭市",
+   "pub": "2026-10-19T09:05:08+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "f4c4a1011e8ba3fc",
+   "title": "倉敷市玉島のアパートの1室が全焼 焼け跡から1人の遺体見つかる 岡山",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMeEJzWUdVcUxYSjZBZ3VUalBuYjRqbDZuYm1KNVJLdi1VZ1htU0pOY3NwY042bEFteWNsUmhybjhCc3dNeXpWMzR1cDZyQVFtWEMwUzZ1VXd5aFFxbDhPRkpDazM5X0tnOXROSF9tbnPSAXZBVV95cUxPSjRpS213anM1V2ctQ2ZYNnJnOVdLN2pveVEyR3dTc1Zza1JaelJwQXpjVFFuTHJ4c0otWk9KbE00LXNEZnNoSmlwb0J4QUJ3amdZcm9JWXpHdnBIQVJGWHd2d1hPVnVzd2RxUWF4S2tPcy1sRTJ3?oc=5",
+   "source": "ｄメニューニュース",
+   "cat": "火災",
+   "region": "倉敷市",
+   "pub": "2026-10-19T08:44:20+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "ce60d8e0d70fafa8",
+   "title": "アパートの1室で火事 焼け跡から1人の遺体 41歳の女性と連絡取れず 倉敷市玉島（RSK山陽放送）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhQnFhbmVZVDlQcjNzMS1fdmxHUjI5eEMyVElNRG14TWF3RnBWVHhmOUFZejJLVUhBRkhpN1JvNlBoSVRjM2U4Yk9WRG5BTC1RbUR4eUVsYXJFWGZ1Z3FkRE1rZU9CZWNKd3ZZNzRkRjNPeldaYnpFaDFySWMtSjA?oc=5",
+   "source": "Yahoo!ニュース",
+   "cat": "火災",
+   "region": "倉敷市",
+   "pub": "2026-10-19T08:02:13+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "2780cfea87a66579",
+   "title": "遺体は一人暮らしの女性か…倉敷市でアパート火災 焼け跡から性別不明の遺体見つかる【岡山】",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1kVEx4T2Z0Y2tWXzVTV0k5VGcxNUpYWVZscHZhMzVpRzBxclhha3FGNk8zX3k0SWd4alRIWTFGLWZ4SE9oLUxkaTA5eUpZZw?oc=5",
+   "source": "FNNプライムオンライン",
+   "cat": "火災",
+   "region": "倉敷市",
+   "pub": "2026-10-19T07:20:00+09:00",
+   "event_date": ""
+  },
   {
    "id": "af41d773821b7aa6",
    "title": "【岡山地方気象台】気象特別警報・警報・注意報「【岡山県気象警報・注意報】岡山県では、竜巻などの激しい突風や落雷に注意してください。」",
@@ -397,6 +437,16 @@
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBWc0w4TW5EcHQ1LVV6X3VzLUpxTzloMl9HZWdoTFEwVmNCMFpacUo3LXZHcEZWVlZxaFllc3JGcTZrbWJtbmhkNllsUUpORS1QbEE?oc=5",
    "source": "山陽新聞",
    "cat": "催し",
+   "region": "倉敷市",
+   "pub": "2026-10-16T16:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "f9535284d05b54c1",
+   "title": "アパート１室全焼、焼け跡から１人遺体 住人女性と連絡取れず 倉敷・玉島",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xalBZeXd0aXdlclpUY0x0Zmg3cHdMdjRGLXh1UlYwOEdvOGF0bzBlakF1d2VMQ21FQXRsM0lQS01UQm9yNmZod3ZsRGQ0QXpvblE?oc=5",
+   "source": "山陽新聞",
+   "cat": "火災",
    "region": "倉敷市",
    "pub": "2026-10-16T16:00:00+09:00",
    "event_date": ""
@@ -2029,36 +2079,6 @@
    "cat": "災害",
    "region": "倉敷市",
    "pub": "2026-10-12T09:30:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "1d7543186bfe58ff",
-   "title": "団体職員の男（30）を危険運転傷害の疑いで現行犯逮捕 酒酔い運転で交通事故を起こし運転手の男性にけがをさせた疑い「警察に捕まるほど酒は残っていないと思った」（岡山市南区）",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ldWdjWlkxc1g2QkxxZjZyblA3NUQwQUU5alcxWFFJOVJoeFdhc0otYzk4c0RleDFPckY4Z0FyVmdWQkxOQzZLRVVtX2JreDlpQ2EwQ3l2TThFQQ?oc=5",
-   "source": "TBS NEWS DIG",
-   "cat": "事故",
-   "region": "岡山市",
-   "pub": "2026-10-12T07:53:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "276f0d1678b36be8",
-   "title": "自然から着想 繊細さ表現した14点 玉野で陶芸家加藤直樹さん個展",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE52VVhCUmMzVjIxX2lGeF8zZC14bWlONnh2amRDRWZMMmd4U3RfR0wtQ0JpQVprR3NKRzkyZ01LaTUzSFc1YTA4MllNbUVVY29OeE5pZTFLQ1lWcXlUMXUyYVpQeWE1OXNJTjlSRVNsZXd0T3NDdHc?oc=5",
-   "source": "Excite エキサイト",
-   "cat": "催し",
-   "region": "玉野市",
-   "pub": "2026-10-12T07:20:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "4529d30c6a37bc48",
-   "title": "自然から着想 繊細さ表現した１４点 玉野で陶芸家加藤直樹さん個展",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOXdwdk9aNzVvVHprM2p1ajBwYU1haGR2M0NhRUlDaFR1M2JKUXdfNEdBODlQbHZDc0JKM0NUay1zVmZwVUYxZ3JGbEl4cC1kclFiVXFrTDBZTDRpRlRPU0FpNl9ranVVLUdmNXVuYjFmX0o1Ql9XQll1cFpmRFUyQzZqRdIBgwFBVV95cUxOOXdwdk9aNzVvVHprM2p1ajBwYU1haGR2M0NhRUlDaFR1M2JKUXdfNEdBODlQbHZDc0JKM0NUay1zVmZwVUYxZ3JGbEl4cC1kclFiVXFrTDBZTDRpRlRPU0FpNl9ranVVLUdmNXVuYjFmX0o1Ql9XQll1cFpmRFUyQzZqRQ?oc=5",
-   "source": "ｄメニューニュース",
-   "cat": "催し",
-   "region": "玉野市",
-   "pub": "2026-10-12T07:00:00+09:00",
    "event_date": ""
   }
  ]
