@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T19:33:14.289185+09:00",
+ "updated": "2026-10-19T20:09:49.271776+09:00",
  "items": [
   {
    "id": "acf83fcbf790fa9c",
@@ -339,6 +339,16 @@
    "cat": "催し",
    "region": "備前市",
    "pub": "2026-10-18T13:46:19+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "aed3ec860cca172a",
+   "title": "備前、和気でサイクリング大会 片鉄ロマン街道を走る",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhcHhpdklJcDNMdXdYaF9sYnoySTlXWG8yY0RBa2RjZHBDU0plOFlJU192LS1oZmNNSlp2Mm9FYlZGSVdFbl9WTkx1cWpVN0gzdEE?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-10-18T13:20:58+09:00",
    "event_date": ""
   },
   {
@@ -872,6 +882,16 @@
    "event_date": "2026-11-03"
   },
   {
+   "id": "4054ecb2dd62e853",
+   "title": "救助袋の使い方、教職員が体験 東京の学校火災受け岡山で研修",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qVS1uMEN0UllfLW93Ri0xOTRhOFE5U1NYeE5CS2R3aDhyMDRHY2JnS2NzSHlxb2RaN0JRZTZ6NVNDNTZzSndZSVdvSVNUd19QSUE?oc=5",
+   "source": "山陽新聞",
+   "cat": "火災",
+   "region": "県内・その他",
+   "pub": "2026-10-16T11:04:26+09:00",
+   "event_date": ""
+  },
+  {
    "id": "7549338a9271af6b",
    "title": "７０周年を迎える岡山県庁舎 １１月３日に記念イベント開催【岡山】",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBEUG15dFN0Ul9VM3pHTExhNkk5TWtyS0RFUU1PaGFWUnYtZVFYSmc4eGZOYlFWQ05jNnE2VU5qeEFlcVVfWjlXTnQ1T2pJNkZDTERmVEFpVUhGZVBZVWJ5M0x2bVVsM3l2RXJsWV95VXRkQdIBckFVX3lxTFBEUG15dFN0Ul9VM3pHTExhNkk5TWtyS0RFUU1PaGFWUnYtZVFYSmc4eGZOYlFWQ05jNnE2VU5qeEFlcVVfWjlXTnQ1T2pJNkZDTERmVEFpVUhGZVBZVWJ5M0x2bVVsM3l2RXJsWV95VXRkQQ?oc=5",
@@ -1148,6 +1168,16 @@
    "source": "山陽新聞",
    "cat": "事件",
    "region": "矢掛町",
+   "pub": "2026-10-15T16:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "e8752b4afe43a6ca",
+   "title": "岡山で路線バスと車２台絡む事故 ４人軽傷",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1rQ3ctbkNKMUlUSjJOTXd3aEY2WGV0bmlwR0pHUHh6bXVucDBxMC12aV9vRnlCUUZfWTZGQkRfajZnTS0zeEtxaTRwZWhCWTlVUHc?oc=5",
+   "source": "山陽新聞",
+   "cat": "事故",
+   "region": "県内・その他",
    "pub": "2026-10-15T16:00:00+09:00",
    "event_date": ""
   },
