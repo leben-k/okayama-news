@@ -1,6 +1,36 @@
 {
- "updated": "2026-10-21T01:48:19.312441+09:00",
+ "updated": "2026-10-21T05:26:39.043223+09:00",
  "items": [
+  {
+   "id": "80f347119108f61d",
+   "title": "【岡山地方気象台】気象特別警報・警報・注意報「【岡山県気象警報・注意報】岡山県では、落雷に注意してください。」",
+   "url": "https://www.jma.go.jp/bosai/warning/#area_type=offices&area_code=330000",
+   "source": "気象庁",
+   "cat": "災害",
+   "region": "県内・その他",
+   "pub": "2026-10-21T04:09:29+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "05f2dcec3b1f9985",
+   "title": "【岡山地方気象台】気象警報・注意報（Ｈ２７）「【岡山県気象警報・注意報】岡山県では、落雷に注意してください。」",
+   "url": "https://www.jma.go.jp/bosai/warning/#area_type=offices&area_code=330000",
+   "source": "気象庁",
+   "cat": "災害",
+   "region": "県内・その他",
+   "pub": "2026-10-21T04:09:29+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "2ebe3322491db966",
+   "title": "【岡山地方気象台】気象警報・注意報（Ｒ０６）（その他注意報）「【岡山県雷注意報】岡山県では、急な強い雨や落雷に注意してください。」",
+   "url": "https://www.jma.go.jp/bosai/warning/#area_type=offices&area_code=330000",
+   "source": "気象庁",
+   "cat": "災害",
+   "region": "県内・その他",
+   "pub": "2026-10-21T04:09:24+09:00",
+   "event_date": ""
+  },
   {
    "id": "323dab84567e0401",
    "title": "（岡山）倉敷市阿知１丁目で暴行 １０月２０日",
@@ -159,6 +189,16 @@
    "cat": "催し",
    "region": "岡山市",
    "pub": "2026-10-20T18:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "1f740ac8494de745",
+   "title": "岡山市、上南公民館建て替えへ 昨夏の事故受け方針示す",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE15cG9tSGhqU2JmZlIzcE43RzZzYU9jYjhQYWVKNlFHSW80eDFKZHd2UkhrQ0h6elNlanJId1d2cy1mTTZWeHhwTW1OVkJXMHNtTHc?oc=5",
+   "source": "山陽新聞",
+   "cat": "事故",
+   "region": "岡山市",
+   "pub": "2026-10-20T17:59:24+09:00",
    "event_date": ""
   },
   {
@@ -542,6 +582,16 @@
    "event_date": ""
   },
   {
+   "id": "c2c8ecc0fe1cf162",
+   "title": "『歌を通じて入所者に思いを届ける』杉良太郎さんらがコンサート ハンセン病国立療養所「邑久光明園」【岡山】",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hZHF1Nl9mNTFEcEQwOHVaUzNYR0JvS2hwZVhTR1JYYm9WLVY5dTV4eHRFekZESjQxaXlqOXJ0Q1pFejQ4TjdLNWdKTmNFWG5JTHJUMDdFNFJfdw?oc=5",
+   "source": "TBS NEWS DIG",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-10-19T18:04:00+09:00",
+   "event_date": ""
+  },
+  {
    "id": "2df5214ff1694199",
    "title": "バレーＳＶリーグ女子・岡山シーガルズ 大阪マーヴェラスに対し粘るも…期待の持てる開幕２連戦【岡山】",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9LNkItckw1SWJFcm9MNDJOSjZoODQ2VHBUVFB2c09mMnN2VEZ0UHpjck14TFUyZTFYVmJmY0NuR0V1MkNwOUx4d0FVSVc2S1dQZl9vODlfMG1yakdIZGdWUUJwTzF1UHRmOThvVnJkYW90Z9IBckFVX3lxTE9LNkItckw1SWJFcm9MNDJOSjZoODQ2VHBUVFB2c09mMnN2VEZ0UHpjck14TFUyZTFYVmJmY0NuR0V1MkNwOUx4d0FVSVc2S1dQZl9vODlfMG1yakdIZGdWUUJwTzF1UHRmOThvVnJkYW90Zw?oc=5",
@@ -879,6 +929,26 @@
    "cat": "催し",
    "region": "県内・その他",
    "pub": "2026-10-18T18:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "cdc11c5056c0e95f",
+   "title": "無差別殺傷事件 対応を訓練 イオンモール岡山で中央署など",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BWXc5cGdMZ0F5RzJpdjhEdHVOV1J5NnpWUE45ZjJQWnpFMmxWeHp1TW8xM0dfeWtHNE16YUVvQWlIX29fcmgyeVJvc0VJdkxrTVE?oc=5",
+   "source": "山陽新聞",
+   "cat": "事件",
+   "region": "県内・その他",
+   "pub": "2026-10-18T16:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "b0329b918650332e",
+   "title": "トライフープ選手と交流 真庭で親子参加フェスタ",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1nR3ZTdmNzQzVlV2pBU3RPaU9KMEhYWU9UZzdtank5T2pZbm8wYjZvT0I5aWdTY1Vpd1JQc1ZCSUprQmdXdEdFUV9tSzktdlRlNkE?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "真庭市",
+   "pub": "2026-10-18T16:00:00+09:00",
    "event_date": ""
   },
   {
@@ -2459,26 +2529,6 @@
    "cat": "災害",
    "region": "県内・その他",
    "pub": "2026-10-14T05:55:03+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "f97fcf034435d500",
-   "title": "岡山：火災時救出方法 東疇小が訓練、岡山市南消防署などと：地域ニュース",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9wZmJjakxrVlVwS21GN0tkOWdkSmhwT29UOGVuZ3VncWRUXy1QOE9qUlhkNHN0NDlSbnI4YUM3RV8xbVFsMUN1TEM1ZG5kTTYwZk5abDV5eDF2dmtTSnkwVVVEdVM5UmdnWlBSWDZ4WGxmUms?oc=5",
-   "source": "読売新聞",
-   "cat": "火災",
-   "region": "岡山市",
-   "pub": "2026-10-14T05:00:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "053bd3660956f689",
-   "title": "火災時救出方法 東疇小が訓練、岡山市南消防署などと：写真",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9sd0xDWWwzdnF5YzR5aG0zNU5HcGpzNVctenFzNWdNeGVSWEEwMkNJY2Q3Q3o5Z2tCSVVfU25tYkFHYnRrRTZmaV9nWnBFWlh4U1VTYzlxcUZnQXowVXJzNU5uR0dhZTZ2WWc?oc=5",
-   "source": "読売新聞",
-   "cat": "火災",
-   "region": "岡山市",
-   "pub": "2026-10-14T05:00:00+09:00",
    "event_date": ""
   }
  ]
