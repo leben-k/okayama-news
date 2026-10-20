@@ -1,6 +1,46 @@
 {
- "updated": "2026-10-21T05:26:39.043223+09:00",
+ "updated": "2026-10-21T08:20:11.709026+09:00",
  "items": [
+  {
+   "id": "9b75a715abca7cf5",
+   "title": "軽乗用車同士が衝突事故 20代～30代とみられる女性1人が意識不明の重体 岡山県倉敷市の県道",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE94WmNKeU4yQ3AxcFFxNHVCQnRCWTFsR0xRbnUxbmhMSEpsQ3JJOTBxaTMtNWY1M21aZms0YnU1c3dCVEFwUDY1TDJkTUxiVVZFUEZpTm1aOU5tR2c5UTZwTlU3d2ZGVW8?oc=5",
+   "source": "TBS NEWS DIG",
+   "cat": "事故",
+   "region": "倉敷市",
+   "pub": "2026-10-21T08:12:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "afea66804c3c5c89",
+   "title": "【岡山地方気象台】気象警報・注意報（Ｈ２７）「【岡山県気象警報・注意報】岡山県では、落雷や濃霧による視程障害に注意してください。」",
+   "url": "https://www.jma.go.jp/bosai/warning/#area_type=offices&area_code=330000",
+   "source": "気象庁",
+   "cat": "災害",
+   "region": "県内・その他",
+   "pub": "2026-10-21T07:11:26+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "4b6249931e85d0d1",
+   "title": "【岡山地方気象台】気象特別警報・警報・注意報「【岡山県気象警報・注意報】岡山県では、落雷や濃霧による視程障害に注意してください。」",
+   "url": "https://www.jma.go.jp/bosai/warning/#area_type=offices&area_code=330000",
+   "source": "気象庁",
+   "cat": "災害",
+   "region": "県内・その他",
+   "pub": "2026-10-21T07:11:26+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "a9ab5b4337d58486",
+   "title": "【岡山地方気象台】気象警報・注意報（Ｒ０６）（その他注意報）「【岡山県雷・濃霧注意報】岡山県では、急な強い雨や落雷、濃霧による視程障害に注意してください。」",
+   "url": "https://www.jma.go.jp/bosai/warning/#area_type=offices&area_code=330000",
+   "source": "気象庁",
+   "cat": "災害",
+   "region": "県内・その他",
+   "pub": "2026-10-21T07:05:17+09:00",
+   "event_date": ""
+  },
   {
    "id": "80f347119108f61d",
    "title": "【岡山地方気象台】気象特別警報・警報・注意報「【岡山県気象警報・注意報】岡山県では、落雷に注意してください。」",
@@ -392,6 +432,16 @@
    "event_date": ""
   },
   {
+   "id": "3bd6e707fc8e21fa",
+   "title": "スズキ、スーパー耐久第６戦・岡山でのイベント「Ｓ耐横丁」へ出展",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQVYzdFFoRWFrZWlLODlpRzRlbUJsRk0zdm1HVEJlYlF3RkdCMkg0UTNNNzdjQkIzQlVVSzZWWTQxdmY1MTBnYTRFUHB6dmtBWXV1dnN4Y2dlcVJZcmtwOE04ZF9qQm8wMUtKV0JoUkV3S1VRWTdYcnRxUWNfREZhb2k2RERUdk9NMG9Xd0wzdi1jU291b1JLZkRaT0lHZko3U2xqUFlSUFNpaWZnSDJSU0tlRFcwcHc?oc=5",
+   "source": "MOTOR CARS",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-10-20T11:30:56+09:00",
+   "event_date": ""
+  },
+  {
    "id": "47ff882f0de6313b",
    "title": "軽自動車にはねられ女性重体 運転手を現行犯逮捕、岡山南署（山陽新聞デジタル）",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1bEs1aHZTempRRE1sd3Q1c0FSOEZpNlB3bG1KUzhwU0RKNXNqbUtCdUhJSmJNUVFsYWE1WW9jN2l5dUl0eVplY2pib3QwUUM0endOY2t2eVphR3Q0WGVsSjBvdDNaeFJCWDQyQ25zbU5JdVJPTVhDSE9Jb0hRZ28?oc=5",
@@ -460,6 +510,16 @@
    "region": "玉野市",
    "pub": "2026-10-20T10:30:00+09:00",
    "event_date": "2026-10-24"
+  },
+  {
+   "id": "c4e37d8232f42f4b",
+   "title": "【速報】ＪＲ伯備線で倒木トラブルのため運転見合わせ 新見〜上石見【岡山】",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5zdFItMzdCR043YS1rVjBoeFNpUTdWNVc5VXJ1R1o0Nmd3Y1VMbWdCTnY3a3Y1cUJKby1ieE1fb0pERkVmaFY4TVY5MURqWlFsVmZZckZ5UWk3WVA4VWwzZnYxbG5VcFJWRXYyVFlBVi1kZ9IBckFVX3lxTE5zdFItMzdCR043YS1rVjBoeFNpUTdWNVc5VXJ1R1o0Nmd3Y1VMbWdCTnY3a3Y1cUJKby1ieE1fb0pERkVmaFY4TVY5MURqWlFsVmZZckZ5UWk3WVA4VWwzZnYxbG5VcFJWRXYyVFlBVi1kZw?oc=5",
+   "source": "ｄメニューニュース",
+   "cat": "災害",
+   "region": "新見市",
+   "pub": "2026-10-20T10:00:00+09:00",
+   "event_date": ""
   },
   {
    "id": "63427b73acc4d5ac",
@@ -2489,46 +2549,6 @@
    "cat": "災害",
    "region": "県内・その他",
    "pub": "2026-10-14T08:25:50+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "51caab55044dd23b",
-   "title": "【速報】高松自動車道通行止め解除 善通寺IC～さぬき豊中ICで事故【香川】（OHK岡山放送）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LbkF2cHdBV0xFTjZ0anQ1MnpaSUQ4V2ZzMWR0emRTLXpKbi16ZUUxU1E2T0NnVlA5NUFsZkVUR1BfTkMwMjFZRERRV0h5WUpuQzQxdDdqem90aXpjZXZ0RE5OcmdCaDBXdUpjdkY5S05wZVVWcS0tRElVb3ZrSTQ?oc=5",
-   "source": "Yahoo!ニュース",
-   "cat": "災害",
-   "region": "県内・その他",
-   "pub": "2026-10-14T07:26:01+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "0a23c8126e2660aa",
-   "title": "【岡山地方気象台】気象特別警報・警報・注意報「【岡山県気象警報・注意報】注意報を解除します。」",
-   "url": "https://www.jma.go.jp/bosai/warning/#area_type=offices&area_code=330000",
-   "source": "気象庁",
-   "cat": "災害",
-   "region": "県内・その他",
-   "pub": "2026-10-14T05:55:13+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "fdca4a6924e72e14",
-   "title": "【岡山地方気象台】気象警報・注意報（Ｈ２７）「【岡山県気象警報・注意報】注意報を解除します。」",
-   "url": "https://www.jma.go.jp/bosai/warning/#area_type=offices&area_code=330000",
-   "source": "気象庁",
-   "cat": "災害",
-   "region": "県内・その他",
-   "pub": "2026-10-14T05:55:13+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "11ce3fec9a483cb5",
-   "title": "【岡山地方気象台】気象警報・注意報（Ｒ０６）（その他注意報）「【岡山県雷注意報】注意報を解除します。」",
-   "url": "https://www.jma.go.jp/bosai/warning/#area_type=offices&area_code=330000",
-   "source": "気象庁",
-   "cat": "災害",
-   "region": "県内・その他",
-   "pub": "2026-10-14T05:55:03+09:00",
    "event_date": ""
   }
  ]
