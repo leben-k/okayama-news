@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-岡山 事件・事故・災害・催しまとめ
+岡山関係情報（事件・事故・災害・催し）
   - Googleニュース(RSS)と気象庁(岡山地方気象台)から見出しを集める
   - data.json に履歴を保存する
   - site/ フォルダに公開用ページ(index.html など)を作る
@@ -23,7 +23,7 @@ from email.utils import parsedate_to_datetime
 
 # ====================== 調整できるところ ======================
 BASE_URL = "https://leben-k.github.io/okayama-news/"
-SITE_TITLE = "岡山 事件・事故・災害・催しまとめ"
+SITE_TITLE = "岡山関係情報（事件・事故・災害・催し）"
 OPERATOR = "地域情報室"
 UPDATE_TIMES_TEXT = "適時に"  # 表示用の文言(時刻はcollect.ymlのcronで決まります)
 
