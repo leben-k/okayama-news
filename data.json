@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T00:35:20.318097+09:00",
+ "updated": "2026-10-23T04:57:31.197304+09:00",
  "items": [
   {
    "id": "4983382ba5c5ae90",
@@ -85,6 +85,16 @@
    "id": "b5a8b76effd09661",
    "title": "2026年10月24日(土)～10月25日（日）岡山週末イベントスケジュール",
    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1VN2cycFA3OVdMTFZHa2dvMHUtWnkxcjR4NDlVUF9wbGVkblcxMzVnLTNEM3Q2NWNfdjdFaFFGQmRhamZ5cWhScVhn?oc=5",
+   "source": "岡山おにさんぽ",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-10-22T17:37:57+09:00",
+   "event_date": "2026-10-24"
+  },
+  {
+   "id": "ac94f71cfa5bb013",
+   "title": "2026年10月24日(土)～10月25日（日）岡山週末イベントスケジュール - パート 7",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE55WWJLVWFMQnRKYTdWNkthSUJEN1NxY1dfWlg1dWItMlhGNlhqbUZQSU5ibXlxSmlPZHhyVk5HT3BXbEhBbFJmRWl5T1M?oc=5",
    "source": "岡山おにさんぽ",
    "cat": "催し",
    "region": "県内・その他",
@@ -202,6 +212,16 @@
    "event_date": ""
   },
   {
+   "id": "09e26d6411387176",
+   "title": "新見「土下座まつり」厳かに 大やりや鉄砲携え行列",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBPNWFaa1psQlJMWmFXa3licHZtY0JPbEpIUlp3U3g1bHo2YjNZcml5MWVkNFZPRTBmR0QxWEk5a0RxdzVwMlExbjFkSG13U0FrMGFPNHBManpCaHdDMHQ2akRrZw?oc=5",
+   "source": "山陽新聞デジタル｜さんデジ",
+   "cat": "催し",
+   "region": "新見市",
+   "pub": "2026-10-22T13:07:15+09:00",
+   "event_date": ""
+  },
+  {
    "id": "c5ee7d9035aa1b21",
    "title": "ジーンズストリートを歩行者天国に 倉敷市でイベント「デニムと夜市」が１０月２４日開催【岡山】",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5TRFNKQ3FTWWMwbncxQzY2T0trSnZ1cG40cFBVYlBOSS1uTzRCN2RJcDVlX1NiWGJIWDdZTDBWTGh5bzNYZy00OGFLQXZYU0dF?oc=5",
@@ -260,6 +280,26 @@
    "region": "真庭市",
    "pub": "2026-10-22T08:32:25+09:00",
    "event_date": ""
+  },
+  {
+   "id": "4b110cf32d933924",
+   "title": "新見市にパブリック支所オープン ４月１日から 「ゼロワン」地域で権利保護の態勢強化",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hdmJUMjlZV0h0UGZaVHU4LVdVaFhjaEJwRENHU2tYUndibjlIN3hoUmphUE1kTVljN0Iyb1I4RXI5UDE0aVgzZGRuVFAteVVzVXc?oc=5",
+   "source": "山陽新聞デジタル｜さんデジ",
+   "cat": "事件",
+   "region": "新見市",
+   "pub": "2026-10-22T08:22:13+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "988a4953de4612fd",
+   "title": "玉野市の野外フェス、「セトウチコンテンポラリー2026」出演者発表 平井大さんや又吉直樹さんも 10月24日・25日開催【岡山】",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5BMmdTdFI1YkpreTlFUzNKdFcwd0s3NEl4cHFaY19jaTRoNTl3cmRYM1NlN0szUzQ1azdicF96NGY5LXJUSTlvNVpBMmhJOVpqX1RrS2dPaWVHcGExUW9N?oc=5",
+   "source": "TBS NEWS DIG",
+   "cat": "催し",
+   "region": "玉野市",
+   "pub": "2026-10-21T20:00:00+09:00",
+   "event_date": "2026-10-24"
   },
   {
    "id": "f5d1e69dcc1d7ef1",
@@ -329,6 +369,16 @@
    "cat": "催し",
    "region": "岡山市",
    "pub": "2026-10-21T18:07:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "b94b5cc34b17c5ab",
+   "title": "社会人野球チーム・シティライト岡山がＪＲ岡山駅で熊本地震の被災地支援募金活動【岡山・岡山市】",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5UbG80VlhkTHNhcXpBNHhabjRBcXRYMG56a2t1WkZIdHg5c2JCQXktM1NFRU85UElqV1AybE83aGJXZHItMGtNTmhMTjFtX210Rld2QXRWdkdhYWlHYTJDQzdjeDc0M243d0Y2WkVn?oc=5",
+   "source": "au Webポータル",
+   "cat": "災害",
+   "region": "岡山市",
+   "pub": "2026-10-21T18:04:33+09:00",
    "event_date": ""
   },
   {
@@ -1642,6 +1692,16 @@
    "event_date": ""
   },
   {
+   "id": "fd28d94f025e8e70",
+   "title": "少女に性的暴行疑い 倉敷署が無職の男を逮捕",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE40V1JOYkh6OGJaaW5XRFhhcmttckZrSFc1ZmdYQWFTRDJudU04RlJGd204SlowamlMMDlFZF9wN3p0RThqV2dfN3F6Y21ZZXlrOWc?oc=5",
+   "source": "山陽新聞デジタル｜さんデジ",
+   "cat": "事件",
+   "region": "倉敷市",
+   "pub": "2026-10-19T16:00:00+09:00",
+   "event_date": ""
+  },
+  {
    "id": "4ee419fbe6afd96b",
    "title": "＜画像1 / 2＞直径160メートルに花開く5号玉が夜空を照らす！岡山県「夏まつり西大寺2018」",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94cXVSUVViZ3RjeXpIQkR5UWd4R3N3VGdDZXhNMzQ1LVZJdTZCdlo0eDlpbjlZRG5oa2VVQmJsZEJDUWdsSnp4S3YyT0xlUW5OYWZHM1NUUk1sTk5YOTVtT2Z0Sm03ZmZwVHc?oc=5",
@@ -2759,6 +2819,16 @@
    "cat": "催し",
    "region": "井原市",
    "pub": "2026-10-16T10:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "0f229e1da7fe4506",
+   "title": "息子のため「現金渡す」高齢男性 道案内求めたのが警察官 岡山南署が詐欺グループ摘発",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xbS1XVUlLN1IwM0FuQkIybVRrMm95RDNFR2dvMzhaY2ZaQmd5cGEtN2ppaGFndFlfSE5oV2lsV2FzZUxZWXpMMTZnT1RRUEJGS3c?oc=5",
+   "source": "山陽新聞デジタル｜さんデジ",
+   "cat": "事件",
+   "region": "県内・その他",
+   "pub": "2026-10-16T09:16:00+09:00",
    "event_date": ""
   },
   {
