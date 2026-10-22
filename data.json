@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T08:59:36.700962+09:00",
+ "updated": "2026-10-22T09:35:05.918136+09:00",
  "items": [
   {
    "id": "bfef84da8a2df68d",
@@ -9,6 +9,16 @@
    "cat": "事故",
    "region": "倉敷市",
    "pub": "2026-10-22T08:52:42+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "13adbc89caaebe8a",
+   "title": "自転車と衝突 救護せず走り去った疑い トラック運転手の63歳男を逮捕／岡山・津山、倉敷市",
+   "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPRmZaQ3FSOU85SmRUZU84SlV4cEpRYWtKOWc4T0tHZ2tGblFldVlsd1I0MDJBS0hnX1BSRnIwNmw5Vnk3cnV6VDQxcHh3RE9YRWFWZWpSRjRmcEtWRm02WHhSSlI2YXJnS3pHMnAtaFA4LXZlZTB4Q0g5RERkRXRDRlUxRGRtTGpWR3ZLcmRzc01xaUpnWjJpSTM4c09zQmR5ZVF5Q0dIc3VGZ3lCQTNwNDJ0WjV0SFQzdmVkYzNyUFlkajBOS21sQXFrNkhjR2U0OHc0Xzg2MkZZazVkWHIwd3VMTDM5dndCNHh2M2tBYUx3U1VIN25yLU1xU19HWmFKRjVnM3I2bm9jVVhSczF0Y1MyRG9TVGlGcFlBY0xzQTBlVUp6Y19WLUloUlBfdEJUd1B6WmR6TFlTVmxURzdtTkRfRzVuM0ktRVE?oc=5",
+   "source": "津山朝日新聞社",
+   "cat": "事故",
+   "region": "倉敷市",
+   "pub": "2026-10-22T08:45:38+09:00",
    "event_date": ""
   },
   {
