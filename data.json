@@ -1,6 +1,16 @@
 {
- "updated": "2026-10-24T02:50:06.958655+09:00",
+ "updated": "2026-10-24T06:18:50.962580+09:00",
  "items": [
+  {
+   "id": "320189871d4d8481",
+   "title": "大相撲秋巡業・笠岡場所、岡山県笠岡市で初開催 会場はかさしんアリーナ",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5pcnNPLTQzS00wS3VFbkUxeHkzZlJKVFlmdjRuREpsNEZ4cERRREtTcVI3M3pRdnNKUTE0STdTX0NNTE80V1pzMzVCM2tyS3JNb2p6Q3RLc1U1eURQR3ZYZVNxcWI0Z0Vn?oc=5",
+   "source": "https://mediadogs.jp/",
+   "cat": "催し",
+   "region": "笠岡市",
+   "pub": "2026-10-24T04:36:02+09:00",
+   "event_date": ""
+  },
   {
    "id": "63fcde73c9c572ca",
    "title": "児童生徒の１２２点展示 ２４、２５日笠岡で翠光会書道展",
@@ -2889,16 +2899,6 @@
    "cat": "災害",
    "region": "県内・その他",
    "pub": "2026-10-17T09:50:50+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "aba6d010d5fbd13b",
-   "title": "2人が死亡した事故受け「西大寺会陽」のあり方を検討する委員会 専門家や祭りの関係者などに聞き取りへ【岡山】",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBtVU44d2Fhb05uMnJuWGtGZl9NZHh2V1JoS09pY2VtNWowWjhnamN3S3FuRHJSc3IteldBMHExbE0wY2xzc09VdFZMeHVLUTVUZXBjZ0tRcmJ2Qkl3NjJJ?oc=5",
-   "source": "TBS NEWS DIG",
-   "cat": "事故",
-   "region": "県内・その他",
-   "pub": "2026-10-17T06:00:00+09:00",
    "event_date": ""
   }
  ]
