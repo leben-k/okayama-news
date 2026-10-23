@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T21:49:04.369193+09:00",
+ "updated": "2026-10-24T02:50:06.958655+09:00",
  "items": [
   {
    "id": "63fcde73c9c572ca",
@@ -62,6 +62,16 @@
    "event_date": ""
   },
   {
+   "id": "ee9688e12d6df61d",
+   "title": "インドから中学生・高校生がやって来た 笠岡市の高校で授業を体験 国際感覚を養って【岡山】",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1pbzZ1RkVnR2lOOE0tb2E0ajJYcUx5dHotQkRKTldfQlk3V2NTVW1XSDNDM0dhUDNaRFgwcElHX194WnNyOUc5N05STXFHWGc1eU8zemluV1J0ZXZPYlcwOEw2SQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "cat": "催し",
+   "region": "笠岡市",
+   "pub": "2026-10-23T18:30:00+09:00",
+   "event_date": ""
+  },
+  {
    "id": "8c39d260ef922a7d",
    "title": "手術室見学やコンサート 岡山医療センターが３１日フェスタ",
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPT3U3VERWUEdwMG1SRUhWWTllektLVzk1SDJVUTlJdFpLaXRDUnpaTWFEOUtXYlIyQVozWjRRSVdJaGYwT2FUaDRKVlpxTUhWcktPOHdaQ1p3N3htXzQ1ZURrY29tQkNKRVpoY25FM1R3Ykt6dzRSQTVIY25CM3lSNTBkd9IBgwFBVV95cUxPT3U3VERWUEdwMG1SRUhWWTllektLVzk1SDJVUTlJdFpLaXRDUnpaTWFEOUtXYlIyQVozWjRRSVdJaGYwT2FUaDRKVlpxTUhWcktPOHdaQ1p3N3htXzQ1ZURrY29tQkNKRVpoY25FM1R3Ykt6dzRSQTVIY25CM3lSNTBkdw?oc=5",
@@ -69,6 +79,36 @@
    "cat": "催し",
    "region": "県内・その他",
    "pub": "2026-10-23T18:10:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "ef67bab0f2427075",
+   "title": "【岡山県瀬戸内市】アイリスオーヤマ株式会社からスポットクーラー70台の寄附 瀬戸内市の子どもたちの教育環境充実・熱中症対策へ",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9mREN4ZlZPLWl1eGNYeFZJaXRhYW9CV3pWdDF5eXdRVUFrYnZPVmZqVWl0cFpRWW9HeGxRODEtRmtRdjJ2UkNldFpEbTRMYUc2T1E?oc=5",
+   "source": "山陽新聞デジタル｜さんデジ",
+   "cat": "災害",
+   "region": "瀬戸内市",
+   "pub": "2026-10-23T17:50:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "4891c11f98746717",
+   "title": "【岡山県瀬戸内市】妊娠・出産・子育てをもっと安心できるものに。「いいお産フェア2026」を11月7日に開催！",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBqdEZHZ3VTQnMxUzkxWFl2WWF4NGthTHVoc2hNSVdUb2M4VXlFbFk3dEN0dmxBbEZ6ZHR0VHprdC1FaDlLQjVqbU5iMXM0UVAyeTZTSzRKREQ?oc=5",
+   "source": "オリコンニュース",
+   "cat": "催し",
+   "region": "瀬戸内市",
+   "pub": "2026-10-23T17:46:00+09:00",
+   "event_date": "2026-11-07"
+  },
+  {
+   "id": "d98da8ddb942e1de",
+   "title": "台風30号の影響で「開催中止」 25日の西川緑道公園開設50周年の各種記念行事 岡山市",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE84MjF0RHpWRlA5ZWtfNWFxU0RJRXlObnJZbGwyWVZpak43akxrWTYxY1BGOVdwYkNBUFdWNkphbU9TS2VqZnd3M2ZQdXBHczI4OHU2cF94NC1JajBjdTdTXzN6Y0FBNDIzRklVY0l3?oc=5",
+   "source": "au Webポータル",
+   "cat": "災害",
+   "region": "岡山市",
+   "pub": "2026-10-23T17:24:00+09:00",
    "event_date": ""
   },
   {
@@ -232,6 +272,26 @@
    "event_date": "2026-11-14"
   },
   {
+   "id": "b410317e53f24657",
+   "title": "「刳り物」磨き上げ半世紀 木工芸の川野さん（新見）岡山で県重文認定記念展",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1qTU9Dd3c2VjBtdnpRbGtYMktoTmZDdUozdXVoZUpYZTBDQ2J1RkxuRzdlVnJkS3lpWURRbDV6dVIxOThsM1c4Qk9JVUlWRXhldkJST1RkTW00enB1UGk2aENIQ0tWWnYzczUyTzRTX3BjeUM0cjBVRzJFcVUxZ9IBgwFBVV95cUxOaG5ELS1INXg5MFhWaV9aUWROclljbFM3NHhKVTdOZXZnaEN6eUh2cEktelZkRmhuVWJ5VVRvNTlMSUw1NWk4djJ2Mzh0RlRxUE9QblkwYjdFREhsdVgtQ2h5WTQ2Wjdhc3BrOE1fYWhReWQwWWQxSlkwN2hqX1dCQm01aw?oc=5",
+   "source": "ｄメニューニュース",
+   "cat": "催し",
+   "region": "新見市",
+   "pub": "2026-10-23T09:01:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "f1434ceac91a8e97",
+   "title": "赤磐市中央図書館、寄贈図書紛失 １４００冊、窃盗で捜査",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBYckYybFFkQk1Wc3F3enRid1Nnd196ZXZBMWI5XzJNckJmejlpMklGUk44Mkw3bEdoWmZCUWZKcWgwS2RiVGkyd3BNMjBqUVIzXzBQVQ?oc=5",
+   "source": "山陽新聞デジタル｜さんデジ",
+   "cat": "事件",
+   "region": "赤磐市",
+   "pub": "2026-10-23T08:44:26+09:00",
+   "event_date": ""
+  },
+  {
    "id": "35f5722927c31688",
    "title": "【岡山】2026年10月24日・25日週末開催の無料イベント9選 秋祭り＆フェス＆マルシェも",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fSTdTY2FvQ1JhNVdSM25WLXlNZ003U2FBZ1JJMG5XaW1hOE1UcDNjbVljTUgwOGozLS16eEJhazlpLWJnTkdmNjcxQnZxQTB5NkE?oc=5",
@@ -260,16 +320,6 @@
    "region": "倉敷市",
    "pub": "2026-10-23T03:44:14+09:00",
    "event_date": ""
-  },
-  {
-   "id": "1d9b6353f955f842",
-   "title": "【倉敷市】マスカットスタジアムに岡山県内外の焼鳥人気店が大集合！「岡山やきとりフェス2026」が10月23日（金）～25日（日）開催されるみたい",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9qTWpwYXc2TnEwbVZGalBXRS1BMzhHQmNFRWlMM0ZLQ3FVZDNNczBqdEoyRUpRdjlpdGQ5RjFBS0gwZW9tY0t6X011RVg3Zw?oc=5",
-   "source": "岡山おにさんぽ",
-   "cat": "催し",
-   "region": "倉敷市",
-   "pub": "2026-10-23T00:31:39+09:00",
-   "event_date": "2026-10-23"
   },
   {
    "id": "4983382ba5c5ae90",
@@ -779,6 +829,26 @@
    "cat": "災害",
    "region": "総社市",
    "pub": "2026-10-21T16:21:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "fbe994ef36d7639b",
+   "title": "新見市予算 過去１０年で最大規模 １９年度当初、豪雨復旧などで",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5RUExGSEE0SW4tRVBCVS1PQ2RmNEZpbjJKTjZCb0tkRnVQYjFiZThtbk5keFpPWi00NTEtaTMxWDU0d1c2eW9vZkh4MkNKajhW?oc=5",
+   "source": "山陽新聞デジタル｜さんデジ",
+   "cat": "災害",
+   "region": "新見市",
+   "pub": "2026-10-21T16:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "5572a26f6d77c537",
+   "title": "路上で女性にわいせつな行為をしてけがを負わせた疑い ネパール人の男を逮捕 岡山",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE56T28taTRnMVRjTWFYcU1QVUFUOXlydzhaSE1ROEVDemlud2xxN0xwdlpoX2xhVGd0QUpXMkZJUTRocmhrT0NFNEU3a1B5d3FWc2RWRkxPeVpvRUNoUnhWZDZiNnpGUXlkTG1LVnlwUVjSAXZBVV95cUxOc2xSNTk1MDRTQ1J3MFlnMnN4ODFaZlR6eDFmWUIwU213ZWN4WEhBdGhmckdodXFTRE1tWEN1WjdITlJwdE5sS3Y3TlZ5UWk2YW53WkE1Uk5IOHVndWpsVEF5cUhORERfMGxJOXFHOUFPTXc5YTN3?oc=5",
+   "source": "ｄメニューニュース",
+   "cat": "事件",
+   "region": "県内・その他",
+   "pub": "2026-10-21T15:46:00+09:00",
    "event_date": ""
   },
   {
@@ -1532,6 +1602,36 @@
    "event_date": ""
   },
   {
+   "id": "cbc8e028f7806a09",
+   "title": "交通事故犠牲者慰霊 僧侶ら托鉢 倉敷から笠岡まで２０キロ",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92ZE9Ia0pLUmxHWTdWVDAwaUlCMF9NRUNWZnZRWUluZFdSdXhaZ2xUbEx6V2JQZ1l4Slg4NDdmeHFGbmFJQ0JFYjZDa3pwaXJwekJSSmxzMXE1UGhmZU4tTzZnR1RwOW8?oc=5",
+   "source": "山陽新聞デジタル｜さんデジ",
+   "cat": "事故",
+   "region": "倉敷市",
+   "pub": "2026-10-20T16:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "477ac1ec80e5c973",
+   "title": "高梁・変電所で火災 、伯備線が半日運転見合わせ 倒木で架線損傷が原因か",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBUSGdjWkZNY25vOHNib25RMU9UcFNYaTJXd1lHc19GWkJCZkxPcXFGeVhPSHYtOHJieWZ6eGthYXV1S1Q3T2J6V09zb2tvSjRxV2dpREFHNWlkMkxLUkNGdWo5R29yY2xncngwQlFvY3FnNUdfWTBV?oc=5",
+   "source": "山陽新聞デジタル｜さんデジ",
+   "cat": "火災",
+   "region": "高梁市",
+   "pub": "2026-10-20T16:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "18a4770949b25c2a",
+   "title": "倉敷市水島東寿町で複数の建物が焼ける火事 焼け跡から1人の遺体が見つかる【岡山】",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE10RzBNc2dwTk01RUl2b01UTHF2NzVKMU45LTZjZFgzZV9CLXZFNEhlTk1FQjR2S0JieFBmQzhCTkZuS0RGWEtRWGlwZFV1cC1LWmIyVVkwVkR5T0tOMlE?oc=5",
+   "source": "TBS NEWS DIG",
+   "cat": "火災",
+   "region": "倉敷市",
+   "pub": "2026-10-20T15:30:00+09:00",
+   "event_date": ""
+  },
+  {
    "id": "15bb101b9f1fbbda",
    "title": "10代の少女にみだらな行為をした疑い 会社員の男（18）を再逮捕 岡山",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBaMUd1UEJ1TTFaQTFFSTdLYU5MR2tfNzBHY3VPbDRiRi1XenpzOEg3UGlWWGx3SVo3SmFkTnBzTkhOdjZhUzl4UWFHVGIzSE1w?oc=5",
@@ -1949,6 +2049,26 @@
    "cat": "事件",
    "region": "岡山市",
    "pub": "2026-10-19T20:36:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "7362c7728f10f32c",
+   "title": "【天気予報】台風30号の岡山・香川への影響は？ 20日は雲が多く、にわか雨のところも",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FWXp5OV9felhpMzVoNGZ1SUdScmVnekdtQV9ydWVkbWQ2R3piUlpLNXM0VHRxelFMa0E1RlJLTFVFckJuM0cwVzcxamxHeGJ0VnA2RVlKZ0JETHVseFlEU2wtOXVsQ3VuYmZ5NDVSRHfSAXZBVV95cUxOUXRFY2tFYVVQMjNfV0tKaUN4aS1PWk1IU0U0TTJNZmZQUUZZbUFvT2dTTmNhNXVpcUI5emRmX1otZEYyWkl2ODhfYkJORVJZbklZc29YTnU1SlNLbTE3VXVMOVFES1dsY2RPME53OE52U3NlZ3Jn?oc=5",
+   "source": "ｄメニューニュース",
+   "cat": "災害",
+   "region": "県内・その他",
+   "pub": "2026-10-19T19:54:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "0862042fef1da40d",
+   "title": "性的暴行容疑で逮捕の５人を不起訴 岡山地検",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1zOEtwVzdPakxjVjgwWXFDMUdhNWJyUWNSdDZDUHUtZUQyeXJPMEFMckRNamRrNGt3VThrb1MxZW9mRXpYVk93NFVQaEpsTWpNVjlnOW5nWElzZW1ZX1o4?oc=5",
+   "source": "NHKニュース",
+   "cat": "事件",
+   "region": "県内・その他",
+   "pub": "2026-10-19T19:45:57+09:00",
    "event_date": ""
   },
   {
@@ -2612,16 +2732,6 @@
    "event_date": ""
   },
   {
-   "id": "8dc5d2521eed24ad",
-   "title": "焼き鳥の祭典が倉敷に！「岡山やきとりフェス2026」10月23日（金）～25日（日）開催決定！",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBubV9xWm9uMi05UE9seVoxYkNVLXlfWTd5U3VmXzJlV2Z2bkVyelQ1QWVuRW1mek1ISHJHZVIxVjZwazRhUlAzMmoyZzhlWWN0OFE?oc=5",
-   "source": "山陽新聞",
-   "cat": "催し",
-   "region": "倉敷市",
-   "pub": "2026-10-17T19:00:58+09:00",
-   "event_date": "2026-10-23"
-  },
-  {
    "id": "830bd74f60cf3383",
    "title": "ろくろ体験や窯の見学も 「土と炎の芸術」備前焼をＰＲする備前焼まつり始まる【岡山・備前市】",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5JU0toM2hNMERjNno5RUExZkxLZkoxbUtWV0RHQU9qRFp2SFVyUzBVNy1wYnlmMWJkaHhOMWNVcjlHd3RTY1JkaG1POE9iT21yYmwtRUxHUUxZZFdYMjBoZDY5SjN4eHpqdzBnT9IBckFVX3lxTFBTM1U5blNGMXhFMzVYUjhmaHFHMDhrYV9WV21CaTVRQTZ3WVJFQVNXOEMwZ3lQazUyRVZBWHhQdHhuOXRWa2g1MEtXc2xPWU54SURMZmUxakVjRmV6M0Y4U2hqX0x2QUlrU3lMNUh0S0JhUQ?oc=5",
@@ -2759,6 +2869,16 @@
    "cat": "催し",
    "region": "倉敷市",
    "pub": "2026-10-17T11:32:26+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "19ba5c49fa27bb0a",
+   "title": "国道429号で自転車に乗っていた男性（66）がはねられ死亡 4時間近く通行止めに【岡山】",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1pNVhoWEZITHpSNnFSNmEwUmRXekQ4ZVhfbk5SM0NxZmJuRnJfdENDUlFmWEJQcGZ5bEUxOUFSZTJReFd1MG4tbDlIWFZHck5HNVZiWXd2VWJqQk93Nmc?oc=5",
+   "source": "TBS NEWS DIG",
+   "cat": "災害",
+   "region": "県内・その他",
+   "pub": "2026-10-17T10:36:00+09:00",
    "event_date": ""
   },
   {
