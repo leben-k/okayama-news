@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T04:23:53.743950+09:00",
+ "updated": "2026-10-25T06:49:31.068579+09:00",
  "items": [
   {
    "id": "d9480df67866a74d",
@@ -1172,6 +1172,16 @@
    "event_date": ""
   },
   {
+   "id": "b013970c7de6dc85",
+   "title": "岡山県内に大雨 岡山、玉野市で「レベル４」発令も 鉄道乱れ相次ぐ",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DWHpzYkc1WUdrNWhkamJuX0dTUmdXRGt3RGhsallkR0l5cXNfb19zRnZuLS1EckF1QkMyZmNWZDFYY1dvVXZyeUprNXc2VmtVZHc?oc=5",
+   "source": "山陽新聞",
+   "cat": "災害",
+   "region": "玉野市",
+   "pub": "2026-10-21T16:00:00+09:00",
+   "event_date": ""
+  },
+  {
    "id": "5572a26f6d77c537",
    "title": "路上で女性にわいせつな行為をしてけがを負わせた疑い ネパール人の男を逮捕 岡山",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE56T28taTRnMVRjTWFYcU1QVUFUOXlydzhaSE1ROEVDemlud2xxN0xwdlpoX2xhVGd0QUpXMkZJUTRocmhrT0NFNEU3a1B5d3FWc2RWRkxPeVpvRUNoUnhWZDZiNnpGUXlkTG1LVnlwUVjSAXZBVV95cUxOc2xSNTk1MDRTQ1J3MFlnMnN4ODFaZlR6eDFmWUIwU213ZWN4WEhBdGhmckdodXFTRE1tWEN1WjdITlJwdE5sS3Y3TlZ5UWk2YW53WkE1Uk5IOHVndWpsVEF5cUhORERfMGxJOXFHOUFPTXc5YTN3?oc=5",
@@ -1756,6 +1766,16 @@
    "title": "「裸祭り」来年は争奪戦せず 岡山の奇祭、参加者２人死亡で",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE04cERiYVowTEhaSUJycDVwZU5JYTdmWVI5SmlVNHpjUXJEeTZKNHZvWnZqZ0szRjJmYktKR3pBdE5JdXZEb0cwcGlReFFYRDFGcHd4aDNDQUNFYTRVakE?oc=5",
    "source": "沖縄タイムス社",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-10-20T18:28:45+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "c2a5f1da8cf163bd",
+   "title": "「裸祭り」来年は争奪戦せず 岡山の奇祭、参加者2人死亡で",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1feXZCanZrX3dwUVBrR1JoMTk5ek5yd0VCTzRpMmt0Y3BNZG5QN0d6T2NHcnB4QTllN2pfbExBaEJNa3JpRlVUNEhieFE5TWxuY1dZNk1tWVBGaS1DdWllZ191aXVJWkdTRHpN?oc=5",
+   "source": "信濃毎日新聞デジタル",
    "cat": "催し",
    "region": "県内・その他",
    "pub": "2026-10-20T18:28:45+09:00",
@@ -2959,36 +2979,6 @@
    "cat": "催し",
    "region": "倉敷市",
    "pub": "2026-10-18T08:26:15+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "a318b4075ae7c892",
-   "title": "【おかやま祭時記】⑥中世夢が原大神楽（井原市） 神々をもてなす熟練芸【動画あり】",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5NeDZzNU9LaTZIZmhZdDN5bG9nNE5XX1EyMUl1UGJkU1dpZXJkSmljYVh5VVl5REt3S1hfLVNvQ1ppNmJ6OFNPMzRTMHJRa1ppNFE?oc=5",
-   "source": "山陽新聞",
-   "cat": "催し",
-   "region": "井原市",
-   "pub": "2026-10-18T05:05:39+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "f73ce634ab197c7b",
-   "title": "【おかやま祭時記】中世夢が原大神楽（井原市） 継承担うプロフェッショナル「太夫さん」",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVVnNnOUZFQk5MUXdWVklObG1CUmh4MDBiXzc3SmtUaHlZSTNkVzc2N0Q3eFpZWlVJTDFiOVhlb2ZQS0V1d0FnYWdWOHhQTEE4YlE?oc=5",
-   "source": "山陽新聞",
-   "cat": "催し",
-   "region": "井原市",
-   "pub": "2026-10-18T05:04:11+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "d9f758743396a447",
-   "title": "【おかやま祭時記】中世夢が原大神楽（井原市） 民俗学者・神崎宣武さん「全国的つながりを」",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1qUjZQamctVVpnc0RnZDdRaHhfZUVmRElhNmxETUFkYU1iUjlLeWtGVGRwOGxsZ3RHUjZ1MV8yN3lXMTB5QmEzU21QekVZSEhiYmc?oc=5",
-   "source": "山陽新聞",
-   "cat": "催し",
-   "region": "井原市",
-   "pub": "2026-10-18T05:00:36+09:00",
    "event_date": ""
   }
  ]
