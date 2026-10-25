@@ -1,6 +1,16 @@
 {
- "updated": "2026-10-25T19:04:30.337488+09:00",
+ "updated": "2026-10-25T23:19:25.341278+09:00",
  "items": [
+  {
+   "id": "78622ff94bedf443",
+   "title": "【岡山市北区】さんすて岡山で、地域の魅力発見イベント「見つかるおかやま広場 〜秋の楽しい出逢い〜」が10月31日開催",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LaGJWM3VLTGxOc0NadU1NYXVXcG9PY2FOTkMtVVVwWFNwN0wxSHdaQmYwUnIzT0huN3NhRzAyYnhzMWxHLVlsYmJvQVZPdEJZbFdMVUNhZXZlT1hHdmZZR2VuMGtFa0dWMm1hM2ozMGUzLWY5V0ZuZl9lZk1DVDg?oc=5",
+   "source": "号外NET 岡山市",
+   "cat": "催し",
+   "region": "岡山市",
+   "pub": "2026-10-25T16:00:33+09:00",
+   "event_date": "2026-10-31"
+  },
   {
    "id": "fb0e16c8d8534a12",
    "title": "【バレーボール・ＳＶリーグ女子】開幕後初の地元試合に臨んだ岡山シーガルズ、今季初勝利お預け…第１セット先取も相手攻撃止められず",
@@ -40,6 +50,16 @@
    "region": "高梁市",
    "pub": "2026-10-25T14:08:16+09:00",
    "event_date": "2026-11-01"
+  },
+  {
+   "id": "ca2474105395c0b2",
+   "title": "岡山・倉敷市の市道で車が電柱に衝突 6歳女児が意識不明の重体 (KSB瀬戸内海放送)",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbU1pN0VicDZidDdkczM0UFowLThhQWdFV3lOa01TT0hCWTkyc2pjRVl3UTNlTEpIUjhIT3NzUGlZeVE1UGVBSVRuS1B6LUJDMnBTd2VCQmtKZFhYeFJ0UUJPNWVNWC1GRm91SVhOMm1ZUG5KaTBfT25pV3JERGFzUXROem9CVXdERzl3bmRB?oc=5",
+   "source": "Yahoo!ニュース",
+   "cat": "事故",
+   "region": "倉敷市",
+   "pub": "2026-10-25T14:02:19+09:00",
+   "event_date": ""
   },
   {
    "id": "d66abca4f043c424",
@@ -602,6 +622,16 @@
    "event_date": ""
   },
   {
+   "id": "d175a00241bca36c",
+   "title": "豪雨、台風被害の千葉・佐倉市へ 総社市職員２人と救援物資派遣",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE44MmRaTEhmaTUzMEc5NGtRcGt6X3RnaVpmUG00bnBybnhOMF9VVDQ4SHoxNU5SLXBCUXFSNjF0d3BUcXVhRl9hZ1FmckFXUENCeVE?oc=5",
+   "source": "山陽新聞",
+   "cat": "災害",
+   "region": "総社市",
+   "pub": "2026-10-23T16:00:00+09:00",
+   "event_date": ""
+  },
+  {
    "id": "b1dfde1adf50fb4f",
    "title": "先付けから主菜まで秋の味覚たっぷりの和食ランチ 季節感あふれる、あんみつも 岡山【ほっとマルシェ】",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE91WjA2Y3ZUYUsydTlFZHN3NzdUVDNxaEVzeGFQZF90dHpGakFhcmQ0Y1lmU284MnNNYWNLVzRLVHNIS01IMVpwdGlhZjBjSno0?oc=5",
@@ -1139,6 +1169,16 @@
    "cat": "催し",
    "region": "真庭市",
    "pub": "2026-10-22T08:32:25+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "6dfecfe59f7754cb",
+   "title": "大相撲岡山場所、2年ぶりに岡山市で開催 シゲトーアリーナ岡山に真庭市出身の三段目・醍醐桜が登場",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1NdlRfVnJZRHJPMldaUkpaU0tjWEZUbmNpeXBSMnl5RVBUQTJaaGZKVFFPTmVDTVZfT2ljQlh2Z3E1aGpXZGNRUW1TNkYtTHVaM0lxTXJfQlZfSndjeGctU3B0SFJ5VVZBeVE?oc=5",
+   "source": "https://mediadogs.jp/",
+   "cat": "催し",
+   "region": "岡山市",
+   "pub": "2026-10-22T08:23:06+09:00",
    "event_date": ""
   },
   {
@@ -3010,16 +3050,6 @@
    "region": "岡山市",
    "pub": "2026-10-18T23:50:29+09:00",
    "event_date": "2026-11-03"
-  },
-  {
-   "id": "febd7f7bfc2f623b",
-   "title": "聴覚障害者へ理解深める 講演や歌 高梁で手話劇祭",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAybXAtYTBUVU1xclAzVVB5TVNtai1OeTJlNndSdFpOcWZKX1FYVlFmTVNVRVJHazlQdUkwZ0Z5cS15MG5IRHB3V0IwMUoyalRyN09OSl9EUXY0bmVIMVdvMVhlaEkwWHNTSHlLMURDUzN4eDhUU0d1RWltQ19tQdIBgwFBVV95cUxOTmQtWEUyOEJsOUVwX2ZjR0lpZmxZeGh2UVVId1VHOEVNQnUwR1FRQjlVTWpSVjBOSTVyN2pqaGVVRzBnRzZRYmd2SEVwdnJldXdsbHNaQmxFdmZ5NFc4T0dnU2lrOUFwUndKWmNxYXNZQ05INVUzVE1HZUpDYS1xNDVQVQ?oc=5",
-   "source": "ｄメニューニュース",
-   "cat": "催し",
-   "region": "高梁市",
-   "pub": "2026-10-18T20:16:00+09:00",
-   "event_date": ""
   }
  ]
 }
