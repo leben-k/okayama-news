@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T02:46:56.285481+09:00",
+ "updated": "2026-10-26T05:43:59.671949+09:00",
  "items": [
   {
    "id": "78622ff94bedf443",
@@ -119,6 +119,16 @@
    "cat": "催し",
    "region": "県内・その他",
    "pub": "2026-10-25T04:07:41+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "10b6608362aae717",
+   "title": "【牛窓花火大会の復活とマリンスポーツによる観光振興へ】岡山県瀬戸内市が地域おこし協力隊3名を新たに任命[岡山県瀬戸内市]：山陽新聞デジタル｜さんデジ",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fWnpuYU0tNHl0WkoxNkFrbENUOVJ3QUFnbGRLSUlvdU9nSXV6OG8xTXJWSzFYRHdrejMwc0NvN2J3cFlOcHVaaGRFZTh3RjlfcFBQaHV2bWVTZnNUQ2dVdmhtdEFlNGs?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "瀬戸内市",
+   "pub": "2026-10-25T03:36:22+09:00",
    "event_date": ""
   },
   {
@@ -642,6 +652,16 @@
    "event_date": ""
   },
   {
+   "id": "6ca09b365f9cc548",
+   "title": "治山ダム完成、山林火災受け整備 岡山市南区に県、土砂被害低減へ",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tX2ZsUW92QmdjcDh3NFBLM2l1eG1BUnJLY2VFV3lJT1RoM2hQR3dodmN3bGFyaEQ4OFBhVXBnV0c1ekRXdXVacnJvdk1DTlhsR0Roei1rMkVpNm5RQnN2RFhSdTZQRFU?oc=5",
+   "source": "山陽新聞",
+   "cat": "火災",
+   "region": "岡山市",
+   "pub": "2026-10-23T16:00:00+09:00",
+   "event_date": ""
+  },
+  {
    "id": "b1dfde1adf50fb4f",
    "title": "先付けから主菜まで秋の味覚たっぷりの和食ランチ 季節感あふれる、あんみつも 岡山【ほっとマルシェ】",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE91WjA2Y3ZUYUsydTlFZHN3NzdUVDNxaEVzeGFQZF90dHpGakFhcmQ0Y1lmU284MnNNYWNLVzRLVHNIS01IMVpwdGlhZjBjSno0?oc=5",
@@ -1037,6 +1057,16 @@
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE15R0JXYkEybnhKTjh4eHkwcl95STQ2OXYteE1XXzJMekZKd2hCTGI5MGpJX29JZ3FTeENDWmN5Q2lxZ1dfWVRCbmszNm10WDRPQlAydFZBRUxlVmRxVldGNkxhbw?oc=5",
    "source": "山陽新聞",
    "cat": "火災",
+   "region": "県内・その他",
+   "pub": "2026-10-22T16:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "4d291cfbaf25fdda",
+   "title": "足守の夜空彩るサプライズ花火 若手グループ企画 第２弾は…",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1VVnlOdlRJVkw1UkpOWExRR0hiYk1YVEd6T2VMRU9NcGw2V3hqNDFVTmU0VUFIa2h2MHpUNjUyQjdCdHBqVDA1SGRnTVZWRmJucVNDM1hEVDZBaXk1eEJOTmR1azBwc3V0NjVnMmg2NmhiTkFWMUI0?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
    "region": "県内・その他",
    "pub": "2026-10-22T16:00:00+09:00",
    "event_date": ""
@@ -2852,6 +2882,16 @@
    "event_date": ""
   },
   {
+   "id": "79a1d6d11fd16b33",
+   "title": "聴覚障害者へ理解深める 講演や歌 高梁で手話劇祭",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9NcjQ0TVZrSWpBTW9lRW1UbE5xZTdlMl9hZVlkaUp6dy1tYkRKSWx4b1F3UXRXQ2xLdVhvM25xTl9kd3VTOWZsR1BvMnlxVzhNQ0FCWjFhcmZUQUt6QW81bWo3X0NaYUpzaGFaeHFHY2VtUFFuOWc?oc=5",
+   "source": "Excite エキサイト",
+   "cat": "催し",
+   "region": "高梁市",
+   "pub": "2026-10-19T12:40:00+09:00",
+   "event_date": ""
+  },
+  {
    "id": "aee1caf365652b5f",
    "title": "踊りで猛暑吹き飛ばせ １１日、赤磐で「ＫＯＹＯ祭」",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5qUXBCRTc4VDNUOXJWdVlqeFVxTHV2b3VOLVRpU0hudFZaOGpLbW5fVFp4S3dOM0ZRM1hDV0dELVlZN1VYS0xlUnVOSjBhWHRvY2c?oc=5",
@@ -3009,36 +3049,6 @@
    "cat": "催し",
    "region": "倉敷市",
    "pub": "2026-10-19T06:02:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "af41d773821b7aa6",
-   "title": "【岡山地方気象台】気象特別警報・警報・注意報「【岡山県気象警報・注意報】岡山県では、竜巻などの激しい突風や落雷に注意してください。」",
-   "url": "https://www.jma.go.jp/bosai/warning/#area_type=offices&area_code=330000",
-   "source": "気象庁",
-   "cat": "災害",
-   "region": "県内・その他",
-   "pub": "2026-10-19T04:58:13+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "de4e2c212d032fb2",
-   "title": "【岡山地方気象台】気象警報・注意報（Ｈ２７）「【岡山県気象警報・注意報】岡山県では、竜巻などの激しい突風や落雷に注意してください。」",
-   "url": "https://www.jma.go.jp/bosai/warning/#area_type=offices&area_code=330000",
-   "source": "気象庁",
-   "cat": "災害",
-   "region": "県内・その他",
-   "pub": "2026-10-19T04:58:13+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "e08ef82de0404850",
-   "title": "【岡山地方気象台】気象警報・注意報（Ｒ０６）（その他注意報）「【岡山県雷注意報】岡山県では、竜巻などの激しい突風や急な強い雨、落雷に注意してください。」",
-   "url": "https://www.jma.go.jp/bosai/warning/#area_type=offices&area_code=330000",
-   "source": "気象庁",
-   "cat": "災害",
-   "region": "県内・その他",
-   "pub": "2026-10-19T04:34:20+09:00",
    "event_date": ""
   }
  ]
