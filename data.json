@@ -1,6 +1,16 @@
 {
- "updated": "2026-10-25T06:49:31.068579+09:00",
+ "updated": "2026-10-25T09:12:48.048603+09:00",
  "items": [
+  {
+   "id": "21f1e8c084791503",
+   "title": "倉敷・県道で軽自動車が電柱衝突 同乗の女児が重体",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CbzZVSWJldjhOT0lQNFE1UGljLVdQeENzeG1tWW1yN1NacHNuRjZDcS1VLUR3YTVKN3RDWUpyVXl4V2V2TEt0am9FOEZaclRVZF9odFNGelNGS3I3V2lzd3JxN2V3SWxxSFNvT1F6aE5IODBRZVE?oc=5",
+   "source": "pressrelease-jp.com",
+   "cat": "事故",
+   "region": "倉敷市",
+   "pub": "2026-10-25T05:53:28+09:00",
+   "event_date": ""
+  },
   {
    "id": "d9480df67866a74d",
    "title": "音楽ステージや人気グルメ 玉野・セトウチコンテンポラリー開幕",
@@ -817,6 +827,16 @@
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5QSVZvTWF2X3lnZVRYckdtSlI2SWlWZS1SV0lRNnpDcEtnT1NMOTdmaGRIYk5vT09Ya3dKZlNtY1RRb3pWMFNYX3hzUnhxOTBqbmNOSElGQkoxS1F5N0M2aDRSYkVUQ1VZTldZamgxWVc2dU16TnlN?oc=5",
    "source": "山陽新聞",
    "cat": "事故",
+   "region": "県内・その他",
+   "pub": "2026-10-22T16:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "6b0cd2f61552571d",
+   "title": "伯備線の変電所火災謝罪 ＪＲ岡山支社長 倒木 １ ０年で５倍増 対策強化へ",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE15R0JXYkEybnhKTjh4eHkwcl95STQ2OXYteE1XXzJMekZKd2hCTGI5MGpJX29JZ3FTeENDWmN5Q2lxZ1dfWVRCbmszNm10WDRPQlAydFZBRUxlVmRxVldGNkxhbw?oc=5",
+   "source": "山陽新聞",
+   "cat": "火災",
    "region": "県内・その他",
    "pub": "2026-10-22T16:00:00+09:00",
    "event_date": ""
@@ -2949,36 +2969,6 @@
    "cat": "催し",
    "region": "井原市",
    "pub": "2026-10-18T12:00:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "7ca0b2be23469c70",
-   "title": "盆踊りや屋台、音楽ステージ楽しんで 岡山・問屋町、９日にイベント",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1tVHZ0NjFVaHZOczJfUE5WUmNJd0VGazR1VEVuTlNHem1SWEVPT0RpMVZlQ09kOUZuQU9xc2RGZFFjaG1CNWtPQmlOdi15ZG0tRWc?oc=5",
-   "source": "山陽新聞",
-   "cat": "催し",
-   "region": "県内・その他",
-   "pub": "2026-10-18T08:41:01+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "aca5bca5cb49d9f3",
-   "title": "手作りうちわ 夏祭りで使って 県立操山中生徒 旭川荘に寄贈",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA5a1doLU5qU3NWMUd4MUtwNHpTV1ZpU1hjS09vNHBaekhBVl9ITTdCM1VEWTlGdVh6UHFCSW9NdHpYWXFPMTMxYVNETjliMVV5QkE?oc=5",
-   "source": "山陽新聞",
-   "cat": "催し",
-   "region": "県内・その他",
-   "pub": "2026-10-18T08:37:47+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "1824e597f2533dce",
-   "title": "被爆体験伝承者、倉敷で育成へ 「5年後は語れる人いなくなるかも。ぜひ参加を」",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wZWNCa3o2bktnUEZEWXZoVzlPM2x3UE1VR2RZSjBXZ0RETk5rZ0ZyY0hYRS1IbXVMM3pubURZZC0yV19sYXpIWklBcVNXaWZwdnF4Q2poZ3N5Zw?oc=5",
-   "source": "中国新聞デジタル",
-   "cat": "催し",
-   "region": "倉敷市",
-   "pub": "2026-10-18T08:26:15+09:00",
    "event_date": ""
   }
  ]
