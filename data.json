@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T23:19:25.341278+09:00",
+ "updated": "2026-10-26T02:46:56.285481+09:00",
  "items": [
   {
    "id": "78622ff94bedf443",
@@ -628,6 +628,16 @@
    "source": "山陽新聞",
    "cat": "災害",
    "region": "総社市",
+   "pub": "2026-10-23T16:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "8acfd7e6c42b7216",
+   "title": "重体の４２歳男性 意識が回復 西大寺会陽巡る事故",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9fUXZrT1pVc2dZRkNfcnVDN19hMG8tNE0tNEZaMjN4UXlySEk0YTZ1OTJmTU1oZXRfVWpienVXTzVXYTRFLUJzYkdaY0Y0UVdiOEE?oc=5",
+   "source": "山陽新聞",
+   "cat": "事故",
+   "region": "県内・その他",
    "pub": "2026-10-23T16:00:00+09:00",
    "event_date": ""
   },
@@ -1408,6 +1418,16 @@
    "source": "山陽新聞",
    "cat": "災害",
    "region": "玉野市",
+   "pub": "2026-10-21T16:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "48f20709251eccb2",
+   "title": "地産地消マルシェにぎわう 市民団体と連携で初開催 瀬戸内市・岡山 村田 製作所",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA3Zl9qUU44SWxucWRac3dxTXUxYVp2d3kxQ3VIbUdGandoTXlHN0lqOFkyWkV3U1g2aThXUmVqck5MRkRvSkRnSG12U0tTUm1FUUNqb2JfOVdmaXJLNXhLN0RzZjBuSzZWVlRQck1Fdw?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "瀬戸内市",
    "pub": "2026-10-21T16:00:00+09:00",
    "event_date": ""
   },
@@ -2302,16 +2322,6 @@
    "event_date": ""
   },
   {
-   "id": "5a94a5b7f7203950",
-   "title": "菊の花で後楽園を彩る 「岡山県後楽園菊花大会」 10月25日から",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE02UWpEVWkzYi1UbEhMelo2STFhaTJIRGhZOU9NQkhRWDFadGsxUU0tUVlld3A5U2plNnFxLUFyZENFVGZLcGRXVDQ2MExydDRndUFha3ZPUmpreks1VkFsNVFmaURoSHdqVF9VV0RKY2pLd3pBLWfSAXZBVV95cUxNNlFqRFVpM2ItVGxITHpaNkkxYWkySERoWTlPTUJIUVgxWnRrMVFNLVFZZXdwOVNqZTZxcS1BcmRDRVRmS3BkV1Q0NjBMcnQ0Z3VBYWt2T1Jqa3pLNVZBbDVRZmlEaEh3alRfVVdESmNqS3d6QS1n?oc=5",
-   "source": "ｄメニューニュース",
-   "cat": "催し",
-   "region": "県内・その他",
-   "pub": "2026-10-20T11:46:00+09:00",
-   "event_date": "2026-10-25"
-  },
-  {
    "id": "ffe2d2b3bc791797",
    "title": "「ピザからはじまる、すてきな出会い」 岡山・新見市で婚活イベント開催（KSB瀬戸内海放送）",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02WVlSSnM4VnZfbG9vZldGY1htd3pZMjdXMGpPM0gtT1ZUY2FZZ2hFYjhPVzRTNDNqYTB5MHhmWUM2aDljcDQ5VklHbmdFdmlEWmlhZVIyVHhPSXFTbHNBdG1aR0hRLWc5ZEZhdUViVHVnTE9vcnlXR3A3VDgxQXc?oc=5",
@@ -2570,16 +2580,6 @@
    "region": "真庭市",
    "pub": "2026-10-19T22:02:51+09:00",
    "event_date": ""
-  },
-  {
-   "id": "1cd564500c6f8ea5",
-   "title": "岡山市出会いのひろば、10月25日にスポーツ観戦イベント開催へ 参加者を募集",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Pa2kyZU1GN29SYVU1WExOQWJraXc3YW9WSG5oQnBJMUZaV194eW9aVElpMHZHcUhsdVd3c3BYT0doZFBzcHNGY0gxZC1URm5lSV9yd2pvRzVKeDY0ZUVtRGFvX2VqRXVZ?oc=5",
-   "source": "Dellows News",
-   "cat": "催し",
-   "region": "岡山市",
-   "pub": "2026-10-19T21:05:05+09:00",
-   "event_date": "2026-10-25"
   },
   {
    "id": "e0746b53b93eafca",
@@ -3040,16 +3040,6 @@
    "region": "県内・その他",
    "pub": "2026-10-19T04:34:20+09:00",
    "event_date": ""
-  },
-  {
-   "id": "744930d0ddf39ed8",
-   "title": "【岡山市北区】ステーキ！海鮮！カニ！スイーツ！！岡山天満屋で「北海道の物産と観光展」が開催されてる。11月3日まで",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5aNk1RVEZOMmppZExKWjZ5ZlhQUi1Zc3JNQUREOEVTLVpBN2tyc3ZKNU9xbW1jd3VNNGN1UFpEV2phZFZyM0tQRkhxRG9meXM?oc=5",
-   "source": "岡山おにさんぽ",
-   "cat": "催し",
-   "region": "岡山市",
-   "pub": "2026-10-18T23:50:29+09:00",
-   "event_date": "2026-11-03"
   }
  ]
 }
