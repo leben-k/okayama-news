@@ -1,6 +1,16 @@
 {
- "updated": "2026-10-26T23:06:55.566025+09:00",
+ "updated": "2026-10-27T05:06:07.662651+09:00",
  "items": [
+  {
+   "id": "9e3ebc8bfc0f51d6",
+   "title": "（岡山）倉敷市児島柳田町付近で暴行 １０月２３日",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSXdsRFFlalJjd1BOZ1FOTjFHNU91RzAwcjUxWGdzQkZ2OC1feGNkLWd1OU5lcnNqcndwVmNRcXp4aTdHODNHWF9uSTlNdmlqNV90RzkzbkwyTlIwRW9nLXM3Z2ZRaXBPakhicmU5OERrU0YxVEY2bGNTMzMyUjZaQU5xXzdOVDlQRnhYUkRFV2ZOVDlRUlVaa1ktS2ZwdkhNOXfSAaIBQVVfeXFMTUl3bERRZWpSY3dQTmdRTk4xRzVPdUcwMHI1MVhnc0JGdjgtX3hjZC1ndTlOZXJzanJ3cFZjUXF6eGk3RzgzR1hfbkk5TXZpajVfdEc5M25MMk5SMEVvZy1zN2dmUWlwT2pIYnJlOThEa1NGMVRGNmxjUzMzMlI2WkFOcV83TlQ5UEZ4WFJERVdmTlQ5UVJVWmtZLUtmcHZITTl3?oc=5",
+   "source": "ｄメニューニュース",
+   "cat": "事件",
+   "region": "倉敷市",
+   "pub": "2026-10-26T22:11:00+09:00",
+   "event_date": ""
+  },
   {
    "id": "82421ca8957860a2",
    "title": "岡山県久米南町の津山線で事故 列車と接触の男性が死亡（山陽新聞デジタル）",
@@ -39,6 +49,16 @@
    "cat": "事故",
    "region": "総社市",
    "pub": "2026-10-26T19:07:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "c75d9e562f9aa45e",
+   "title": "玉野市新庁舎完成、９月２４日開庁へ 防災機能強化、書かない窓口導入",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5aXzhTa1ZYdV94REdlV3JHZjRQNW96dzZtWVhXM3U4T0pXdUV6Um4wWDF4bWhQSFdxX2NXQ1NXdkdnYkdXbVJtU09mR2ZYbDNtemQxVWhCWDBNZTZrYXVXRHEtYW1ldmFxeVpHSG9LRQ?oc=5",
+   "source": "山陽新聞",
+   "cat": "災害",
+   "region": "玉野市",
+   "pub": "2026-10-26T18:02:59+09:00",
    "event_date": ""
   },
   {
@@ -148,6 +168,16 @@
    "source": "Yahoo!ニュース",
    "cat": "催し",
    "region": "県内・その他",
+   "pub": "2026-10-26T14:01:56+09:00",
+   "event_date": "2026-11-03"
+  },
+  {
+   "id": "cdcd3a790d2658e7",
+   "title": "岡山・香川の日本酒を楽しめるイベント 11月3日開催 岡山市・岡山駅前商店街 (KSB瀬戸内海放送)",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQnVRTlQxdjB0X2NFQkRqWDllOHk2UlZ5bjN6aDlxSml6LVlfUEV4a0k0b210U1N1c291SU42QzB5TmUycC1jczVMUnBURjdHSjUyakl6QVJMeHp1Q1R0Y2x4TGVrU1JVRE81VUJHWExiaWwwOU4zSXFqdTFjeklDSzFIWWhTMkZ3VC1ucTRB?oc=5",
+   "source": "Yahoo!ニュース",
+   "cat": "催し",
+   "region": "岡山市",
    "pub": "2026-10-26T14:01:56+09:00",
    "event_date": "2026-11-03"
   },
@@ -672,6 +702,16 @@
    "event_date": ""
   },
   {
+   "id": "b9cd302997c86e57",
+   "title": "夏休みの家族向けイベント続々 岡山県内の商業、レジャー施設",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBQeWpUZ21QOGpfaXdKXzJzWDBFbkhXaWNiN1pTbWVYRGlBYUpnNWhYNWpZd05ObHo2aTlReVo2eE9BYjFKeS1wLWVLWTVHV1N1SXc?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-10-24T16:00:00+09:00",
+   "event_date": ""
+  },
+  {
    "id": "be6ff6ffeaf987c2",
    "title": "足場を設置していた20代男性作業員 川に転落し死亡 旭川に架かる月見橋 岡山（KSB瀬戸内海放送）",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5pQ2s5UGNoS0FGWVB0TmRGRzJiZHdGdlBLOVlOVG9hLURVQU91SFA1VGh2NTRid2hhQWJHQldVcEZrT2tra285NWNocUU2bGQxWElYem9ZVkxqWmZseDhLRUFjTEJBZ3k1WU5sdnhIemlNcnF2eG9SOGRGZHNld3M?oc=5",
@@ -1097,6 +1137,16 @@
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DRmNQSlRzSHlfYUV2Wi1kTXZfdG03ekpyNkRuRGMyYm9VNllRS0ZQcGNYMHZWdkluN2trT2E5WWh2QnJyVVZyWTNJM0Vrdzl2Q3c?oc=5",
    "source": "山陽新聞",
    "cat": "催し",
+   "region": "高梁市",
+   "pub": "2026-10-23T16:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "f0a4e086fd1cfbf4",
+   "title": "性的少数者対象 パートナー制度 高梁市導入、子、親を家族と証明も",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5tZE52VGN0ZkNGTkltQmVkRTR3RzI0al9hRWZ4YTV4M3dJaXl4S2JnSXhFRGhNSEtieUNMekRMRUlZUDFpdEFfWFpvTmJNWWVmUXc?oc=5",
+   "source": "山陽新聞",
+   "cat": "事件",
    "region": "高梁市",
    "pub": "2026-10-23T16:00:00+09:00",
    "event_date": ""
@@ -3012,6 +3062,16 @@
    "event_date": ""
   },
   {
+   "id": "763fc770b71c816a",
+   "title": "岡山市東区松新町の新橋で銅製の橋名板4枚が盗難被害",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0yZjhOdUxITDRINHhtYjNzeFNPVi1CYkVhdDE5MjdFcXpJMmhIVTRZY2pORlZCTjlkRVMxaWRxUWs3TW5xVmpDcDhhQktjYkVfRDRWY25CTEZfV0VkakZB?oc=5",
+   "source": "ライブドアニュース",
+   "cat": "事件",
+   "region": "岡山市",
+   "pub": "2026-10-20T08:52:29+09:00",
+   "event_date": ""
+  },
+  {
    "id": "63427b73acc4d5ac",
    "title": "高校生が浅口市の新たな特産品「三ツ山レモン」の収穫を体験【岡山】",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE80dDI0R0t4QTJTQTV3aVlUWG5WSjlwdlFYNVFHTUFCSmZMOFh4XzV5S3BDUTZVRWFJbG5zZGhuVnJVRmdOU2FZeEJuSUVyaHMyV0hObmNvYjNDQmhaMDVR?oc=5",
@@ -3069,36 +3129,6 @@
    "cat": "事故",
    "region": "県内・その他",
    "pub": "2026-10-20T07:24:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "704e5a92d09a753d",
-   "title": "第40回備前長船菊花展を開催します[岡山県瀬戸内市]",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5yVkVIRHFzNXZrWkVRVlVseDlfbnhKOU1OZmlaRkh3Z3docTZGajlMNTRHR1N2MHdmZnprQkJacFBxV0xYY0ZQN0NoS0Zmd216WFE?oc=5",
-   "source": "山陽新聞",
-   "cat": "催し",
-   "region": "瀬戸内市",
-   "pub": "2026-10-20T04:57:43+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "505c8e2259df4582",
-   "title": "備中刀の魅力に迫る、岡山県の高梁市歴史美術館で「館蔵刀剣せいぞろい」開催",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwTWQtOEdRQS1TaHU4cThHUDdld1Z3a1NwM1dkV21oTWN1VmVKT2h0VE5WTlpORDU2RWJhUzNIQTFjU0RNbXNEbWlxT3JYYjdXYjFwbWp30gFbQVVfeXFMTUNqcFB3Q19GWjE2a0MxOUVKN3hMTVJ3Uk5BY2Y5X19yQ0J6NU14WkV6UVAwblZDd1NoUGhOVHBmNXZnU3I1ckFZY0pWLVY5bmpHX1hSdkI0b0U1QQ?oc=5",
-   "source": "ウォーカープラス",
-   "cat": "催し",
-   "region": "高梁市",
-   "pub": "2026-10-20T04:22:03+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "08a171e2e50ddf9e",
-   "title": "人気のパン、スイーツ集合 24日、総社でパンフェス",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHNmxqWWh1SDRZdWs4ZWVjbWZaMTBtaGJkb3ZiSVpmbHJhQkFRbHQxSkdaS0lzTHU5TWNIelE4Y0VpNl9rWkJHNzlmclNXY0NCN0lzSEsxSlFUZlp2VjBVd25SMnBrajJNWTk5bmJqTDlnMEhIZUE?oc=5",
-   "source": "Excite エキサイト",
-   "cat": "催し",
-   "region": "総社市",
-   "pub": "2026-10-19T23:10:00+09:00",
    "event_date": ""
   }
  ]
