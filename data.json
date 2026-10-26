@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T08:09:16.823188+09:00",
+ "updated": "2026-10-26T10:34:23.691594+09:00",
  "items": [
   {
    "id": "045b207f085ee924",
@@ -9,6 +9,16 @@
    "cat": "災害",
    "region": "津山市",
    "pub": "2026-10-26T07:39:01+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "aea7173962c76557",
+   "title": "【速報】ＪＲ津山線 人との接触のため津山～福渡で運転見合わせ【岡山】",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE44T0NwOHhEUEg3emg1VkxMNGdrXzhEaTY0c1ctV3A4U0JmYndhMmJicncyajRkc1FMTlA3eTM2WVhRb3QzOUZWUlpnWU5ESmFHYnVtODlYaHNmTXZkcWM0NHR1VnM?oc=5",
+   "source": "OHK 岡山放送",
+   "cat": "災害",
+   "region": "津山市",
+   "pub": "2026-10-26T07:34:41+09:00",
    "event_date": ""
   },
   {
@@ -92,6 +102,16 @@
    "event_date": ""
   },
   {
+   "id": "b37b372b857c9fd0",
+   "title": "岡山後楽園の月見橋から20代男性が転落して死亡…足場設置中、墜落制止用器具のハーネス外れた状態",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE56b010VFA2dk9kSmJPS085QXRmX2lRZTg5RVVCRjc0MnhoTi0wUHRYNW5meHNhb1MxR0tJSkkta1E0N29kQzFxaVdYNUxBNzZuMkcyRHViNmljaEpCUy1oVlFadjU2MGduQjEwdlAzRV9SODNoTWNtcG51am9GaTQ?oc=5",
+   "source": "Yahoo!ニュース",
+   "cat": "事故",
+   "region": "県内・その他",
+   "pub": "2026-10-25T12:09:06+09:00",
+   "event_date": ""
+  },
+  {
    "id": "4da8efeae198ede9",
    "title": "第5回 鍵盤ハーモニカフェスティバル in OKAYAMA ～おかやまサニーサイドストリート～(岡山県)の情報",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzVGhia1kyX3lOZk9sRlhXejlEUlloSUZESTFTOE94ZC1MNzhENWdweUFZU251WXBZMlJ2NzBTVUx2S1VJa0M1OFQteWZIZFlydF9KcUxkTFhSNDQ?oc=5",
@@ -99,6 +119,16 @@
    "cat": "催し",
    "region": "県内・その他",
    "pub": "2026-10-25T11:10:54+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "49903a817f23ede6",
+   "title": "台風31号(2026年)の岡山県津山地域の暴風域に入る確率",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE45cXU2UjN3SkpaNnN1Mzk2TXgyc2pwVE9Lay0yYU5qTy1hS0JHaTJMM0hHbUI4UW8zT1VNMWp5Um1PemVUTGVuOG9GVThGbGExMHlEb3o5VTh0MVBOME5WbUdqVmt6YmU2RGVUdFduZ1A?oc=5",
+   "source": "tenki.jp",
+   "cat": "災害",
+   "region": "津山市",
+   "pub": "2026-10-25T09:00:00+09:00",
    "event_date": ""
   },
   {
@@ -688,6 +718,46 @@
    "source": "山陽新聞",
    "cat": "催し",
    "region": "県内・その他",
+   "pub": "2026-10-23T16:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "0e4b695ef573edc8",
+   "title": "「西大寺会陽あり方検討委員会」設置へ 祭りの安全対策考える ２人死亡事故受け奉賛会",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05cFVDR2VGWUk1eVgxZWNyR1B0TkVXeU9MdXM1ZjRRTjNDdFkwaWZrVlFEdG8zeTJPZ2tadlNWT0FfejZETmp3VWRRZDdDTXlTTkE?oc=5",
+   "source": "山陽新聞",
+   "cat": "事故",
+   "region": "県内・その他",
+   "pub": "2026-10-23T16:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "2a0d90469b53dde4",
+   "title": "給食に金属片混入 津山市教委発表 一宮小、健康被害の報告なし",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FRVlmWWlDMjhVV21SUHZmSXFidUc5eEMwdWJuUGRHWTMzZHZEbFY4NlprVWZvNFNjeWJuV1BOOHlJOWk0eERTNDZ3UjBZVjVweGc?oc=5",
+   "source": "山陽新聞",
+   "cat": "事件",
+   "region": "津山市",
+   "pub": "2026-10-23T16:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "c02cbc698236d15d",
+   "title": "グループホームの事業所指定を取り消し 井原市大江町の「楽々園」 入所者を虐待",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE96SHdxMXZseVloNDc0Zk5jWkdHRFQwbkxMUjZSWUhLR1pmUjJlYnVzNEd1a2oxc2Fsa2VoWVItREkyV0JjWFc3UDJIRVIzczBBNmc?oc=5",
+   "source": "山陽新聞",
+   "cat": "事件",
+   "region": "井原市",
+   "pub": "2026-10-23T16:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "4debd847b6c1437b",
+   "title": "全国初優勝 高梁市消防団たたえる 操法大会小型ポンプ 知事特別表彰",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DRmNQSlRzSHlfYUV2Wi1kTXZfdG03ekpyNkRuRGMyYm9VNllRS0ZQcGNYMHZWdkluN2trT2E5WWh2QnJyVVZyWTNJM0Vrdzl2Q3c?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "高梁市",
    "pub": "2026-10-23T16:00:00+09:00",
    "event_date": ""
   },
@@ -1507,6 +1577,16 @@
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0wQlBSaTc0ODRRN204QnlPTTVCaTMwcUlhNkxwZ0dzVENXS3k3UC1FLXFOZnVFbGFFTGU3ZGVwNWhLU1RlRkJJOHBGaEdhRXRPcnc?oc=5",
    "source": "山陽新聞",
    "cat": "事件",
+   "region": "県内・その他",
+   "pub": "2026-10-21T16:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "1e44f674c83b201f",
+   "title": "若者の地域参加を応援「吉備の環ラボ」 １９日に岡山で初イベント開催",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBjd0FTN0ozaVhQTWlGOVF5UnZXeWlTcHRIWHRsY2JTQVVnTGE4bDlveXhOYlZGcHBqUFlkY1lSZUZGdVdwWEJMMHBONmNHcU5Eamc?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
    "region": "県内・その他",
    "pub": "2026-10-21T16:00:00+09:00",
    "event_date": ""
@@ -2542,6 +2622,16 @@
    "event_date": ""
   },
   {
+   "id": "84c612ed7c583309",
+   "title": "遺体は一人暮らしの女性か…倉敷市でアパート火災 焼け跡から性別不明の遺体見つかる【岡山】（OHK岡山放送）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9scXhLeHZjYlppUEo1VFM0bGVSM2pBZTQzNnNGcXlYY0ZvY2JBcVV3WXpzVDhKTkpXUGVOeFlIZEFuMFhTOEYya2haMXYxX0o1VGx0SEZwUnNDbFMzWWFZakJWOHFfTU9iT2dVdmZIYmhGWUdSSWVndXBDaGtrMTA?oc=5",
+   "source": "Yahoo!ニュース",
+   "cat": "火災",
+   "region": "倉敷市",
+   "pub": "2026-10-20T10:33:00+09:00",
+   "event_date": ""
+  },
+  {
    "id": "c4e37d8232f42f4b",
    "title": "【速報】ＪＲ伯備線で倒木トラブルのため運転見合わせ 新見〜上石見【岡山】",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5zdFItMzdCR043YS1rVjBoeFNpUTdWNVc5VXJ1R1o0Nmd3Y1VMbWdCTnY3a3Y1cUJKby1ieE1fb0pERkVmaFY4TVY5MURqWlFsVmZZckZ5UWk3WVA4VWwzZnYxbG5VcFJWRXYyVFlBVi1kZ9IBckFVX3lxTE5zdFItMzdCR043YS1rVjBoeFNpUTdWNVc5VXJ1R1o0Nmd3Y1VMbWdCTnY3a3Y1cUJKby1ieE1fb0pERkVmaFY4TVY5MURqWlFsVmZZckZ5UWk3WVA4VWwzZnYxbG5VcFJWRXYyVFlBVi1kZw?oc=5",
@@ -2989,66 +3079,6 @@
    "cat": "火災",
    "region": "倉敷市",
    "pub": "2026-10-19T10:59:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "4f1587e8113907c0",
-   "title": "【動画あり】岡山県倉敷市でアパート1室全焼、焼け跡から1人遺体 住人女性と連絡取れず（山陽新聞デジタル）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Td3dLRUlTblJldlhjOExhUlhyd0lsclF0ajdyYzlEaGZScWVHcTdiS2JWVFg5em1CemlHeWk4UDR6R29tRkpfQktxa3RuUlBjQjRmbjRXMHl3VWdwSXFmUWlmbzZWOWRRZk1CVldrMnphUmFUbGxta3QzZW1RcFU?oc=5",
-   "source": "Yahoo!ニュース",
-   "cat": "火災",
-   "region": "倉敷市",
-   "pub": "2026-10-19T09:31:16+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "21733686c5f9acbe",
-   "title": "ヒョンデ、岡山県真庭市らと防災・福祉協定を締結 スモールEV「INSTER」1台を寄贈",
-   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5BYkFoNG9TZy1hQU1MNkxRa0psdno5OFI3el9FaEN1ZjAxVUQ1UFgwdHVaNXo5V0hyVHFNR3ZER3BIWElucUlz?oc=5",
-   "source": "MSRweb",
-   "cat": "災害",
-   "region": "真庭市",
-   "pub": "2026-10-19T09:05:08+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "ced605440e123c2a",
-   "title": "重さ約1トンの黄金色の大みこしが城下町を練る だんじり3台も疾走 津山まつり開幕／岡山・津山市",
-   "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxONXB4aGw0a3hrbGZ4bW5pWVBxM05Rb1FTQ2VLNng2YkFPS09kLWl1ckRfTGdzNzd1bGNHMHpQOHNucWtUbFFmdzNSWlRIbVpFSmp3aERhaXJsTVlQYUg2b21UR0VYVGxhbHpRdW9zX3BxUjBaRk9NRWtMTUVnOFdEZzA3aVNmV0luUW1lNEhiN0loNlRqZkIxNVBCSzhvb0hWSVhJNGVBbVJ1RVBwaHNJbk1uVnlhVkJWeHpQSGdUUlBja1diYVRjdFFET0lXaThoSHRTVEwtNUI4WS1QYVRTY1BFUXVYV2ROSUkwQzRqR1h5dHU1b1g1Zlo5V2MzRnhpcUpPNTFWRVNkX3ZIb1JVdzliaUNjc3Q0NWs0SEgwM2QwT1V6OUFVUVN3d3NldTZYMGxJQ3d2N3FTd2hleUlYSGhqMTlBOUtOV1Ew?oc=5",
-   "source": "津山朝日新聞社",
-   "cat": "催し",
-   "region": "津山市",
-   "pub": "2026-10-19T08:58:40+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "f9535284d05b54c1",
-   "title": "アパート１室全焼、焼け跡から１人遺体 住人女性と連絡取れず 倉敷・玉島",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xalBZeXd0aXdlclpUY0x0Zmg3cHdMdjRGLXh1UlYwOEdvOGF0bzBlakF1d2VMQ21FQXRsM0lQS01UQm9yNmZod3ZsRGQ0QXpvblE?oc=5",
-   "source": "山陽新聞デジタル｜さんデジ",
-   "cat": "火災",
-   "region": "倉敷市",
-   "pub": "2026-10-19T08:51:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "f4c4a1011e8ba3fc",
-   "title": "倉敷市玉島のアパートの1室が全焼 焼け跡から1人の遺体見つかる 岡山",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMeEJzWUdVcUxYSjZBZ3VUalBuYjRqbDZuYm1KNVJLdi1VZ1htU0pOY3NwY042bEFteWNsUmhybjhCc3dNeXpWMzR1cDZyQVFtWEMwUzZ1VXd5aFFxbDhPRkpDazM5X0tnOXROSF9tbnPSAXZBVV95cUxPSjRpS213anM1V2ctQ2ZYNnJnOVdLN2pveVEyR3dTc1Zza1JaelJwQXpjVFFuTHJ4c0otWk9KbE00LXNEZnNoSmlwb0J4QUJ3amdZcm9JWXpHdnBIQVJGWHd2d1hPVnVzd2RxUWF4S2tPcy1sRTJ3?oc=5",
-   "source": "ｄメニューニュース",
-   "cat": "火災",
-   "region": "倉敷市",
-   "pub": "2026-10-19T08:44:20+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "1a22da14c19c16b1",
-   "title": "倉敷市玉島のアパートの1室が全焼 焼け跡から1人の遺体見つかる 岡山（KSB瀬戸内海放送）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DYmcySHN4amUtMTlaMXd3ZVp3d0lTM0U5cTI5OUlDcFZOR3ZJeGFaTEpIY0lmakx3czdnZHJOX240a1RLeXYtQjRrZXFpZmJPc01yQkY2aExuVVMxNGMzRkFLT0JyVWxUVkI5azY1U1A5dlBrUml2SHJ1MUhtems?oc=5",
-   "source": "Yahoo!ニュース",
-   "cat": "火災",
-   "region": "倉敷市",
-   "pub": "2026-10-19T08:36:41+09:00",
    "event_date": ""
   }
  ]
