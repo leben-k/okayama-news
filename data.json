@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T00:59:17.270873+09:00",
+ "updated": "2026-10-28T05:35:18.118299+09:00",
  "items": [
   {
    "id": "3e9ebf8c258a71b6",
@@ -59,6 +59,16 @@
    "cat": "事件",
    "region": "県内・その他",
    "pub": "2026-10-27T12:38:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "2cdde72dc679238a",
+   "title": "出資名目で知人女性から現金1350万円をだまし取った疑い 介護施設職員の女（70）を逮捕【岡山】",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE11ZXRrbnNyc1FzcmxacW1lUXhVRjUxdF9SY1I4cmFqR1FabEhBbnA3Q0ZROElZZjBVMlBPY05oTDFjX0RUTDc5dFVnZUF4RHVRT2RKMEJSaTk3bjFFLXZZMmdNQ3BkZURUa3ptZHBpY9IBdEFVX3lxTFAyV0V1Ukh2WE9YNXQ4QkdSQjdYellQQ0tJeTI0QnIxUmFJcEw1NDNoSl9IWnBoUFpIREFkSmd6ODBpXzczUGM4X0ZrUzU0YWs1ZUxCamZ4RFJzdWlibW12RURoNDd3YUZLdG5GRWtqdjVsbHN6?oc=5",
+   "source": "ｄメニューニュース",
+   "cat": "事件",
+   "region": "県内・その他",
+   "pub": "2026-10-27T11:26:00+09:00",
    "event_date": ""
   },
   {
@@ -862,6 +872,16 @@
    "event_date": ""
   },
   {
+   "id": "8a22d2ad5ac59c44",
+   "title": "【続報】男子大学生2人が意識不明の重体 岡山市南区で18歳の男性5人が乗る車が道路脇の標識柱に衝突 【岡山】",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1jMmIzT1NRRThLV1hCUjV1d2kxWVNZWjZwNExHc3Exal9XZHF6ZXZuRFdpbVZQakFpRmFMM0I4YzdxblZEZHBWazJjM3lrZWFXcXpkdWZ1VDhTeFVjaE9J?oc=5",
+   "source": "TBS NEWS DIG",
+   "cat": "事故",
+   "region": "岡山市",
+   "pub": "2026-10-24T18:13:00+09:00",
+   "event_date": ""
+  },
+  {
    "id": "d9ee2300e79aff06",
    "title": "音楽と全国のグルメが楽しめるイベント「セトウチ コンテンポラリー」が玉野市で開幕【岡山】",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBRSWZjaHVLVE9mZng3SS03MjI3cG1YcVFxMHhGRnVGZnlhUjZTc2NsaklhZVlrUGdPdlhudnRTWmk4NW9aS1VkRWJObHROQzJPRVBMRmlQRG5Ob19RNWpoNk5lbmJfd0FxS0E4UThkVllHd9IBckFVX3lxTFBRSWZjaHVLVE9mZng3SS03MjI3cG1YcVFxMHhGRnVGZnlhUjZTc2NsaklhZVlrUGdPdlhudnRTWmk4NW9aS1VkRWJObHROQzJPRVBMRmlQRG5Ob19RNWpoNk5lbmJfd0FxS0E4UThkVllHdw?oc=5",
@@ -958,6 +978,16 @@
    "source": "山陽新聞",
    "cat": "催し",
    "region": "県内・その他",
+   "pub": "2026-10-24T16:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "b2ee72957500afca",
+   "title": "総社 下水管損傷箇所修復へ７日から土壌改良 ６月中旬の復旧完了見通し、通行止めは継続",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4tbGxWU2ZCb2VrMkRkZEZVUXFIazMzaDl5eWlUbzF5RjIxXzBzODVPMXBUVURCY0hMS1Z2el80LU9jb25sbmJkeDNLWVNuS0ZBX3c?oc=5",
+   "source": "山陽新聞",
+   "cat": "災害",
+   "region": "総社市",
    "pub": "2026-10-24T16:00:00+09:00",
    "event_date": ""
   },
@@ -2749,36 +2779,6 @@
    "cat": "災害",
    "region": "県内・その他",
    "pub": "2026-10-21T07:05:17+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "80f347119108f61d",
-   "title": "【岡山地方気象台】気象特別警報・警報・注意報「【岡山県気象警報・注意報】岡山県では、落雷に注意してください。」",
-   "url": "https://www.jma.go.jp/bosai/warning/#area_type=offices&area_code=330000",
-   "source": "気象庁",
-   "cat": "災害",
-   "region": "県内・その他",
-   "pub": "2026-10-21T04:09:29+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "05f2dcec3b1f9985",
-   "title": "【岡山地方気象台】気象警報・注意報（Ｈ２７）「【岡山県気象警報・注意報】岡山県では、落雷に注意してください。」",
-   "url": "https://www.jma.go.jp/bosai/warning/#area_type=offices&area_code=330000",
-   "source": "気象庁",
-   "cat": "災害",
-   "region": "県内・その他",
-   "pub": "2026-10-21T04:09:29+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "2ebe3322491db966",
-   "title": "【岡山地方気象台】気象警報・注意報（Ｒ０６）（その他注意報）「【岡山県雷注意報】岡山県では、急な強い雨や落雷に注意してください。」",
-   "url": "https://www.jma.go.jp/bosai/warning/#area_type=offices&area_code=330000",
-   "source": "気象庁",
-   "cat": "災害",
-   "region": "県内・その他",
-   "pub": "2026-10-21T04:09:24+09:00",
    "event_date": ""
   }
  ]
