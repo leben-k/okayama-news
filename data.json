@@ -1,6 +1,36 @@
 {
- "updated": "2026-10-28T22:27:11.508618+09:00",
+ "updated": "2026-10-29T04:03:10.023427+09:00",
  "items": [
+  {
+   "id": "925dcff00729f237",
+   "title": "【岡山地方気象台】気象警報・注意報（Ｈ２７）「【岡山県気象警報・注意報】岡山県では、濃霧による視程障害に注意してください。」",
+   "url": "https://www.jma.go.jp/bosai/warning/#area_type=offices&area_code=330000",
+   "source": "気象庁",
+   "cat": "災害",
+   "region": "県内・その他",
+   "pub": "2026-10-29T03:29:18+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "907f91141e4b47c3",
+   "title": "【岡山地方気象台】気象特別警報・警報・注意報「【岡山県気象警報・注意報】岡山県では、濃霧による視程障害に注意してください。」",
+   "url": "https://www.jma.go.jp/bosai/warning/#area_type=offices&area_code=330000",
+   "source": "気象庁",
+   "cat": "災害",
+   "region": "県内・その他",
+   "pub": "2026-10-29T03:29:18+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "a473793015995631",
+   "title": "【岡山地方気象台】気象警報・注意報（Ｒ０６）（その他注意報）「【岡山県濃霧注意報】岡山県では、濃霧による視程障害に注意してください。」",
+   "url": "https://www.jma.go.jp/bosai/warning/#area_type=offices&area_code=330000",
+   "source": "気象庁",
+   "cat": "災害",
+   "region": "県内・その他",
+   "pub": "2026-10-29T03:29:11+09:00",
+   "event_date": ""
+  },
   {
    "id": "60e95688b6f1564f",
    "title": "投資詐欺容疑で福岡県の男逮捕 岡山県備前市の男性から303万円だまし取る（山陽新聞デジタル）",
@@ -32,6 +62,16 @@
    "event_date": ""
   },
   {
+   "id": "8d11d1316a920105",
+   "title": "東京の小学校火災受け臨時点検を 岡山県教委が県立校に通知",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rR0hpeWhkNU92cDlKbUtHd25NcnFYMXZrcjZwNk5PeHpnQlI2Z3JEblhscUJhVkozMXBncElZVk1Bc0dCUTFIeWhmSUtucW81SVE?oc=5",
+   "source": "山陽新聞",
+   "cat": "火災",
+   "region": "県内・その他",
+   "pub": "2026-10-28T18:53:53+09:00",
+   "event_date": ""
+  },
+  {
    "id": "31dbb2d4a621ea2f",
    "title": "ゲストハウスで女性客に睡眠薬を飲ませて性的な暴行を加えた罪などに問われている男 最高裁が上告を退ける 懲役26年の判決が確定へ【岡山】",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1kTWRCN1JUSlJrcXg1REkwNUFFazB0Z2hQclZtdjhjRHpQaEpjLWZoYm1oWVI5TDZQZjlyUHM5LWJNd1BrTXlyQ21CMHp6N0NlSC1ObVBoX2VGUndLZ212eWdoQUlwYW1kTmx3OVRR?oc=5",
@@ -39,6 +79,16 @@
    "cat": "事件",
    "region": "県内・その他",
    "pub": "2026-10-28T18:27:13+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "9018b36bdf308fef",
+   "title": "宮地さん（大佐）最優秀 新見市中学校弁論大会 「特別視せず人と接して」",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84Snl1ZTV6VXdpLWdUZzRoOFpVOC04THRxV1VFN3ZvNURkWFdkSUFQS1lpeXREeUVQcEF2VndXRm03Z1JtcHVxYl8yMm1SUzIyUlE?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "新見市",
+   "pub": "2026-10-28T18:11:00+09:00",
    "event_date": ""
   },
   {
@@ -92,6 +142,16 @@
    "event_date": ""
   },
   {
+   "id": "19b3d24cfab12bc8",
+   "title": "作業員の感電死事故をきっかけに開催 安全な電気工事の技術競う大会 岡山市（KSB瀬戸内海放送）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zdDJSVEdMaTRmX0dad1NPU1hHTFVqallUeHZEODlKa1lZdkExZGotZ281bVlWWlJjbmdNTFhtbkdONWFpbFlYVDNoMmVjZEV6NUNEdjNOdlZ5M3NsbUhNbDNpemMzMlFoX01zamZ0LTVpSE94MEUzRm5KNDlLWU0?oc=5",
+   "source": "Yahoo!ニュース",
+   "cat": "事故",
+   "region": "岡山市",
+   "pub": "2026-10-28T16:11:31+09:00",
+   "event_date": ""
+  },
+  {
    "id": "441ac578763cd454",
    "title": "作業員の感電死事故をきっかけに開催 安全な電気工事の技術競う大会 岡山市",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Xa2VrWFIwVW9xdmNGdWNBazdLVTF4Y1c0bVlZdE9SYzY4bmRCZF9iNXM4ZW4zRWJJUVZubTF2Y29wUXU3MUdUUEV5SWxETFhP?oc=5",
@@ -129,6 +189,26 @@
    "cat": "災害",
    "region": "県内・その他",
    "pub": "2026-10-28T11:06:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "a9dadcca69aeb463",
+   "title": "打線つながり荘内が連覇 玉野市野球スポ少秋季交流大会",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiMnk1ZjFhM2ZsWTRCLThGTU8wT1d2Z29jNXF1elIxSjJ4YURBODJueGltRGNfa3BxS1k0cFJVR3AzRWFsZmFoWVNQNlVoNTFWU0cyU0NJSGQzN3FOc3BiZ281WWNpOHVn?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "玉野市",
+   "pub": "2026-10-28T10:54:23+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "53f115112c6e2690",
+   "title": "特別展「セラミック・レゾナンス」備前市美術館で開幕 現代陶芸家の意欲作１２０点が共鳴",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE83ZTlPRWJhWkhFSHFCVjFOMjVfNmhRNFRWY05ueUZsZjhrcEJibHd5NmZZaks0U3B4RG1BTURueTEyeDdWaktBX2phVkdGYnVKbEE?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "備前市",
+   "pub": "2026-10-28T09:09:47+09:00",
    "event_date": ""
   },
   {
@@ -266,6 +346,16 @@
    "title": "中国電力 森と水と電気を学ぶイベント 参加者募集 11月22日開催 岡山・真庭市",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9GSjZjZWcxVnJNZkwxTVdsblZTWHJyRkxqODlvWXJQUGk5bHBFNUZXU3htbURjRjE5OTRwLXdYWC1UMHBqaVdkeEl6c21mM3h5anhxN0JPSmFCS3JTZXdYcFBoVFpqNEdCVE1mODBKeFAxQm1fTWfSAXZBVV95cUxPRko2Y2VnMVZyTWZMMU1XbG5WU1hyckZMajg5b1lyUFBpOWxwRTVGV1N4bW1EY0YxOTk0cC13WFgtVDBwamlXZHhJenNtZjN4eWp4cTdCT0phQktyU2V3WHBQaFRaajRHQlRNZjgwSnhQMUJtX01n?oc=5",
    "source": "ｄメニューニュース",
+   "cat": "催し",
+   "region": "真庭市",
+   "pub": "2026-10-27T11:01:00+09:00",
+   "event_date": "2026-11-22"
+  },
+  {
+   "id": "71ba3e608b874143",
+   "title": "中国電力 森と水と電気を学ぶイベント 参加者募集 11月22日開催 岡山・真庭市 (2026年10月27日掲載)",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBkbGVBZm9nT3AxSFBhem9mdm5qb3VNVHJ5d0tWUjYxVzUwRkJUVE50QlU4UFo2VG5Xb3ZrU0MxbHNNeDZPci11clZqRDBoOE5ScmlvaVpzdW9aM1N5VVE?oc=5",
+   "source": "ライブドアニュース",
    "cat": "催し",
    "region": "真庭市",
    "pub": "2026-10-27T11:01:00+09:00",
@@ -528,6 +618,16 @@
    "source": "山陽新聞",
    "cat": "災害",
    "region": "新見市",
+   "pub": "2026-10-26T16:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "1e44f674c83b201f",
+   "title": "若者の地域参加を応援「吉備の環ラボ」 １９日に岡山で初イベント開催",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBjd0FTN0ozaVhQTWlGOVF5UnZXeWlTcHRIWHRsY2JTQVVnTGE4bDlveXhOYlZGcHBqUFlkY1lSZUZGdVdwWEJMMHBONmNHcU5Eamc?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "県内・その他",
    "pub": "2026-10-26T16:00:00+09:00",
    "event_date": ""
   },
