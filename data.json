@@ -1,6 +1,56 @@
 {
- "updated": "2026-10-30T01:51:05.318206+09:00",
+ "updated": "2026-10-30T06:43:52.920829+09:00",
  "items": [
+  {
+   "id": "85e3d2f159390e3f",
+   "title": "【岡山】2026年10月31日・11月1日週末開催の無料イベント8選 秋祭り＆フェスタも満喫",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE90eFJKSHBTSXh5cllBZGZnUUNtRGp2UFJJaGp5azNGalhEQW1VSFpza0RLWXFiOWFXQjhWblhDTm5ITF9FZ2dZMExDTm53Ri1NMUE?oc=5",
+   "source": "いこーよニュース",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-10-30T06:20:44+09:00",
+   "event_date": "2026-10-31"
+  },
+  {
+   "id": "46981b046c58a114",
+   "title": "備前 子どもたちが有機栽培の田んぼで稲刈り体験 岡山",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1WeXNUcVQ5V1IyYk54NS1abl9PZEN1TFN5MHd1MXgyRHUzb3FWZzZBMy1FZ190UWJ5TUVqRXhYNkV3NG1Wam13QUd4MFE5LW4zSGMwNkh5OEFBTW9lc1Zv?oc=5",
+   "source": "NHKニュース",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-10-30T06:07:57+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "8b4340b523a3a8b7",
+   "title": "【岡山地方気象台】気象特別警報・警報・注意報「【岡山県気象警報・注意報】岡山県では、竜巻などの激しい突風や落雷に注意してください。」",
+   "url": "https://www.jma.go.jp/bosai/warning/#area_type=offices&area_code=330000",
+   "source": "気象庁",
+   "cat": "災害",
+   "region": "県内・その他",
+   "pub": "2026-10-30T04:03:43+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "5a9ed18b0a6425b7",
+   "title": "【岡山地方気象台】気象警報・注意報（Ｈ２７）「【岡山県気象警報・注意報】岡山県では、竜巻などの激しい突風や落雷に注意してください。」",
+   "url": "https://www.jma.go.jp/bosai/warning/#area_type=offices&area_code=330000",
+   "source": "気象庁",
+   "cat": "災害",
+   "region": "県内・その他",
+   "pub": "2026-10-30T04:03:43+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "6bf50dafd3b8c1e7",
+   "title": "【岡山地方気象台】気象警報・注意報（Ｒ０６）（その他注意報）「【岡山県雷注意報】岡山県では、竜巻などの激しい突風や急な強い雨、落雷に注意してください。」",
+   "url": "https://www.jma.go.jp/bosai/warning/#area_type=offices&area_code=330000",
+   "source": "気象庁",
+   "cat": "災害",
+   "region": "県内・その他",
+   "pub": "2026-10-30T04:03:29+09:00",
+   "event_date": ""
+  },
   {
    "id": "e64bdad8e6e1861f",
    "title": "【岡山】今週末、花火あがるイベント２つある。202610月31日・11月1日",
@@ -29,6 +79,16 @@
    "cat": "催し",
    "region": "津山市",
    "pub": "2026-10-29T18:15:00+09:00",
+   "event_date": "2026-11-01"
+  },
+  {
+   "id": "c37dc4b873d420a2",
+   "title": "岡山・奈義町に滞在する国際交流員が企画「NAGI国際交流フェスティバル」11月1日",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA5RmpNMFFuZG90VGpwbGJucmxrM1RHUXZJYlYzYnZIaXhTbzVMcGRhWHgzRmZGSUpNWV9ia3psQzhrMFJGcGJtTXBDY2ppRjVrQ0NZX09GWVp5RWxiWFZ1UjBJWG5Ya19ET3FiN21n?oc=5",
+   "source": "au Webポータル",
+   "cat": "催し",
+   "region": "奈義町",
+   "pub": "2026-10-29T18:05:00+09:00",
    "event_date": "2026-11-01"
   },
   {
@@ -289,6 +349,16 @@
    "cat": "催し",
    "region": "備前市",
    "pub": "2026-10-28T16:58:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "fcba74c40ba75722",
+   "title": "投資名目で高齢者から現金303万円をだまし取った疑い 62歳の男逮捕 岡山県警",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1wdUVLa3MtNnB5NTBKRTRMcE05VzY0dld3NXRDckxqU0RxUnF3NU82TjFIeExYLUlodmFocHJSMHU5Yi03TXJFUmY0eU1rWE1R?oc=5",
+   "source": "KSBニュース",
+   "cat": "事件",
+   "region": "県内・その他",
+   "pub": "2026-10-28T16:56:00+09:00",
    "event_date": ""
   },
   {
@@ -2390,26 +2460,6 @@
    "region": "県内・その他",
    "pub": "2026-10-23T07:26:00+09:00",
    "event_date": "2026-11-13"
-  },
-  {
-   "id": "980e0e9b0661d48b",
-   "title": "【参加者募集】小学生向けお仕事体験イベント「キッズビジネスパーク2026 in 岡山」を11/29にIPU・環太平洋大学で開催！～地元企業約40社がブース出展！10/15より参加受付スタート～",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9mREQxWThlNThLSld4WlpvMGxOYzJUSV90WXpJdFRIdU1tQWFNaG1fd3NjamZUamtQanR4MXpDeEhXRHpySkpLVnl2MUVlbmxFb2c?oc=5",
-   "source": "山陽新聞デジタル｜さんデジ",
-   "cat": "催し",
-   "region": "県内・その他",
-   "pub": "2026-10-23T04:30:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "6e1afa379c35fd26",
-   "title": "約15万球のLEDで「倉敷らしさ」を表現！岡山県倉敷市でイルミイベント開催中",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Kd0JzLVJvN1FnYlBFLVhGUGNrd2hPX1NJcG9sT1BpN3lPNUE2SGNGb3VHMDdVNk1OZjFMOGItd1QtbmQxejFBSFpINERiZEFTRXZLUNIBWkFVX3lxTE84ekFwU2lMc0Nzdm84MU9td3dOWF9tVkxFWFdycDdydG5yeUVORkhwZEQ0RTQ3c3ZuaUZfeU1oWGhtRnBjZWFnb2ZTNWRray0xTWgydzkwLWJsUQ?oc=5",
-   "source": "ウォーカープラス",
-   "cat": "催し",
-   "region": "倉敷市",
-   "pub": "2026-10-23T03:44:14+09:00",
-   "event_date": ""
   }
  ]
 }
