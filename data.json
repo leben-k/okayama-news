@@ -1,6 +1,26 @@
 {
- "updated": "2026-10-29T18:47:06.619417+09:00",
+ "updated": "2026-10-30T01:51:05.318206+09:00",
  "items": [
+  {
+   "id": "e64bdad8e6e1861f",
+   "title": "【岡山】今週末、花火あがるイベント２つある。202610月31日・11月1日",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBvUjktZ2lwWkp2MUtYWDNibjh5WjEzejVyLW1TWTlZbk9HSVpLdmVWcjc1aHZYRFVjOXhJbGJGbTRWV0toOFUyUnF3?oc=5",
+   "source": "岡山おにさんぽ",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-10-29T22:43:45+09:00",
+   "event_date": "2026-10-31"
+  },
+  {
+   "id": "a40a55460aff377d",
+   "title": "秋の植物や情景描いた５０点並ぶ 玉野市文化祭日本画展始まる",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9JRnQxTko4NzBXUzdCUGVvNUZjODJsZm5OTmlKTWVkU3VDQ3FnMzJfQkxtTVJUU1hyMzRMMk9Pd3FqY2VMS01aZW03MWxYc2NkNFE?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "玉野市",
+   "pub": "2026-10-29T18:33:00+09:00",
+   "event_date": ""
+  },
   {
    "id": "04e02e2630260390",
    "title": "時代仮装行列や飲食屋台 津山の重伝建・城東地区でイベント、１１月１日",
@@ -15,6 +35,16 @@
    "id": "bf36806ad5362439",
    "title": "2026年10月31日(土)～11月1日（日）岡山週末イベントスケジュール",
    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4teElmSGRsUlQyM2NLajdST1k1OEpKZGJ3NzRoSC1CczM3XzZpb3pXellMM3VHRTRDbkhwTGxmcFBDVWZpY05iMG5n?oc=5",
+   "source": "岡山おにさんぽ",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-10-29T17:29:51+09:00",
+   "event_date": "2026-10-31"
+  },
+  {
+   "id": "942bf87bd5ad4afd",
+   "title": "2026年10月31日(土)～11月1日（日）岡山週末イベントスケジュール - パート 8",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9YamJrcFMtdG9IQWtuNURzVWdoUmptTW9DM0IwcEp4RXAtaWFuaDJmVTNmVEdFUGhYbHpYYmtWTFdLOGhpYVdjZktUZGU?oc=5",
    "source": "岡山おにさんぽ",
    "cat": "催し",
    "region": "県内・その他",
@@ -359,6 +389,16 @@
    "cat": "事故",
    "region": "倉敷市",
    "pub": "2026-10-28T08:50:43+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "bfb0d87c7ac25176",
+   "title": "初期消火の技術 ペアで競う 赤磐で大会、２９チーム参加",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcThab1RFdFBsaGJVQ0ljRm9CRVFra3NzNmRHMUdhdGMxNTE5SlUtN0oycUtHRkJZWEZzUHdtZTJ4a0Y5eGxYQUQxTExYeE01ejB6eUxLT21VaWdJWURTdjFGVG9SZDNnWjlfUHRtSWxIaFdNeXhzTjRVVWNnRlRaakRJZXVtZw?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "赤磐市",
+   "pub": "2026-10-28T08:41:37+09:00",
    "event_date": ""
   },
   {
@@ -802,6 +842,26 @@
    "event_date": ""
   },
   {
+   "id": "a62470d82d903005",
+   "title": "無罪判決「過失認められない」 交通事故巡る裁判で岡山地裁",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9lM3hLZE1NelN0TGtWWl9pM0NULXM0UDY3R01BYUpNYjJuYkJpRjhyMFdZVVczQk82eElXTUxSWjVySm5mNXUzOVBKMUFfNWQ5aVE?oc=5",
+   "source": "山陽新聞",
+   "cat": "事故",
+   "region": "県内・その他",
+   "pub": "2026-10-26T16:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "b0329b918650332e",
+   "title": "トライフープ選手と交流 真庭で親子参加フェスタ",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1nR3ZTdmNzQzVlV2pBU3RPaU9KMEhYWU9UZzdtank5T2pZbm8wYjZvT0I5aWdTY1Vpd1JQc1ZCSUprQmdXdEdFUV9tSzktdlRlNkE?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "真庭市",
+   "pub": "2026-10-26T16:00:00+09:00",
+   "event_date": ""
+  },
+  {
    "id": "22caad71131ac942",
    "title": "2026年11月の岡山県内イベント情報＆おでかけガイド",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96MUhielZfdkkzZURQcG1lcHhzS0JOLWpSM1dlbm1rUXVfellodFE5VEFXUEJUUXkzSWt5dU9ESmJFMlA0Tm1JWEZQUVJlNmdhVzY3ek5kY1NoUQ?oc=5",
@@ -1212,6 +1272,16 @@
    "event_date": ""
   },
   {
+   "id": "6b0cd2f61552571d",
+   "title": "伯備線の変電所火災謝罪 ＪＲ岡山支社長 倒木 １ ０年で５倍増 対策強化へ",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE15R0JXYkEybnhKTjh4eHkwcl95STQ2OXYteE1XXzJMekZKd2hCTGI5MGpJX29JZ3FTeENDWmN5Q2lxZ1dfWVRCbmszNm10WDRPQlAydFZBRUxlVmRxVldGNkxhbw?oc=5",
+   "source": "山陽新聞",
+   "cat": "火災",
+   "region": "県内・その他",
+   "pub": "2026-10-25T16:00:00+09:00",
+   "event_date": ""
+  },
+  {
    "id": "fb0e16c8d8534a12",
    "title": "【バレーボール・ＳＶリーグ女子】開幕後初の地元試合に臨んだ岡山シーガルズ、今季初勝利お預け…第１セット先取も相手攻撃止められず",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1sNHdlRGNyd1RaQVRhRFJpdERrWnRnZUl2U0NROHhHMEtDazRLWWd5QUY5dUNWV2pSYVVNU28yelh5WXpjZGlrNVNibE5udTFjNldQZTRrNHpUWlY1V0h5WEtNNjA0Zy1RbVRiVEVFUERzQQ?oc=5",
@@ -1289,6 +1359,16 @@
    "cat": "事故",
    "region": "県内・その他",
    "pub": "2026-10-25T12:09:06+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "a3a5de0692e9e7d3",
+   "title": "今季で終了のシーガルズ戦盛り上げ 赤磐市、ホーム開幕戦にガチャ設置",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA3VWpFR3k4Y2VUNDlHRU5mM3hUNVlZUEhlTXVKTmtPblB1cmljT21NOGwyWk5aSG02LTg0UWR4V2tjWVFiUE0yU3JPV2w3RDZBdGNBMVdWOURIZkl4NUtpRk9xVW1HSFJjZjFTTlpfUQ?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "赤磐市",
+   "pub": "2026-10-25T11:30:11+09:00",
    "event_date": ""
   },
   {
@@ -1379,6 +1459,16 @@
    "cat": "催し",
    "region": "瀬戸内市",
    "pub": "2026-10-25T03:36:22+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "3a8afe6d55613426",
+   "title": "軽乗用車が電柱に衝突 同乗の小１女児重体",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mYjNNa2NZMVFvQVJJeXNHOFE5Y1djbnpCZzJoZ1F2VkNqS0M3a1hEX1dfN2VlVURDckh2V2l6OWRCR0s0MW9xSTc1SUlxTFVRQ0E?oc=5",
+   "source": "山陽新聞",
+   "cat": "事故",
+   "region": "県内・その他",
+   "pub": "2026-10-24T21:46:00+09:00",
    "event_date": ""
   },
   {
@@ -1598,6 +1688,16 @@
    "source": "山陽新聞",
    "cat": "災害",
    "region": "県内・その他",
+   "pub": "2026-10-24T16:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "7fdb3c2c04e9213a",
+   "title": "岡山県内各地で大雨、交通乱れや土砂崩れ 笠岡で初のレベル４危険警報",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBrSG9JeTE4V1hZRUNqQmVEQXZUZ2lEeC1SSlN2d0FKVFNyaTlEci1yR25zeE5QZ0RLeHQ0M0IxWlFMczlNMGlCOE5WNmFuYjBJenc?oc=5",
+   "source": "山陽新聞",
+   "cat": "災害",
+   "region": "笠岡市",
    "pub": "2026-10-24T16:00:00+09:00",
    "event_date": ""
   },
@@ -2309,66 +2409,6 @@
    "cat": "催し",
    "region": "倉敷市",
    "pub": "2026-10-23T03:44:14+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "4983382ba5c5ae90",
-   "title": "2027年9月開幕の「森の芸術祭」 新たに13会場・12組のアーティスト発表 岡山",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1TQUpQZzBwZVAzNnVDYWducVduWEEydHpRZVFLZjA1NFBVeUFuRndTWC1pWjdkUTl0emJ2V1k2ZDdDdFEwaUpZOXEzTEt0SXZSbzJGZWpfX3lPY2lFajBqWVU3X2p3MlZTTDVteXVuRjVDSVEzNkMwWg?oc=5",
-   "source": "ライブドアニュース",
-   "cat": "催し",
-   "region": "県内・その他",
-   "pub": "2026-10-22T20:12:25+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "d5ba2bbf682e28ea",
-   "title": "面識ない女性に路上で声かけ性的暴行か 岡山市の無職男を容疑で逮捕（山陽新聞デジタル）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8tN09hYVhXN0h2SVpzTVZRMVhLUWstUVVIMG1JVXc5OHd3cFI0Tk5aWGp4dDZJTHFwRHNNU2pSdjA3dTVlbkU3TzNfOHVSaFZnTlZIM014WjNCNEh3WS12NG02a3RPVUVkdjBKR1NBNkMzY3BEelNWVExWMFJ6Wkk?oc=5",
-   "source": "Yahoo!ニュース",
-   "cat": "事件",
-   "region": "岡山市",
-   "pub": "2026-10-22T20:04:09+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "190f61099bebedf4",
-   "title": "面識ない女性に路上で声かけ性的暴行か 岡山中央署 無職の男を容疑で逮捕",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zSk9Xc1JxYWtFVUkxc3JWYVhBUkdtWW0zS3RRN01BNGdlMWVlaWN1bW1SaWdsSHgxblRENTBuTkRIUm1Jem5PWFVuNnpFYXpMR2c?oc=5",
-   "source": "山陽新聞デジタル｜さんデジ",
-   "cat": "事件",
-   "region": "県内・その他",
-   "pub": "2026-10-22T19:43:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "ce67f8b6862a3fa8",
-   "title": "【天気予報】台風30号の影響で23日夜から雨の見込み 大雨になる恐れも 岡山・香川",
-   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSkxsd1BWOGJkMFZMWmlLczdOYzVUMHl1ZjZtVllwRTh2T0xKUFBQejZDRkRhaEdDVTlLa2Nrc2hjSnVOOVFPNWl3SkdiQ3JwOXlwM3I3NlpWc1JUekktWWg4M1hKYVpMWk9raHJrR3psamUzS0xjNXlXMzVQLVdZbXNtazA1Rk5zc1pRTVRNMDdNMnRvZDhEY2ZiaFdRZXZreTljQngyQy1TWmFIdXpkVll3N1V1QXJaLXpfOEpvS1BPYXRYV2fSAXZBVV95cUxPLXdMeWR1TnhfZ3g1ZFhwZm12Nl8xTHVpMHNzZjQxaEZ2c1lBNTNoWFBPS1lNdWc0alVvWXpUYjVnTjFsLTdsUENKT2xPZFJLU3lrNmFoWVhpbnpPYUR1Q0FGTDBKcGdPZGZEX0dHRWJaRmV3aXVB?oc=5",
-   "source": "ｄメニューニュース",
-   "cat": "災害",
-   "region": "県内・その他",
-   "pub": "2026-10-22T19:16:21+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "20a76b9a156cda54",
-   "title": "【岡山・香川両県知事会議】2年後に開通40周年を迎える瀬戸大橋の周年イベントについて協力を",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0xOHM5SGFKNlJ6d1NGU0w3YXEwYUZKU1RiYUx3WHcteWwwQzFqNVI1cWM4YU13UW9xTkNjbFFraDZvZXB2OHFKS1dEU0ZuSWk2azcxNjFrMWV2aUhyU29KVFhRWkdIR0NsNVM4UGFuXzVaRkpJ0gF0QVVfeXFMTTE4czlIYUo2Unp3U0ZTTDdhcTBhRkpTVGJhTHdYdy15bDBDMWo1UjVxYzhhTXdRb3FOQ2NsUWtoNm9lcHY4cUpLV0RTRm5JaTZrNzE2MWsxZXZpSHJTb0pUWFFaR0hHQ2w1UzhQYW5fNVpGSkk?oc=5",
-   "source": "ｄメニューニュース",
-   "cat": "催し",
-   "region": "県内・その他",
-   "pub": "2026-10-22T19:00:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "9fb7b9c0431713cf",
-   "title": "来秋の第２回「森の芸術祭」 高梁・頼久寺など会場１３カ所",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE12Z0tNbVhxQmFxZmlncWxHQUdmQjZHZl9UNWdPVTdDN2VLb1BTRF85MTJBTWkyUmU1dmo2YUdQUzZweEkyZHJfLVZPdFF2cHExYWZqanU5em4tNXU2eTY0c1FkeDZaMDctbmcxTEpHWWNLXzBFNlNYZGJiNno5Z9IBgwFBVV95cUxPeVBJNlM5dUpXbDNuWU5FOFRERE80aFVtZGsyVFBSR19ibVFPNEdyTXFGMlI5NWUwMTFPQWwxaGlXY1FGNmFRcmVmYTJKWXc0cGxOTktGVlQ3ck9TWkNrVzZ6UUF1Y2RaSjNBd01XMnAxRW9IYmpuSF9fY0xpWVA4OFJMWQ?oc=5",
-   "source": "ｄメニューニュース",
-   "cat": "催し",
-   "region": "高梁市",
-   "pub": "2026-10-22T18:56:00+09:00",
    "event_date": ""
   }
  ]
