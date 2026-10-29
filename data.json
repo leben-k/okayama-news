@@ -1,6 +1,66 @@
 {
- "updated": "2026-10-29T08:08:14.189087+09:00",
+ "updated": "2026-10-29T11:44:36.341753+09:00",
  "items": [
+  {
+   "id": "33033d4926eba53c",
+   "title": "土居宿マラソン、マルシェＰＲ 美作・土居小児童がのぼり旗設置",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBsUXZoeFJDaEh4allwRWd3QXBYLTNVQ3F3U0U1UU40RVRNYjM2TzNpUjRCRk1RdVNha3V4bjVRNG1HWmtpQlFqRFJ1S2ZWRFU4NEE?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "美作市",
+   "pub": "2026-10-29T10:10:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "7dd16118cf6b14ee",
+   "title": "岡山シーガルズ、10月31日・11月1日にホームアリーナ開幕戦を開催へ",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBOd3FRMF9FOTU5UkFHVklBVXRuSUhXWUNzb1BqZUtNMjg2SnhXanFCMS1tZlU3cy1TZnptQ3FyNm5XS2ROR2pocnpqQjlhenBFUmh5ZWJPOFFobDQwV25qNnNtUFE?oc=5",
+   "source": "Dellows News",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-10-29T09:40:45+09:00",
+   "event_date": "2026-10-31"
+  },
+  {
+   "id": "d15bbd6d30b3a060",
+   "title": "【岡山地方気象台】気象特別警報・警報・注意報「【岡山県気象警報・注意報】注意報を解除します。」",
+   "url": "https://www.jma.go.jp/bosai/warning/#area_type=offices&area_code=330000",
+   "source": "気象庁",
+   "cat": "災害",
+   "region": "県内・その他",
+   "pub": "2026-10-29T09:38:01+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "cce6015db807c55f",
+   "title": "【岡山地方気象台】気象警報・注意報（Ｈ２７）「【岡山県気象警報・注意報】注意報を解除します。」",
+   "url": "https://www.jma.go.jp/bosai/warning/#area_type=offices&area_code=330000",
+   "source": "気象庁",
+   "cat": "災害",
+   "region": "県内・その他",
+   "pub": "2026-10-29T09:38:01+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "c9b1891b5da434b3",
+   "title": "【岡山地方気象台】気象警報・注意報（Ｒ０６）（その他注意報）「【岡山県濃霧注意報】注意報を解除します。」",
+   "url": "https://www.jma.go.jp/bosai/warning/#area_type=offices&area_code=330000",
+   "source": "気象庁",
+   "cat": "災害",
+   "region": "県内・その他",
+   "pub": "2026-10-29T09:37:48+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "8b7146d00a8c1d4e",
+   "title": "JR西日本岡山支社ら、さんすて岡山で魅力発見イベントを10月31日に開催へ",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB6ejR2SW0wbWltcHFmUmwtRkludVpROEg1aEg4dHZuUGFtMGxhZmJuakxDaVpvYWMtaXlDSzdtZ2dwR0NVM1E?oc=5",
+   "source": "Dellows News",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-10-29T04:13:58+09:00",
+   "event_date": "2026-10-31"
+  },
   {
    "id": "5b0417d32d73e3aa",
    "title": "【倉敷市】火災からの再建を経て「台湾料理 羅凰」が「あちてらす倉敷」内に11月1日オープンするようです！",
@@ -99,6 +159,16 @@
    "cat": "事件",
    "region": "県内・その他",
    "pub": "2026-10-28T18:27:13+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "12e7affdad889563",
+   "title": "【画像】作業員の感電死事故をきっかけに開催 安全な電気工事の技術競う大会 岡山市",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE50UEVWRWthdkoyZmdZcXZLNW1aVzNwSXRQcWU4TlFaay1lRmZWenZRSlhkQ0lhdWhtRmQxcmJ0TEpjamtkRW93MUl0Q0RDaVo2VUxiUG41UTRnMG1zZkVvdFg5Tk1VVlphejJXWU4yejNMUWhQTG1oNjVDWTQ?oc=5",
+   "source": "ライブドアニュース",
+   "cat": "事故",
+   "region": "岡山市",
+   "pub": "2026-10-28T18:22:40+09:00",
    "event_date": ""
   },
   {
@@ -1068,6 +1138,16 @@
    "source": "山陽新聞",
    "cat": "事件",
    "region": "県内・その他",
+   "pub": "2026-10-25T16:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "190c1b83b3a26f36",
+   "title": "総社市中心部の市道交差点で下水道管損傷 道路陥没の恐れあり通行止め",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1TYndBNDBGbXAxWnRvRU1Lb2JuN3NtaEFSSzRrTWU1Mk1YSVNYOHVnZEdIVVhmOFZwWFZvTVU0OGo2LXFMUDF5bEpWOGx3ZncxcHgyelY0YWJJOWlLYXBQS0tXdHk3aGM?oc=5",
+   "source": "山陽新聞",
+   "cat": "災害",
+   "region": "総社市",
    "pub": "2026-10-25T16:00:00+09:00",
    "event_date": ""
   },
@@ -2469,66 +2549,6 @@
    "cat": "事件",
    "region": "県内・その他",
    "pub": "2026-10-22T11:47:12+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "bd041a091aa0a62a",
-   "title": "木工芸作家・川野正毅さんの個展 岡山県の重要無形文化財保持者 26日まで開催",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9IeTlOTjJyRkF5d25ULXdNTGRiVl90Nl9PUlRpR3V6S3BsUkh2YUdlaGFURVhoZHpGczZSLWc1NW5STjVqVktaaGFXUTRzY3gzNzhGYzh3aFdxQ0kybVVocVVYR0I5QVZBOUJteHVR?oc=5",
-   "source": "au Webポータル",
-   "cat": "催し",
-   "region": "県内・その他",
-   "pub": "2026-10-22T10:01:17+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "bfef84da8a2df68d",
-   "title": "自転車と衝突 救護せず走り去った疑い トラック運転手の63歳男を逮捕／岡山・津山、倉敷市（津山朝日新聞）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44eVFvWGFacnZYdWtwSldnQlhuQ2MzNE5vUkFqOHV5WnFmSE0xYVNkVExaQm1DRHZGOGZNQVJubU1nOWVHaFk4RDdtVWFLQU5xM0kzaWQxYm4zXzJZb2hVbktHOW1hX0g4TnZUSmt1Z29QMG9ZTldqVXVmT0tOQTQ?oc=5",
-   "source": "Yahoo!ニュース",
-   "cat": "事故",
-   "region": "倉敷市",
-   "pub": "2026-10-22T08:52:42+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "13adbc89caaebe8a",
-   "title": "自転車と衝突 救護せず走り去った疑い トラック運転手の63歳男を逮捕／岡山・津山、倉敷市",
-   "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPRmZaQ3FSOU85SmRUZU84SlV4cEpRYWtKOWc4T0tHZ2tGblFldVlsd1I0MDJBS0hnX1BSRnIwNmw5Vnk3cnV6VDQxcHh3RE9YRWFWZWpSRjRmcEtWRm02WHhSSlI2YXJnS3pHMnAtaFA4LXZlZTB4Q0g5RERkRXRDRlUxRGRtTGpWR3ZLcmRzc01xaUpnWjJpSTM4c09zQmR5ZVF5Q0dIc3VGZ3lCQTNwNDJ0WjV0SFQzdmVkYzNyUFlkajBOS21sQXFrNkhjR2U0OHc0Xzg2MkZZazVkWHIwd3VMTDM5dndCNHh2M2tBYUx3U1VIN25yLU1xU19HWmFKRjVnM3I2bm9jVVhSczF0Y1MyRG9TVGlGcFlBY0xzQTBlVUp6Y19WLUloUlBfdEJUd1B6WmR6TFlTVmxURzdtTkRfRzVuM0ktRVE?oc=5",
-   "source": "津山朝日新聞社",
-   "cat": "事故",
-   "region": "倉敷市",
-   "pub": "2026-10-22T08:45:38+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "6a55dc40218e3163",
-   "title": "色彩と曲線美 魅力 ファイバーアート草分け・草間さん、真庭で個展",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1WYzRRUENwakhLSERZWUJzZmx2eENiOW04d3FjWlNvNm5FOFh1TFRidndWT21kZGpCdWR2dl9kUm9JM281Zm4wOXM5VWRFUHFGVS1PSjA3Qk4xM0p6T3FDM2VIRmt0aTFJSDNnVUIwdzJxeGV0Uk12QVpzUGlLZ9IBgwFBVV95cUxPcEpaWjlrTXVMOFpCbG1sNGkzeDZrSHBfRTloZ0xmM1VNNkVSdjdrWHkyUWJlek1FMktsNXZ0ZzgtX3FCTU16aGI1Njhfbk83LWJ0dUxHYlI1UkV1cW9hZ1N1UUpiNENkWkRiV2lsb200YXdIV1pkQ1hUNE45REFOUHdCYw?oc=5",
-   "source": "ｄメニューニュース",
-   "cat": "催し",
-   "region": "真庭市",
-   "pub": "2026-10-22T08:32:25+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "6dfecfe59f7754cb",
-   "title": "大相撲岡山場所、2年ぶりに岡山市で開催 シゲトーアリーナ岡山に真庭市出身の三段目・醍醐桜が登場",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1NdlRfVnJZRHJPMldaUkpaU0tjWEZUbmNpeXBSMnl5RVBUQTJaaGZKVFFPTmVDTVZfT2ljQlh2Z3E1aGpXZGNRUW1TNkYtTHVaM0lxTXJfQlZfSndjeGctU3B0SFJ5VVZBeVE?oc=5",
-   "source": "https://mediadogs.jp/",
-   "cat": "催し",
-   "region": "岡山市",
-   "pub": "2026-10-22T08:23:06+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "4b110cf32d933924",
-   "title": "新見市にパブリック支所オープン ４月１日から 「ゼロワン」地域で権利保護の態勢強化",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hdmJUMjlZV0h0UGZaVHU4LVdVaFhjaEJwRENHU2tYUndibjlIN3hoUmphUE1kTVljN0Iyb1I4RXI5UDE0aVgzZGRuVFAteVVzVXc?oc=5",
-   "source": "山陽新聞デジタル｜さんデジ",
-   "cat": "事件",
-   "region": "新見市",
-   "pub": "2026-10-22T08:22:13+09:00",
    "event_date": ""
   }
  ]
