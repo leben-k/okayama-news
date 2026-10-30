@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T05:04:45.039167+09:00",
+ "updated": "2026-10-31T08:40:25.816717+09:00",
  "items": [
   {
    "id": "3270ab755a005b20",
@@ -49,6 +49,16 @@
    "cat": "事件",
    "region": "高梁市",
    "pub": "2026-10-30T17:55:38+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "093fb29d7ec9c13c",
+   "title": "未就学児の利用無料、高齢者対象の運動教室開催 ２７年４月オープンの運動公園市民プールで津山市方針、多世代利用しやすく",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1IYW5xTGtzaDFRU0t0cGE4dE9JMnlfZGdOZnRIQWZoeTFJWTgtRUpvR2xjMTliRUh6OGFzSkl5TEI3eE5yTVZXeWNnQzB6VExVc0E?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "津山市",
+   "pub": "2026-10-30T17:39:52+09:00",
    "event_date": ""
   },
   {
@@ -870,6 +880,16 @@
    "region": "瀬戸内市",
    "pub": "2026-10-27T18:33:00+09:00",
    "event_date": "2026-11-14"
+  },
+  {
+   "id": "ec41d802dc0259c3",
+   "title": "新進気鋭の平面作家・加藤竜の新作展 岡山県の高梁市成羽美術館で「緑の叫び」開催中",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE11MGxkS2RxeHdtVktOTVF4Q0Z5TS1zdmYwOWJJZ1l5T1VtSE8tWDl3STZjVldTX2JJUG11eFUwdl9tZjNsY1V4eEE2UVcwMmZyN2U3UtIBWkFVX3lxTE9fcGEtWkxHYUZOMUhCVS1uUi1Ibmhyc29laEFiSl9HaGlJVlBqLWJQOENjWDZWOGdzTXJUY2RIa3puS05SZEhSWXJ6MzI5VWF0SFJoM21KeGZiZw?oc=5",
+   "source": "ウォーカープラス",
+   "cat": "催し",
+   "region": "高梁市",
+   "pub": "2026-10-27T16:00:00+09:00",
+   "event_date": ""
   },
   {
    "id": "87ab4553448c7a81",
