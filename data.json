@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T00:15:58.942254+09:00",
+ "updated": "2026-10-31T05:04:45.039167+09:00",
  "items": [
   {
    "id": "3270ab755a005b20",
@@ -9,6 +9,26 @@
    "cat": "催し",
    "region": "県内・その他",
    "pub": "2026-10-30T21:38:35+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "e781ad4a3ff2e127",
+   "title": "井原鉄道、全国6社と復興応援鉄印 売り上げの一部は熊本へ",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XbXhsZjI2ZDVINVNiblpRSGlwWG5uRVprWl9NS2hKY19FSzROdlZZSEY2QXZ5MWo3RTJGTmFwR1U5R0E0ZXhUOEVQMGpVbXFsbmpGR3lLOXEzZw?oc=5",
+   "source": "中国新聞デジタル",
+   "cat": "事件",
+   "region": "井原市",
+   "pub": "2026-10-30T20:24:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "5b3ca1f86da19c15",
+   "title": "【画像】児童虐待と女性への暴力を無くそう 高梁市で11月にパープルリボン＆オレンジリボン啓発活動",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE96UlNfa2ZWR2lWYnBOSjZIcjdvUTFMY25MZ1B2M1RHR1FvcUE1Z00zb0Y2ZU93QXF4eDBVY2VRQ05hZlhWSWcyMTQ2ZWYySk5UWm00UkdwMDF2cjJ5a05WSEJxeFVORnFMa3FWQnRMSHNLbm5IY3g0Nm9rUEI?oc=5",
+   "source": "ライブドアニュース",
+   "cat": "事件",
+   "region": "高梁市",
+   "pub": "2026-10-30T20:12:25+09:00",
    "event_date": ""
   },
   {
@@ -79,6 +99,16 @@
    "cat": "災害",
    "region": "県内・その他",
    "pub": "2026-10-30T14:53:11+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "03f0f4b3ee79d369",
+   "title": "笠岡で11日に「ビジネスマッチング」 広島や岡山など6県174団体が出展",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04UjF5cm1ZYTdKc3hOZHIyb2ZsUFp4aUlnTGpsWW1laVVnc2VPQk5abjlwWm1GaFN2VEVEVW5QajlMM09DdGM0T042X3VlTjV4ZDhoVGc4MW4xQQ?oc=5",
+   "source": "中国新聞デジタル",
+   "cat": "催し",
+   "region": "笠岡市",
+   "pub": "2026-10-30T14:35:58+09:00",
    "event_date": ""
   },
   {
@@ -492,6 +522,16 @@
    "event_date": ""
   },
   {
+   "id": "63427b73acc4d5ac",
+   "title": "高校生が浅口市の新たな特産品「三ツ山レモン」の収穫を体験【岡山】",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE80dDI0R0t4QTJTQTV3aVlUWG5WSjlwdlFYNVFHTUFCSmZMOFh4XzV5S3BDUTZVRWFJbG5zZGhuVnJVRmdOU2FZeEJuSUVyaHMyV0hObmNvYjNDQmhaMDVR?oc=5",
+   "source": "TBS NEWS DIG",
+   "cat": "催し",
+   "region": "浅口市",
+   "pub": "2026-10-28T20:00:00+09:00",
+   "event_date": ""
+  },
+  {
    "id": "27348236502e529e",
    "title": "岡山・美咲町の県道で原付バイクが転倒 運転の16歳男性が意識不明の重体（KSB瀬戸内海放送）",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFTEhBam5ZMjNNbjF4ZWNBVzkyNFlJMWN3RmhUQnhNUENnSWhfaXB2MVhyR1lRMmpPSjFEaUF5dzVFRTdwcmdwXzJKWWZhVjZYNVBWeEFQcVczdndQTFZhUzF5S2ZhRnNkbHE3VXMwM0xISzVTN0M2cVNGX3pXeUU?oc=5",
@@ -629,6 +669,26 @@
    "cat": "事故",
    "region": "岡山市",
    "pub": "2026-10-28T16:11:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "8caa63c71ccb98a5",
+   "title": "「ヘルメット着用して」 交通事故で長男亡くした渡辺さん（松山市） 笠岡工高で講演",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9tTHN6WnZUVU9aamNUNjM5Ml9Za18yU0xvR3VwTzFTU1VGd0dmZFZHdE1qN212ODhKd1VaN1hFbkRNQ0FaY0FXZmVzeTJsOFBPcEpZUjV1OWlBTTktSmtMbk1BYkl1d2M?oc=5",
+   "source": "山陽新聞",
+   "cat": "事故",
+   "region": "笠岡市",
+   "pub": "2026-10-28T16:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "6a06b9f866caf867",
+   "title": "高梁、和気など２回戦進出 平松政次旗学童軟式野球 高梁市で３２チーム参加し開幕",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8yLV92WEdGdGRHMWVxWkt0SnR5MzlqWjdRTUtHWXdLc1Yxa1VJSDFLeFBDWHVwaUhBOEdiYTk4NWtDdzJXV3lETl9YdjMzTWhDSGc?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "高梁市",
+   "pub": "2026-10-28T16:00:00+09:00",
    "event_date": ""
   },
   {
@@ -979,6 +1039,16 @@
    "cat": "催し",
    "region": "県内・その他",
    "pub": "2026-10-27T06:55:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "505c8e2259df4582",
+   "title": "備中刀の魅力に迫る、岡山県の高梁市歴史美術館で「館蔵刀剣せいぞろい」開催",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwTWQtOEdRQS1TaHU4cThHUDdld1Z3a1NwM1dkV21oTWN1VmVKT2h0VE5WTlpORDU2RWJhUzNIQTFjU0RNbXNEbWlxT3JYYjdXYjFwbWp30gFbQVVfeXFMTUNqcFB3Q19GWjE2a0MxOUVKN3hMTVJ3Uk5BY2Y5X19yQ0J6NU14WkV6UVAwblZDd1NoUGhOVHBmNXZnU3I1ckFZY0pWLVY5bmpHX1hSdkI0b0U1QQ?oc=5",
+   "source": "ウォーカープラス",
+   "cat": "催し",
+   "region": "高梁市",
+   "pub": "2026-10-27T00:14:37+09:00",
    "event_date": ""
   },
   {
@@ -1599,6 +1669,16 @@
    "cat": "事故",
    "region": "真庭市",
    "pub": "2026-10-25T21:08:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "e6cd36c91d860534",
+   "title": "真庭市の国道で歩行者の女性（91）がトラックにはねられ死亡 片側1車線の緩やかなカーブ【岡山】",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QTllFWlA4VXJfSnVGMGVpSlZwLTNnQUhvczVOZWo4X1BvVkZEZmtrQ2RsN0Z2VkZPdlBCSEJHdDhfalFzQUhBZ3c5cGlYS2VidjBMTmtxT3BBNlVObjZB?oc=5",
+   "source": "TBS NEWS DIG",
+   "cat": "事故",
+   "region": "真庭市",
+   "pub": "2026-10-25T19:18:00+09:00",
    "event_date": ""
   },
   {
@@ -2349,36 +2429,6 @@
    "cat": "事故",
    "region": "岡山市",
    "pub": "2026-10-24T09:10:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "320189871d4d8481",
-   "title": "大相撲秋巡業・笠岡場所、岡山県笠岡市で初開催 会場はかさしんアリーナ",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5pcnNPLTQzS00wS3VFbkUxeHkzZlJKVFlmdjRuREpsNEZ4cERRREtTcVI3M3pRdnNKUTE0STdTX0NNTE80V1pzMzVCM2tyS3JNb2p6Q3RLc1U1eURQR3ZYZVNxcWI0Z0Vn?oc=5",
-   "source": "https://mediadogs.jp/",
-   "cat": "催し",
-   "region": "笠岡市",
-   "pub": "2026-10-24T04:36:02+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "02d9364982b5babd",
-   "title": "第２回岡山県津山市植樹を開催｜Infoseekニュース",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE11Qy05NmNkemZKbnVGUmdWWkdDQkJVWGplTGtidzI0dzdmSmhjLURzX3V0YWEwM3lkZzFYajA3cll5eWxjdDF4Y0NJck5rZk1iSlpjUEh1RzhldmR2R0hETTJiSUtReHp4U3doTU5oWXZrdw?oc=5",
-   "source": "Infoseek",
-   "cat": "催し",
-   "region": "津山市",
-   "pub": "2026-10-24T03:15:20+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "83308b0cb6e605d0",
-   "title": "岡山が光のまちに、岡山駅一帯で「MOMOTAROH FANTASY 2020」「冬のおかやま桃太郎まつり」開催",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xdW1EYUs5VHgxaGtULVRjaXI4YVAwUy1jNFdNYmNkem5Pa2s5MjR4dWgxeDMyeUYwTnlIM2wwRGFvTngyOXZ6RnNMY3pKXzhIVk9DRWd30gFbQVVfeXFMTS1jUlk5czRiWTFvbjk5NjFEdVhFVDR1cXEwMlc3VzlnRnNZYWh3eElhVU9reVUxcjE4d3h5RmhVckxmUDBlektvQlZ0NUl3emhYOC1YbUZzRURyNA?oc=5",
-   "source": "ウォーカープラス",
-   "cat": "催し",
-   "region": "県内・その他",
-   "pub": "2026-10-24T02:08:02+09:00",
    "event_date": ""
   }
  ]
