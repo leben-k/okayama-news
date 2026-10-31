@@ -1,6 +1,16 @@
 {
- "updated": "2026-11-01T05:14:38.222025+09:00",
+ "updated": "2026-11-01T08:37:42.831436+09:00",
  "items": [
+  {
+   "id": "103d10b4b16904cb",
+   "title": "熊本地震受け総社市職員派遣 ８人を応援協定基づき熊本市へ",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9OX3NsdUZzUWRkanlIQm1QY2RuY0RvZkgzUjRWczRZNVBBQmZra080YlFfNjVqc3o0WktReHFmVnhBMTJLanJ6eHRiRFJXQm9LakVMUm5ibHNjcmtZdGxhRHFMeHA4aG8?oc=5",
+   "source": "山陽新聞",
+   "cat": "災害",
+   "region": "総社市",
+   "pub": "2026-10-31T18:21:57+09:00",
+   "event_date": ""
+  },
   {
    "id": "a4172133274a8e13",
    "title": "「命に優劣ない。社会に理解広げたい」 相模原殺傷 岡山の障害者家族の思い",
@@ -2209,36 +2219,6 @@
    "cat": "災害",
    "region": "津山市",
    "pub": "2026-10-25T09:00:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "4054ecb2dd62e853",
-   "title": "救助袋の使い方、教職員が体験 東京の学校火災受け岡山で研修",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qVS1uMEN0UllfLW93Ri0xOTRhOFE5U1NYeE5CS2R3aDhyMDRHY2JnS2NzSHlxb2RaN0JRZTZ6NVNDNTZzSndZSVdvSVNUd19QSUE?oc=5",
-   "source": "山陽新聞",
-   "cat": "火災",
-   "region": "県内・その他",
-   "pub": "2026-10-25T06:48:18+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "f830b41c9c81f70d",
-   "title": "花火シーズン到来 岡山県内、７、８月の主な大会",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05TDdEMHVLS1hHQzZNR3huazZRWUVKZE5MRTFnck85TVk0dnN3b25FMkpFa2JVd256T1M5VG9RU0F6MVJKNnN4UTZmVmprTnJyRnc?oc=5",
-   "source": "山陽新聞",
-   "cat": "催し",
-   "region": "県内・その他",
-   "pub": "2026-10-25T06:37:33+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "21f1e8c084791503",
-   "title": "倉敷・県道で軽自動車が電柱衝突 同乗の女児が重体",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CbzZVSWJldjhOT0lQNFE1UGljLVdQeENzeG1tWW1yN1NacHNuRjZDcS1VLUR3YTVKN3RDWUpyVXl4V2V2TEt0am9FOEZaclRVZF9odFNGelNGS3I3V2lzd3JxN2V3SWxxSFNvT1F6aE5IODBRZVE?oc=5",
-   "source": "pressrelease-jp.com",
-   "cat": "事故",
-   "region": "倉敷市",
-   "pub": "2026-10-25T05:53:28+09:00",
    "event_date": ""
   }
  ]
