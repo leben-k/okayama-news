@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T20:08:47.937299+09:00",
+ "updated": "2026-11-01T01:17:01.753722+09:00",
  "items": [
   {
    "id": "a4172133274a8e13",
@@ -92,6 +92,16 @@
    "event_date": ""
   },
   {
+   "id": "c2ccd4a90a499075",
+   "title": "「路上脇で血だらけで縛られた男性がいる」チェーンソーで首を切り付けるなどして知人男性を殺害しようとした疑い 28歳の会社員の男を逮捕 岡山県警（RSK山陽放送）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ncW5lRVQ2cUxsTXVxeHBnZE9MeXB6UjhtTmFISXZrUUk0VzFKaVNpNDRrNnYxZHkyUnlqQnNqY2x0eUpEY0RvSUQ2bHVMME1FSnJvZV92bTd3UUFVRUpUZ3dyaG1vSWRxelU4SjRGbFJSNlBVMlJpQmxpTElVRk0?oc=5",
+   "source": "Yahoo!ニュース",
+   "cat": "事件",
+   "region": "県内・その他",
+   "pub": "2026-10-31T11:05:25+09:00",
+   "event_date": ""
+  },
+  {
    "id": "8b5266f7df3f49ea",
    "title": "ハンマーで頭を殴り、チェンソーで首を切り付けるなどして知人男性を殺害しようとした疑い 28歳の会社員の男を逮捕 岡山県警",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkRmRrOVV0U2F5M1g3aFVLdm42a2ZRNHJ4TmRMTWlvTEtiZXJ2VUJBcG42ZUZmMkNrNGZxT3pjRWhoNkdqZ0syNF9lWmh3UDAyRlZ4YjhpdUxHbXVyMGVQSUllWVR2MXc?oc=5",
@@ -119,6 +129,16 @@
    "cat": "催し",
    "region": "県内・その他",
    "pub": "2026-10-31T10:08:04+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "e7a4ca7eed996c16",
+   "title": "【名曲を瀬戸内市で】岡山フィルハーモニック管弦楽団が瀬戸内市にやってくる！「四季」「運命」を楽しむ特別公演を開催[岡山",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9tYzg2TV9aQlVrcVhkYWJkTmtrY1JHWHNQQWs5ejhneUFyUVE0UXZyczZZa0xSMENkTlJrSHUySUgwZkJzeDk0bE9nZlFpRnJSTk9YcEQ5bmNfNHhBU21fVnk5Z1p6bktVTGlTaVpfd3o0ZkJ0VFE?oc=5",
+   "source": "ニコニコニュース",
+   "cat": "催し",
+   "region": "瀬戸内市",
+   "pub": "2026-10-31T05:00:25+09:00",
    "event_date": ""
   },
   {
@@ -352,16 +372,6 @@
    "event_date": "2026-11-03"
   },
   {
-   "id": "85e3d2f159390e3f",
-   "title": "【岡山】2026年10月31日・11月1日週末開催の無料イベント8選 秋祭り＆フェスタも満喫",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE90eFJKSHBTSXh5cllBZGZnUUNtRGp2UFJJaGp5azNGalhEQW1VSFpza0RLWXFiOWFXQjhWblhDTm5ITF9FZ2dZMExDTm53Ri1NMUE?oc=5",
-   "source": "いこーよニュース",
-   "cat": "催し",
-   "region": "県内・その他",
-   "pub": "2026-10-30T06:20:44+09:00",
-   "event_date": "2026-10-31"
-  },
-  {
    "id": "46981b046c58a114",
    "title": "備前 子どもたちが有機栽培の田んぼで稲刈り体験 岡山",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1WeXNUcVQ5V1IyYk54NS1abl9PZEN1TFN5MHd1MXgyRHUzb3FWZzZBMy1FZ190UWJ5TUVqRXhYNkV3NG1Wam13QUd4MFE5LW4zSGMwNkh5OEFBTW9lc1Zv?oc=5",
@@ -410,16 +420,6 @@
    "region": "岡山市",
    "pub": "2026-10-30T01:17:25+09:00",
    "event_date": ""
-  },
-  {
-   "id": "e64bdad8e6e1861f",
-   "title": "【岡山】今週末、花火あがるイベント２つある。202610月31日・11月1日",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBvUjktZ2lwWkp2MUtYWDNibjh5WjEzejVyLW1TWTlZbk9HSVpLdmVWcjc1aHZYRFVjOXhJbGJGbTRWV0toOFUyUnF3?oc=5",
-   "source": "岡山おにさんぽ",
-   "cat": "催し",
-   "region": "県内・その他",
-   "pub": "2026-10-29T22:43:45+09:00",
-   "event_date": "2026-10-31"
   },
   {
    "id": "fdc3d00c1ad7806b",
@@ -472,26 +472,6 @@
    "event_date": "2026-11-01"
   },
   {
-   "id": "bf36806ad5362439",
-   "title": "2026年10月31日(土)～11月1日（日）岡山週末イベントスケジュール",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4teElmSGRsUlQyM2NLajdST1k1OEpKZGJ3NzRoSC1CczM3XzZpb3pXellMM3VHRTRDbkhwTGxmcFBDVWZpY05iMG5n?oc=5",
-   "source": "岡山おにさんぽ",
-   "cat": "催し",
-   "region": "県内・その他",
-   "pub": "2026-10-29T17:29:51+09:00",
-   "event_date": "2026-10-31"
-  },
-  {
-   "id": "942bf87bd5ad4afd",
-   "title": "2026年10月31日(土)～11月1日（日）岡山週末イベントスケジュール - パート 8",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9YamJrcFMtdG9IQWtuNURzVWdoUmptTW9DM0IwcEp4RXAtaWFuaDJmVTNmVEdFUGhYbHpYYmtWTFdLOGhpYVdjZktUZGU?oc=5",
-   "source": "岡山おにさんぽ",
-   "cat": "催し",
-   "region": "県内・その他",
-   "pub": "2026-10-29T17:29:51+09:00",
-   "event_date": "2026-10-31"
-  },
-  {
    "id": "5e36305cfd3cb179",
    "title": "【10/31・11/1】倉敷みらい公園＆アリオ倉敷 屋外イベント広場で「きらめきナイトマーケット」開催",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ha28zZGRub04xRlZ3YUdYVDVZLWVQR054eGk4YWZOTlJYcy03Y0I3eHF3a1h1UFdQT2RiQ3BjQmJqb2tmSmxzNkZobzRiVWJjX0E?oc=5",
@@ -518,6 +498,16 @@
    "source": "山陽新聞",
    "cat": "災害",
    "region": "高梁市",
+   "pub": "2026-10-29T16:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "1564d552c8ea89d7",
+   "title": "台風１０号 ３千戸超の床上・床下浸水 津山市城西地区",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0zbzlfQ1VwRjViREFhVzBkdkFMRkR6aGpLQW5CejJPYXIyekNCWFhxY3F2dXZnczR5dVhicWRPSGFJYzBnNl9WTVZmdDBWLU90V1FSSmZUSHN4dmNCaEwyZ1dKeWRnbmcwb2RvMl8tM01RTy1LZjln?oc=5",
+   "source": "山陽新聞",
+   "cat": "災害",
+   "region": "津山市",
    "pub": "2026-10-29T16:00:00+09:00",
    "event_date": ""
   },
@@ -562,16 +552,6 @@
    "event_date": ""
   },
   {
-   "id": "7dd16118cf6b14ee",
-   "title": "岡山シーガルズ、10月31日・11月1日にホームアリーナ開幕戦を開催へ",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBOd3FRMF9FOTU5UkFHVklBVXRuSUhXWUNzb1BqZUtNMjg2SnhXanFCMS1tZlU3cy1TZnptQ3FyNm5XS2ROR2pocnpqQjlhenBFUmh5ZWJPOFFobDQwV25qNnNtUFE?oc=5",
-   "source": "Dellows News",
-   "cat": "催し",
-   "region": "県内・その他",
-   "pub": "2026-10-29T09:40:45+09:00",
-   "event_date": "2026-10-31"
-  },
-  {
    "id": "d15bbd6d30b3a060",
    "title": "【岡山地方気象台】気象特別警報・警報・注意報「【岡山県気象警報・注意報】注意報を解除します。」",
    "url": "https://www.jma.go.jp/bosai/warning/#area_type=offices&area_code=330000",
@@ -610,16 +590,6 @@
    "region": "県内・その他",
    "pub": "2026-10-29T09:13:47+09:00",
    "event_date": ""
-  },
-  {
-   "id": "8b7146d00a8c1d4e",
-   "title": "JR西日本岡山支社ら、さんすて岡山で魅力発見イベントを10月31日に開催へ",
-   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB6ejR2SW0wbWltcHFmUmwtRkludVpROEg1aEg4dHZuUGFtMGxhZmJuakxDaVpvYWMtaXlDSzdtZ2dwR0NVM1E?oc=5",
-   "source": "Dellows News",
-   "cat": "催し",
-   "region": "県内・その他",
-   "pub": "2026-10-29T04:13:58+09:00",
-   "event_date": "2026-10-31"
   },
   {
    "id": "5b0417d32d73e3aa",
@@ -1322,6 +1292,16 @@
    "event_date": ""
   },
   {
+   "id": "be66ac37aa59d627",
+   "title": "危険運転致傷、ひき逃げで女逮捕 総社署",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hOWI4RFQxWEVCdXBqRS1hOXdjUk44UFpJQkI0WlVFSUMyblVXYTVmUzFXSGREOHhyd0hXUmZFT2tqaV85T1FHSDZVVXRVbVBkdlE?oc=5",
+   "source": "山陽新聞",
+   "cat": "事件",
+   "region": "総社市",
+   "pub": "2026-10-26T21:03:38+09:00",
+   "event_date": ""
+  },
+  {
    "id": "ecb3aa8bb228e2e3",
    "title": "無免許でひき逃げ疑い 容疑で２５歳の男逮捕 玉島署",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9seXBTQ24yS25oazBHVTJrWFBLZ0lsMzVPTURKQV84T3Z5QnA4N2FVQXdvUE45cEZ2Z2ZScVdiWG9nNElkcW1hSU5RTGVEMHJtZVE?oc=5",
@@ -1922,16 +1902,6 @@
    "event_date": ""
   },
   {
-   "id": "78622ff94bedf443",
-   "title": "【岡山市北区】さんすて岡山で、地域の魅力発見イベント「見つかるおかやま広場 〜秋の楽しい出逢い〜」が10月31日開催",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LaGJWM3VLTGxOc0NadU1NYXVXcG9PY2FOTkMtVVVwWFNwN0wxSHdaQmYwUnIzT0huN3NhRzAyYnhzMWxHLVlsYmJvQVZPdEJZbFdMVUNhZXZlT1hHdmZZR2VuMGtFa0dWMm1hM2ozMGUzLWY5V0ZuZl9lZk1DVDg?oc=5",
-   "source": "号外NET 岡山市",
-   "cat": "催し",
-   "region": "岡山市",
-   "pub": "2026-10-25T16:00:33+09:00",
-   "event_date": "2026-10-31"
-  },
-  {
    "id": "8b024586b8311194",
    "title": "行方不明の２歳男児を無事保護 矢掛町東三成",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhQ1JBS29OQmlKTU9mRV9EUmViMkp3eXhGMlJ0RFZCM0RoVVBJLTlzVTdRc0lwOXpEVE9kVm5kWTNqZ1R5NUJFb0hLT1FrQ3R0N0E?oc=5",
@@ -2142,6 +2112,16 @@
    "event_date": ""
   },
   {
+   "id": "07a6fc120b5bfb65",
+   "title": "【速報】倉敷市で軽自動車が電柱に衝突 同乗の女児(6)が重体 岡山（KSB瀬戸内海放送）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04LXZHZnQ1WnBzVXFnRm4wT3BGSDJIRjVELUJoS1I0UW9IcnJ3cXFZZFRsUzhNY2lwM3VyREJqMVNFVnZIbGk3cGVmSkZkbnZQSnhMU0lDOG1BbGwxR2ZWQ2s1RkVkaklESUJ4VktDeDZhN015QTJSSFpvdVBTa3M?oc=5",
+   "source": "Yahoo!ニュース",
+   "cat": "事故",
+   "region": "倉敷市",
+   "pub": "2026-10-25T10:45:00+09:00",
+   "event_date": ""
+  },
+  {
    "id": "b328f6562887aeff",
    "title": "津山まつり（徳守神社）(岡山県)の情報",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHUGlXM0ZRMURiMW5yRFJaZW02Q2JPLUpvS25yQ0lHdlI0Sk5sOG9BRXA4eDByUm9jR0dYaU9RbFI4LVNGeGhGWUZOMU5XWlI0TjFjdUdCLTdPcjA?oc=5",
@@ -2219,26 +2199,6 @@
    "cat": "催し",
    "region": "瀬戸内市",
    "pub": "2026-10-25T03:36:22+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "3a8afe6d55613426",
-   "title": "軽乗用車が電柱に衝突 同乗の小１女児重体",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mYjNNa2NZMVFvQVJJeXNHOFE5Y1djbnpCZzJoZ1F2VkNqS0M3a1hEX1dfN2VlVURDckh2V2l6OWRCR0s0MW9xSTc1SUlxTFVRQ0E?oc=5",
-   "source": "山陽新聞",
-   "cat": "事故",
-   "region": "県内・その他",
-   "pub": "2026-10-24T21:46:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "d9480df67866a74d",
-   "title": "音楽ステージや人気グルメ 玉野・セトウチコンテンポラリー開幕",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9pWDQ4c1owNEhubUxtV0o4ejdZYUFFVXhtUGZneVVROUZSVG1Od3drOC1jWU0xa2FzUDJJNnlORkNtYVlfRUZ1QmVMSXlYWXh1MlFxSk5RM19uUU42ZjY3ZVFBeXJYR3ZreUhidy0wVVB1a1pJWVF4a19UNjdlZ9IBgwFBVV95cUxQd0lMZmJTVXZjTFBxX2YwQmVBa28xWmViMUlESHFzVWVsZmd3ODMtNnZQU2k1b3lBWGxxaTdfekhpd25jZEFEcGZCWjM1M1k0T0VnUkNya3RVNE9PSnNJNGJ4UVpySkZGeTZ2X1VWX3BYMEQwZng3eXVsVDdsRm5BSUNydw?oc=5",
-   "source": "ｄメニューニュース",
-   "cat": "催し",
-   "region": "玉野市",
-   "pub": "2026-10-24T20:33:00+09:00",
    "event_date": ""
   }
  ]
