@@ -1,6 +1,26 @@
 {
- "updated": "2026-11-02T03:31:18.459238+09:00",
+ "updated": "2026-11-02T07:18:43.299086+09:00",
  "items": [
+  {
+   "id": "91e63a64cf49959f",
+   "title": "【速報】岡山市中区門田屋敷で建物火災",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE11d19OREtVcWlmMEFmalVLdTFyOExBa0JUWE1ERlEydUVKSFV5cGFwbUVfT2x4aWluVlVIbW5CR1VQNHp6VVJCVmtLY1NyZFRZZ3c?oc=5",
+   "source": "山陽新聞",
+   "cat": "火災",
+   "region": "岡山市",
+   "pub": "2026-11-02T06:59:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "48235124fe446661",
+   "title": "【岡山】2026年11月3日「文化の日」開催の無料イベント6選 フェア＆マルシェ＆秋祭り",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1JZUZ2dFBiUHN1bnFRamNnM1ZDWHRSeVhqNnBfbGd6Qk95ZWgzbmczZW9RQTZMXzlDbXJJcG9oaW0xYnlRRENKbGRKQmZYQWRtTkE?oc=5",
+   "source": "いこーよニュース",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-11-02T06:05:49+09:00",
+   "event_date": "2026-11-03"
+  },
   {
    "id": "f858ebc507e147f5",
    "title": "【岡山市北区】イオンモール岡山の「GiGOコラボカフェスタンド岡山」が一時休業してる。「GiGO FANDOM SQUARE」として11月20日リニューアルオープン",
@@ -132,6 +152,16 @@
    "event_date": ""
   },
   {
+   "id": "10b6608362aae717",
+   "title": "【牛窓花火大会の復活とマリンスポーツによる観光振興へ】岡山県瀬戸内市が地域おこし協力隊3名を新たに任命[岡山県瀬戸内市]：山陽新聞デジタル｜さんデジ",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fWnpuYU0tNHl0WkoxNkFrbENUOVJ3QUFnbGRLSUlvdU9nSXV6OG8xTXJWSzFYRHdrejMwc0NvN2J3cFlOcHVaaGRFZTh3RjlfcFBQaHV2bWVTZnNUQ2dVdmhtdEFlNGs?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "瀬戸内市",
+   "pub": "2026-11-01T02:17:27+09:00",
+   "event_date": ""
+  },
+  {
    "id": "103d10b4b16904cb",
    "title": "熊本地震受け総社市職員派遣 ８人を応援協定基づき熊本市へ",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9OX3NsdUZzUWRkanlIQm1QY2RuY0RvZkgzUjRWczRZNVBBQmZra080YlFfNjVqc3o0WktReHFmVnhBMTJLanJ6eHRiRFJXQm9LakVMUm5ibHNjcmtZdGxhRHFMeHA4aG8?oc=5",
@@ -180,6 +210,16 @@
    "region": "岡山市",
    "pub": "2026-10-31T16:00:00+09:00",
    "event_date": ""
+  },
+  {
+   "id": "f34c9742db06b338",
+   "title": "「島を渡る」パネル展、岡山市で１１月３日から 新聞協会賞受賞を記念、大型写真など展示",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5JNWFfbDJ2ZXFZOG4ybUJkVHFtR3R3a2Nvc0UzRUotZGZQaTBPZFd2UDhIN1puemtJSWJSNDlRQVd4X0ZpMk5TRFFkdjJydnlweDlPWkFLVFJZSWVaVzBYRFU3SHNiQWNZc1ZoeVVUbF91RDl4VEVlN3ZpcjNNZ9IBgwFBVV95cUxPOElsazI3SDRRRXB2R21kTmdBeEh3ZUV1OV9pNWlfNlNSRFd4cGlmMmtiRkF2N0wtLVZJbVFKbVJ1ZEZUYllYeE1DZjFNelBEVGQ3UkdELUNQYXl5Zm5tbG9fMzRGRURPOXBoU2xzdEwxRWNJRFREU0x4aUFORWFVUFdQUQ?oc=5",
+   "source": "ｄメニューニュース",
+   "cat": "催し",
+   "region": "岡山市",
+   "pub": "2026-10-31T15:35:00+09:00",
+   "event_date": "2026-11-03"
   },
   {
    "id": "7da243da9bed95c0",
@@ -448,6 +488,26 @@
    "source": "山陽新聞",
    "cat": "催し",
    "region": "真庭市",
+   "pub": "2026-10-30T16:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "633d331a697c39d4",
+   "title": "【ズームアップ】児島署長になった山本俊二さん 詐欺被害 署員一丸で抑止",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BRHdpMmE2dkxwaWVERWw0eHdNOHpxSUVNSTdBLWplbjFFUHlRaXpzTFhVUFJsQjVkQkZYejJ6R0R4eVVQY2ZvTERBdmpFSm9BSUE?oc=5",
+   "source": "山陽新聞",
+   "cat": "事件",
+   "region": "県内・その他",
+   "pub": "2026-10-30T16:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "bfde7f67f01fd864",
+   "title": "倉敷市にレベル３大雨警報 冠水で立ち往生も",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4RWcyWWtVc2xmZXJDNTVuZ2JOam95MkJWbzY4cXVVRFllaGhybTYxSVJNVHRJb1NMcGZRSzNUYkNCRjRWTmtnVVZwa1N6YXNwMnBLeW5xNkpUVTBXTXBsLWFCWWtEY2c?oc=5",
+   "source": "山陽新聞",
+   "cat": "災害",
+   "region": "倉敷市",
    "pub": "2026-10-30T16:00:00+09:00",
    "event_date": ""
   },
@@ -2139,16 +2199,6 @@
    "cat": "災害",
    "region": "津山市",
    "pub": "2026-10-26T07:34:41+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "28386e16c8ea60aa",
-   "title": "岡山・倉敷市の市道で車が電柱に衝突 6歳女児が意識不明の重体 (2026年10月25日掲載)",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA1RklzbjNpdENzRFJ1eHpyYlU5Q1RCN1JxUXpBZ2JRVV92bjBpSkNURElKOFhCVVpwelRSdHFfZDZrR3RqY2sydjdjNXJQbERVSHYyVEI1bDJMeXZOVXc?oc=5",
-   "source": "ライブドアニュース",
-   "cat": "事故",
-   "region": "倉敷市",
-   "pub": "2026-10-26T07:12:25+09:00",
    "event_date": ""
   }
  ]
