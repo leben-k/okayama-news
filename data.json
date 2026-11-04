@@ -1,6 +1,36 @@
 {
- "updated": "2026-11-04T20:28:52.189171+09:00",
+ "updated": "2026-11-05T03:48:50.853892+09:00",
  "items": [
+  {
+   "id": "1326966449386646",
+   "title": "【事件】福山のコンビニ駐車場で強盗傷害疑い、岡山市の男ら5人逮捕 福山西署",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WenBlbXZMcXlaUFRCSWNCelA2YmdKc1NkbEo2aURyNFBxeTZLUjhVanY0Tk9mNE56cGFXR2hvMXc2X0p0VDg4N2FicHplNUNuTlpjelYxcW1WQQ?oc=5",
+   "source": "中国新聞デジタル",
+   "cat": "事件",
+   "region": "岡山市",
+   "pub": "2026-11-05T00:37:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "12462e7334e60645",
+   "title": "【倉敷市】ゴジラ松井襲来！？マスカットスタジアムでセ・パ交流戦「巨人 対 中日」が開催されるみたい。2027年9月2日",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5hRC1FLWNWSkhpVWRJVXFWRkVXNmhRVGFaUlJvV2tTMl93MUE4WEpiWngwbjU4M0NFNnlmM2tJb2wzcHByYXBhbVVhQUd2QQ?oc=5",
+   "source": "岡山おにさんぽ",
+   "cat": "催し",
+   "region": "倉敷市",
+   "pub": "2026-11-04T21:24:09+09:00",
+   "event_date": "2027-09-02"
+  },
+  {
+   "id": "b91dfa182afe61a9",
+   "title": "岡山で橋名板４枚盗難 浮田川に架かる蛍橋",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBsVUpCTzVmSUpDQ2s5MlZtbV96Qk1INWpnRS1PTkNfSHVOVWVIYmlVblpVaEx2b3pBRnlMS2pmaHU2OXlsZnpJamhKQUw0LWlaNUE?oc=5",
+   "source": "山陽新聞",
+   "cat": "事件",
+   "region": "県内・その他",
+   "pub": "2026-11-04T20:25:00+09:00",
+   "event_date": ""
+  },
   {
    "id": "0f163a369cee5173",
    "title": "無免許運転でひき逃げか 容疑で岡山市の男逮捕（山陽新聞デジタル）",
@@ -19,6 +49,36 @@
    "cat": "事件",
    "region": "備前市",
    "pub": "2026-11-04T19:10:32+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "539d11a2a22a55e8",
+   "title": "無免許運転でひき逃げか 岡山南署が容疑で男を逮捕",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBxWm0tcUIwTUdManZMazczZ2pQWEVlOUFYY0lUU2Vzb09PY0I0WUR3NjFSREFMdmhjOE1GX1VnTUhWX2tYOG5kZHdHTlNPYmF1aGc?oc=5",
+   "source": "山陽新聞",
+   "cat": "事件",
+   "region": "県内・その他",
+   "pub": "2026-11-04T19:02:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "8feb27e0c11ddb14",
+   "title": "岡山市で路線バスと乗用車が衝突 乗客2人が軽傷 (山陽新聞デジタル)",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOd21GQWhhYU9LWVV1bWh6RTI0YzNpbllaQXJ0dlNNd2cwaVhiYUJqWVNvaGVIV2Y0ZVhwdURWLUFwdGZlUWpkZl9IOVlTS2hQOUp0ZlF3VnBXeDh4VGd0S3hYb3BoSnNzWlBoRjBkU1FBN3RBc2xBRmZMdjl3ZlV0dkw1ZDgyYnVzeTZIVHVn?oc=5",
+   "source": "Yahoo!ニュース",
+   "cat": "事故",
+   "region": "岡山市",
+   "pub": "2026-11-04T18:53:32+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "9ed24e296656d0ea",
+   "title": "備前市の空き家侵入、屋内物色か 岡山西署がベトナム国籍の男２人逮捕",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4tU0U2cUdiOGNlNXNCZlpiVkFLaHJDYUo3ZWhRVk13YVJENmk2Zkw5LWtlVUluUk5mOFhldFFSTEE5ZlFHRlVJOE84amZSdkhtcEE?oc=5",
+   "source": "山陽新聞",
+   "cat": "事件",
+   "region": "備前市",
+   "pub": "2026-11-04T18:53:00+09:00",
    "event_date": ""
   },
   {
@@ -99,6 +159,16 @@
    "cat": "事件",
    "region": "県内・その他",
    "pub": "2026-11-04T15:49:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "83aad3803dab4fd2",
+   "title": "覚醒剤取り締まり法違反の疑いで再逮捕 金属廃材を盗んだ疑いで10月に逮捕の男(29) 岡山",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9RUmxmS1lHbXZnWWZUQ1RUSFNjVHl2RWlvaDBnZVUydkhXeldPOWJjV1R5VnRJTVJMa29mZFFLcnFPSEgwbTV1RnFVOUVIOHlSYkpvQUpmNExHdk52V05sd09jeHZ3ZnRZc1hKZFh3?oc=5",
+   "source": "au Webポータル",
+   "cat": "事件",
+   "region": "県内・その他",
+   "pub": "2026-11-04T15:33:00+09:00",
    "event_date": ""
   },
   {
@@ -292,6 +362,16 @@
    "event_date": ""
   },
   {
+   "id": "6b70376f2ff8bb84",
+   "title": "【速報】路線バスと乗用車が衝突 乗客2人軽傷か 岡山・北区",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAtRThrN2MxVUQ5eE9NMGd1dUV3RjhLRDB5Y3VpQU1sT3QxcnpPcmk1cnFJME82dm10VVNwaXlBVGRjbUd5NlJvQlRlc2tSQVNSaUNUVEZUSE1Udkl6ZlBSUlVoR25HWWR5cGZOelNtQVfSAXZBVV95cUxPRDdMN1BMYms5cEVXbXpSYkgyeWRZSTRkTXEyTnc3ZU9jU0xLZDdDRThtYkRTR3FYakFEck9SRFdOdV9pMThZdjhyamVXZUQwWFBEdG1qdnpVdUpDMGZ4Y0MtdGVhNEJLcjJRU1NqUDlOd1pjSWVB?oc=5",
+   "source": "ｄメニューニュース",
+   "cat": "事故",
+   "region": "県内・その他",
+   "pub": "2026-11-04T10:06:00+09:00",
+   "event_date": ""
+  },
+  {
    "id": "12689c350f9ca06c",
    "title": "【開催レポート】岡山県主催100名限定の大規模マッチングイベント「ハレコイときめきフェス」で43組のマッチングが成立",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE41VVNobVdHaWhLdUpRWERXRldxVzBYbHNyeFIwUkIycFlwZkhDUDZMdXpDa3UzS3N3ME5kYkhoR3JocVVYZ2xISFJYLU9URHhBVXFhV3o0RzJIbWdSc1NYMHhUTVNQZmJ1R0ZuZTNFRFk2Y3oyWlE?oc=5",
@@ -309,6 +389,16 @@
    "cat": "事故",
    "region": "美作市",
    "pub": "2026-11-04T09:39:31+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "9531d6811fb92e46",
+   "title": "イモ収穫用の作業車でがけ下に転落の男性が死亡 岡山・美作市（KSB瀬戸内海放送）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OVmpleWhIWHg5ajVrX2ZPVlI1WmR1NkowMXBDTFNuX0taTWJtczdZbzMzd3NPRjBndk9JZFl0TERzZlJURHM4NnJBQVNRVWVnY2hhZ1ZFY0toQTYxTU0xcEtLZkpMYVkyQlpEZzJpVmszbElsdWpYbTl6MG81eXc?oc=5",
+   "source": "Yahoo!ニュース",
+   "cat": "事故",
+   "region": "美作市",
+   "pub": "2026-11-04T08:56:08+09:00",
    "event_date": ""
   },
   {
@@ -509,6 +599,16 @@
    "cat": "催し",
    "region": "津山市",
    "pub": "2026-11-03T14:44:35+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "9018b36bdf308fef",
+   "title": "宮地さん（大佐）最優秀 新見市中学校弁論大会 「特別視せず人と接して」",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84Snl1ZTV6VXdpLWdUZzRoOFpVOC04THRxV1VFN3ZvNURkWFdkSUFQS1lpeXREeUVQcEF2VndXRm03Z1JtcHVxYl8yMm1SUzIyUlE?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "新見市",
+   "pub": "2026-11-03T14:25:02+09:00",
    "event_date": ""
   },
   {
@@ -932,6 +1032,26 @@
    "event_date": "2026-11-07"
   },
   {
+   "id": "441cb24d25d8210b",
+   "title": "公開ライブにマルシェ満喫して ＦＭ岡山が「ＤＡＴＥＬＩＮＥ ＯＫＡＹＡＭＡ」 メインは２５日、岡山市南区で",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5LaWtFY19ucmdZa2NoWUtRNnBLTmhqdF9ZYTJ0SDZZR09taEx0cUx5dVNuQ2lMWnNXcjRPbDE2YVdxNl9TZXYwY0NVUlVCVEhwU1hpc0ltMk5KWS05aVBhbEluNk00TUtuYWpDRDNxMzQ2cmVaOUt3?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "岡山市",
+   "pub": "2026-11-02T17:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "58762f05ed0f8e3d",
+   "title": "投資詐欺容疑で男逮捕 備前署",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfbkdZOHdmb2MtSnFqV3llNXY4cnBXc05QeWc4TUEzSk5QdE5WaG1GUktPT21NTXcxRHExdnl5b2JGamhncks2UDZyY0pZU3dmQVE?oc=5",
+   "source": "山陽新聞",
+   "cat": "事件",
+   "region": "県内・その他",
+   "pub": "2026-11-02T17:00:00+09:00",
+   "event_date": ""
+  },
+  {
    "id": "48b657102e21468e",
    "title": "歩行者と軽乗用車が衝突 80代くらいとみられる女性が意識不明の重体 岡山県笠岡市 （RSK山陽放送）",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TZ2NuQ3hZZ2xMR2hqdUNHelltOUlDd3R0c1hxNXN0Zk1lTFBLc0ZucmN1RjcxeWJaeFI4RW50WkFDb294RGJEZlM3V3JGaW44cWkwekdkZ19ncXFzLU5Oc0hPU1h4c1VnS0JtR29aUVY5YXBnS2Nub1I5dlFLblE?oc=5",
@@ -939,6 +1059,16 @@
    "cat": "事故",
    "region": "笠岡市",
    "pub": "2026-11-02T16:33:17+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "15f351728b875e76",
+   "title": "歩行者と軽乗用車が衝突 80代くらいとみられる女性が意識不明の重体 岡山県笠岡市",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1aMFBqdGNyODZiNWdXOUJNeTlYcS1uQ0hEbHVZQU5SWjBpT1ptWHlvWXBkYjFaWkVBdzd0TXptN1RrNHZwVkdIMEJDcnRITTVUOWNualE1QUZpSVhkN0xQbTFjc1k?oc=5",
+   "source": "TBS NEWS DIG",
+   "cat": "事故",
+   "region": "笠岡市",
+   "pub": "2026-11-02T16:29:00+09:00",
    "event_date": ""
   },
   {
@@ -2709,46 +2839,6 @@
    "cat": "火災",
    "region": "倉敷市",
    "pub": "2026-10-29T04:02:14+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "925dcff00729f237",
-   "title": "【岡山地方気象台】気象警報・注意報（Ｈ２７）「【岡山県気象警報・注意報】岡山県では、濃霧による視程障害に注意してください。」",
-   "url": "https://www.jma.go.jp/bosai/warning/#area_type=offices&area_code=330000",
-   "source": "気象庁",
-   "cat": "災害",
-   "region": "県内・その他",
-   "pub": "2026-10-29T03:29:18+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "907f91141e4b47c3",
-   "title": "【岡山地方気象台】気象特別警報・警報・注意報「【岡山県気象警報・注意報】岡山県では、濃霧による視程障害に注意してください。」",
-   "url": "https://www.jma.go.jp/bosai/warning/#area_type=offices&area_code=330000",
-   "source": "気象庁",
-   "cat": "災害",
-   "region": "県内・その他",
-   "pub": "2026-10-29T03:29:18+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "a473793015995631",
-   "title": "【岡山地方気象台】気象警報・注意報（Ｒ０６）（その他注意報）「【岡山県濃霧注意報】岡山県では、濃霧による視程障害に注意してください。」",
-   "url": "https://www.jma.go.jp/bosai/warning/#area_type=offices&area_code=330000",
-   "source": "気象庁",
-   "cat": "災害",
-   "region": "県内・その他",
-   "pub": "2026-10-29T03:29:11+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "60e95688b6f1564f",
-   "title": "投資詐欺容疑で福岡県の男逮捕 岡山県備前市の男性から303万円だまし取る（山陽新聞デジタル）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4MVlSMjl0QnJ5OGVNWnB6eTZ1VEJVbWhFamJxZFExd0tvSzJGSnZ2clM0VkRGMENPVkZ3S20xUDlva0ZkbmgzVjdxQW41dEhIdU9FaGIzRVVBMEc0UDBld1BTcEFZMmU4V2VnX0ItVGttTHBFRGx5MjVlV3NpYkU?oc=5",
-   "source": "Yahoo!ニュース",
-   "cat": "事件",
-   "region": "備前市",
-   "pub": "2026-10-28T20:37:21+09:00",
    "event_date": ""
   }
  ]
