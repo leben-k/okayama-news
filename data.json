@@ -1,6 +1,16 @@
 {
- "updated": "2026-11-05T03:48:50.853892+09:00",
+ "updated": "2026-11-05T09:17:57.169356+09:00",
  "items": [
+  {
+   "id": "6a899619470dd813",
+   "title": "【事件】福山のコンビニ駐車場で強盗傷害疑い、岡山市の男ら5人逮捕 福山西署（中国新聞デジタル）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FNktFZW9ON1lrRm5WS2xDZDVVZm5oZlBTYnZ1WUpYZ0Fya0c4b19aWVZfay1KbkxQZV9ac3ZKamJGWHdneGQ1ZldjMjhDVGQ4ZGoxTUlyY2NYT3RYcVVtell0NldrQURpWkJoUXZSOF9ZX2JtQ1c3Wk5UXzBVb3c?oc=5",
+   "source": "Yahoo!ニュース",
+   "cat": "事件",
+   "region": "岡山市",
+   "pub": "2026-11-05T06:33:30+09:00",
+   "event_date": ""
+  },
   {
    "id": "1326966449386646",
    "title": "【事件】福山のコンビニ駐車場で強盗傷害疑い、岡山市の男ら5人逮捕 福山西署",
@@ -2819,26 +2829,6 @@
    "cat": "災害",
    "region": "県内・その他",
    "pub": "2026-10-29T09:37:48+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "6455cb9a839a001a",
-   "title": "身体の「運動器年齢」をその場で数値化！ダイヤ工業が地域イベントで健康チェック体験「bonbone check」を実施",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE93Z3pQQkhlUXVUYWxqdzZVMmdZTUpJVGJnc2FCQy1Jd3VNbks5M25NeXNVMVlkbFB2RWl2ZDA0NUZXUHctdUx3LTBrUXhkUkcyc2J3SmlPekZDREw1Ukx4RTF3ZmNRQWdDSlZBUGticU4?oc=5",
-   "source": "山陽新聞",
-   "cat": "催し",
-   "region": "県内・その他",
-   "pub": "2026-10-29T09:13:47+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "5b0417d32d73e3aa",
-   "title": "【倉敷市】火災からの再建を経て「台湾料理 羅凰」が「あちてらす倉敷」内に11月1日オープンするようです！",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9KWmZhTXpLVlZMWXZ0R2ZEYjBSUUQ3NmJJMGlpU1J2cXNvZE5iZTRPTGQ3T1pIa0dNVDRneG1Yc3pSS1dFLW1hMGgwMG4zX25WOGtpTFBrSjNZUQ?oc=5",
-   "source": "号外NET 倉敷市",
-   "cat": "火災",
-   "region": "倉敷市",
-   "pub": "2026-10-29T04:02:14+09:00",
    "event_date": ""
   }
  ]
