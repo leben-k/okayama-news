@@ -1,6 +1,16 @@
 {
- "updated": "2026-11-07T07:19:13.901647+09:00",
+ "updated": "2026-11-07T11:17:59.829871+09:00",
  "items": [
+  {
+   "id": "481ae731cddfded0",
+   "title": "岡山市の国道で乗用車とバイクが衝突 バイクの男性が重体",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1hM283bS1USng2U19mMmlHcFhwMENtSnpfcGpUZTdZeDRZTDhoS3RSYnZoNWlVNDF3SHNVY3RWTTVONlJHNzBwNUpvVEFIU3Vv?oc=5",
+   "source": "KSBニュース",
+   "cat": "事故",
+   "region": "岡山市",
+   "pub": "2026-11-07T09:50:00+09:00",
+   "event_date": ""
+  },
   {
    "id": "1618cf146cfa1a44",
    "title": "《おかやま秋の収穫祭 地産地消マルシェ2026》11月15日(日)開催。人気の農業イベントに登場する「マルシェコラボメニュー」を紹介！ vol.1【PR】",
@@ -19,6 +29,16 @@
    "cat": "催し",
    "region": "高梁市",
    "pub": "2026-11-06T20:10:02+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "7ea3284bc7a30a13",
+   "title": "【おかやま祭時記】中世夢が原大神楽（井原市） 継承担うプロフェッショナル「太夫さん」",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE16c0xiM3dXcVRyNml6RXdIS1N4eFFJU0FFMEpfcU16Y2JaRDA2dkZKM2dWbld6YmRiZ2ZIX2MyUTRuVy00NE1MS2FwWmVlNVdKQ1VEOHdNXzVlM1UzY0wyZXAwaTlEYU9QMVYwaU5FQ2RsekctMlZV?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "井原市",
+   "pub": "2026-11-06T19:13:14+09:00",
    "event_date": ""
   },
   {
@@ -1358,6 +1378,16 @@
    "source": "山陽新聞",
    "cat": "災害",
    "region": "総社市",
+   "pub": "2026-11-03T17:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "94ea78d9c714a8a3",
+   "title": "岡山県内大雨 鉄道乱れ、避難情報発令 ２６日も激しい雨、計画運休も",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE13MlJDb1ZXNnRJYV9lc3d2R2J1XzlqSkljcFF6TVhuUWJYeW0tQU41Wjd6Y054Ni1FUmZaNGFYVlFBUF8wUVR1Sk5jZERtZHZydmc?oc=5",
+   "source": "山陽新聞",
+   "cat": "災害",
+   "region": "県内・その他",
    "pub": "2026-11-03T17:00:00+09:00",
    "event_date": ""
   },
@@ -2809,56 +2839,6 @@
    "cat": "事件",
    "region": "県内・その他",
    "pub": "2026-10-31T12:00:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "c2ccd4a90a499075",
-   "title": "「路上脇で血だらけで縛られた男性がいる」チェーンソーで首を切り付けるなどして知人男性を殺害しようとした疑い 28歳の会社員の男を逮捕 岡山県警（RSK山陽放送）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ncW5lRVQ2cUxsTXVxeHBnZE9MeXB6UjhtTmFISXZrUUk0VzFKaVNpNDRrNnYxZHkyUnlqQnNqY2x0eUpEY0RvSUQ2bHVMME1FSnJvZV92bTd3UUFVRUpUZ3dyaG1vSWRxelU4SjRGbFJSNlBVMlJpQmxpTElVRk0?oc=5",
-   "source": "Yahoo!ニュース",
-   "cat": "事件",
-   "region": "県内・その他",
-   "pub": "2026-10-31T11:05:25+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "8b5266f7df3f49ea",
-   "title": "ハンマーで頭を殴り、チェンソーで首を切り付けるなどして知人男性を殺害しようとした疑い 28歳の会社員の男を逮捕 岡山県警",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkRmRrOVV0U2F5M1g3aFVLdm42a2ZRNHJ4TmRMTWlvTEtiZXJ2VUJBcG42ZUZmMkNrNGZxT3pjRWhoNkdqZ0syNF9lWmh3UDAyRlZ4YjhpdUxHbXVyMGVQSUllWVR2MXc?oc=5",
-   "source": "TBS NEWS DIG",
-   "cat": "事件",
-   "region": "県内・その他",
-   "pub": "2026-10-31T11:04:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "891e4ed76c182ae3",
-   "title": "津山城もみじまつり 14日から23日まで開催 紅葉のライトアップや初のデジタルクイズラリーも／岡山・津山市（津山朝日新聞）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9URG9oeTVoM0ZnTnpuOHhHT2ZGUGNHUEY3VHRiT2NqelZnZ0hDWTlXUE9tNE1CTFpwVXBjaXFfeFdUQy1qeFVsQUJLZ2NOYS1lOUt1cVZrSXhzLXRQNEJmWDNZNlRCMmR4Z0lZa3BFR1kwRXlfMGZwcVBWV3dZVVE?oc=5",
-   "source": "Yahoo!ニュース",
-   "cat": "催し",
-   "region": "津山市",
-   "pub": "2026-10-31T10:14:56+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "2008f15f8f4fe183",
-   "title": "がん闘病続けながらミセス・オブ・ザ・イヤー世界大会へ 総社市の近藤さん",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10ZWUyVFlhZHVoRFFBRnRCZ0lRUDJPXzlEZ1pYcG5fdE42Z295VGt2TEpxcHZnNjV6RnNsOUdnbVY0RThjbm5VTTNPQy1mU1lYVklGTlNIRzV0Zw?oc=5",
-   "source": "山陽新聞",
-   "cat": "催し",
-   "region": "総社市",
-   "pub": "2026-10-31T10:12:01+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "67a9331ef548f577",
-   "title": "おかやま桃太郎まつり概要決定 うらじゃパレード３会場 烏城夏まつり 花火計画も",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1sdVZJWUJoWGlkeThJaTYxdlBaanFJNTVPWGxRVjNDMGpUUEZFMEc0akdSYnVUdmRlVUc4MjA1bmpJMlpCUnE3T2Y4MkRRaVBxT3lwMg?oc=5",
-   "source": "山陽新聞",
-   "cat": "催し",
-   "region": "県内・その他",
-   "pub": "2026-10-31T10:08:04+09:00",
    "event_date": ""
   }
  ]
