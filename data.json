@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T00:52:31.714916+09:00",
+ "updated": "2026-11-08T05:08:01.126347+09:00",
  "items": [
   {
    "id": "b4c6586a544814cf",
@@ -159,6 +159,16 @@
    "cat": "事件",
    "region": "美作市",
    "pub": "2026-11-07T01:43:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "b429799d9655ddab",
+   "title": "岡山市内で電線盗んだ男3人グループ逮捕 容疑で南署（山陽新聞デジタル）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5iU3BUaTV3WTVRUWwzc3ZIZTR5dkRlcVFDMWl1R0hrVk84SGlvVXVaQlQ5OWNsYkFJXy1Xa1hDWm81Rkh3TEJiUF9EZEtXT3oweDNVNWdKZmd4MTkxLThfNmxCWTU5WFRIZjB3X1dxV2xRX3pzUWM3eC15dW5FV1U?oc=5",
+   "source": "Yahoo!ニュース",
+   "cat": "事件",
+   "region": "岡山市",
+   "pub": "2026-11-06T21:27:43+09:00",
    "event_date": ""
   },
   {
@@ -722,6 +732,56 @@
    "event_date": ""
   },
   {
+   "id": "e0eece38aa47fad4",
+   "title": "足守の夜空彩るサプライズ花火 若手グループ企画 第２弾は…",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1kanNTeWJwUVJuTEMtd0NrWjV5cVV6MEt5Z2w1Q3VVU3dLZ2M4Q09rX3dVcmJNLUhTMjJ0UGJfYncxZ21wS0hrOFotc0dRRFp6blp0Z0ltOXhWWlo4cktsakxNamQ1WXM?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-11-05T17:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "a017bc0c33ffe3e9",
+   "title": "水難事故や水害の対応学ぶ 岡山市消防局 若手職員３５人",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBxbnJGTXFqLTBObkp3OWlBYlh0QXNhN0RONmxreDdvQ21GS3ZXaHhvRHhRVGs3ZnZyNTh0dVptSVk3blBUQ1l0ZVNqU2hUTDV5eUE?oc=5",
+   "source": "山陽新聞",
+   "cat": "事故",
+   "region": "岡山市",
+   "pub": "2026-11-05T17:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "ea02bb84bf336ebf",
+   "title": "山田小保護者 不安の声 玉野市教委 学校再編で説明会",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1HbHdZSGY3SFZSdDMyNWRRYmNJbXZDclhmUDEzR0hyYU1jc1JhQ1ZwVXlVXy1ZSVkwMUJ0NkJJVkt3c2Eycm4zak5TWE5mTWxaNEE?oc=5",
+   "source": "山陽新聞",
+   "cat": "事件",
+   "region": "玉野市",
+   "pub": "2026-11-05T17:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "4debd847b6c1437b",
+   "title": "全国初優勝 高梁市消防団たたえる 操法大会小型ポンプ 知事特別表彰",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DRmNQSlRzSHlfYUV2Wi1kTXZfdG03ekpyNkRuRGMyYm9VNllRS0ZQcGNYMHZWdkluN2trT2E5WWh2QnJyVVZyWTNJM0Vrdzl2Q3c?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "高梁市",
+   "pub": "2026-11-05T17:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "8fbe643de71a2e38",
+   "title": "赤磐市 合併の歩み紹介 市制２０年記念企画展 協定書やパネル、地図",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9DMFYwYjRpVFRJQ25aWW90WnAwN1J1SFhkZkRXVHVuMzVTRFVjdXhkbC1BVmhTeVdET19yZ2RlVGRXMVRkLVFKTzlZc1pQOVJ0RnZMSTFoc29kUXloa1lzTm5BY1lBVkU?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "赤磐市",
+   "pub": "2026-11-05T17:00:00+09:00",
+   "event_date": ""
+  },
+  {
    "id": "342be84d0a6562f0",
    "title": "【おかやま祭時記】④ 御瀧祭り 龍泉寺（岡山） 滝に打たれリフレッシュ",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNHkyS3ptd3lnUXFkSEQ4ZUs0eFRYVEV3YnpvbDhhd1MzSW95UG9oWVBEOEoyUFA4QmU2UWNjcDFjNFQ1aWVTbTRCbThzUFc0VndlR3hfVXFCR1FnN0szWlUxVHRkOEFjT093RlU5T2xMRmNOQTdNb1hadzBXaFdrckJMQjVDM2NLWjVMS01CM2FpUQ?oc=5",
@@ -739,6 +799,16 @@
    "cat": "事件",
    "region": "県内・その他",
    "pub": "2026-11-05T16:39:51+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "926e10e583eb53c6",
+   "title": "出産した女児の遺体を自宅に遺棄 玉島署が容疑で２６歳女を逮捕",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1nUGhwR0xyNXZBUmVtWkdjSDFabU9JQnhPakRIa2ExZFlIT0Rvc0xKYnBnT05KcHlGek1sNEp1Y2E1azZpNm91QllGUTltTDZGWEE?oc=5",
+   "source": "山陽新聞",
+   "cat": "事件",
+   "region": "県内・その他",
+   "pub": "2026-11-05T16:33:00+09:00",
    "event_date": ""
   },
   {
@@ -2779,16 +2849,6 @@
    "cat": "催し",
    "region": "県内・その他",
    "pub": "2026-11-01T05:27:30+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "10b6608362aae717",
-   "title": "【牛窓花火大会の復活とマリンスポーツによる観光振興へ】岡山県瀬戸内市が地域おこし協力隊3名を新たに任命[岡山県瀬戸内市]：山陽新聞デジタル｜さんデジ",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fWnpuYU0tNHl0WkoxNkFrbENUOVJ3QUFnbGRLSUlvdU9nSXV6OG8xTXJWSzFYRHdrejMwc0NvN2J3cFlOcHVaaGRFZTh3RjlfcFBQaHV2bWVTZnNUQ2dVdmhtdEFlNGs?oc=5",
-   "source": "山陽新聞",
-   "cat": "催し",
-   "region": "瀬戸内市",
-   "pub": "2026-11-01T02:17:27+09:00",
    "event_date": ""
   }
  ]
