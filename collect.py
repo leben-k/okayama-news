@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 岡山関係情報（事件・事故・災害・催し）
-  - Googleニュース(RSS)と気象庁(岡山地方気象台)から見出しを集める
+  - Googleニュース(RSS)・Bingニュース(RSS)・気象庁(岡山地方気象台)などから見出しを集める
   - data.json に履歴を保存する
   - site/ フォルダに公開用ページ(index.html など)を作る
 外部ライブラリは使いません(Python標準のみ)。
@@ -47,6 +47,27 @@ CITY_QUERIES = [
     "岡山市", "倉敷市", "津山市", "玉野市", "笠岡市", "井原市", "総社市", "高梁市",
     "新見市", "備前市", "瀬戸内市", "赤磐市", "真庭市", "美作市", "浅口市",
 ]  # それぞれ「○○ 事件 OR 事故 OR 火災 OR 催し」で検索します
+
+# ---- Googleニュース以外の取得元 ------------------------------
+USE_BING = True            # Bingニュース(Googleとは別の検索エンジンのニュース)も使う
+USE_OUTLET_QUERIES = True  # 新聞社・放送局のサイトごとに、Googleニュースで探し直す
+USE_YAHOO_SEARCH = True    # Yahoo!ニュース検索(RSSで返ってこないときは、自動で見送ります)
+# 新聞社・放送局のサイト。(サイトのアドレス, 検索に足す言葉)。「site:」で、そのサイトの記事だけを探します。
+OUTLET_SITES = [
+    ("sanyonews.jp", ""),               # 山陽新聞
+    ("news.web.nhk", "岡山"),            # NHK(全国版なので「岡山」を足す)
+    ("news.ksb.co.jp", ""),             # KSB瀬戸内海放送
+    ("rsk.co.jp", ""),                  # RSK山陽放送
+    ("ohk.co.jp", ""),                  # OHK岡山放送
+    ("yomiuri.co.jp/local/okayama", ""),  # 読売新聞(岡山)
+    ("mainichi.jp/okayama", ""),        # 毎日新聞(岡山)
+    ("asahi.com/area/okayama", ""),     # 朝日新聞(岡山)
+]
+# 自分で足したいRSS(市役所・警察などの公式RSS)。 ("表示する名前", "RSSのアドレス") の形で書きます。
+# 見出しに岡山の地名があり、事件・事故などの言葉が入っているものだけが採用されます。
+EXTRA_FEEDS = [
+    # ("岡山県", "https://example.pref.okayama.jp/rss.xml"),
+]
 # ==============================================================
 
 JST = timezone(timedelta(hours=9))
@@ -173,6 +194,123 @@ def collect_gnews():
         time.sleep(0.7)
     print("Googleニュース: 成功 %d / 失敗 %d / 見出し %d" % (ok, ng, len(raws)))
     return raws, ok
+
+
+# ---- Googleニュース以外(Bing・Yahoo・公式RSSなど) ----
+def _local(tag):
+    return tag.rsplit("}", 1)[-1].lower() if isinstance(tag, str) else ""
+
+
+def unwrap_link(link):
+    """Bingの中継アドレスから、元の記事のアドレスを取り出す"""
+    if "bing.com/news/apiclick" in link:
+        q = urllib.parse.parse_qs(urllib.parse.urlparse(link).query)
+        if q.get("url"):
+            return q["url"][0]
+    return link
+
+
+def parse_feed(data, hint=""):
+    """RSS 2.0 / Atom を読み、[{title, link, pub, source}] を返す(Googleニュース以外用)"""
+    out = []
+    root = ET.fromstring(data)
+    if _local(root.tag) not in ("rss", "feed", "rdf"):   # RSSではない(ふつうのページなど)ときは失敗として扱う
+        raise ValueError("RSS/Atomではありません(%s)" % _local(root.tag))
+    for el in root.iter():
+        if _local(el.tag) not in ("item", "entry"):
+            continue
+        f = {}
+        for ch in el:
+            k = _local(ch.tag)
+            if k == "link":
+                f.setdefault("link", (ch.get("href") or ch.text or "").strip())
+            elif k in ("title", "pubdate", "published", "updated", "date", "source"):
+                text = (ch.text or "").strip()
+                if text:
+                    f.setdefault(k, text)
+        title = re.sub(r"<[^>]+>", "", html.unescape(f.get("title", ""))).strip()
+        link = unwrap_link(f.get("link", ""))
+        if not title or not link:
+            continue
+        pub = None
+        for k in ("pubdate", "published", "updated", "date"):
+            s = f.get(k)
+            if not s:
+                continue
+            try:
+                pub = parsedate_to_datetime(s) if k == "pubdate" else datetime.fromisoformat(s.replace("Z", "+00:00"))
+                if pub.tzinfo is None:
+                    pub = pub.replace(tzinfo=JST)
+                pub = pub.astimezone(JST)
+                break
+            except Exception:  # noqa: BLE001
+                pub = None
+        if pub is None:
+            continue
+        out.append({"title": title, "link": link, "pub": pub, "source": f.get("source") or hint})
+    return out
+
+
+def collect_group(label, urls, parse, hint="", tries=2, give_up_after=3):
+    """同じ種類の取得先をまとめて取得する。最初の数件がすべて失敗したら、その取得元は見送る。
+    戻り値: (raws, 取得の結果)"""
+    raws, ok, ng, streak, last_err = [], 0, 0, 0, ""
+    for u in urls:
+        try:
+            raws.extend(parse(fetch_bytes(u, tries=tries), hint))
+            ok += 1
+            streak = 0
+        except Exception as e:  # noqa: BLE001
+            ng += 1
+            streak += 1
+            last_err = ("%s: %s" % (type(e).__name__, e))[:140]
+            print("  取得失敗:", label, "->", last_err)
+            if ok == 0 and streak >= give_up_after:
+                print("  %s は続けて失敗したため、残りを見送ります。" % label)
+                break
+        time.sleep(0.7)
+    print("%s: 成功 %d / 失敗 %d / 見出し %d" % (label, ok, ng, len(raws)))
+    stat = {"ok": ok, "ng": ng, "raw": len(raws)}
+    if last_err and ok == 0:
+        stat["error"] = last_err
+    return raws, stat
+
+
+def collect_extra():
+    """Googleニュース以外の取得元をまとめて集める。戻り値: (raws, {取得元の名前: 結果})"""
+    raws, stats = [], {}
+
+    def add(label, got, stat):
+        for r in got:
+            r["via"] = label
+        raws.extend(got)
+        stats[label] = stat
+
+    if USE_OUTLET_QUERIES:
+        urls = []
+        for site, extra in OUTLET_SITES:
+            for words in ("事件 OR 事故 OR 火災 OR 災害 OR 逮捕", "イベント OR 開催 OR 祭り OR 花火"):
+                urls.append(gnews_url(("site:%s %s %s" % (site, extra, words)).replace("  ", " ")))
+        got, st = collect_group("Googleニュース(媒体別)", urls, lambda d, h: parse_gnews(d), give_up_after=4)
+        add("Googleニュース(媒体別)", got, st)
+
+    if USE_BING:
+        queries = list(NEWS_QUERIES) + [c + " 事件 OR 事故 OR 火災 OR 催し" for c in CITY_QUERIES]
+        urls = ["https://www.bing.com/news/search?" + urllib.parse.urlencode(
+            {"q": q, "format": "rss", "mkt": "ja-JP", "setlang": "ja-JP", "cc": "JP"}) for q in queries]
+        got, st = collect_group("Bingニュース", urls, parse_feed)
+        add("Bingニュース", got, st)
+
+    if USE_YAHOO_SEARCH:
+        urls = ["https://news.yahoo.co.jp/search?" + urllib.parse.urlencode(
+            {"p": q, "ei": "UTF-8", "format": "rss"}) for q in NEWS_QUERIES]
+        got, st = collect_group("Yahoo!ニュース検索", urls, parse_feed, give_up_after=2)
+        add("Yahoo!ニュース検索", got, st)
+
+    for label, url in EXTRA_FEEDS:
+        got, st = collect_group(label, [url], parse_feed, hint=label, give_up_after=1)
+        add(label, got, st)
+    return raws, stats
 
 
 def collect_jma():
@@ -355,11 +493,27 @@ def merge(old, new, now):
     return kept[:MAX_ITEMS]
 
 
-def save_data(items, now):
+def save_data(items, now, stats=None):
     with open(DATA_FILE, "w", encoding="utf-8") as f:
         json.dump(
-            {"updated": now.isoformat(), "items": items}, f, ensure_ascii=False, indent=1
+            {"updated": now.isoformat(), "source_stats": stats or {}, "items": items},
+            f, ensure_ascii=False, indent=1,
         )
+
+
+# 今回の取得で、見出しを採用できた取得元の名前(main が入れる)。画面下の「情報源」に表示する
+ACTIVE_SOURCES = []
+
+
+def sources_text():
+    seen, out = set(), []
+    for n in ACTIVE_SOURCES or ["Googleニュース", "気象庁"]:
+        base = n.split("(")[0]
+        if base in seen:
+            continue
+        seen.add(base)
+        out.append("気象庁(岡山地方気象台の防災情報)" if base == "気象庁" else base)
+    return "、".join(out)
 
 
 # ------------------------------------------------------------
@@ -556,7 +710,7 @@ __LIST__
 <p class="empty" id="empty" hidden>該当する見出しはありません。</p>
 <p class="note">見出しと元記事へのリンクだけを表示しています。くわしい内容は、必ず元記事で確認してください。<br>
 種類や地域は、見出しの言葉による自動判定です。まちがいや、もれがあります。催しの開催日は元記事で確認してください。<br>
-情報源:Googleニュース(RSS)、気象庁(岡山地方気象台の防災情報)</p>
+情報源:__SOURCES__</p>
 </main>
 <footer>
 <a href="about.html">このサイトについて(収集方法・免責事項・プライバシーポリシー・連絡先)</a><br>
@@ -577,6 +731,7 @@ __LIST__
         "__REGIONOPTS__": region_opts,
         "__LIST__": list_html,
         "__OPERATOR__": esc(OPERATOR),
+        "__SOURCES__": esc(sources_text()),
         "__JS__": JS,
     }.items():
         page = page.replace(k, v)
@@ -593,7 +748,7 @@ FALLBACK_ABOUT = """<!DOCTYPE html>
 <h2>運営者</h2>
 <p>__OPERATOR__(<a href="https://leben-k.github.io/">https://leben-k.github.io/</a>)</p>
 <h2>収集方法</h2>
-<p>Googleニュース(RSS)と気象庁の防災情報から、岡山県に関する見出しを自動で集めています。1時間ごとに、プログラムが自動で更新します。本文は転載せず、見出しと元記事へのリンクだけを表示します。</p>
+<p>Googleニュースなどのニュース検索サービス(RSS)と気象庁の防災情報から、岡山県に関する見出しを自動で集めています。1時間ごとに、プログラムが自動で更新します。本文は転載せず、見出しと元記事へのリンクだけを表示します。</p>
 <h2>免責事項</h2>
 <p>種類や地域は見出しの言葉による自動判定のため、まちがいやもれがあります。くわしい内容や最新の情報は、必ず元記事や公的機関の情報で確認してください。当サイトの利用により生じた損害について、責任を負いかねます。</p>
 <h2>プライバシーポリシー</h2>
@@ -681,8 +836,16 @@ def main():
     set_output(False)
 
     raws, ok_news = collect_gnews()
+    for r in raws:
+        r["via"] = "Googleニュース"
+    n_queries = len(NEWS_QUERIES) + len(CITY_QUERIES)
+    stats = {"Googleニュース": {"ok": ok_news, "ng": n_queries - ok_news, "raw": len(raws)}}
+    extra_raws, extra_stats = collect_extra()
+    raws += extra_raws
+    stats.update(extra_stats)
     jma_items, ok_jma = collect_jma()
-    if ok_news == 0 and ok_jma == 0:
+    stats["気象庁"] = {"ok": ok_jma, "ng": 1 - ok_jma, "raw": len(jma_items)}
+    if ok_news == 0 and ok_jma == 0 and not any(s.get("ok") for s in extra_stats.values()):
         print("エラー: どの情報源からも取得できませんでした。")
         sys.exit(1)
 
@@ -690,15 +853,38 @@ def main():
     for r in raws:
         it = make_item(r)
         if it:
+            it["via"] = r["via"]
             new_items.append(it)
+    for it in jma_items:
+        it["via"] = "気象庁"
     new_items.extend(jma_items)
     print("岡山関連として採用: %d件" % len(new_items))
 
     old = load_data()
+
+    # 取得元ごとに「採用できた数」と「今まで無かった新しい見出しの数」を数える(data.json に記録)
+    seen_id = {i["id"] for i in old}
+    seen_key = {norm_key(i["title"]) for i in old}
+    for s in stats.values():
+        s["adopted"] = 0
+        s["new"] = 0
+    for it in new_items:
+        s = stats.setdefault(it["via"], {"ok": 0, "ng": 0, "raw": 0, "adopted": 0, "new": 0})
+        s["adopted"] += 1
+        key = norm_key(it["title"])
+        if it["id"] not in seen_id and key not in seen_key:
+            s["new"] += 1
+        seen_id.add(it["id"])
+        seen_key.add(key)
+        it.pop("via", None)
+    ACTIVE_SOURCES[:] = [name for name, s in stats.items() if s.get("adopted")]
+    for name, s in stats.items():
+        print("  %-18s 取得 %s / 採用 %d件 / 新しい見出し %d件" % (name, s.get("raw", 0), s["adopted"], s["new"]))
+
     items = merge(old, new_items, now)
     print("保存する見出し: %d件(前回 %d件)" % (len(items), len(old)))
 
-    save_data(items, now)
+    save_data(items, now, stats)
     write_site(items, now)
     print("完了: %s/ にページを作りました。" % SITE_DIR)
 
