@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T03:28:12.081119+09:00",
+ "updated": "2026-11-09T04:11:15.744097+09:00",
  "items": [
   {
    "id": "d3a23f6d70976314",
@@ -99,6 +99,16 @@
    "cat": "催し",
    "region": "岡山市",
    "pub": "2026-11-08T18:13:55+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "a0814e33aa2da3d3",
+   "title": "真庭 「山中一揆」野外劇３作目が上演 農民たちの苦悩や心情描く",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLMDlJZ0M3R0ltOUxRRGkxeUJFWXl1LWpWUXJIZUl2Vl9KOGJnRC1TTGIzVEpLS2tnN2NJYjA0ZFQwaHRoNnhCWXJXLUhpV1Z5Vnc?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "真庭市",
+   "pub": "2026-11-08T18:13:32+09:00",
    "event_date": ""
   },
   {
@@ -538,6 +548,26 @@
    "source": "山陽新聞",
    "cat": "事件",
    "region": "矢掛町",
+   "pub": "2026-11-06T17:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "4004edeca73174c1",
+   "title": "台風６号、岡山市内で冠水や倒木",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1OalFRMjVJWTU0d19YMVAwakUxaU1NU1JSVXduWklyZHVNbU9OTjVLVVR3M2h2dDFHckdtbWQ4MHBzRGl6aHU1elBneThBZElmbGdmSG92WnNFY2RZY3FWUHZhOXhSQms?oc=5",
+   "source": "山陽新聞",
+   "cat": "災害",
+   "region": "岡山市",
+   "pub": "2026-11-06T17:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "0cd6da0d87ca0bcd",
+   "title": "【第７報】民家と倉庫も焼く 岡山・山林火災",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFByUjBIWW1vbzZTQmtuMk5jVHVMTnJ0VmJiSm8xV2FMZ3BmM3VRNEtNamRtWWZsdmV4a2d3Z3pnNVRWWjRVaFM0R3Vjc1N6TVBkakdpcnY4b0gySzUtZk9yMkxGdHRRNVE?oc=5",
+   "source": "山陽新聞",
+   "cat": "火災",
+   "region": "県内・その他",
    "pub": "2026-11-06T17:00:00+09:00",
    "event_date": ""
   },
@@ -2999,16 +3029,6 @@
    "cat": "火災",
    "region": "岡山市",
    "pub": "2026-11-02T06:59:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "d08ed2e1633272ba",
-   "title": "画像4 / 4＞岡山で「キモかわいい展」が開催！知的好奇心を刺激する、気持ち悪くてかわいい生き物が大集合",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1zY2VxY1BrTFM2ejhxYThITldnR3dtRWR6bWVZcUV6eTJxVUNJNENMdlpyd0hQUEpHOFFiNHYwbkYxMkdGZmlBNU5uMG9ZNjFJajhqWGNMSU1KNldDUmpCd2N3NE5KRDgzT05PQnd3?oc=5",
-   "source": "ウォーカープラス",
-   "cat": "催し",
-   "region": "県内・その他",
-   "pub": "2026-11-02T03:56:31+09:00",
    "event_date": ""
   }
  ]
