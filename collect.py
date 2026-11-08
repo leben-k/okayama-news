@@ -132,7 +132,12 @@ RE_EVENT = re.compile(
 # 岡山以外の地名(岡山の語が無い記事を除外するために使う)
 RE_OTHER_AREA = re.compile(
     r"香川|高松|愛媛|松山|広島県|広島市|兵庫|神戸|鳥取|島根|山口県|徳島|高知|大阪|京都|東京|北海道|"
-    r"福岡|熊本|宮崎|鹿児島|沖縄|能登|石川|三陸|岩手|宮古島|奄美|伊豆|台湾|韓国|中国"
+    r"福岡|熊本|宮崎|鹿児島|沖縄|能登|石川|三陸|岩手|宮古島|奄美|伊豆|台湾|韓国|中国|"
+    r"愛知|名古屋|静岡|埼玉|千葉|神奈川|横浜|新潟|長野|群馬|栃木|茨城|宮城|仙台|福島|山形|秋田|青森|"
+    r"富山|福井|滋賀|奈良|和歌山|三重県|岐阜|山梨県|佐賀|長崎|大分|尼崎|堺市|札幌|"
+    r"エジプト|米国|アメリカ|ロシア|ウクライナ|欧州|ヨーロッパ|イスラエル|ガザ|イラン|インド|タイ[でのにを]|ベトナム|"
+    r"フィリピン|インドネシア|トルコ|ブラジル|カナダ|豪州|オーストラリア|英国|イギリス|フランス|ドイツ|イタリア|"
+    r"スペイン|アフリカ|中東|北朝鮮|ミャンマー|パキスタン|ネパール|メキシコ|アルゼンチン|ケニア|ナイジェリア"
 )
 RE_LOCAL_SOURCE = re.compile(r"山陽新聞|津山朝日|OHK|岡山放送|RSK|山陽放送|山陽新聞デジタル")
 
@@ -891,6 +896,17 @@ def main():
     print("岡山関連として採用: %d件" % len(new_items))
 
     old = load_data()
+    # 前に集めた見出しのうち、岡山以外の地名(他県・外国)だけの見出しは外す
+    keep_old = []
+    for i in old:
+        if (i["source"] != "気象庁" and not i["source"].startswith(("岡山県", "岡山市"))
+                and RE_OTHER_AREA.search(i["title"]) and "岡山" not in i["title"]
+                and i.get("region") == REGION_OTHER):
+            continue
+        keep_old.append(i)
+    if len(keep_old) != len(old):
+        print("岡山以外の見出しを %d件 外しました。" % (len(old) - len(keep_old)))
+    old = keep_old
     if not (USE_GOOGLE or USE_BING or USE_OUTLET_QUERIES or USE_YAHOO_SEARCH):
         # 報道各社の見出しを集めない設定のときは、前に集めた報道各社の見出しも残さない
         allowed = {label for label, _u, _r in EXTRA_FEEDS} | {"気象庁"}
