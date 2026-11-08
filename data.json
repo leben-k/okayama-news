@@ -1,34 +1,68 @@
 {
- "updated": "2026-11-09T05:42:36.416543+09:00",
+ "updated": "2026-11-09T05:58:09.428132+09:00",
  "source_stats": {
   "Googleニュース": {
    "ok": 22,
    "ng": 0,
-   "raw": 433,
-   "adopted": 274,
-   "new": 13
+   "raw": 436,
+   "adopted": 278,
+   "new": 12
   },
   "Googleニュース(媒体別)": {
    "ok": 16,
    "ng": 0,
    "raw": 811,
-   "adopted": 222,
-   "new": 11
+   "adopted": 223,
+   "new": 13
   },
   "Bingニュース": {
    "ok": 22,
    "ng": 0,
    "raw": 59,
-   "adopted": 34,
-   "new": 17
+   "adopted": 33,
+   "new": 15
   },
-  "Yahoo!ニュース検索": {
-   "ok": 0,
-   "ng": 2,
+  "岡山県(緊急情報)": {
+   "ok": 1,
+   "ng": 0,
    "raw": 0,
-   "error": "ParseError: not well-formed (invalid token): line 417, column 277",
    "adopted": 0,
    "new": 0
+  },
+  "岡山県(新着情報)": {
+   "ok": 1,
+   "ng": 0,
+   "raw": 100,
+   "adopted": 31,
+   "new": 31
+  },
+  "岡山県(報道発表)": {
+   "ok": 1,
+   "ng": 0,
+   "raw": 100,
+   "adopted": 53,
+   "new": 38
+  },
+  "岡山市(緊急情報)": {
+   "ok": 1,
+   "ng": 0,
+   "raw": 0,
+   "adopted": 0,
+   "new": 0
+  },
+  "岡山市(観光・イベント)": {
+   "ok": 1,
+   "ng": 0,
+   "raw": 30,
+   "adopted": 21,
+   "new": 21
+  },
+  "岡山市(くらしの情報)": {
+   "ok": 1,
+   "ng": 0,
+   "raw": 30,
+   "adopted": 9,
+   "new": 8
   },
   "気象庁": {
    "ok": 1,
@@ -39,6 +73,16 @@
   }
  },
  "items": [
+  {
+   "id": "1c20ce0871ffaf5c",
+   "title": "列車追突で脱線、７人死亡 エジプト、百人以上負傷",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBIaE9FNUpwNFdYNXN1SkxxektWWUZIQWNWTnk2bmUzU3BZYUtoM3BlN1BmdDZRVUhOTlpuYUVUenNGSldqbzlETHprcDVTRHhXMmc?oc=5",
+   "source": "山陽新聞",
+   "cat": "事故",
+   "region": "県内・その他",
+   "pub": "2026-11-09T05:39:00+09:00",
+   "event_date": ""
+  },
   {
    "id": "2a103c539247b3ce",
    "title": "第52回大谷焼窯まつり開催！",
@@ -508,6 +552,16 @@
    "region": "県内・その他",
    "pub": "2026-11-08T06:35:07+09:00",
    "event_date": "2026-11-25"
+  },
+  {
+   "id": "008e8ad84294ac11",
+   "title": "【岡山高島屋（岡山県岡山市）】PARCELLE JEWELRYが期間限定ショップを開催",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2SS0yaGtzNExOa01CRjhJNWk1anVkZDhxZFRLbC1mZE5sZTV6TVQ0a1p3cjJuYnRUTGVwRWh0MlBMemNtOWgwSkRZRHdpY0haZmc?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "岡山市",
+   "pub": "2026-11-08T05:12:32+09:00",
+   "event_date": ""
   },
   {
    "id": "36d4674047ffeb74",
@@ -1420,6 +1474,36 @@
    "event_date": ""
   },
   {
+   "id": "c147d4221d1eed69",
+   "title": "「総合グラウンド 四季の水彩画展」 を開催します！",
+   "url": "https://www.pref.okayama.jp/site/presssystem/1064030.html",
+   "source": "岡山県(新着情報)",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-11-06T16:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "52bccb99fae3236e",
+   "title": "部活動の地域展開に向けた令和８年度第１回岡山県部活動改革・地域クラブ活動推進会議を開催します",
+   "url": "https://www.pref.okayama.jp/site/presssystem/1063898.html",
+   "source": "岡山県(新着情報)",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-11-06T16:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "a07ed427f3764ff7",
+   "title": "防災庁の地方機関（防災局）の設置に係る提案を実施します",
+   "url": "https://www.pref.okayama.jp/site/presssystem/1064696.html",
+   "source": "岡山県(報道発表)",
+   "cat": "災害",
+   "region": "県内・その他",
+   "pub": "2026-11-06T16:00:00+09:00",
+   "event_date": ""
+  },
+  {
    "id": "abdae3aa990e63cb",
    "title": "カンボジアで拘束の男を逮捕 車で警察官振り落とした疑い",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA5bGI4NEw2dDJxdEN4Z1hWTW5YOWtzeGRvOTJfVWdpcTRvOVl5QVFnLWtBbE1EWjlZazVJbjkza0VKRS1SRzhIQ1NscTB0cXlaeUE?oc=5",
@@ -1527,6 +1611,16 @@
    "cat": "事故",
    "region": "県内・その他",
    "pub": "2026-11-06T13:26:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "72c679a51308ceee",
+   "title": "令和８年度岡山県医療ＤＸ推進セミナー運営業務に係る技術提案を求める公告について",
+   "url": "https://www.pref.okayama.jp/site/321/1063692.html",
+   "source": "岡山県(新着情報)",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-11-06T13:00:00+09:00",
    "event_date": ""
   },
   {
@@ -2360,6 +2454,46 @@
    "event_date": ""
   },
   {
+   "id": "601b33fab28cba93",
+   "title": "「令和８年度 岡山県うまいくだもの推進大会」（シャインマスカット、 マスカット・オブ・アレキサンドリア推進大会）を開催します！",
+   "url": "https://www.pref.okayama.jp/site/presssystem/1064620.html",
+   "source": "岡山県(新着情報)",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-11-05T16:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "db19624c4158eb83",
+   "title": "鳥取県・岡山県連携移住イベント「Fun！とりおか倶楽部」を実施します！",
+   "url": "https://www.pref.okayama.jp/site/presssystem/1064357.html",
+   "source": "岡山県(新着情報)",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-11-05T16:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "3fcc6f5aaaceec56",
+   "title": "【OTEX併催事業】「デザインプロダクト体験ブースin OTEX ―デザインで変わるものづくり―」を開催します！",
+   "url": "https://www.pref.okayama.jp/site/presssystem/1003109.html",
+   "source": "岡山県(新着情報)",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-11-05T16:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "765788e3c49c5ca0",
+   "title": "「おかやまものづくり魅力発信コンテスト in OTEX」を開催します！",
+   "url": "https://www.pref.okayama.jp/site/presssystem/1063125.html",
+   "source": "岡山県(新着情報)",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-11-05T16:00:00+09:00",
+   "event_date": ""
+  },
+  {
    "id": "4dfcd74ce2726ee4",
    "title": "赤ちゃんの遺体にはへその緒が…自宅に赤ちゃんの遺体を遺棄した疑いで２６歳の女を逮捕【岡山・倉敷市】",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE40VjZsZjlPX0c0OFZnNWhGX2FhcVgya2ZKaGh2ZDQ2SnJwZXVjclg0MzZJNV9LQlZuM2tIaTNQZjEtTC1yUEJiY2tyQUFWdw?oc=5",
@@ -2587,6 +2721,26 @@
    "cat": "事故",
    "region": "県内・その他",
    "pub": "2026-11-05T09:41:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "85a5c69cfa294062",
+   "title": "令和８年度消防殉職者慰霊祭を挙行します",
+   "url": "https://www.pref.okayama.jp/site/presssystem/1064761.html",
+   "source": "岡山県(報道発表)",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-11-05T09:30:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "13d885b157675da4",
+   "title": "県内１４消防本部が結集！１１月１０日「イイ点検の日」に住宅用火災警報器の点検を呼びかけます",
+   "url": "https://www.pref.okayama.jp/site/presssystem/1004994.html",
+   "source": "岡山県(報道発表)",
+   "cat": "火災",
+   "region": "県内・その他",
+   "pub": "2026-11-05T09:30:00+09:00",
    "event_date": ""
   },
   {
@@ -2900,6 +3054,46 @@
    "event_date": ""
   },
   {
+   "id": "b47cfe2d2776309b",
+   "title": "令和８年度「ゆうあい福祉展」を開催します！",
+   "url": "https://www.pref.okayama.jp/site/presssystem/1062694.html",
+   "source": "岡山県(新着情報)",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-11-04T16:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "e005d3c9fed54f73",
+   "title": "第３回岡山県保健医療計画策定協議会を開催します",
+   "url": "https://www.pref.okayama.jp/site/presssystem/1064354.html",
+   "source": "岡山県(報道発表)",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-11-04T16:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "a2f4131b357e86d0",
+   "title": "第３回 全国知事会大都市制度のあり方に関する検討プロジェクトチーム会議の開催について",
+   "url": "https://www.pref.okayama.jp/site/presssystem/1063539.html",
+   "source": "岡山県(報道発表)",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-11-04T16:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "285c44ec65042de6",
+   "title": "令和８年度第２回岡山県障害者施策推進審議会・岡山県自立支援協議会を開催します",
+   "url": "https://www.pref.okayama.jp/site/presssystem/1060463.html",
+   "source": "岡山県(報道発表)",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-11-04T16:00:00+09:00",
+   "event_date": ""
+  },
+  {
    "id": "440d1e2db48c82e4",
    "title": "覚醒剤を使用した疑い 無職の男（29）を再逮捕...会社の資材置き場に侵入し金属廃材を盗んだ疑いで逮捕 岡山県警",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1yQlVDUzgwOW9SXy12amFGSm1mckVJZnBuX3dTVjlUVV84WHVIYWRBNU5ja0NRUWhJQWt0RkxmZHMzRHVLLVAyc2U3NlNSOGNRbHd0cWNUYkdCeXRsRkR6cmhHOFlYNVNHODIzOTRRRmhtbXlm0gF0QVVfeXFMTXJCVUNTODA5b1JfLXZqYUZKbWZyRUlmcG5fd1NWOVRVXzhYdUhhZEE1TmNrQ1FRaElBa3RGTGZkczNEdUstUDJzZTc2U1I4Y1Fsd3RxY1RiR0J5dGxGRHpyaEc4WVg1U0c4MjM5NFFGaG1teWY?oc=5",
@@ -3194,6 +3388,16 @@
    "title": "【開催レポート】岡山県主催100名限定の大規模マッチングイベント「ハレコイときめきフェス」で43組のマッチングが成立",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE41VVNobVdHaWhLdUpRWERXRldxVzBYbHNyeFIwUkIycFlwZkhDUDZMdXpDa3UzS3N3ME5kYkhoR3JocVVYZ2xISFJYLU9URHhBVXFhV3o0RzJIbWdSc1NYMHhUTVNQZmJ1R0ZuZTNFRFk2Y3oyWlE?oc=5",
    "source": "Mantan Web",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-11-04T10:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "11eba2fbaa2064b5",
+   "title": "全国障害者技能競技大会（アビリンピック）について",
+   "url": "https://www.pref.okayama.jp/page/886529.html",
+   "source": "岡山県(新着情報)",
    "cat": "催し",
    "region": "県内・その他",
    "pub": "2026-11-04T10:00:00+09:00",
@@ -4090,6 +4294,16 @@
    "event_date": ""
   },
   {
+   "id": "4e59586214ce9ecd",
+   "title": "特別展「古代黄金の物語」",
+   "url": "https://www.city.okayama.jp/orientmuseum/0000077985.html",
+   "source": "岡山市(観光・イベント)",
+   "cat": "催し",
+   "region": "岡山市",
+   "pub": "2026-11-02T14:59:40+09:00",
+   "event_date": ""
+  },
+  {
    "id": "37d2f1ba033c1aae",
    "title": "岡山「犯罪被害者月間」被害者への支援 街頭活動で呼びかけ",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5JbDZ3RzdxV1JPRkw1LWpLWFVLek1ZTE5TMWpFS3NXQ3hIMHQ2T3pNb0xwV1pOaVlMenBPQUItcFhDbl8tTHpPR09wR1pEcmw1NWVoTUdvNncwUUNGSjlv?oc=5",
@@ -4350,6 +4564,16 @@
    "event_date": ""
   },
   {
+   "id": "f06ed7d3e9ac4815",
+   "title": "技能五輪全国大会",
+   "url": "https://www.pref.okayama.jp/page/495275.html",
+   "source": "岡山県(新着情報)",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-11-02T10:30:00+09:00",
+   "event_date": ""
+  },
+  {
    "id": "fdd64ff47c90c0f3",
    "title": "「買ったお酒を早く飲みたく我慢できなかった」酒気帯び運転の疑いでアルバイトの男(32)を逮捕 岡山市",
    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaTJXSTlqc2N6YTZveVVHUG90RzNGRHRmdzB5UHA5M2tScUhnYWIwLW5FZmZRdWJISlk2b0xJY1hpdHV4RmZpcVFGbzRjSlBoaDB4cDNvVlF4a0NIaDk5b19ycG5zZkVWOTA1N2VPdzZsVkt5c2FWTFQyR0VvUUU2LTBEa2dtQXFPdmV0TVB4d0wxd29Ibjc4LTlNLVJHRXV6algwdkhrLUVwMWV4NDFwZTlrZng2ZjJYajVKTDhzVi04aC0zSUHSAXZBVV95cUxNbHlWODNJSDdPN2RvZHRSd2VNTWFtRTh5d3FzODFMVmpYM1dxM3NaVTNCTWktZ2tLbkVDbHlHaXUyR3QyVGdtRTlSV1pwZFFvMDZnbkQxM0pDYnhuVXVjNWhZcTNzQmtpaWFMVEJmcHNzWjI1RkNR?oc=5",
@@ -4367,6 +4591,16 @@
    "cat": "火災",
    "region": "岡山市",
    "pub": "2026-11-02T09:51:14+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "4d2899fe7cdaf2dd",
+   "title": "「岡山県公共交通課題解決×企業マッチングセミナー」を開催します！",
+   "url": "https://www.pref.okayama.jp/site/presssystem/1063412.html",
+   "source": "岡山県(報道発表)",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-11-02T09:30:00+09:00",
    "event_date": ""
   },
   {
@@ -4390,6 +4624,16 @@
    "event_date": ""
   },
   {
+   "id": "207bbc34a4631c50",
+   "title": "11月1日～12月1日は犯罪被害者月間です",
+   "url": "https://www.city.okayama.jp/kurashi/0000086394.html",
+   "source": "岡山市(くらしの情報)",
+   "cat": "事件",
+   "region": "岡山市",
+   "pub": "2026-11-02T09:17:42+09:00",
+   "event_date": ""
+  },
+  {
    "id": "41997ad75cd1e252",
    "title": "【速報】岡山市中区で住宅火災 消防が消火活動中 (2026年11月2日掲載)",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1udkVOQ01iU095c3BQOW9PeDRQQWxocHpDbk1uR0prNDdNdWx6TF93dmVRd1lscGNnbnRWTXdHaDljVkFqUkxaTEpEbHpnTjFRY2lka3FpaXg2V0tsOUE?oc=5",
@@ -4397,6 +4641,16 @@
    "cat": "火災",
    "region": "岡山市",
    "pub": "2026-11-02T09:12:25+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "f5505864711442c2",
+   "title": "2027年国際園芸博覧会屋内出展詳細設計等業務に関する公募型プロポーザル（技術提案）結果の公表",
+   "url": "https://www.pref.okayama.jp/site/321/1064349.html",
+   "source": "岡山県(新着情報)",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-11-02T09:00:00+09:00",
    "event_date": ""
   },
   {
