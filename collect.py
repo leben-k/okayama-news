@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 岡山関係情報（事件・事故・災害・催し）
-  - Googleニュース(RSS)・Bingニュース(RSS)・気象庁(岡山地方気象台)などから見出しを集める
+  - 岡山県・岡山市の公式RSS、Googleニュース(RSS)、Bingニュース(RSS)、気象庁(岡山地方気象台)から見出しを集める
   - data.json に履歴を保存する
   - site/ フォルダに公開用ページ(index.html など)を作る
 外部ライブラリは使いません(Python標準のみ)。
@@ -49,9 +49,10 @@ CITY_QUERIES = [
 ]  # それぞれ「○○ 事件 OR 事故 OR 火災 OR 催し」で検索します
 
 # ---- Googleニュース以外の取得元 ------------------------------
-USE_BING = True            # Bingニュース(Googleとは別の検索エンジンのニュース)も使う
+USE_GOOGLE = True          # Googleニュース(RSS)を使う
+USE_BING = True           # Bingニュース(Googleとは別の検索エンジンのニュース)も使う
 USE_OUTLET_QUERIES = True  # 新聞社・放送局のサイトごとに、Googleニュースで探し直す
-USE_YAHOO_SEARCH = True    # Yahoo!ニュース検索(RSSで返ってこないときは、自動で見送ります)
+USE_YAHOO_SEARCH = False   # Yahoo!ニュース検索(RSSで返ってこないときは、自動で見送ります)
 # 新聞社・放送局のサイト。(サイトのアドレス, 検索に足す言葉)。「site:」で、そのサイトの記事だけを探します。
 OUTLET_SITES = [
     ("sanyonews.jp", ""),               # 山陽新聞
@@ -65,8 +66,15 @@ OUTLET_SITES = [
 ]
 # 自分で足したいRSS(市役所・警察などの公式RSS)。 ("表示する名前", "RSSのアドレス") の形で書きます。
 # 見出しに岡山の地名があり、事件・事故などの言葉が入っているものだけが採用されます。
+# ("表示する名前", "RSSのアドレス", "市町村名(わからなければ県内・その他)") の形で書きます。
+# 公式RSSは、岡山の情報であることがはっきりしているので、見出しに地名がなくても採用します。
 EXTRA_FEEDS = [
-    # ("岡山県", "https://example.pref.okayama.jp/rss.xml"),
+    ("岡山県(緊急情報)", "https://www.pref.okayama.jp/rss/10/list3.xml", "県内・その他"),
+    ("岡山県(新着情報)", "https://www.pref.okayama.jp/rss/10/list1.xml", "県内・その他"),
+    ("岡山県(報道発表)", "https://www.pref.okayama.jp/rss/10/site-3.xml", "県内・その他"),
+    ("岡山市(緊急情報)", "https://www.city.okayama.jp/rss/rss_emergency.xml", "岡山市"),
+    ("岡山市(観光・イベント)", "https://www.city.okayama.jp/rss/rss_topics_kankou.xml", "岡山市"),
+    ("岡山市(くらしの情報)", "https://www.city.okayama.jp/rss/rss_topics_kurashi.xml", "岡山市"),
 ]
 # ==============================================================
 
@@ -307,8 +315,11 @@ def collect_extra():
         got, st = collect_group("Yahoo!ニュース検索", urls, parse_feed, give_up_after=2)
         add("Yahoo!ニュース検索", got, st)
 
-    for label, url in EXTRA_FEEDS:
+    for label, url, region in EXTRA_FEEDS:
         got, st = collect_group(label, [url], parse_feed, hint=label, give_up_after=1)
+        for r in got:
+            r["official"] = True
+            r["region"] = region
         add(label, got, st)
     return raws, stats
 
@@ -411,6 +422,23 @@ def make_item(raw):
         return None
 
     region = find_region(title)
+    if raw.get("official"):
+        if region == REGION_OTHER and raw.get("region"):
+            region = raw["region"]
+        cat = find_cat(title)
+        if not cat:
+            return None
+        pub = raw["pub"]
+        return {
+            "id": hashlib.sha1(raw["link"].encode("utf-8")).hexdigest()[:16],
+            "title": title,
+            "url": raw["link"],
+            "source": source,
+            "cat": cat,
+            "region": region,
+            "pub": pub.isoformat(),
+            "event_date": find_event_date(title, pub) if cat == "催し" else "",
+        }
     has_area = ("岡山" in title) or ("おかやま" in title) or region != REGION_OTHER
     if not has_area and rsk_area and not RE_OTHER_AREA.search(title) and "香川" not in title:
         has_area = True
@@ -748,7 +776,7 @@ FALLBACK_ABOUT = """<!DOCTYPE html>
 <h2>運営者</h2>
 <p>__OPERATOR__(<a href="https://leben-k.github.io/">https://leben-k.github.io/</a>)</p>
 <h2>収集方法</h2>
-<p>Googleニュースなどのニュース検索サービス(RSS)と気象庁の防災情報から、岡山県に関する見出しを自動で集めています。1時間ごとに、プログラムが自動で更新します。本文は転載せず、見出しと元記事へのリンクだけを表示します。</p>
+<p>岡山県・岡山市の公式RSS、Googleニュース・Bingニュースのニュース検索(RSS)、気象庁の防災情報から、岡山県に関する見出しを自動で集めています。1時間ごとに、プログラムが自動で更新します。本文は転載せず、見出しと元記事へのリンクだけを表示します。</p>
 <h2>免責事項</h2>
 <p>種類や地域は見出しの言葉による自動判定のため、まちがいやもれがあります。くわしい内容や最新の情報は、必ず元記事や公的機関の情報で確認してください。当サイトの利用により生じた損害について、責任を負いかねます。</p>
 <h2>プライバシーポリシー</h2>
@@ -835,11 +863,13 @@ def main():
         print("手動実行のため、収集します。")
     set_output(False)
 
-    raws, ok_news = collect_gnews()
-    for r in raws:
-        r["via"] = "Googleニュース"
-    n_queries = len(NEWS_QUERIES) + len(CITY_QUERIES)
-    stats = {"Googleニュース": {"ok": ok_news, "ng": n_queries - ok_news, "raw": len(raws)}}
+    raws, ok_news, stats = [], 0, {}
+    if USE_GOOGLE:
+        raws, ok_news = collect_gnews()
+        for r in raws:
+            r["via"] = "Googleニュース"
+        n_queries = len(NEWS_QUERIES) + len(CITY_QUERIES)
+        stats["Googleニュース"] = {"ok": ok_news, "ng": n_queries - ok_news, "raw": len(raws)}
     extra_raws, extra_stats = collect_extra()
     raws += extra_raws
     stats.update(extra_stats)
@@ -861,6 +891,12 @@ def main():
     print("岡山関連として採用: %d件" % len(new_items))
 
     old = load_data()
+    if not (USE_GOOGLE or USE_BING or USE_OUTLET_QUERIES or USE_YAHOO_SEARCH):
+        # 報道各社の見出しを集めない設定のときは、前に集めた報道各社の見出しも残さない
+        allowed = {label for label, _u, _r in EXTRA_FEEDS} | {"気象庁"}
+        dropped = [i for i in old if i["source"] not in allowed]
+        old = [i for i in old if i["source"] in allowed]
+        print("報道各社の古い見出しを %d件 外しました。" % len(dropped))
 
     # 取得元ごとに「採用できた数」と「今まで無かった新しい見出しの数」を数える(data.json に記録)
     seen_id = {i["id"] for i in old}
