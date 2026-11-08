@@ -1,26 +1,26 @@
 {
- "updated": "2026-11-09T04:24:33.109552+09:00",
+ "updated": "2026-11-09T05:36:54.608008+09:00",
  "source_stats": {
   "Googleニュース": {
    "ok": 22,
    "ng": 0,
-   "raw": 433,
-   "adopted": 278,
-   "new": 14
+   "raw": 432,
+   "adopted": 277,
+   "new": 13
   },
   "Googleニュース(媒体別)": {
    "ok": 16,
    "ng": 0,
-   "raw": 819,
-   "adopted": 222,
-   "new": 136
+   "raw": 812,
+   "adopted": 223,
+   "new": 14
   },
   "Bingニュース": {
    "ok": 22,
    "ng": 0,
-   "raw": 59,
-   "adopted": 35,
-   "new": 31
+   "raw": 58,
+   "adopted": 33,
+   "new": 15
   },
   "Yahoo!ニュース検索": {
    "ok": 0,
@@ -338,6 +338,16 @@
    "region": "県内・その他",
    "pub": "2026-11-08T16:12:10+09:00",
    "event_date": "2026-11-24"
+  },
+  {
+   "id": "b9ae65578cd42d1d",
+   "title": "品川リフラ、「おかやまテクノロジー展（OTEX）2026」に出展。岡山から半導体産業を支えるファインセラミックス技術を発信",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GTWljMkV2VThTRmF2TGt3YTRSbXNyalJ4VTB4dU5YQUw1OWJDODk3QUg3NzZMeER1bzVKSjBPQlRnOVFoUmIxa1pkNFQyeVZBWmc?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-11-08T16:04:24+09:00",
+   "event_date": ""
   },
   {
    "id": "592c19dd13114085",
@@ -810,6 +820,16 @@
    "event_date": ""
   },
   {
+   "id": "5c61e074ea87be3d",
+   "title": "STU48と楽しむ特別な船旅！ ジャンボフェリー「あおい」一日船長イベントを開催",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBIQ08wQU9lOHMwSDlOYUZoMmhZTXBXOE9NbG51ejdYMWRWcmJvSFFFMFMxWElJTU9yVzVqRHQyWlZLa0dLM3p0RDhMdXg0blFCRHc?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-11-07T10:16:25+09:00",
+   "event_date": ""
+  },
+  {
    "id": "0aac784c60534a3b",
    "title": "真庭市の秋祭り「勝山喧嘩だんじり」復活 死亡事故で２年ぶり開催「安全第一で楽しい祭りに」【岡山】 (25/10/20 11:30) Cristiano Ronaldo (1VV6AlIvoX)",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMDd3Q3R5b0NIWHFqdXlCQkF4b0ctOUpuTldRZnViWDhiRmY5YndoejhpaXpIelFNZ1haWTFYbmxrelVGR09yMDdJejAtMEpOc20xdUJaU1M0d19LR0NQZEEyYVRKN04zSjNZVmM0empaTzFHOEZFSFYtOU5zZzBPVFFB?oc=5",
@@ -1067,6 +1087,16 @@
    "cat": "催し",
    "region": "県内・その他",
    "pub": "2026-11-06T19:33:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "9bdf532750e50bd1",
+   "title": "【瀬戸内旬紀行】岡山を代表する魚「ヒラ」ザクザクと骨切りした刺し身を「ノリ巻き」に【岡山】",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9URVRyOVZNNDhHT2JlUGNlazlEZzc5emZmU0xMcFYzMGdRWUt0T2FZZlFwdWdKdFU2TUtBSlBSRnhOM2pNcGhnNlVUczFxbUpnU01MNlRJdEJxaHJ0VUY4Z2h5bjc?oc=5",
+   "source": "OHK 岡山放送",
+   "cat": "事件",
+   "region": "県内・その他",
+   "pub": "2026-11-06T19:30:30+09:00",
    "event_date": ""
   },
   {
