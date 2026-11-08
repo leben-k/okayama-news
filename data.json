@@ -1,26 +1,26 @@
 {
- "updated": "2026-11-09T05:36:54.608008+09:00",
+ "updated": "2026-11-09T05:42:36.416543+09:00",
  "source_stats": {
   "Googleニュース": {
    "ok": 22,
    "ng": 0,
-   "raw": 432,
-   "adopted": 277,
+   "raw": 433,
+   "adopted": 274,
    "new": 13
   },
   "Googleニュース(媒体別)": {
    "ok": 16,
    "ng": 0,
-   "raw": 812,
-   "adopted": 223,
-   "new": 14
+   "raw": 811,
+   "adopted": 222,
+   "new": 11
   },
   "Bingニュース": {
    "ok": 22,
    "ng": 0,
-   "raw": 58,
-   "adopted": 33,
-   "new": 15
+   "raw": 59,
+   "adopted": 34,
+   "new": 17
   },
   "Yahoo!ニュース検索": {
    "ok": 0,
@@ -1336,6 +1336,16 @@
    "source": "山陽新聞",
    "cat": "催し",
    "region": "県内・その他",
+   "pub": "2026-11-06T17:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "416f1d18d4b02b1a",
+   "title": "マドレーヌ配ってロマンス詐欺に「マドわさレーヌ」 県と井原署、スーパーで街頭啓発",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4wSzVyS1dMd3JqYTNyODUwN21CS3JQd2R3UTVDdWZid3Q4Q2FITXhKMUdkNjk5ckhoTUJvS3RsOVMzTHhkMWFQcDlvTDRWQmdrM3c?oc=5",
+   "source": "山陽新聞",
+   "cat": "事件",
+   "region": "井原市",
    "pub": "2026-11-06T17:00:00+09:00",
    "event_date": ""
   },
