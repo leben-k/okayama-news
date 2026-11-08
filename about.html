@@ -69,6 +69,9 @@ button.send[disabled] { opacity:.6; cursor:default; }
 .notice { display:flex; gap:12px; align-items:flex-start; margin-top:14px; padding:12px 16px; background:var(--surface); border:3px solid var(--s-di); border-radius:16px; }
 .notice .ic { width:2em; height:2em; color:var(--s-di); margin-top:2px; }
 .notice p { margin:0; }
+.notice-form { margin:0 0 14px; }
+.notice-form h3 { margin:0 0 6px; }
+.notice-form p, .notice-form ul { margin:6px 0; }
 .back-end { margin:26px 0 0; text-align:center; }
 .btn-back { display:inline-flex; align-items:center; justify-content:center; gap:8px; min-height:52px; padding:10px 26px; border:3px solid var(--indigo);
   border-radius:999px; background:var(--surface); color:var(--ink); font-weight:800; font-size:1.05rem; text-decoration:none; }
@@ -113,7 +116,8 @@ button.send[disabled] { opacity:.6; cursor:default; }
     <h2><svg class="ic" aria-hidden="true"><use href="icons.svg#i-doc"/></svg>収集方法</h2>
     <h3>集める情報</h3>
     <ul>
-      <li>Googleニュース・Bingニュースなどのニュース検索サービス(RSS)に出てくる、岡山県に関する記事の見出し・配信元・日時・リンク</li>
+      <li>岡山県・岡山市が公開している公式のRSS(緊急情報、新着情報、報道発表、観光・イベント、くらしの情報)に出てくる、見出し・発信元・日時・リンク</li>
+      <li>Googleニュース・Bingニュースのニュース検索(RSS)に出てくる、岡山県に関する記事の見出し・配信元・日時・リンク</li>
       <li>気象庁の防災情報(岡山地方気象台が発表する警報、土砂災害警戒情報など)。出典:気象庁</li>
     </ul>
     <h3>集める時間</h3>
@@ -179,24 +183,27 @@ button.send[disabled] { opacity:.6; cursor:default; }
 
   <section id="contact">
     <h2><svg class="ic" aria-hidden="true"><use href="icons.svg#i-mail"/></svg>連絡先</h2>
-    <h3>記事を出している報道機関・情報発信元の方へ</h3>
-    <p>本サイトは、記事の見出し・配信元・日時・リンクだけを載せています。記事の本文や写真は載せていません。見出しをクリックすると、元の記事のページに移ります。営利目的の運営ではなく、広告も載せていません。</p>
-    <p>見出しの掲載を止めてほしい場合は、下のフォームからご連絡ください。内容を確認し、対応を考えます。送信元のメールアドレスドメインが御社の公式のものか確かめることがあります。</p>
-    <p>フォームには、次を書いてください。</p>
-    <ul>
-      <li>貴社名（発信元の名前）</li>
-      <li>止めてほしい見出し、またはその配信元（わかる範囲で）</li>
-      <li>返信先のメールアドレス</li>
-    </ul>
-    <p>※ 見出しは自動で集めているため、検索サービス側の更新で再び出る場合があります。その場合もご連絡ください。</p>
-    <h3>見出しの掲載について</h3>
-    <ul>
-      <li>載せているのは、見出し・配信元・日時・リンクだけです。記事の本文や写真は載せていません。</li>
-      <li>見出しは書き換えず、元の記事へのリンクを付けています。</li>
-      <li>営利目的の運営ではありません。</li>
-      <li>古い見出しは、取得から7日で消えます。</li>
-    </ul>
-    <h3>連絡先フォーム</h3>
+    <aside class="notice notice-form" role="note">
+      <svg class="ic" aria-hidden="true"><use href="icons.svg#i-warn"/></svg>
+      <div>
+      <h3>記事を出している報道機関・情報発信元の方へ</h3>
+      <p>本サイトは、記事の見出し・配信元・日時・リンクだけを載せています。記事の本文や写真は載せていません。見出しをクリックすると、元の記事のページに移ります。営利目的の運営ではなく、広告も載せていません。</p>
+      <p>見出しの掲載を止めてほしい場合は、下のフォームからご連絡ください。内容を確認し、対応を考えます。送信元のメールアドレスドメインが御社の公式のものか確かめることがあります。</p>
+      <p>フォームには、次を書いてください。</p>
+      <ul>
+        <li>貴社名（発信元の名前）</li>
+        <li>止めてほしい見出し、またはその配信元（わかる範囲で）</li>
+        <li>返信先のメールアドレス</li>
+      </ul>
+      <h3>見出しの掲載について</h3>
+      <ul>
+        <li>載せているのは、見出し・配信元・日時・リンクだけです。記事の本文や写真は載せていません。</li>
+        <li>見出しは書き換えず、元の記事へのリンクを付けています。</li>
+        <li>営利目的の運営ではありません。</li>
+        <li>古い見出しは、取得から7日で消えます。</li>
+      </ul>
+      </div>
+    </aside>
     <form id="contactForm" action="https://formspree.io/f/xeaowndg" method="POST">
       <label>お名前
         <input type="text" name="name" required autocomplete="name">
