@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T04:11:15.744097+09:00",
+ "updated": "2026-11-09T04:16:47.248046+09:00",
  "items": [
   {
    "id": "d3a23f6d70976314",
@@ -49,6 +49,16 @@
    "cat": "火災",
    "region": "県内・その他",
    "pub": "2026-11-08T19:07:37+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "6b0ed636efb01884",
+   "title": "洋学生かしたまちづくりへ発展誓う 津山市、中津市（大分）、津和野町（島根） 「三津同盟」５周年記念シンポ 発言要旨",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB3UGNRUGx6U3k4OExvWXh0SlF5TnBCZVgwNmdSQ2sxWVBDWHVYMnhWMVEwR1ZDSXNpb2lRMUhvWERUc0x2MFBaNmZQMXZCdWwxcWc?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "津山市",
+   "pub": "2026-11-08T18:52:37+09:00",
    "event_date": ""
   },
   {
@@ -139,6 +149,16 @@
    "cat": "催し",
    "region": "真庭市",
    "pub": "2026-11-08T17:49:46+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "44c7cabab9451cfb",
+   "title": "岡山県三大踊り「備中たかはし松山踊り」１４日開幕 高梁市中心部、周辺は交通規制",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zQl9qd0lLNXZzdWd1SUsxNVpackdfUTJ0UTd1cHJKTm5vWkNmZ3FPYjgtY3B0TGRFdDRIT2I5T3JfWGsyRklrRlNrRWZxN18tNFE?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "高梁市",
+   "pub": "2026-11-08T17:49:39+09:00",
    "event_date": ""
   },
   {
