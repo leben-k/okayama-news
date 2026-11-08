@@ -1,26 +1,26 @@
 {
- "updated": "2026-11-09T06:03:50.702484+09:00",
+ "updated": "2026-11-09T07:11:32.283984+09:00",
  "source_stats": {
   "Googleニュース": {
    "ok": 22,
    "ng": 0,
-   "raw": 435,
-   "adopted": 280,
-   "new": 13
+   "raw": 432,
+   "adopted": 275,
+   "new": 12
   },
   "Googleニュース(媒体別)": {
    "ok": 16,
    "ng": 0,
-   "raw": 811,
-   "adopted": 205,
-   "new": 11
+   "raw": 805,
+   "adopted": 209,
+   "new": 19
   },
   "Bingニュース": {
    "ok": 22,
    "ng": 0,
-   "raw": 66,
-   "adopted": 38,
-   "new": 20
+   "raw": 55,
+   "adopted": 31,
+   "new": 15
   },
   "岡山県(緊急情報)": {
    "ok": 1,
@@ -73,6 +73,16 @@
   }
  },
  "items": [
+  {
+   "id": "2d417a16a5412d0d",
+   "title": "小中学生５５０人が卓球で熱戦 岡山ユースアカデミーが開催",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSbTBqd1QyVDNQcl9Nd0NyY1pDWXJObnY2RHI1WHMtUG1JUUhGNFE5R2xDYkxJd0hKbGFOMVh2N1A5ZHV4Z3o5NEVzT1p2U3l4MXc?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-11-09T06:23:50+09:00",
+   "event_date": ""
+  },
   {
    "id": "2a103c539247b3ce",
    "title": "第52回大谷焼窯まつり開催！",
@@ -444,6 +454,16 @@
    "event_date": ""
   },
   {
+   "id": "7a1cf6aafc277df5",
+   "title": "音楽通して交流３００回 ７日、笠岡の三笠さん開催のコンサート",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tODFhOWowRzgxdlQ4eDBybHVNcURZRmZDS2ZOb2JQVXNKLXFUVy0wU1JCUGFaU2N5amI5dmtZcmpjSjVSOG5ieEVVZWFNclhDcnc?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "笠岡市",
+   "pub": "2026-11-08T11:48:32+09:00",
+   "event_date": ""
+  },
+  {
    "id": "f52b05ea0827c08e",
    "title": "【ホテルインターゲート広島】ワインの造り手とソムリエが来館！解禁したての日本ワインを味わう特別企画 1日限定イベント「せらワイナリー 新作ヌーヴォーナイト」開催",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHVVVIT2RJUHZXVmdnRzVncEhNUl9uSm5zRUFTUlJNR2JLYU55SmtBSXdYLVlWdFJKNXBHVFZuajJaT2JaODRkVlViWVRscGNlWHc?oc=5",
@@ -671,6 +691,16 @@
    "cat": "火災",
    "region": "岡山市",
    "pub": "2026-11-07T16:57:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "3bb8d08b1045eb3a",
+   "title": "岡山 倉敷 児島のデニムの魅力を伝えるイベント開かれる",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE05SlBiNGk4VXVCdEVqX0lrTTBpeS1Va2ZsRl81NUNlR2Y3dW9XSVpsUFhlTDl0YjdtcGpMS3RMTWd2OUp5bHd4TzZ1SnNNMWI4cElRVEdaMkwwdk5xRGlV?oc=5",
+   "source": "NHKニュース",
+   "cat": "催し",
+   "region": "倉敷市",
+   "pub": "2026-11-07T16:31:00+09:00",
    "event_date": ""
   },
   {
@@ -2724,6 +2754,16 @@
    "event_date": ""
   },
   {
+   "id": "1adbd05331b8f310",
+   "title": "大黒摩季、“最初で最後の”インストアイベントにファン殺到 豪華衣装＆「ら・ら・ら」の大合唱",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBNVEtM3kyeTMzNFJVXzZvWDlibEwzbDVnZ2F4elpiSlpsNzNUZ3VjeV8tcUdHYnlHbVJ2S3ZOTmNtSzlVeVlpUmp5cVBlMHJKQnc?oc=5",
+   "source": "山陽新聞",
+   "cat": "事件",
+   "region": "県内・その他",
+   "pub": "2026-11-04T18:57:26+09:00",
+   "event_date": ""
+  },
+  {
    "id": "8feb27e0c11ddb14",
    "title": "岡山市で路線バスと乗用車が衝突 乗客2人が軽傷 (山陽新聞デジタル)",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOd21GQWhhYU9LWVV1bWh6RTI0YzNpbllaQXJ0dlNNd2cwaVhiYUJqWVNvaGVIV2Y0ZVhwdURWLUFwdGZlUWpkZl9IOVlTS2hQOUp0ZlF3VnBXeDh4VGd0S3hYb3BoSnNzWlBoRjBkU1FBN3RBc2xBRmZMdjl3ZlV0dkw1ZDgyYnVzeTZIVHVn?oc=5",
@@ -2961,6 +3001,16 @@
    "cat": "事件",
    "region": "県内・その他",
    "pub": "2026-11-04T15:33:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "72a68c7e30c68c55",
+   "title": "国産ギーを使用したスキンケアブランド「TULAVEDA（トゥラヴェーダ）」ブランド正式ローンチ・メディア向け製品説明会を開催",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9fWG5ROEFkVmtmNW9QeERkRzdwT1EtRG9iaTVRR1ZpNUxDYXlheTI0blF4aG5HWWcxZ203Z0ZRZHNZcUlfTjdKUGwzel9fMy00Y1E?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-11-04T15:31:29+09:00",
    "event_date": ""
   },
   {
@@ -3564,6 +3614,16 @@
    "event_date": ""
   },
   {
+   "id": "8b02ebd48215cc16",
+   "title": "岡山 保護された犬や猫の飼い主を見つける譲渡会",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9VWFpJOWVaSktyenpZeG5CaXVCekZUR2pWX3J4ZjYtM2ZUcDBZTmw4OTBhR1J2ejlwXzhybFU3MVp3UnRydGwzenhxckM2ZE1jZFA2ekYwSTl3TmFFcV84?oc=5",
+   "source": "NHKニュース",
+   "cat": "事件",
+   "region": "県内・その他",
+   "pub": "2026-11-03T16:35:00+09:00",
+   "event_date": ""
+  },
+  {
    "id": "5225f0b84d2fdde1",
    "title": "五輪ソフト金メダル原田さん（総社市出身） 倉敷で〝世界の技〟伝授 引退後初の教室開催",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMGtjQ1ZEZTBKbzFLU3RlMU1VQXFVVFhFUXM4N3k3X2lHVHZYUk0wUjhXMHlEZWh5WnF1WnlYNWptMDFoS3FDTEUwQWl5Tjc2a2lIOU9lZ3JBX1lrYmVSOEM3NF9GU1B6cDYyNzFzR0RXM1hzNU9KaUJTUWl2anJXX094ZjM4dw?oc=5",
@@ -4031,6 +4091,16 @@
    "cat": "催し",
    "region": "倉敷市",
    "pub": "2026-11-02T17:30:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "17b129f6acaf2b4e",
+   "title": "津山 旧出雲街道の古い町並み楽しむイベント 岡山",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE54V3Z6clpEMDk2bDVDUkMtT240b1dWSjRwbTdFWE5RWkM3TnhsOUtKM0U1b0p2aVZ3c0Z6RjdFcW9VenptdUZmdmZCNEVud0x6X0pnN2pXMmE2X1RDN3N3?oc=5",
+   "source": "NHKニュース",
+   "cat": "催し",
+   "region": "津山市",
+   "pub": "2026-11-02T17:06:00+09:00",
    "event_date": ""
   },
   {
@@ -4551,36 +4621,6 @@
    "cat": "火災",
    "region": "岡山市",
    "pub": "2026-11-02T07:34:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "8a4dd05b53555641",
-   "title": "岡山で民家全焼 岡山中央署、放火容疑で住人逮捕【動画あり】",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5nY3NnME1jYzhqOGNsTjVxMlhEY3hheFZ4TlpIcHVPYl9QZ1lubUdONzFaWHNVeExuZXN0VUw1T0l2ckRUN2lVUEdQcGpKdUdvLVowOEJucDdCaDBRVjB1Sg?oc=5",
-   "source": "山陽新聞",
-   "cat": "火災",
-   "region": "県内・その他",
-   "pub": "2026-11-02T07:08:47+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "91e63a64cf49959f",
-   "title": "【速報】岡山市中区門田屋敷で建物火災",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE11d19OREtVcWlmMEFmalVLdTFyOExBa0JUWE1ERlEydUVKSFV5cGFwbUVfT2x4aWluVlVIbW5CR1VQNHp6VVJCVmtLY1NyZFRZZ3c?oc=5",
-   "source": "山陽新聞",
-   "cat": "火災",
-   "region": "岡山市",
-   "pub": "2026-11-02T06:59:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "27b69b740cabd804",
-   "title": "岡山市中区門田屋敷で民家全焼【動画あり】",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5lYnJlVk1OYkdlc3AyaTJkVV81dG9JUFFFUTV4U3ZNTkdBRmZjQmlsN3hweWhDMVFrTFdUZXFoNmtnM1V6bXE0WmRWVG9SVnF4LXhkM0RsVDczRV85RF9nb1FjMA?oc=5",
-   "source": "山陽新聞",
-   "cat": "火災",
-   "region": "岡山市",
-   "pub": "2026-11-02T06:59:00+09:00",
    "event_date": ""
   }
  ]
