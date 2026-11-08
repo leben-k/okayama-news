@@ -1,26 +1,26 @@
 {
- "updated": "2026-11-09T05:58:09.428132+09:00",
+ "updated": "2026-11-09T06:03:50.702484+09:00",
  "source_stats": {
   "Googleニュース": {
    "ok": 22,
    "ng": 0,
-   "raw": 436,
-   "adopted": 278,
-   "new": 12
+   "raw": 435,
+   "adopted": 280,
+   "new": 13
   },
   "Googleニュース(媒体別)": {
    "ok": 16,
    "ng": 0,
    "raw": 811,
-   "adopted": 223,
-   "new": 13
+   "adopted": 205,
+   "new": 11
   },
   "Bingニュース": {
    "ok": 22,
    "ng": 0,
-   "raw": 59,
-   "adopted": 33,
-   "new": 15
+   "raw": 66,
+   "adopted": 38,
+   "new": 20
   },
   "岡山県(緊急情報)": {
    "ok": 1,
@@ -34,14 +34,14 @@
    "ng": 0,
    "raw": 100,
    "adopted": 31,
-   "new": 31
+   "new": 20
   },
   "岡山県(報道発表)": {
    "ok": 1,
    "ng": 0,
    "raw": 100,
    "adopted": 53,
-   "new": 38
+   "new": 31
   },
   "岡山市(緊急情報)": {
    "ok": 1,
@@ -55,14 +55,14 @@
    "ng": 0,
    "raw": 30,
    "adopted": 21,
-   "new": 21
+   "new": 20
   },
   "岡山市(くらしの情報)": {
    "ok": 1,
    "ng": 0,
    "raw": 30,
    "adopted": 9,
-   "new": 8
+   "new": 7
   },
   "気象庁": {
    "ok": 1,
@@ -73,16 +73,6 @@
   }
  },
  "items": [
-  {
-   "id": "1c20ce0871ffaf5c",
-   "title": "列車追突で脱線、７人死亡 エジプト、百人以上負傷",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBIaE9FNUpwNFdYNXN1SkxxektWWUZIQWNWTnk2bmUzU3BZYUtoM3BlN1BmdDZRVUhOTlpuYUVUenNGSldqbzlETHprcDVTRHhXMmc?oc=5",
-   "source": "山陽新聞",
-   "cat": "事故",
-   "region": "県内・その他",
-   "pub": "2026-11-09T05:39:00+09:00",
-   "event_date": ""
-  },
   {
    "id": "2a103c539247b3ce",
    "title": "第52回大谷焼窯まつり開催！",
@@ -171,16 +161,6 @@
    "cat": "火災",
    "region": "県内・その他",
    "pub": "2026-11-08T19:07:37+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "db7b6b45979c5826",
-   "title": "事故遺族「当時を思い出し複雑」 尼崎ＪＲ脱線、保存施設見学",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45QnpIbWotRWc3bU9BajRMZnFBcWlKXzlLZTVEbWY5cXJhajYwMDNXZGZwNjZoNlpVSUdNQndqUlRMdlFoSTJ0YXd5MnU0TmhLREE?oc=5",
-   "source": "山陽新聞",
-   "cat": "事故",
-   "region": "県内・その他",
-   "pub": "2026-11-08T18:59:00+09:00",
    "event_date": ""
   },
   {
@@ -464,16 +444,6 @@
    "event_date": ""
   },
   {
-   "id": "07b9819e9856e8e6",
-   "title": "住宅火災２人死亡、親子か 茨城・結城、自宅戻ったか",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9YSWtSdTJiMHVhX3p4LXE5TUUycVhZVDNrUXZITmNGWnQ5czRLRlBYbHNKU3pWcWJtZGJkRVFlRnNmVzUxeGJJaVJ3M3VJcHExcTVoUjZJWkU?oc=5",
-   "source": "山陽新聞",
-   "cat": "火災",
-   "region": "県内・その他",
-   "pub": "2026-11-08T12:24:00+09:00",
-   "event_date": ""
-  },
-  {
    "id": "f52b05ea0827c08e",
    "title": "【ホテルインターゲート広島】ワインの造り手とソムリエが来館！解禁したての日本ワインを味わう特別企画 1日限定イベント「せらワイナリー 新作ヌーヴォーナイト」開催",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHVVVIT2RJUHZXVmdnRzVncEhNUl9uSm5zRUFTUlJNR2JLYU55SmtBSXdYLVlWdFJKNXBHVFZuajJaT2JaODRkVlViWVRscGNlWHc?oc=5",
@@ -524,26 +494,6 @@
    "event_date": ""
   },
   {
-   "id": "91f4b8ca04a54ffd",
-   "title": "住宅火災、焼け跡に２遺体 茨城・結城",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9aRmQ1cDQwRXhHMjN3ZnpEb0c1S2Z2NzAyNmpGcHVSTTBqY1gtVVdHX2RVcHg4ckRMZzdBV0FWa01JbFRINHZnaWdyR2dNeTZkdHc?oc=5",
-   "source": "山陽新聞",
-   "cat": "火災",
-   "region": "県内・その他",
-   "pub": "2026-11-08T07:26:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "571e2463fc79c6b9",
-   "title": "茨城で住宅火災、焼け跡から２遺体",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE16bVNkbUViZmVwM0w2OHJXd2RjOHJWRk1CcU9CRzFVTXVUOWpQeU92VjFBY1VNY1lXOEt4MW01Q2h2QVlhRlNISGUxUllyMEFvQkE?oc=5",
-   "source": "山陽新聞",
-   "cat": "火災",
-   "region": "県内・その他",
-   "pub": "2026-11-08T07:22:00+09:00",
-   "event_date": ""
-  },
-  {
    "id": "74c32858d2ee02bd",
    "title": "【叡啓大学】参加者募集！11月25日（水）第2回「ひろしまクロスイノベーションフォーラム」を開催します",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBcktFcXVNdWxOQUVjMmp4QXEtUW5fTW9JZmh5ai13RlBjWEVtVTRMNWk0OXJ6LUV3M25HVTFleGdJc1lZaTNzb3hZY1RmYnpEQUE?oc=5",
@@ -584,16 +534,6 @@
    "event_date": ""
   },
   {
-   "id": "8b01d9c2a90f94d9",
-   "title": "パトカー追跡の車が事故 １７歳男逮捕、名古屋",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NakxPdnhTZDVXMm54dXoxbjNpMGZRbWp0bWVBWjVOY3hzeFZNRmptQ01heC1wWkFoLV8xWHNFdzNkNm8wV3Q4V2NKb05Yb1lhWFRsUloxVzI?oc=5",
-   "source": "山陽新聞",
-   "cat": "事故",
-   "region": "県内・その他",
-   "pub": "2026-11-08T00:04:00+09:00",
-   "event_date": ""
-  },
-  {
    "id": "b4c6586a544814cf",
    "title": "秋空彩る大輪 高梁・成羽愛宕大花火（山陽新聞デジタル）",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50MEhlUl9xRFlUTEt6dTl6VVRFbk5Cb3hHTlFLVlh6dERpRnB2bnlWejhscHdnaTFCTElpc2RTb3JFOHpyWkFEYTh5U01mSkZZNl9VUGRUSHQxN1daaGo1VDBGRnRUUzB4Qk8tenByZmhoYXpCMFYtRUlpNEZvVW8?oc=5",
@@ -631,16 +571,6 @@
    "cat": "催し",
    "region": "井原市",
    "pub": "2026-11-07T19:31:15+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "f1bc5989d7ae89c6",
-   "title": "漁船から転落、５０代兄妹死亡 操業中か砂浜に座礁、茨城",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Nc1dzMU9SOXZhVXhYU1R6SW8zVDQ3OWxHR2tWaGhsUDVyaG43c0FyUDhCY25ORTRZQmk1MTZwYWlncWtOY25LZ0c1M1pjU29aaXc?oc=5",
-   "source": "山陽新聞",
-   "cat": "事故",
-   "region": "県内・その他",
-   "pub": "2026-11-07T19:11:00+09:00",
    "event_date": ""
   },
   {
@@ -834,16 +764,6 @@
    "event_date": ""
   },
   {
-   "id": "a603c7706480f182",
-   "title": "愛知で住宅立てこもりの男逮捕 東海市、人質の男性けがなし",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1IdGc3Tl9Cc3RGUmZPTU5RcG12aFVDSWQ3Y1hvZVZsbmpiQTh6S1NMMTVzVFNNRFktUTkwTFlubFY1VVhOLWlna2t2SXNUUkt6NEJ5X01Ib1dQdw?oc=5",
-   "source": "山陽新聞",
-   "cat": "事件",
-   "region": "県内・その他",
-   "pub": "2026-11-07T11:32:25+09:00",
-   "event_date": ""
-  },
-  {
    "id": "bfff6fe291389edd",
    "title": "コカイン使用容疑ＪＥＳＳＥ逮捕 ギタリストＣｈａｒさんの息子",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9BMVk5QXQ2TUNZSEVHQmNyNW95V254VllBNkJ3MmhvZ2ZGTDM1SEpuRjBzdEQ2dVJpRl9HdFV0V0JqeE1WZjJtQ2Q2WUl4M1FLMGc?oc=5",
@@ -914,16 +834,6 @@
    "event_date": ""
   },
   {
-   "id": "4bdbba98160a09e8",
-   "title": "滋賀で住宅火災、３人死亡 高齢夫婦と息子か",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1FZlFBVDZoMGFmNV9oOXdFaHk3TklPRWZCMldYRzBCRXgxcmFLYnZaWHRNM290TDRfcnFTUThvalY2dXktTkh0eTdpUko5V3VXaEpMMTNKaGMwYV82NVBSaEZucw?oc=5",
-   "source": "山陽新聞",
-   "cat": "火災",
-   "region": "県内・その他",
-   "pub": "2026-11-07T09:19:37+09:00",
-   "event_date": ""
-  },
-  {
    "id": "10f7ee431411d59a",
    "title": "国道で乗用車とオートバイが衝突 オートバイの男性が意識不明の重体【岡山】（RSK山陽放送）",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE85Uks5RmVQYzRRS0RKVEtqQjB3eTVkdVFtT3l6NEhzMlVxY1pMMnZFa1VrWVlCY0VvZndLdmF0MlNlS190MHMweDAzSkxJOTBzZGJKNWpHLUxkNG4wdTJ6ZnpEQ3ZEYkNPNGNDVkZFXzMtYXpiVWZocUYxTWdqVEk?oc=5",
@@ -941,16 +851,6 @@
    "cat": "事故",
    "region": "県内・その他",
    "pub": "2026-11-07T08:46:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "ee39417c584324ae",
-   "title": "滋賀で住宅火災１人死亡、３人と連絡取れず",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBPa0szTDFSbjFsV0lYSjh5SmE4NFQ2OWU5VkphQ2xjVFdBakNnT2hrYVpkVFFRdlRBbUVmaHhnOFpId0E0eDBWTS1Wc1ZEX0dBMmpMYnN4UnFmQmpfUjFN?oc=5",
-   "source": "山陽新聞",
-   "cat": "火災",
-   "region": "県内・その他",
-   "pub": "2026-11-07T08:17:26+09:00",
    "event_date": ""
   },
   {
@@ -1004,26 +904,6 @@
    "event_date": ""
   },
   {
-   "id": "341b0077ba1d5dbc",
-   "title": "酒酔い運転疑いで交通課警官逮捕 秋田、同僚と飲酒後事故",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZaFBCbXhRekJoT1BOZFlWVEhrOG5MSklqR3htRDdOUDV1ZV8zbDRzVDhPNmFiT1k5dXNlLVg5UTFmUzNYcW16Wm5FN2hnTTZmcWc?oc=5",
-   "source": "山陽新聞",
-   "cat": "事故",
-   "region": "県内・その他",
-   "pub": "2026-11-07T00:30:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "deaad6c00d62dba7",
-   "title": "飲酒運転疑いで秋田県警の巡査部長逮捕",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9fcF9HWFp0aFRCRU94aU8tM2hkeEpYRDY0QzBDbHBzaWtQTXBIX3FETl9wcTBmbzAyZl9BeWNKc3lKNldxeHE3NXphQWl0WWFmTHc?oc=5",
-   "source": "山陽新聞",
-   "cat": "事件",
-   "region": "県内・その他",
-   "pub": "2026-11-07T00:03:00+09:00",
-   "event_date": ""
-  },
-  {
    "id": "5b700c5099b55465",
    "title": "『Paradox Live』初の映画、2027年公開 イベント、新曲MV、コラボなど情報一挙解禁",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81ZFY0aFBQZjJNU0FobFJVdHhjR2JkYVdPcFhudWZQdDBBZWp3MUlROGM0SjZ1RHZUZU02Rnk1Mks0aDlhV0F0U29MenoydFpWSVE?oc=5",
@@ -1054,16 +934,6 @@
    "event_date": ""
   },
   {
-   "id": "6c7043cd7647f95b",
-   "title": "戦車事故、砲弾残留物が原因か 大分４人死傷の爆発",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9TZHBBRUFkZ3JuQlNvb0hWMDR2QzZJUjhiZjdGNERsM0Z0OWY2azFkUGNTRGNBSkUtRWV4X25BZHN3ekRzZlZhRV9Gdms3aG1ZZkE?oc=5",
-   "source": "山陽新聞",
-   "cat": "事故",
-   "region": "県内・その他",
-   "pub": "2026-11-06T20:50:00+09:00",
-   "event_date": ""
-  },
-  {
    "id": "1618cf146cfa1a44",
    "title": "《おかやま秋の収穫祭 地産地消マルシェ2026》11月15日(日)開催。人気の農業イベントに登場する「マルシェコラボメニュー」を紹介！ vol.1【PR】",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE44Mkxack4tTnVEVTNVWEJpNkpKYURSWmVEdl92dnF3VjRIV0dQSVVLa20xM0NuNUxnRFE5c3NtM2NlWlJuMHQ2eEcycGpXX0VBSFVGTklkeDBLUmJnelE?oc=5",
@@ -1081,16 +951,6 @@
    "cat": "催し",
    "region": "高梁市",
    "pub": "2026-11-06T20:10:02+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "d4566cfe53327794",
-   "title": "大分の戦車暴発事故、砲弾残留物が原因か",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YZ0ZRcHpDcEo2SVRvQUhQdlZJZWx3Q2czZEFZVm1aR25Pc0lOTUdqcnhmUHR2UDNaQ1pScEJjVHFqdUc1U2V2dDdTemNEYzF5dS0zZF9xeFFodw?oc=5",
-   "source": "山陽新聞",
-   "cat": "事故",
-   "region": "県内・その他",
-   "pub": "2026-11-06T20:10:00+09:00",
    "event_date": ""
   },
   {
@@ -1151,16 +1011,6 @@
    "cat": "事件",
    "region": "県内・その他",
    "pub": "2026-11-06T19:30:30+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "5a0ca86d388af95f",
-   "title": "電動車いすの高齢女性死亡、愛知 トラックの男逮捕",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAyc3g5STZ4RXhBY3YxandHR1NvRW9SdW9qdlJBTTZ5ZzVFQWl3c3J6N1BqbnI0cWpZMTBZTDM4eWE2Qll0WXlLQ29hbFR3ZmdMWmc?oc=5",
-   "source": "山陽新聞",
-   "cat": "事件",
-   "region": "県内・その他",
-   "pub": "2026-11-06T19:19:00+09:00",
    "event_date": ""
   },
   {
@@ -1511,16 +1361,6 @@
    "cat": "事件",
    "region": "県内・その他",
    "pub": "2026-11-06T15:54:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "48b67f55b41050f9",
-   "title": "首都圏連続強盗の２人に無期懲役 横浜暴行死事件の実行役",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xVDRiRlVNSmxtd3JmSWl4QmlFdVdPUFZaWTVJdVVjaEl2ZUJSVE5ZRTd1dW9NYjBqSG05TXNRakZ4WDlMb2ljS2RFdVM1R2htckE?oc=5",
-   "source": "山陽新聞",
-   "cat": "事件",
-   "region": "県内・その他",
-   "pub": "2026-11-06T15:44:00+09:00",
    "event_date": ""
   },
   {
@@ -2051,16 +1891,6 @@
    "cat": "事故",
    "region": "笠岡市",
    "pub": "2026-11-05T19:13:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "b446d429daff5d32",
-   "title": "【千葉】ららぽーとTOKYO-BAY、大規模刷新 全体で約600店舗／屋内でスポーツ＆エンタメイベント対応へ",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5WcWNkMTdwVnY1QnJFOWtnS29UQ2xaX2lzUkl1OEpHWXN4ZFhHWDlJcEllQ3RJb0s2UnpYcTd3UncxMlR2dXN4SGs5ZlJ6RDRqcXc?oc=5",
-   "source": "山陽新聞",
-   "cat": "催し",
-   "region": "県内・その他",
-   "pub": "2026-11-05T19:03:13+09:00",
    "event_date": ""
   },
   {
@@ -3454,16 +3284,6 @@
    "event_date": ""
   },
   {
-   "id": "b0ae3acd4be8eba3",
-   "title": "スペイン運輸相が辞任を表明 列車事故受け、野党から批判",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xcUpGcS1kUzVDcUtDc3lxd1NabkMtYzdNdVVFWThnNkZhVjRYUjM3ek02NjZTZVprUGNhQUs3SktDRE9WTFctcXFUVXFRZFY4NVE?oc=5",
-   "source": "山陽新聞",
-   "cat": "事故",
-   "region": "県内・その他",
-   "pub": "2026-11-04T08:43:00+09:00",
-   "event_date": ""
-  },
-  {
    "id": "96002fee8abd4578",
    "title": "秋の夜空彩る5000発 7日、浅口市制20周年記念花火大会",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9KRU5ZcnNJOTFESTQ4OVRJMGNCaVUzbWpoSjZIalc5NzZMMElxdHBLSFl4aFB5NGc5NnExdlN5TG1BY1BoWF8wblp4bjFpQWFjY3gyMmxXa2NpQWlnWnB6TjJvek9sbUJkWXYtZldMajhpd2VMY2c?oc=5",
@@ -3511,16 +3331,6 @@
    "cat": "災害",
    "region": "県内・その他",
    "pub": "2026-11-04T07:45:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "e6ec4cb81a48845d",
-   "title": "スペイン運輸相、高速列車事故で辞任表明",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE92R295NEQyYUNZTzZsZVl3dmh0QzJVQlhUY2F4M2JKc2xvalB3MTQ2TVc4d0VOcThmTHJlS3VraGhFRUxCNjRWX0dzaEZuVU5FQ25YMzhIa2k?oc=5",
-   "source": "山陽新聞",
-   "cat": "事故",
-   "region": "県内・その他",
-   "pub": "2026-11-04T07:37:00+09:00",
    "event_date": ""
   },
   {
@@ -4681,16 +4491,6 @@
    "cat": "火災",
    "region": "岡山市",
    "pub": "2026-11-02T08:33:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "f66b74921fb998e7",
-   "title": "滋賀の住宅火災、さらに２遺体発見",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9OdEdsZG54YTFWZmRTa0ZpTXhuYXN6MmxCY0hiNjZIT3RaUGxrRktkbGpWZ1RTR1pfOE94OGhHc3diS3VxbmhRVVhyQUx0RHlfUy1kMFhNYkFlaG9NSGNhT1NaUXp1ZjVrSE8xRHE3TUlyeGdBaTNyX2xJSGl4QQ?oc=5",
-   "source": "山陽新聞",
-   "cat": "火災",
-   "region": "県内・その他",
-   "pub": "2026-11-02T08:21:00+09:00",
    "event_date": ""
   },
   {
