@@ -1,26 +1,26 @@
 {
- "updated": "2026-11-12T00:04:12.420747+09:00",
+ "updated": "2026-11-12T06:52:17.703886+09:00",
  "source_stats": {
   "Googleニュース": {
    "ok": 22,
    "ng": 0,
-   "raw": 387,
-   "adopted": 213,
-   "new": 20
+   "raw": 383,
+   "adopted": 204,
+   "new": 13
   },
   "Googleニュース(媒体別)": {
    "ok": 16,
    "ng": 0,
-   "raw": 820,
-   "adopted": 198,
-   "new": 26
+   "raw": 813,
+   "adopted": 184,
+   "new": 8
   },
   "Bingニュース": {
    "ok": 22,
    "ng": 0,
    "raw": 52,
-   "adopted": 30,
-   "new": 16
+   "adopted": 27,
+   "new": 13
   },
   "岡山県(緊急情報)": {
    "ok": 1,
@@ -34,14 +34,14 @@
    "ng": 0,
    "raw": 100,
    "adopted": 25,
-   "new": 14
+   "new": 12
   },
   "岡山県(報道発表)": {
    "ok": 1,
    "ng": 0,
    "raw": 100,
    "adopted": 51,
-   "new": 29
+   "new": 27
   },
   "岡山市(緊急情報)": {
    "ok": 1,
@@ -67,9 +67,9 @@
   "気象庁": {
    "ok": 1,
    "ng": 0,
-   "raw": 3,
-   "adopted": 3,
-   "new": 3
+   "raw": 2,
+   "adopted": 2,
+   "new": 0
   }
  },
  "items": [
@@ -701,6 +701,16 @@
    "cat": "催し",
    "region": "県内・その他",
    "pub": "2026-11-11T06:22:22+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "ff2701e5752b937c",
+   "title": "LUNA SEA・INORANの教会ライブが開催決定 ソロ活動30周年の幕開け、新たな音楽表現に挑戦",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVm9zQkRIMXlSOGgtRGVVdjVFNzNOWFZHc0xVSWNIdld3ay1GV2pNMUxRcE9WTXpXMDVsb0Ixc3ZWd1E3MjIwa01yMnZUZ1Z1bkU2cnlGNEdwLXc0cml6dlBnR0hlQ3Viam9HRkl5ZmZ5dWx1b0VvWTFXOHU2dF9tQVhMRERWQUw3UE5HQXRPWFp4Y3kxMExXMkVWbWI1aDVudjJ2d0h6NnN4aG9oNDlUenlhcS1NVng5UWk1cjlCTGNyaUtfa0sxb1VDMlBWZmFZT2I5Vlg3ZjhOMUNCRXBXWnJXSUg?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-11-11T01:12:11+09:00",
    "event_date": ""
   },
   {
@@ -2324,6 +2334,16 @@
    "event_date": ""
   },
   {
+   "id": "39905124ed908dd2",
+   "title": "無病息災願って獅子舞を披露 岡山・御津公民館で祭り",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45Y3d0UUx2QVFJQmhWUGdlam55WGVDanFUNk1CUWxhOE9majJPaHVQMEIyLTcxWkFiS0tWWXp3Z1ZieUI5TzgyNFp3NXRzRV9FZGc?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-11-08T18:26:34+09:00",
+   "event_date": ""
+  },
+  {
    "id": "f941d97dae0a80a6",
    "title": "重体の５８歳男性死亡 西大寺会陽事故 死者は２人に",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB4Y2hCZV85c3pFb1JDbG96MWxROWdLWWkyNzRzbnZFUHZXckhRQ3p2V05kVFJ5WGt3Mkpzd3NoQndzLTdDOFQ1c2MtZkV0MGQ4bVE?oc=5",
@@ -3800,6 +3820,26 @@
    "source": "山陽新聞",
    "cat": "事故",
    "region": "笠岡市",
+   "pub": "2026-11-06T17:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "abb03e528ba7970a",
+   "title": "豪雨、台風被害の千葉・佐倉市へ 総社市職員２人と救援物資派遣",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xRlJpMTEtTEN5T3hWVkhMTE80SVhZNmU2dmRCd1dJWFF3X0ZVano5cklKd0FlQ0tJSm9tWDYyRkJYdFpxZ0toYWJ6dDgwY014UXJLbkRDWDBPTUxFd1VtZ3lTQjM1b3c?oc=5",
+   "source": "山陽新聞",
+   "cat": "災害",
+   "region": "総社市",
+   "pub": "2026-11-06T17:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "66986039b219cc2f",
+   "title": "中山（総社市出身）２大会連続選出 ハンド女子アジア大会代表",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ocGFhdUVJMGR1YkV2WVZEbVNhODRrdnVfdHNIYzNBdW1ZUnB2S3lfLWEzb2JuTDBhNWcwYVdDaTJUR1YzVUVQYVVaQTJxVlNpMXc?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "総社市",
    "pub": "2026-11-06T17:00:00+09:00",
    "event_date": ""
   },
@@ -5401,56 +5441,6 @@
    "cat": "災害",
    "region": "美作市",
    "pub": "2026-11-05T07:33:42+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "6a899619470dd813",
-   "title": "【事件】福山のコンビニ駐車場で強盗傷害疑い、岡山市の男ら5人逮捕 福山西署（中国新聞デジタル）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FNktFZW9ON1lrRm5WS2xDZDVVZm5oZlBTYnZ1WUpYZ0Fya0c4b19aWVZfay1KbkxQZV9ac3ZKamJGWHdneGQ1ZldjMjhDVGQ4ZGoxTUlyY2NYT3RYcVVtell0NldrQURpWkJoUXZSOF9ZX2JtQ1c3Wk5UXzBVb3c?oc=5",
-   "source": "Yahoo!ニュース",
-   "cat": "事件",
-   "region": "岡山市",
-   "pub": "2026-11-05T06:33:30+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "93600553e1ae5041",
-   "title": "岡山：おかえり巨人待っとったよ 倉敷で来年９月公式戦 豪雨の夏以来 当時小６高本さん「ワクワクする」：地域ニュース",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5QajFNeUh0Tkd0eTl4UUd1Zk1KWWd5QWdiUDFJdUZ0WUM2ZkplaFoxdmFCQ2FER0FXUi15SmhjZGE2TkNYLXQ0c2xYb2hxX3VrWVpVTnYxYmZCRk1US21keW1aU2tLME9taDVIZnl2Qnpha1U?oc=5",
-   "source": "読売新聞",
-   "cat": "災害",
-   "region": "倉敷市",
-   "pub": "2026-11-05T05:00:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "db54d6552154e596",
-   "title": "福山のコンビニ駐車場で強盗傷害の疑い 岡山の男（21）ら5人を逮捕 ...",
-   "url": "https://www.fnn.jp/articles/-/1146370",
-   "source": "FNNプライムオンライン",
-   "cat": "事件",
-   "region": "県内・その他",
-   "pub": "2026-11-05T02:59:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "1326966449386646",
-   "title": "【事件】福山のコンビニ駐車場で強盗傷害疑い、岡山市の男ら5人逮捕 福山西署",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WenBlbXZMcXlaUFRCSWNCelA2YmdKc1NkbEo2aURyNFBxeTZLUjhVanY0Tk9mNE56cGFXR2hvMXc2X0p0VDg4N2FicHplNUNuTlpjelYxcW1WQQ?oc=5",
-   "source": "中国新聞デジタル",
-   "cat": "事件",
-   "region": "岡山市",
-   "pub": "2026-11-05T00:37:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "0176df581898bb52",
-   "title": "【事件】福山のコンビニ駐車場で強盗傷害疑い、岡山市の男ら5人逮捕",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9heG5mdUhBaEV1VVVCZ0cwOXhrUDlDMWVmUXY5bnBxQXFVOXN5NmZmZVoxRjVfc2I5VUdpWFBPSGJvNHhyQ2Q5Rnptbw?oc=5",
-   "source": "47NEWS",
-   "cat": "事件",
-   "region": "岡山市",
-   "pub": "2026-11-05T00:37:00+09:00",
    "event_date": ""
   }
  ]
