@@ -1,25 +1,25 @@
 {
- "updated": "2026-11-11T09:33:25.176709+09:00",
+ "updated": "2026-11-11T16:01:56.311030+09:00",
  "source_stats": {
   "Googleニュース": {
    "ok": 22,
    "ng": 0,
-   "raw": 408,
-   "adopted": 235,
-   "new": 14
+   "raw": 403,
+   "adopted": 228,
+   "new": 30
   },
   "Googleニュース(媒体別)": {
    "ok": 16,
    "ng": 0,
-   "raw": 821,
-   "adopted": 191,
-   "new": 13
+   "raw": 830,
+   "adopted": 192,
+   "new": 32
   },
   "Bingニュース": {
    "ok": 22,
    "ng": 0,
-   "raw": 57,
-   "adopted": 35,
+   "raw": 52,
+   "adopted": 30,
    "new": 16
   },
   "岡山県(緊急情報)": {
@@ -74,6 +74,336 @@
  },
  "items": [
   {
+   "id": "249e010c42c7d466",
+   "title": "地震による複数災害を想定し訓練 岡山市消防局が秋の全国火災予防運動に合わせて実施",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1INGk2N3VfWF9pcHZ0N0QwQnVxN3pvMlJnSlZ2c29wVWc2Q3VSRmItVTN4SE1lcXFZU2EtWGx5b1FVblliU1QxTVl2ekV3d3htNkJnWXU2TE8?oc=5",
+   "source": "山陽新聞",
+   "cat": "火災",
+   "region": "岡山市",
+   "pub": "2026-11-11T15:57:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "51e4e8c1887ebfb5",
+   "title": "江戸情緒残る町並みがアートの舞台に 26会場で作品展示や手仕事体験 14日開催／岡山・津山市",
+   "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQcVRkcWxLX2NELTU2VW42Ym8xSHlQY0JLT2IyTi1VVVZGODZ6MDNiX29MN2lYOW5SMzdDWnpvS21tV1B5WU9oZi16a1RCOGlsNVFXdXhvZUxYZzNycE01Tnk4OFNXRlRjZmRRUWJRQWEwT0RiV0hmOV9NQ1FGVWcwTlBXODRyX3hNZnVadjZGQWVHN1FHU1M0d3dUTzQyUVIzVldTdXlNSFNxcWt6R3EzUzk3bFNZdE1oN0tJT2VPWTk0djRLeGtYMWRja004YU9uQnR3TXYyS2REdXd3TEpsVDI4Zy1LcEFGZ2h1a2tJenozYzZldUFDblBXeUNXY2JGZFI4NWhCc1JmSG9PUFZ6eUFkMnZIVmh6ZkdPTmJBdGVESFR5Rzl4SXRMNnBRNUVCaUoxd0g4d3JuUS1lUS1xS05aUHhHQ3JaNVEzUA?oc=5",
+   "source": "津山朝日新聞社",
+   "cat": "催し",
+   "region": "津山市",
+   "pub": "2026-11-11T15:53:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "9359fde6189baa59",
+   "title": "大麻を使用した疑いで会社員の男（28）を逮捕 岡山",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBrdlA4MW9ncFNlZVl1cmhWb2Fna19TQWMtOGl5NkpEc1kxTHk2VXZLUTVEaENkd0g5alJ3dXExYlM2YUNhOHFjblZQejlneVJC?oc=5",
+   "source": "KSBニュース",
+   "cat": "事件",
+   "region": "県内・その他",
+   "pub": "2026-11-11T15:51:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "e06e43f883cd644b",
+   "title": "備中松山城の猫城主「さんじゅーろー」の作品が大集合 「さんじゅーろー文化祭」開催 岡山・高梁市",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5rakhWOENnOEpzWGVsOEZIOXRmNmc1T0dXWmM2bFB0NWEzbGZjSlVJbDRDbXM5UTNqVElzSWxSNy1DRkxzQlJEdXRsSkljeXZT?oc=5",
+   "source": "KSBニュース",
+   "cat": "催し",
+   "region": "高梁市",
+   "pub": "2026-11-11T15:49:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "32cdf4a7cb623151",
+   "title": "ホース窃盗の男を最終送検 岡山県警（2026年11月10日掲載）｜RNC NEWS NNN",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdXl3dDRPMlVhS19DNDZtdkRYdkRTS3hveG5qU2l5TDQ4Y2V2U2Z2YThneUhJdGduR3pqODJJVUFoRDJuZy1Uc1hhaEFwXzRxSWtObGN6WVJnZ1IzZVNCcHVwQTZDbW9oSk1UT3lkSEwzaFpCdlNXRUcxLXFqTzJNRGdoSVNHWjg?oc=5",
+   "source": "日テレNEWS NNN",
+   "cat": "事件",
+   "region": "県内・その他",
+   "pub": "2026-11-11T15:37:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "8c9b88239cd6c7a9",
+   "title": "ネパール人専門学校生の男を同種容疑で再逮捕 岡山市の路上で女性にわいせつ行為をしけがさせた疑い 男は容疑否認",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE94UVZDd182R3AzWXpoZ0dwZERLMmJYVjB3ZDkxcVhINWZtUjJKaV93eXVyT2czYWF1NExUMDd5RWNoMHFwdmtHdGZ5TGtLRld1?oc=5",
+   "source": "KSBニュース",
+   "cat": "事件",
+   "region": "岡山市",
+   "pub": "2026-11-11T14:59:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "c59bafda881ba83a",
+   "title": "USJ、「年間パス・グランロイヤル」限定のパーク貸切イベント開催 SPプログラムも【概要＆申込条件】",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5FNHl0dUczbTduUkp2YjJDZVlFdHNUYTNMX0hIRTRncEJTdmppbFR3RFVTMWdGUU4yd2YtMTFvZ0Rlb1BrN3lieE1udWJtT2Iwd3c?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-11-11T13:56:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "1affb54c4c032836",
+   "title": "消防ホースの筒先窃盗疑い 津山署 男を最終送検（山陽新聞デジタル）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HR3FzWEdIY3VGa1B3UzltUXgySU0zQlcxNk9VQTR2VUZKLXMyLXJSWWNKdGN4b3FuNWxKWnIyWHdfTzB3clk5dWp4VG5rNmRndDY0Wm5QX0NLSTJfeFlKWHFBWGpBbE5xa3A0TlpQQkFXNFRIZGJZazEycmw1QUk?oc=5",
+   "source": "Yahoo!ニュース",
+   "cat": "事件",
+   "region": "津山市",
+   "pub": "2026-11-11T13:42:58+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "40a7eed24e521887",
+   "title": "「防災局を岡山県に」伊原木知事が細野豪志防災大臣に提案 自然災害リスクが低い、交通の結節点であることなどが理由",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBmTjIxNm5wcjZBSmdYXzJQLUNzeGRrTlJYZ0ZrOG9Lcy1veTFvdG1CNF8tMlljRDAyNUJtRFpQZE0teUduUGNrSGhwLXRDWkxfWng0MUl3VVBGc1N4Q1RtY1EydV9YTGExSS1xNlJB?oc=5",
+   "source": "au Webポータル",
+   "cat": "災害",
+   "region": "県内・その他",
+   "pub": "2026-11-11T13:32:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "dc1e0c54827253c0",
+   "title": "年末の食品ロス削減は冷蔵庫の見直しから。片づけパンダが全国どこからでも参加できる「年末 冷蔵庫片づけ3日間チャレンジ」を12月15日からオンラインで開催",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DRkVnemZQeTVmbl9BYlUybEF1MWVKTmd2ZjNnZEJYenBOMTZjNExDMjlRbmNYcEwyMWNQdUNxS1pJT1JuZkRVRXhSWnJ2RXlJRFE?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-11-11T13:31:00+09:00",
+   "event_date": "2026-12-15"
+  },
+  {
+   "id": "4ceb8d0347e0103b",
+   "title": "大麻を使用した疑いで倉敷市の会社員の男（28）を逮捕【岡山】",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4xQlV6dmk0aFc4REJSWDVfaHJEYzFNMXpsVmVIclk2YW9Fc1JPQll4a1J5c3VwOVZyS3VXSzU1c3NINFZFSzliSWFRajJDUEZDdGhsSS1KUFF1X3psMldyVnB2RVNlOGVHV2JGakswWS1aQlZB0gF0QVVfeXFMTjFCVXp2aTRoVzhEQlJYNV9ockRjMU0xemxWZUhyWTZhb0VzUk9CWXhrUnlzdXA5VnJLdVdLNTVzc0g0VkVLOWJJYVFqMkNQRkN0aGxJLUpQUXVfemwyV3JWcHZFU2U4ZUdXYkZqSzBZLVpCVkE?oc=5",
+   "source": "ｄメニューニュース",
+   "cat": "事件",
+   "region": "倉敷市",
+   "pub": "2026-11-11T13:29:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "e80a03037081601f",
+   "title": "海とまちを楽しみ暮らし 岡山県と香川県が連携し東京で移住セミナー 12月12日開催",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBWaHBLaEdPTTNBS29TVi1KaGExU2J6OGdxVzlWZFZpQ1BxRDVBQkJ4OS0tNF91YTExeUpIb2pIdGp5VXNxVVVqc243ODVtY2tH?oc=5",
+   "source": "KSBニュース",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-11-11T13:26:41+09:00",
+   "event_date": "2026-12-12"
+  },
+  {
+   "id": "91b4599f8e771b58",
+   "title": "消防ホースの筒先窃盗疑い 津山署 男を最終送検",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9wTmpoSmVkZjU1UEM2VXZRRnBzWXRUUkxON0dmcEZJRUNISFR5dkZYOC1GdGpwRmpHUmFxbkwyTHJUQ1pOajhaaFdWQnR5UVoyZ3pGY2Z4YUU?oc=5",
+   "source": "山陽新聞",
+   "cat": "事件",
+   "region": "津山市",
+   "pub": "2026-11-11T13:02:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "7d228d0aa734e682",
+   "title": "しなこ、「私の大好きなラブリっちだ～!!」と大興奮 竹下☆ぱらだいすと“たまごっち”探しの街歩きを体験",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNazB6NXdjYW81bHFteVFjNGNvOWdRZjhuMG85dEdUbFQwNTU3eFdTUmF0VzhDWTlvLXBaZFBHVkNtNDRlU2NBenNEV1BtLXZzZENSUHRKZnZ1WU0yMm5sRklDSU1POExH?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-11-11T12:40:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "b7f16671391748ef",
+   "title": "高級腕時計窃盗疑い男逮捕 中野ブロードウェイ",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00aDdFVnFXUldRV1dqSklIeDZKR2Q4N05NTUFjOWkyWGtzaGRCeXI3SklIR2NxSWo3eTFsN1NvbFFkTXdCcVdSRXJzWFdXbWNQOWlWTU1jcXFKOHFSbW1WaHpvQTlPVG0zMEoyVw?oc=5",
+   "source": "山陽新聞",
+   "cat": "事件",
+   "region": "県内・その他",
+   "pub": "2026-11-11T12:39:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "b30a0d99cbe18d0d",
+   "title": "【11～12月開催】12月1日「世界エイズデー」に合わせて全国から多彩な企画が集結！「TOKYO AIDS WEEKS 2026」イベントラインナップ発表！",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBpbmNYTFNScmc3TnNwZ2FQR0liNTRWelU4WWhjM3VYcUs2clZfV0JCS0dublVyTlVuU19TNnpBcEFUMmhTX21WeEdjZmhGcmpDRHc?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-11-11T12:27:00+09:00",
+   "event_date": "2026-12-01"
+  },
+  {
+   "id": "38e1e2b30a8b44b7",
+   "title": "「ルフィ」幹部、一部を否認 広域強盗指示、渡辺被告の初公判",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0zVlZEVTZ6eUlZZEhQcVZRRm45dVlDS3dsZ0tMaS0wTmVtNWdVQWRVQVNXMkluUndqRlRLUWM5TVJDYy1HZVVxX1FBcnBGcXhGV1E?oc=5",
+   "source": "山陽新聞",
+   "cat": "事件",
+   "region": "県内・その他",
+   "pub": "2026-11-11T12:24:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "f2f523cf811e167e",
+   "title": "大麻売買疑いで男逮捕 ブレイキングダウン出場",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tSlJIem9YU2lDOG5kdzJDZjhnRXRSQTdIdDZvLV9FcUFZS0RmS0NVMzNodHBLVkNXemMxTExCb2kxMzdXOG1xTnBDMU44V0M1bjB2OVNTS3Blc0E1LTVTc1ZGcHR5UFdXcUQwOA?oc=5",
+   "source": "山陽新聞",
+   "cat": "事件",
+   "region": "県内・その他",
+   "pub": "2026-11-11T12:21:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "eb502eb7761c7b12",
+   "title": "中野の腕時計窃盗事件で３０代男を逮捕",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9uUU9zT296RjFxUER1YzJiLWFDN3d3eXBTalRnTlpueFFEcDRFTGtPanJmY29IZnhiRG9leFhjMEVxOG9WQUplVktXVHoxMWoyMVJPUGxXMGJaVTE1MzlDdS1vbUo5NVU2bnRPSmhicnUyTjcy?oc=5",
+   "source": "山陽新聞",
+   "cat": "事件",
+   "region": "県内・その他",
+   "pub": "2026-11-11T12:16:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "a764897293c9fc8b",
+   "title": "岡山県真庭市の寺で「四季桜」見頃 23日まで一帯でまつり（山陽新聞デジタル）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RRlkyY3hNTE1jRTY2MXpMdTdxSUdsRGVaUDBrLU9QQWtMQkRISUVmTHBqd3kyMkpIYWFiblg2ZGJhUzRHdUQwRzJzam0zdjJBZ2tadnRsbzdWblJLZ1kyRThXVi1hZkhiSDh3MTQ5ZUo1N1M2YU9aTm5BLUg4QW8?oc=5",
+   "source": "Yahoo!ニュース",
+   "cat": "催し",
+   "region": "真庭市",
+   "pub": "2026-11-11T11:58:55+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "620b79d299b9422a",
+   "title": "「キリングッドエール」体験型イベント11・20から4日間開催へ 綾瀬はるか、大森元貴、浜辺美波、鈴木亮平のグッズ配布も",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rTWJiRVJaWUdtTmhxenVNQ0pHVEozUGpxYlEzLTJ2ZXdNckcyS05NZ25HQmQwSUthdUE5cUwxOFBUVmhuLWM4NWR6Q3NQbmtxS3c?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-11-11T11:41:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "ead0d92fe489de27",
+   "title": "紅葉と多彩なイベント楽しんで １４日から津山城もみじまつり",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Celo0WTNuX281bXIwcVF2aGVJNGU3T3pBSnRZbkxjdEMtUlY1d1ZDVEhkd2w1djFPN2dqY1ZwX21kWjZDemQySS15aWdyWUVRaVE?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "津山市",
+   "pub": "2026-11-11T11:33:11+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "e0f3e63042c7a2e5",
+   "title": "「おかやま秋の収穫祭 地産地消マルシェ２０２６」１１月１５日開催【岡山】",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWk83aWtjeVJuYVpvVUhaQnA1QURkT01aWGNuUGlQNEp4WkhIdkt0TmRBdWRtNDM2cXg2RERnTmdBY056eFo4Nmc5U01UMnA1YkUtUTZCQkcxU25PcEdkOHVoOWdhLUQ0WG42aXI3TWgxNm92eEJpVkVkRUZQd2diZFlONXFFN2dpeThmOFU0cThiSHpMY29HTno2VlRYOTA1VjIzS0t3TW9wVkNleXZBY1lSWWxJck9INHUwbldGWDV2d9IBckFVX3lxTE9RUDhaQUdsMFBQLThwQWx2NU5QTUpab2kwMGFBLTJERzF0MnNkV3NEd184U2NXQm5md1c0eTZWdlE1MHpPMENwby1CcUY3LXVSSmI4MlFhWHdmSnB4b3lUWENRVGRfZUllVmpJajU1RllwQQ?oc=5",
+   "source": "ｄメニューニュース",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-11-11T11:30:00+09:00",
+   "event_date": "2026-11-15"
+  },
+  {
+   "id": "d3decfce0e00dc81",
+   "title": "新米「こしひかり」を格安で販売…天満屋岡山店で「吉備中央町フェア」開催【岡山】",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4wWFNXNlJENXUwQnZZRlJPWWZDVXNxaElzbEl1YWxubjBDZGN0WXB6cnZKbHRZUXg5blFPWFAtY3pudHBUZmFWZGVyTFNTOVR3?oc=5",
+   "source": "OHK 岡山放送",
+   "cat": "催し",
+   "region": "吉備中央町",
+   "pub": "2026-11-11T11:25:44+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "3d7beee1ab9b0300",
+   "title": "「ルフィ」幹部、一部を否認 渡辺被告、広域強盗事件初公判",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE50dFF6M2phaGtOTkdwU3RrZG1Bd08taTVfcHYtcWd5QTQ1aElFQ3JDUmxjVEJVd0RPakJnWkVBVlBGM2dqU0UxVHdma1RqOUZkNjJldmFGaXg?oc=5",
+   "source": "山陽新聞",
+   "cat": "事件",
+   "region": "県内・その他",
+   "pub": "2026-11-11T11:19:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "04ff96007c81f041",
+   "title": "ふぉ～ゆ～、パンツ姿でデビューイベント 約550人の「おともだち」の前で約束「大きなデビューという花を咲かせていきたい」",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Zc0paQVZrZE1hdGVWOVdVWHdfQmY4dmZPb3FjNjludUJBOFdhOHdIWkVjc1Nvb2JpUWxxVHhxMTYtOTJjTVhwaGU5MlEyMXoxZUJvMTFWMUQ2ck5PSWN3WGRPWmE4ZWJX?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-11-11T11:03:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "95840889b95a74ac",
+   "title": "TDRスペシャルイベント「ディズニー・クリスマス」、きょう開幕 TDLでは新たなパレード＆TDSでは“25周年”のXmas装飾",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mWUFpdFZpY180S1BLeHZfMWRXOS1SbVQ2Zkk4VFEzSEJLMzlTYWxhbmEwT2hKSGZ5TEtUbGIzb1JjdFltcl9JNDJXMWEzcjdsTXc?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-11-11T10:54:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "a91ff9156a7f90ee",
+   "title": "岡山、広島など４７都道府県 栄養状況を可視化 花火形のチャートで啓発 ゼスプリ【動画あり】",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE12QlhqU0RVYXoycnVJUGxyZWVsUU1TZFpJMUdVQjhFdEtuT1VYZXVYN3ctZi1VRnRjeUZ1RHFrdmFBTnJlYTk0VUdFcHB0WEFYaWVSVGdBTy11U2cybXk5QjhjYmtEMXNwcXkyb3RTNTRfYm1HOVZvNTB3?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-11-11T10:25:28+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "1ffab624281aac34",
+   "title": "12/9（水）～11（金）大学ICT推進協議会 AXIES「2026年度 年次大会」に協賛及び出展",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ZQ0t5MWZwUlRjbTB1VzEtZ3hwbnBrWHQ3eGVnaTY3QkFMMEt3M2JJdFM0UkdnSUxIbWp6elFUMnU3cGRTdjVabncxeF9FQmo0QUE?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-11-11T10:12:54+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "d3d749e5bb89a4e4",
+   "title": "KOHKOHが「New Jewelry TOKYO 2026」に出展 2年連続「オーディエンス賞」受賞のジュエリーブランドが新作を発表",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5UR2J3SW52SzU5bXBJMXpOcXJrUS1LYlNBTFZkVlRtQy1HV2Jkekk4UnRjb1NMNVFqRkRWZGFiSGNtbmhEeXc4SGVmejZvYnNYM2c?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-11-11T10:10:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "fd362f6e395bce3d",
+   "title": "【11/21】岡山県倉敷市の水島商店街一帯ほかで「第70回水島港まつり」開催！「水島よさこい」ほか、グルメイベントなど",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUk80eUFCejlIaHJ4MjIxSDJVZE9Ed3RRbkpQeU03SWJPY1Zoc0J3Zm5EWTlDXzhnUmpLelVLM1I4SXVwekpYYTJaLWYxdzFwU0J2em01Q0RnTjRHM0FDeTcwLXQ5TWZtRU9PNFpEVWJtYy1WZHVMVk1jRVBkQUdoM1FNaEtqYk3SAYwBQVVfeXFMT3YyUU13VXg1Si1xN0luNmdDNXZLN0lxT3hsN2JDTHFJay1SeU9aUUs4ZkptbHhLZW1vMk0tWFo2TGdKNnpSa0FMLVY5Wlh1YmltOXB0Zm9wRGR6ekRiUnFpOVBFLVB4dFUwQ0VUSWFMQnBEaVJtbmtNa3VGeVg5YVRvNVppZTdTQW42UGU?oc=5",
+   "source": "ｄメニューニュース",
+   "cat": "催し",
+   "region": "倉敷市",
+   "pub": "2026-11-11T09:54:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "faedbc8448cb8924",
+   "title": "【広島アンデルセン】イルミネーションのあたたかな光と美しい歌声につつまれる空間～クリスマスツリー点灯式 開催のお知らせ～",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBKanRLYlZZZzN0cHFwNWdrYUNBd25EZ2hXU3JXUlk5LTlnd083Y0dqWS00NUJYejBXNlJkVkhGRUhFbm04TWpvenM3Sm44ekpScGc?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-11-11T09:29:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "10d4bbfa0886ba93",
+   "title": "「おかやま秋の収穫祭 地産地消マルシェ2026」11月15日開催【岡山】",
+   "url": "https://news.yahoo.co.jp/articles/b54c9b4e7bf682743be2991e55a704c8853ce12d",
+   "source": "Yahoo!ニュース",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-11-11T08:02:00+09:00",
+   "event_date": "2026-11-15"
+  },
+  {
    "id": "b13b3d19f7cb40f9",
    "title": "真庭・普門寺で「四季桜」見頃 23日まで一帯でまつり",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9yQTF1eC1NV0RzdnloUkxSazR0T0xHRUJFYVc4Sk9CM1dncEdQcFNfLVd6YWk1QnVVWGJ0MFlJb2dIcUNLd1dYcHA2MTlydG4tckhWYTc5dXVWZVpfRjZ3ZVp3Ui1VVEtVcFhJeGZwNl9iOXNIZlE?oc=5",
@@ -91,6 +421,16 @@
    "cat": "催し",
    "region": "県内・その他",
    "pub": "2026-11-11T06:22:22+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "aed184dd393ec045",
+   "title": "【11/21】岡山県倉敷市の水島商店街一帯ほかで「第70回水島港まつり ...",
+   "url": "https://hread.home-tv.co.jp/post-662484/",
+   "source": "広島ホームテレビ",
+   "cat": "催し",
+   "region": "倉敷市",
+   "pub": "2026-11-11T01:00:00+09:00",
    "event_date": ""
   },
   {
@@ -131,6 +471,16 @@
    "cat": "事件",
    "region": "県内・その他",
    "pub": "2026-11-10T19:09:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "d8bf1a18a1beed64",
+   "title": "絶滅危惧チョウを捕獲疑い 津山市の男逮捕、長野",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBpUE5iNGJQS05sMEd1N3F6c1lWRGxVV2FzSDV5M3JlSFE4eWQ3eFczU1VvSERjdklLY0N0cFdlSjM5S1FpWWxiOHJsalhzLUx6ZkE?oc=5",
+   "source": "山陽新聞",
+   "cat": "事件",
+   "region": "津山市",
+   "pub": "2026-11-10T19:06:51+09:00",
    "event_date": ""
   },
   {
@@ -241,6 +591,16 @@
    "cat": "災害",
    "region": "県内・その他",
    "pub": "2026-11-10T17:31:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "745c829034aaa03a",
+   "title": "覚醒剤を使用した疑いで岡山市の男（26）を逮捕【岡山】（RSK山陽放送）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13OUZ4b0xhU0NIM1dKWmNxTThWRHBTYmd3LWZXX0RMd0twbEY1RXNCNU9lM2Y1ekdjUGM1eWZsS1ZNX1pKYTVQcGJkVnFHYzV6NUdPLW5OWTcxdkxEb0Z0Y0pTVzk1dGZWUHJoYlRrTU5hZUtMbHJtMjBMenItY0E?oc=5",
+   "source": "Yahoo!ニュース",
+   "cat": "事件",
+   "region": "岡山市",
+   "pub": "2026-11-10T17:19:13+09:00",
    "event_date": ""
   },
   {
@@ -634,10 +994,30 @@
    "event_date": ""
   },
   {
+   "id": "96f015bcaa81d924",
+   "title": "【11/15】岡山市の下石井公園で「おかやま秋の収穫祭 地産地消マルシェ2026」開催！飲食店×生産者のコラボグルメや「おかやま地産地消 おにぎり決定戦」など",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rdTN4aFE1d0xWOHNJdVZEX2hfbEpEdUROMndlLWVpRm1IcDhZeHJqMkM5dlpYTW8tRUY5bHlOalRRaWZhNHN3WThOMzZzelVHa1E?oc=5",
+   "source": "ひろしまリード",
+   "cat": "催し",
+   "region": "岡山市",
+   "pub": "2026-11-10T11:46:26+09:00",
+   "event_date": ""
+  },
+  {
    "id": "1603e7903914cd89",
    "title": "岡山・井原鉄道 11月の「鉄印」はのどかな風景と列車 毎月11日に発売",
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE41enVLUGZhRWE1YUN3Ukd4NGtQRUIxTzEwUHVMd1Z0c21zdE9yemEtWnBNa2Q1QWZLQklfaXVCX3VOYXRFcUFJdXhKMGp4WHhta0szX2FkNjRtMWZucVHSAWNBVV95cUxQU3ZNbnY1cjBOT2pla1ZZU2ZfdEYyb2lxbkdGNkFJVjBnd1VKdGIteU94N19TUXdQY0luS3FlcUpjOTJWWWFQbW16ZFFBOG5nQ3dTX0pCQk5jNGNYVDRLb1pjUjg?oc=5",
    "source": "Infoseek",
+   "cat": "催し",
+   "region": "井原市",
+   "pub": "2026-11-10T11:43:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "483649fe12380b58",
+   "title": "岡山・井原鉄道 11月の「鉄印」は\"のどかな風景と列車\" 毎月11日に発売",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1zRUJrcFJkZDNFYVV4eURVckQ0OTVjZFhZNklWSGM2dWRKTEx5ZU5BOEg1UjJjVlN2dWZXWmpXM0YtQ2lDckFDUURoZFUtTUV6?oc=5",
+   "source": "KSBニュース",
    "cat": "催し",
    "region": "井原市",
    "pub": "2026-11-10T11:43:00+09:00",
@@ -772,6 +1152,26 @@
    "region": "岡山市",
    "pub": "2026-11-10T09:41:39+09:00",
    "event_date": "2026-11-14"
+  },
+  {
+   "id": "86fc0ca27f5e2862",
+   "title": "来場者１万人に再挑戦…岡山市で「岡山東商デパート」１１月１４日開催【岡山】",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE43UzBiX1k3ZWlua1dmSmVmZzJjSW01QkhrQlRfN0dGcnZHWTNJal96Q1JOLWZPQ3FhZHBBeHJOODQ0VXoxM2hBekZuRGFDRWNmZ1hHNXg4TVZodlNoem1GRHFDcUQ?oc=5",
+   "source": "OHK 岡山放送",
+   "cat": "催し",
+   "region": "岡山市",
+   "pub": "2026-11-10T09:38:39+09:00",
+   "event_date": "2026-11-14"
+  },
+  {
+   "id": "bd53dd8074440ab7",
+   "title": "国道交差点で軽自動車とバイクが衝突 バイクの男子大学生(19)が重体 岡山市（KSB瀬戸内海放送）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBabzdpXzVKV19wV0FsamhySjBrR3FiVVRIQ2xMY2l5SWJ1NjYwY0ItbTJTMWlNb2RGY1VWR2hrb3llc3RIdkdhT0VPeEUyMEF1NzRrWjhib2ZjTUpqZkhjQkQxd1lYZTFxYUtNVGVzR3JhcGtTZUlzN2VDY0dJTTg?oc=5",
+   "source": "Yahoo!ニュース",
+   "cat": "事故",
+   "region": "岡山市",
+   "pub": "2026-11-10T08:57:59+09:00",
+   "event_date": ""
   },
   {
    "id": "1854e5d3b1c7861d",
@@ -991,6 +1391,16 @@
    "cat": "催し",
    "region": "玉野市",
    "pub": "2026-11-09T21:41:58+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "e54da57504062bdc",
+   "title": "（岡山）美作市東谷上でクマ出没 １１月９日",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeFhSdk5FcDZaeWF5RDg2VGFpc21uVlFNalJ0RUtqdlUwSEtRM014TUM5MEE5WEpMYmpZSk9ORFZsSEVWUW42MnBlUXVoMWNfbnc3OFBoZ1JQdUdQeXRPV3pyTTA4TmRpTjN6clBGQ2ZiTGJRYkc2QVh2blctSTFUYXJGME9VNFRPV2txQS1YWFlQSXZ3enZFam5PQ3TSAaIBQVVfeXFMUEV3bXp5bnJnX0RUZHNIWnN1b2tQcGJScnY4WWlyUm5XcnNhV2lrUXFoMS1KQ1VNMEhjdy1KYjNHMzZYamZ3Wk5pbnAyX1FlTGVtV0Y2VDBBMWlrbXlPUGk1aVZhS3dYczFTUVd0dWtTZk1WZDUtdmN6Rk5oSkw5NXc3TlV6RUt6cUlEVHEwOWxpRnRoaVJQZUhEMWVuY0pBTmZn?oc=5",
+   "source": "ｄメニューニュース",
+   "cat": "事件",
+   "region": "美作市",
+   "pub": "2026-11-09T21:03:00+09:00",
    "event_date": ""
   },
   {
@@ -3044,6 +3454,26 @@
    "event_date": ""
   },
   {
+   "id": "e3a0c0507374679a",
+   "title": "地産地消マルシェにぎわう 市民団体と連携で初開催 瀬戸内市・岡山村田製作所",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5USlJJdzFybjBfenZHVDdWaDdWRXc2NDktTVJXZGJYdjNSbFFSVXZ0YVplS3ZUNkgzVjJFQjZRTXg2WjkwcV83THM0Nmdqc21DUEE?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "瀬戸内市",
+   "pub": "2026-11-06T17:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "5c179193e99032ba",
+   "title": "車に女性はねられ重体 運転の女を容疑で逮捕 笠岡署【動画あり】",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SNlJ4aDgzU3otSUtoUTV2dmpiSF9pbzEzdWpCcXpRXzhrVTh3Z0NIOVR0aUN4RGw1MlBjandWQlVqNTd3dWJwR3FieHYtME5PcEU4VnNEUE50M3RQdFVkbUFsWG1lSEU?oc=5",
+   "source": "山陽新聞",
+   "cat": "事故",
+   "region": "笠岡市",
+   "pub": "2026-11-06T17:00:00+09:00",
+   "event_date": ""
+  },
+  {
    "id": "8604fcf59cc7ff40",
    "title": "「ヤングケアラー」問題を考える講演会 美作市で平成ノブシコブシ・徳井さん 自身の経験伝える 岡山",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE52bUpMWkNSM2JRb3BGd0lVdERTYlBTY1EwNlVhRXM2czZRNU5PeHA2VUdKTUQ1TDdQWC1ydkVKM2x3Ykc1eGNYRVlzVlpCOUNtSFdFNEtnenNsTGJOZU1z?oc=5",
@@ -3461,6 +3891,16 @@
    "cat": "催し",
    "region": "県内・その他",
    "pub": "2026-11-06T10:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "4142202a6cc24539",
+   "title": "電線25巻（販売価格約70万円）をだまし取った疑いで配管設備作業員の男（31）を逮捕【岡山】",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1SG9MUE9YZE85cmNRaWNETDc3dVFIWG9uS0tKaDMwSk9WQko5bGppMC1YallUWEt6Q1NFWHlhNFVHaFhRSWdXc3UyQ25YN1NhNkdwX19Pd1NEUQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "cat": "事件",
+   "region": "県内・その他",
+   "pub": "2026-11-06T09:59:00+09:00",
    "event_date": ""
   },
   {
@@ -4324,6 +4764,16 @@
    "event_date": ""
   },
   {
+   "id": "5029a052bff36a0f",
+   "title": "19歳の男と17歳の男子高校生を逮捕 バイクで集団暴走をした疑い【岡山】（RSK山陽放送）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84SnlobEFjd1lWTDE2S1VhQlYxMmZyQWxMYkM1N1BjMHBDMlVtMGpZQno4YlJKMHhXQ0tPYmt2UVp2X0xDUG5zTXByWDBCMzE2enFNNV9DU1JzYkhKajRnOUNaNUNzamFiaWZkbDRLbmk3QWlQM3owT0lLSVUxeFU?oc=5",
+   "source": "Yahoo!ニュース",
+   "cat": "事件",
+   "region": "県内・その他",
+   "pub": "2026-11-05T15:00:33+09:00",
+   "event_date": ""
+  },
+  {
    "id": "133ef207e0310fda",
    "title": "震度5弱の地震を想定 Jアラートの緊急地震速報の訓練 岡山",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0wc21pSnFocllwRUREdHh4VFhYdzhnNHBLY3JManFhVVNHc2hYcGtySmVtM19sMXhkWWlZZjhaLTNFS0FhdHk5cnNtY2NpSGRHSHdtdUR5OEh2d3BfZ1lz?oc=5",
@@ -4921,406 +5371,6 @@
    "cat": "催し",
    "region": "津山市",
    "pub": "2026-11-04T16:03:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "987afc2e37188d1b",
-   "title": "生産者のおすすめは「おでん」朝晩の冷え込みで甘み増す「蒜山こだわり大根」真庭市で収穫始まる【岡山】（OHK岡山放送）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OdFlKQWkwZUoxNm5Zd0pQTjljRUZ0Y1ZSS3NzRkE4Y3dfSzUzTXFiUmcwcVpGYmJVQno2UW54NUlNaE1UdW9vQ3pTOFFyNmdqRGR6OEtUZy1rQng4bEFXRFl1UGk4STFCTEdJcEh4RUxSTF9IdVhsOXVBampzWGM?oc=5",
-   "source": "Yahoo!ニュース",
-   "cat": "催し",
-   "region": "真庭市",
-   "pub": "2026-11-04T16:00:01+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "b47cfe2d2776309b",
-   "title": "令和８年度「ゆうあい福祉展」を開催します！",
-   "url": "https://www.pref.okayama.jp/site/presssystem/1062694.html",
-   "source": "岡山県(新着情報)",
-   "cat": "催し",
-   "region": "県内・その他",
-   "pub": "2026-11-04T16:00:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "e005d3c9fed54f73",
-   "title": "第３回岡山県保健医療計画策定協議会を開催します",
-   "url": "https://www.pref.okayama.jp/site/presssystem/1064354.html",
-   "source": "岡山県(報道発表)",
-   "cat": "催し",
-   "region": "県内・その他",
-   "pub": "2026-11-04T16:00:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "a2f4131b357e86d0",
-   "title": "第３回 全国知事会大都市制度のあり方に関する検討プロジェクトチーム会議の開催について",
-   "url": "https://www.pref.okayama.jp/site/presssystem/1063539.html",
-   "source": "岡山県(報道発表)",
-   "cat": "催し",
-   "region": "県内・その他",
-   "pub": "2026-11-04T16:00:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "285c44ec65042de6",
-   "title": "令和８年度第２回岡山県障害者施策推進審議会・岡山県自立支援協議会を開催します",
-   "url": "https://www.pref.okayama.jp/site/presssystem/1060463.html",
-   "source": "岡山県(報道発表)",
-   "cat": "催し",
-   "region": "県内・その他",
-   "pub": "2026-11-04T16:00:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "440d1e2db48c82e4",
-   "title": "覚醒剤を使用した疑い 無職の男（29）を再逮捕...会社の資材置き場に侵入し金属廃材を盗んだ疑いで逮捕 岡山県警",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1yQlVDUzgwOW9SXy12amFGSm1mckVJZnBuX3dTVjlUVV84WHVIYWRBNU5ja0NRUWhJQWt0RkxmZHMzRHVLLVAyc2U3NlNSOGNRbHd0cWNUYkdCeXRsRkR6cmhHOFlYNVNHODIzOTRRRmhtbXlm0gF0QVVfeXFMTXJCVUNTODA5b1JfLXZqYUZKbWZyRUlmcG5fd1NWOVRVXzhYdUhhZEE1TmNrQ1FRaElBa3RGTGZkczNEdUstUDJzZTc2U1I4Y1Fsd3RxY1RiR0J5dGxGRHpyaEc4WVg1U0c4MjM5NFFGaG1teWY?oc=5",
-   "source": "ｄメニューニュース",
-   "cat": "事件",
-   "region": "県内・その他",
-   "pub": "2026-11-04T15:49:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "2609308eff0543c2",
-   "title": "津の住宅火災、死亡４人は４～１３歳の子ども",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBlUmZlNUhvY2psOVd4LWc4MjJHdWVXX2xTY2pMeDNWb0duRzl5ZGFCaTJxV0V6OVRLcGFmeHA4eU1CV1p1SUJKWGZ6Zmw4MXNSYm1YYnhGdy1rYm9rYTlQaXdwa2VKZVYtblBIa1RFSndaSWpkY01OaHIwT0F4Zw?oc=5",
-   "source": "山陽新聞",
-   "cat": "火災",
-   "region": "県内・その他",
-   "pub": "2026-11-04T15:47:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "942a30d5ba980913",
-   "title": "無病息災願って獅子舞を披露 岡山・御津公民館で祭り",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBObFpNNXB5TUJ4Mm1SSi1ETzNyTkdEUW5qcWliclE5N2VyUnpRTUJ3Y2RrOUpaVEN0NUN5TWJYcHB6ZXZBZWROSmc3VUFUU0EzdDV4b0dQYzdTQnBNU1FzS3JaQQ?oc=5",
-   "source": "山陽新聞",
-   "cat": "催し",
-   "region": "県内・その他",
-   "pub": "2026-11-04T15:41:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "83aad3803dab4fd2",
-   "title": "覚醒剤取り締まり法違反の疑いで再逮捕 金属廃材を盗んだ疑いで10月に逮捕の男(29) 岡山",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9RUmxmS1lHbXZnWWZUQ1RUSFNjVHl2RWlvaDBnZVUydkhXeldPOWJjV1R5VnRJTVJMa29mZFFLcnFPSEgwbTV1RnFVOUVIOHlSYkpvQUpmNExHdk52V05sd09jeHZ3ZnRZc1hKZFh3?oc=5",
-   "source": "au Webポータル",
-   "cat": "事件",
-   "region": "県内・その他",
-   "pub": "2026-11-04T15:33:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "72a68c7e30c68c55",
-   "title": "国産ギーを使用したスキンケアブランド「TULAVEDA（トゥラヴェーダ）」ブランド正式ローンチ・メディア向け製品説明会を開催",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9fWG5ROEFkVmtmNW9QeERkRzdwT1EtRG9iaTVRR1ZpNUxDYXlheTI0blF4aG5HWWcxZ203Z0ZRZHNZcUlfTjdKUGwzel9fMy00Y1E?oc=5",
-   "source": "山陽新聞",
-   "cat": "催し",
-   "region": "県内・その他",
-   "pub": "2026-11-04T15:31:29+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "247a0257df2b2299",
-   "title": "路線バスと乗用車が衝突 乗客2人がけが【岡山】",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1la3RERC05RTBYdlZZZERXdWhZbUVNZElsY1U3SkxJcWowUV9SSFg1RjFsMnp2ZXI2YVNjWWNSRUdqek9IWFVsMUVuT3ZGQzZ3LUpFdmxPQVFfazRwY0Npa2U3M3puTW91alJtazFwd9IBdEFVX3lxTFA2dkZqMXlhcEphUXdhT3oyeGtBTDRFSUtGdk1lQlB6ZzF4UnJpM09weE0tUUtQVjJZc1ZERmNzOUpoUlZTb21MYWlwUzBYdWNZT3piaUF4TnFoYmRRdXp5ckFtYzF1eklUTUk1TDJiSG5rNzRk?oc=5",
-   "source": "ｄメニューニュース",
-   "cat": "事故",
-   "region": "県内・その他",
-   "pub": "2026-11-04T15:22:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "29e9421a3e7142b2",
-   "title": "無免許でひき逃げ容疑 配管工の男（27）を逮捕【岡山】",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uRURTREtHNkZwOXl6VmlkZXBNa0REN0xoTGVLaWx6d2djaWhvTDZrZ2hlNVlub2dLWC1XY1dhSHhVTVRUUFBhZHdyRU9DUWVXc1VhS1BWSGRNQQ?oc=5",
-   "source": "TBS NEWS DIG",
-   "cat": "事件",
-   "region": "県内・その他",
-   "pub": "2026-11-04T15:17:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "759ce792b1300aca",
-   "title": "【画像】3日 プレジャーボートの乗揚げ事故 乗員2人けがなし 倉敷市",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE15d0RTX2ozVUJORDBNMGVLdjlLRjNESno3dURtT0hlWXU5RTU1ZU1UbEFwNWRnUVRWNFNZcEZFdGwwVHY3XzgzUWZwR0JMbzdqc0FZbkZPZGpldExGeHA1OFhnbkctU25YTkFBeV9tTmNEMVRueU0zUk5OOWE?oc=5",
-   "source": "ライブドアニュース",
-   "cat": "事故",
-   "region": "倉敷市",
-   "pub": "2026-11-04T15:12:29+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "a7c2ea7857b974c3",
-   "title": "「森の芸術祭 晴れの国・岡山」、2027年秋に開催 第2弾参加アーティスト12組を発表",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SZ2xrblZRS2RhaWl1a1BDbi1wSkt5NmJEMXRzdkN6dDY2RVdDenVOWVJQaVZ6OXFCeHBhM0gtRTQwNE1Td1ktc2QtUXRTOFJ3YkxTZw?oc=5",
-   "source": "OVO [オーヴォ]",
-   "cat": "催し",
-   "region": "県内・その他",
-   "pub": "2026-11-04T15:09:12+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "b506c3662047aa8b",
-   "title": "被害額は約20万円 先月に続き岡山市で「橋名板」の盗難が判明",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE56SDVRd3c3bmtfM0JpODJxYjJzMzhGNnRwVl9Sa1FkQi1Fazd0RzFvc3otRkFLM0k1MDhuWUg1S0xlejI5Y21IOGtHRnFoSWd0MnlTODJsSmJQc2NDVlZ3ZFFGcnJXSDFUUkJPWk5R?oc=5",
-   "source": "au Webポータル",
-   "cat": "事件",
-   "region": "岡山市",
-   "pub": "2026-11-04T14:37:13+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "16c93860513a9173",
-   "title": "熊山遺跡で瞑想 心身整える 赤磐市観光協会 体験型ツアー初開催",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBhWEJJdmFrc2JVeFVZanhnWV9NM1Y3SzhET2l6LTVSVVBXaFlhQVQzbXVvenIxYWpTN3lRQXd4RUN0d1pqU1d2MzlaczBrU1p6XzlBOWZRdk8?oc=5",
-   "source": "山陽新聞",
-   "cat": "事件",
-   "region": "赤磐市",
-   "pub": "2026-11-04T14:04:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "a180b86c70ea1168",
-   "title": "3日 プレジャーボートの乗揚げ事故 乗員2人けがなし 倉敷市（KSB瀬戸内海放送）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90UTFvLVNkY0hHQzhCLVlUOFVxOHRKaEJFTF8wNlJock9pUXJpTEc3Ui1TUE9jYmR2VFM5aUYxVVQtWkRPMGpGaVZMQ3JyOHJjUDVoLVVsZ05zeTJJSGctY3VxUE5PdGVLM281QUVodTR4bUl3V0ZlUzFweE92X1U?oc=5",
-   "source": "Yahoo!ニュース",
-   "cat": "事故",
-   "region": "倉敷市",
-   "pub": "2026-11-04T13:30:06+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "c7ac49ee7369fdae",
-   "title": "3日 プレジャーボートの乗揚げ事故 乗員2人けがなし 倉敷市",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE83RFM1N1F4M3pmT1MzYXpPZWtqXzhTZWpWalJ2VTVtSzQ4c3R6Z0F3QVVUZlRqSWk4V3hwZk9FZmRwc0x2SVZFNG5FalRId25I?oc=5",
-   "source": "KSBニュース",
-   "cat": "事故",
-   "region": "倉敷市",
-   "pub": "2026-11-04T13:30:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "3bd6141ad93f6442",
-   "title": "備前・頭島の大道さん 山口さんに感謝状 民家火災で初期消火に貢献",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1SeUxSN2hwRUZ3WE5KX1BFMGIzeWZCM3NTdFpobVozODJyNnR5ZUR2dGM5WDRpQ0lxMTdYeHNOM19CRDc5eWhyQk1QZmpXX3Y4Z1E?oc=5",
-   "source": "山陽新聞",
-   "cat": "火災",
-   "region": "県内・その他",
-   "pub": "2026-11-04T13:22:56+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "73c9c02607811214",
-   "title": "初期消火 正確さやスピード競う 瀬戸内で技術訓練大会",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8wTE9jcUoxaUVlM3BKUUswSVI2MWNydnozeTdKblpxUk9LTkMwWXBaTEhtUkdoWDVpYm9HekFqYUNhczZYSWNXQjFYYjJaNlpkc1E?oc=5",
-   "source": "山陽新聞",
-   "cat": "催し",
-   "region": "県内・その他",
-   "pub": "2026-11-04T13:20:35+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "6e29a3b9d002f4ef",
-   "title": "勤務する運送会社から軽トラック盗んだか 従業員の男を緊急逮捕 岡山",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1iM1Y2NXp0akMwbk9aSVVRU0pHaE1SUldoNmVrVVAtZlA5alpSak5EeFpwTExLcTJ1OGhZamVtMkN3ZmdBYXVZcHlHSlVrWTRObWwxdDZXT1lHZE5GMkZkSHItMGxDY1NhdUgwYmNPUVHSAXZBVV95cUxQNEMtMHk4SUtVSVlzMWRmbGZzZEFxclZFUnN1RzVsNmFoM1AwZEEtcWs4SGlhbDlMM0t1eFotdkdGWGEzOHhNa3JSZ3ZTcl9ia29VcjAzQTk5MVhYaUhMMFpSeVVXclc1bng5czdkY05nRWUzMW1B?oc=5",
-   "source": "ｄメニューニュース",
-   "cat": "事件",
-   "region": "県内・その他",
-   "pub": "2026-11-04T12:46:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "50e55febca0729f3",
-   "title": "【三田製麺所】18周年記念 第2弾！油そば大盛キャンペーンを開催",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8yMzhtMUJTd05YcTdBQjlKYUdaVGZ2QmRpSDEyYXQwY0xBOV9pNk5iSUhIaEIzZl9SNHZ6S25HQmUxcC0tOVhrbDJQWDh1OHd5YkE?oc=5",
-   "source": "山陽新聞",
-   "cat": "催し",
-   "region": "県内・その他",
-   "pub": "2026-11-04T12:31:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "57fd096e178bf64b",
-   "title": "工事価格漏らした疑い、川崎市幹部逮捕",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pT0dCdVhDY0w5RjVvaXV5X0pSVWhTUjdCbjdiVmhnNTIzajk2Z0RzU1JXcG5peWFjZnZ5VnNEZ3lncVRocEtFVVRZcmcyTHZrdnc?oc=5",
-   "source": "山陽新聞",
-   "cat": "事件",
-   "region": "県内・その他",
-   "pub": "2026-11-04T12:15:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "d66bfabee51a2f51",
-   "title": "【都市圏企業１０社×岡山市内専門学校の学生約８０人】都市圏デジタルコンテンツ企業向け 『岡山市視察ツアー』を初開催しました！",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1qbWlUUEJ2WnFrRENZbGtLN2d3V0lRel9BSElPblp6YXIzMnN1N3JqSUtreXB1dDZXMWUzWUx5cGVpdnpnSll3QkUwaFNNSzl5UEMzOTdYRnMwR3kxWGFJQzZjd1lUQlliZ1E?oc=5",
-   "source": "PR TIMES",
-   "cat": "催し",
-   "region": "岡山市",
-   "pub": "2026-11-04T12:00:01+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "02a72ea0a764aa17",
-   "title": "【速報】岡山市北区富田町で路線バスと乗用車の衝突事故 路線バスの乗客2人が軽傷【4日午前10時15分現在】",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1GQVd0a1Rqekk3c3U5WjR6dkNubEw4VWpQelNiZUpPcXFrb0Z1aURtaFhsdFhUZmZqTGRfYXFJVUtpUVhRSDJ5Y3hpUWF0VENCRUNvTG9hdldXZG82OS1r?oc=5",
-   "source": "ライブドアニュース",
-   "cat": "事故",
-   "region": "岡山市",
-   "pub": "2026-11-04T11:48:23+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "6b0c9a77b9977ee3",
-   "title": "《中区和菓子さんぽ》岡山市中区の和菓子屋を巡る、デジタルスタンプラリーを開催！【PR】",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9WQk9QWXY5a3Bwa2NJbjFMRTgyWmRTR2o3RVFjNENJaEN4V3ZHZ3N3TEkwNHczN3dYVDRyeENuOTR6Y3JTanZnSVdqZEFrY3Jic0V0Qk01bzFqcWtGS1E?oc=5",
-   "source": "Webタウン情報おかやま",
-   "cat": "催し",
-   "region": "岡山市",
-   "pub": "2026-11-04T11:24:59+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "5c0cbba8fd0efbef",
-   "title": "岡山市で路線バスが事故 乗客2人が軽傷の見込み バス停から出る際に後続車と接触か",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE94eDlHdHFvckpqS3pMRDlpZFQwMHpQTndib25zaTdjRGRSa0c4YTdvaFl6cmR0enJ5bXh2VjhMWGhnU3lGU29DQlNST1laeExSeF9FTzBrQ2l4T0hlZ2xNV05TTGk5MVlndXNKZVk4UQ?oc=5",
-   "source": "Excite エキサイト",
-   "cat": "事故",
-   "region": "岡山市",
-   "pub": "2026-11-04T11:11:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "030271466b4ae77b",
-   "title": "岡山市で路線バスが事故 乗客2人が軽傷の見込み バス停から出る際に後続車と接触か（KSB瀬戸内海放送）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52ZlBMTzFHMWlfV1d2S05HSmY0T1lUMHJIMGZ2SFZidzBhVTMxRmNaSXFlZ3RSeXMyM0dkVVhjQjFoWHVPN1B6ZDNFQ3R5bTF4SUN1V1BPT0E3OFpqYzJPYXg0SUdlWVhxVUs4eXdNNkZ0c1NFN0NVMUxMN0RIVlk?oc=5",
-   "source": "Yahoo!ニュース",
-   "cat": "事故",
-   "region": "岡山市",
-   "pub": "2026-11-04T11:08:37+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "749e9a8cc79f4236",
-   "title": "路線バスと乗用車が衝突事故、バスの乗客2人負傷 岡山市 (2026年11月4日掲載)",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5NSm8wZThOTHB4Uk9YTUVfUlBNTEtJNzg0empXZm95VTZBN2hyeU5TdTZFRUpWenlTR1V2c2pmQVA3cG8xQllLWndEYmNpSTJ1MEtTUFBmSkpLV3NHWnc?oc=5",
-   "source": "ライブドアニュース",
-   "cat": "事故",
-   "region": "岡山市",
-   "pub": "2026-11-04T11:08:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "966347ca64519c35",
-   "title": "【開催レポート】岡山県主催100名限定の大規模マッチングイベント ...",
-   "url": "https://mantan-web.jp/prtimes/article/20261104prt00m200000267a.html",
-   "source": "MANTANWEB（まんたんウェブ）",
-   "cat": "催し",
-   "region": "県内・その他",
-   "pub": "2026-11-04T11:00:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "0151aa21d384bd92",
-   "title": "特別背任疑い、パチンコ関連法人元理事逮捕",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE13MW5xRHlZcFJ0dHJRN3N4bUFMbHdDWllXQnJFVDRyNkJaSGN3TEhfNS1QUEtWUkNVd285dmhhR0NoRzl5Rmw3MXAzTW5fNnJtLUE?oc=5",
-   "source": "山陽新聞",
-   "cat": "事件",
-   "region": "県内・その他",
-   "pub": "2026-11-04T10:42:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "d77c5cd06a3d7066",
-   "title": "消費減税、６日に首相出席の委員会開催合意",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zODFCZU5VeW1vRDB3RWlUSkxDTURBcUR1THlDUjV1X05HZUpkNkNRNk9nV2V3NVFLa0lxREhZWDlGdDczcFJTc3hmay1LclNPc2c?oc=5",
-   "source": "山陽新聞",
-   "cat": "催し",
-   "region": "県内・その他",
-   "pub": "2026-11-04T10:33:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "cb812b9fa0f0ba7f",
-   "title": "【速報】岡山市北区富田町で路線バスと乗用車の衝突事故 路線バスの乗客にけが人がいる模様【4日午前10時15分現在】",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05TEgydnp3UUROYjdzM0c5ckpBelU1SmNsVlpKUTZnaHFpdWZ2RVdFeFliTEtENk9VOWtfay1Xemxib25lU3lSVUlKR0hDY0g3WHoxSjNsWkZSUQ?oc=5",
-   "source": "TBS NEWS DIG",
-   "cat": "事故",
-   "region": "岡山市",
-   "pub": "2026-11-04T10:12:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "36347ec564285c29",
-   "title": "路線バスと乗用車が衝突、バスの乗客にけが人がいる模様 岡山市 (2026年11月4日掲載)",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE05Tmg0TnhUOG5vQ19fdUp2LVVQVzhfSHRpQTdISDMtblRVZVBoZ0pqc25DbTZCRU56NUhLSmszcmdfX1p0ekE1cGNMTnVNRTE5dlZ2T29FNW9mUER5U2c?oc=5",
-   "source": "ライブドアニュース",
-   "cat": "事故",
-   "region": "岡山市",
-   "pub": "2026-11-04T10:12:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "f064155e26f5c5b7",
-   "title": "路線バスが関係する事故 乗客にけが 岡山・北区",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9EN0w3UExiazlwRVdtelJiSDJ5ZFlJNGRNcTJOdzdlT2NTTEtkN0NFOG1iRFNHcVhqQURyT1JEV051X2kxOFl2OHJqZVdlRDBYUER0bWp2elV1SkMwZnhjQy10ZWE0QktyMlFTU2pQOU53WmNJZUHSAXZBVV95cUxPRDdMN1BMYms5cEVXbXpSYkgyeWRZSTRkTXEyTnc3ZU9jU0xLZDdDRThtYkRTR3FYakFEck9SRFdOdV9pMThZdjhyamVXZUQwWFBEdG1qdnpVdUpDMGZ4Y0MtdGVhNEJLcjJRU1NqUDlOd1pjSWVB?oc=5",
-   "source": "ｄメニューニュース",
-   "cat": "事故",
-   "region": "県内・その他",
-   "pub": "2026-11-04T10:06:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "48c8e48e39c613dc",
-   "title": "【速報】路線バスと乗用車が衝突 乗客にけがか 岡山・北区",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE00VTFlQ2NqVXc2NHdzNUJMSC1Fd05qeVp3cmdicHdnOF9MLVJzRzBKQjk0dzlUeFdCU3o1dnNodU44VzdHTlo1cUhsYm9nal82SWlJM1VEQXJzR19xbzRxMUs3VXc3QlRkSFhHUGln?oc=5",
-   "source": "au Webポータル",
-   "cat": "事故",
-   "region": "県内・その他",
-   "pub": "2026-11-04T10:06:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "6b70376f2ff8bb84",
-   "title": "【速報】路線バスと乗用車が衝突 乗客2人軽傷か 岡山・北区",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAtRThrN2MxVUQ5eE9NMGd1dUV3RjhLRDB5Y3VpQU1sT3QxcnpPcmk1cnFJME82dm10VVNwaXlBVGRjbUd5NlJvQlRlc2tSQVNSaUNUVEZUSE1Udkl6ZlBSUlVoR25HWWR5cGZOelNtQVfSAXZBVV95cUxPRDdMN1BMYms5cEVXbXpSYkgyeWRZSTRkTXEyTnc3ZU9jU0xLZDdDRThtYkRTR3FYakFEck9SRFdOdV9pMThZdjhyamVXZUQwWFBEdG1qdnpVdUpDMGZ4Y0MtdGVhNEJLcjJRU1NqUDlOd1pjSWVB?oc=5",
-   "source": "ｄメニューニュース",
-   "cat": "事故",
-   "region": "県内・その他",
-   "pub": "2026-11-04T10:06:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "12689c350f9ca06c",
-   "title": "【開催レポート】岡山県主催100名限定の大規模マッチングイベント「ハレコイときめきフェス」で43組のマッチングが成立",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE41VVNobVdHaWhLdUpRWERXRldxVzBYbHNyeFIwUkIycFlwZkhDUDZMdXpDa3UzS3N3ME5kYkhoR3JocVVYZ2xISFJYLU9URHhBVXFhV3o0RzJIbWdSc1NYMHhUTVNQZmJ1R0ZuZTNFRFk2Y3oyWlE?oc=5",
-   "source": "Mantan Web",
-   "cat": "催し",
-   "region": "県内・その他",
-   "pub": "2026-11-04T10:00:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "11eba2fbaa2064b5",
-   "title": "全国障害者技能競技大会（アビリンピック）について",
-   "url": "https://www.pref.okayama.jp/page/886529.html",
-   "source": "岡山県(新着情報)",
-   "cat": "催し",
-   "region": "県内・その他",
-   "pub": "2026-11-04T10:00:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "62bf9705e9fbc5f4",
-   "title": "岡山県美作市で農作業車転落、男性死亡（山陽新聞デジタル）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83QUpuUnY0amlsSThaWXJ5Z0NWNGFGVmFHT09XcERrUXJOeXpoNHhnTEIycUpWS21KZU80YmVFWVUzcDZ0NDJfNF95cXJKRTNFTHFjQUg2WmIyYXNySTI3c01vS2FXSENyN0JlQVE5ai01UVdMSkxudlF0RmJILVU?oc=5",
-   "source": "Yahoo!ニュース",
-   "cat": "事故",
-   "region": "美作市",
-   "pub": "2026-11-04T09:39:31+09:00",
    "event_date": ""
   }
  ]
