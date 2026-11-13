@@ -1,26 +1,26 @@
 {
- "updated": "2026-11-14T00:38:44.385147+09:00",
+ "updated": "2026-11-14T06:54:13.763500+09:00",
  "source_stats": {
   "Googleニュース": {
    "ok": 22,
    "ng": 0,
-   "raw": 323,
-   "adopted": 193,
-   "new": 21
+   "raw": 336,
+   "adopted": 199,
+   "new": 16
   },
   "Googleニュース(媒体別)": {
    "ok": 16,
    "ng": 0,
-   "raw": 803,
-   "adopted": 187,
-   "new": 22
+   "raw": 796,
+   "adopted": 181,
+   "new": 7
   },
   "Bingニュース": {
    "ok": 22,
    "ng": 0,
-   "raw": 58,
-   "adopted": 34,
-   "new": 17
+   "raw": 57,
+   "adopted": 38,
+   "new": 21
   },
   "岡山県(緊急情報)": {
    "ok": 1,
@@ -34,7 +34,7 @@
    "ng": 0,
    "raw": 100,
    "adopted": 26,
-   "new": 18
+   "new": 17
   },
   "岡山県(報道発表)": {
    "ok": 1,
@@ -67,12 +67,52 @@
   "気象庁": {
    "ok": 1,
    "ng": 0,
-   "raw": 0,
-   "adopted": 0,
+   "raw": 8,
+   "adopted": 8,
    "new": 0
   }
  },
  "items": [
+  {
+   "id": "0acbc9b91747b017",
+   "title": "「お母さん、ひなはずっと元気にしているよ」6歳の愛娘を交通事故で亡くした母親が警察官に伝えた「当たり前の日々は奇跡の連続」【第1話】",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ibTMyOXFjemFYdFpFRi1ob3RDYUZvRDZLM0RXOWtHNWlsVWRIVk5pX1ItZWtpZGxxN2ZfVU5DLW95aUUtV1VoWF9iVHc4VkVNNk41NnppMXR4TERfYVN5SjVScVBVM1E?oc=5",
+   "source": "TBS NEWS DIG",
+   "cat": "事故",
+   "region": "県内・その他",
+   "pub": "2026-11-14T06:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "aa335cfed5e30b15",
+   "title": "「気をつけてね」と見送った10分後、担任から電話が...6歳の愛娘を交通事故で亡くした母親が伝えたい「当たり前の日々は奇跡の連続」【第2話】",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fYjlxZlNsMnlrRjBsYmdWLUhwMWhKZk00ZVJteENiMUpRZTUyM2hENDZqd1dTUk5MenhWMXoydl9FQjM2bm5Ib0tYU0dFVzc0dGROdHl6Z21nd3RiYXZ1Ul91c0hWaXM?oc=5",
+   "source": "TBS NEWS DIG",
+   "cat": "事故",
+   "region": "県内・その他",
+   "pub": "2026-11-14T06:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "95059a7896f7054c",
+   "title": "岡山県井原市初の体験博覧会いばらのたからばこが12月5日から開催へ",
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBIWG9zWHk2TFFERWh6N09mQ19NMmsxcUJvNjNYaFBlTDlmR0Y5d0NBQXhUbkl3VVhVaWZlRl9lbjdaUnpaRnRr?oc=5",
+   "source": "Dellows News",
+   "cat": "催し",
+   "region": "井原市",
+   "pub": "2026-11-14T03:39:56+09:00",
+   "event_date": "2026-12-05"
+  },
+  {
+   "id": "e0b5ffbc3ec9704f",
+   "title": "【おかやま祭時記】中世夢が原大神楽（井原市） 継承担うプロフェッショナル「太夫さん」",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE92Z1VwcFpaUjk1X01vbVV3ZTNNY21ZVGh6MkJLTGpDWVRGMVIzNXduR3lBZ2g4WWZzU3dUSngxeVJVV0pDQ3kyc2ZJejUxVHJmUEp2TGRzMTFlYTNTb3VZNmxvc3NGQkl5dkFyQkxJTV9Mcmlh?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "井原市",
+   "pub": "2026-11-14T01:16:06+09:00",
+   "event_date": ""
+  },
   {
    "id": "bd5be5dc7c3fe8fe",
    "title": "【広島電鉄 創業記念イベント】「ひろでんの日2026ーみんなあつまれ！ワクワク秋まつりー」を開催！",
@@ -251,6 +291,16 @@
    "cat": "事故",
    "region": "県内・その他",
    "pub": "2026-11-13T17:00:21+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "447b4e0f8bb18806",
+   "title": "現金６５００万円奪い、殺害か 山口製菓店主死亡で男２人起訴",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0ycTlPQ3hHa1hENzV6MmxLM1Y0ang0YmhIWmFhQnRBSTA5QkJYVUlsSnBQZURfbHpjcmZZUTZjRTllUGRSdWlSWS04T3M4c3Q1SnlqRFY5b3Zzd1RnQ0kzd1c4a0lySEdKUDZZYw?oc=5",
+   "source": "山陽新聞",
+   "cat": "事件",
+   "region": "県内・その他",
+   "pub": "2026-11-13T16:55:00+09:00",
    "event_date": ""
   },
   {
@@ -821,6 +871,26 @@
    "cat": "事件",
    "region": "県内・その他",
    "pub": "2026-11-12T17:09:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "56aac25671f0e1e4",
+   "title": "【ズームアップ】笠岡署長になった槙野憲一さん 特殊詐欺防止と摘発に力",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1jQkZ1Z3kyRW9lZC1CalNIbGo4aktGT1gwYkJsNHJTQVVmZko3bC1JU0tROHBMVzRGZmE1SEhWczFMakUydU5lWWZqZU1heG5FVVE?oc=5",
+   "source": "山陽新聞",
+   "cat": "事件",
+   "region": "笠岡市",
+   "pub": "2026-11-12T17:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "8b024586b8311194",
+   "title": "行方不明の２歳男児を無事保護 矢掛町東三成",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhQ1JBS29OQmlKTU9mRV9EUmViMkp3eXhGMlJ0RFZCM0RoVVBJLTlzVTdRc0lwOXpEVE9kVm5kWTNqZ1R5NUJFb0hLT1FrQ3R0N0E?oc=5",
+   "source": "山陽新聞",
+   "cat": "事件",
+   "region": "矢掛町",
+   "pub": "2026-11-12T17:00:00+09:00",
    "event_date": ""
   },
   {
@@ -1694,6 +1764,16 @@
    "event_date": ""
   },
   {
+   "id": "a7ea1c836cbe3af8",
+   "title": "犠牲者に鎮魂の祈りささげる 尼崎ＪＲ脱線事故２１年 ＪＲ西日本岡山支社で社員３０人",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB5cXdwa0wxY2xxNUVDTTczdDQzV1hiQkMzRjdQaFlrRS14X2lZQkFEMGM5cUl3cGNVYjctS2NKWEg3MEQ4WUR3TF96VEx5d0FkRXc?oc=5",
+   "source": "山陽新聞",
+   "cat": "事故",
+   "region": "県内・その他",
+   "pub": "2026-11-11T17:00:00+09:00",
+   "event_date": ""
+  },
+  {
    "id": "62e0a69401ecbbde",
    "title": "亀梨和也＆赤西仁、ライブ開催を発表 来年8月",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB4ckNIWDNrSGJvMzJRem1ReTJhQ2xRdU1ydzFLOXpldFpZNTNZT2pRMjFDcXl0b0xFT3FkRzVrSWtlQnBiVU5JaVVWT2szSWRxTkE?oc=5",
@@ -2530,6 +2610,36 @@
    "source": "山陽新聞",
    "cat": "災害",
    "region": "高梁市",
+   "pub": "2026-11-10T17:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "4004edeca73174c1",
+   "title": "台風６号、岡山市内で冠水や倒木",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1OalFRMjVJWTU0d19YMVAwakUxaU1NU1JSVXduWklyZHVNbU9OTjVLVVR3M2h2dDFHckdtbWQ4MHBzRGl6aHU1elBneThBZElmbGdmSG92WnNFY2RZY3FWUHZhOXhSQms?oc=5",
+   "source": "山陽新聞",
+   "cat": "災害",
+   "region": "岡山市",
+   "pub": "2026-11-10T17:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "e8923639324dfca1",
+   "title": "「一家を長年恨んでいた」おいの４１歳男 動機供述 倉敷市真備町殺人事件",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9wdzFseDdtUTRMWjZtOWxPU1pxOTlkRkpsTWlmcWt4QXMyQ2xQelFHNU5aNHdDWmRyZUJCYUdLeWJPNzJRUnNSS1E2QXZGVlEwRUE?oc=5",
+   "source": "山陽新聞",
+   "cat": "事件",
+   "region": "倉敷市",
+   "pub": "2026-11-10T17:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "31c850b0bbec2456",
+   "title": "交通事故抑止へ看板設置 白バイ隊員と取り締まり装置デザイン 倉敷署",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE51emRIaTVQOVdfQ0h6eEdVN0hVOXpvQVRPRHZpM1lEMHhUN0MxelZWVFhfOXZmSGJ5Z1pkSTN1MW1xUVlqRThpenZQemp0dzR1Y2hyT2t6YUdiNmtveWNiYmkwd2NPSXZLUWhWZ0FROWkwSWN0X21r?oc=5",
+   "source": "山陽新聞",
+   "cat": "事故",
+   "region": "倉敷市",
    "pub": "2026-11-10T17:00:00+09:00",
    "event_date": ""
   },
@@ -3404,6 +3514,16 @@
    "event_date": ""
   },
   {
+   "id": "f32cf74ec9011961",
+   "title": "【読者の写真コンテスト】６９９回 花火大会や祭り、夏感じる題材",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9EZzlqVVNyWXV5TVBwVUhKdXpSRHlUU1d3V3Jqdk9rYU1PcEY0SWs5MjdjS0h6YXVtaDQxejFHT2FKNjl1QzgxN1NIYmxKQ3BVNXlwaC1iaHFlVW1vTzhxdURvLWFIbWc?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-11-09T17:00:00+09:00",
+   "event_date": ""
+  },
+  {
    "id": "1a818f5b99f8eff6",
    "title": "IDグループ、芸術文化支援活動 ギター・リサイタルを開催",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVX0RJZnNHTnRiNnhfVExhNGJVOFpoaU9veElJN2FObXMwalNFajczcWUwMzBDYU8wbWRKSzdhYk5KUVdKSDZEM205QXQ5S3hydlE?oc=5",
@@ -4150,6 +4270,36 @@
    "source": "山陽新聞",
    "cat": "事故",
    "region": "岡山市",
+   "pub": "2026-11-08T17:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "0cd6da0d87ca0bcd",
+   "title": "【第７報】民家と倉庫も焼く 岡山・山林火災",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFByUjBIWW1vbzZTQmtuMk5jVHVMTnJ0VmJiSm8xV2FMZ3BmM3VRNEtNamRtWWZsdmV4a2d3Z3pnNVRWWjRVaFM0R3Vjc1N6TVBkakdpcnY4b0gySzUtZk9yMkxGdHRRNVE?oc=5",
+   "source": "山陽新聞",
+   "cat": "火災",
+   "region": "県内・その他",
+   "pub": "2026-11-08T17:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "e8fdcc55990390d5",
+   "title": "岡山市北区伊福町の共同住宅で火災 約５０分後に鎮火 住人の男性救急搬送",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90a0F6QjNybm1WV3E0QnNTRXU5WWVGYzJ4dWRwaV9UbVE5V09VWFlXQ0VGZnFXUnVuZndIckRyX2JVNWhxekRTLS1KZnJueDZCMEQ3U3dxMmg3ZmZ0UmlmaUhhQmM0SEU?oc=5",
+   "source": "山陽新聞",
+   "cat": "火災",
+   "region": "岡山市",
+   "pub": "2026-11-08T17:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "ec245ce05954add8",
+   "title": "【岡山・山林火災３日目】鎮圧も見通せない状況 焼失面積が拡大",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5aOUlJcG41MXFBbXdzTV96WV84R0RMX1ZrUXJ1RVlTb09tUWdzZE45OEdMSW12SU5KbGpwd2RIYnBjZVhsdWJQWDh6cEtUT3pFYkFyb2lQWUdHaHViZ05CX2JxcFhsNFBPYjhfY2pkZjZkc3lkZFJZ?oc=5",
+   "source": "山陽新聞",
+   "cat": "火災",
+   "region": "県内・その他",
    "pub": "2026-11-08T17:00:00+09:00",
    "event_date": ""
   },
@@ -4911,36 +5061,6 @@
    "cat": "事件",
    "region": "県内・その他",
    "pub": "2026-11-07T07:42:20+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "82417c2de187463a",
-   "title": "英メーガン妃の父親逮捕 米で児童ポルノ所持容疑",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5tcnVtMU9kdnBBQldITWRzaUk3NjI3ekNHR2N4c3VCalJlTlEzRXhxTU04d25RVm8wQ2FFYWRKQ2VoYVU3Y0NjSFdUVWQ2RXBLMlE?oc=5",
-   "source": "山陽新聞",
-   "cat": "事件",
-   "region": "県内・その他",
-   "pub": "2026-11-07T06:11:49+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "4dbf3d99a98f0570",
-   "title": "日テレ「KARADA WEEK」リアルイベント開催 井桁弘恵のピックルボールイベントも【コメント全文】",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5CYlVGRGNTMGJnYmR4NFVaU2Z4dFU2SVY4T04xMjlMVE1JQjFCUnhRTHh2RXlueDFNMG5QcTc5Zl9zaWRoMXV6WlhJWVBGMHgzdUE?oc=5",
-   "source": "山陽新聞",
-   "cat": "催し",
-   "region": "県内・その他",
-   "pub": "2026-11-07T05:00:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "06adfc5c745df745",
-   "title": "（岡山）美作市古町でクマ出没 １１月５日",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOVhVVXBjWV9rTUo0RXlSc1lzYUpkMV85TW4wbzcwSlJTSEU5LVJsZEd6QjAzbldoeDJUWHFYb05fNlJIMlI5cVJiT3dJel9yckI1cXh1eGtORW0xS2t6YTlueExORFlGNENLVURtaGNaYkJ6WklDc3ZTSkRJMU1KNXYtNFVoSFF0MGl4RFpmeDM0dTJWQlhPWGlUVEnSAaIBQVVfeXFMT3NLV3pGS09mM0Y3ZXZERUtqQ3J0UXBjVnRZVGZOLTFjNGp6UlVNRXZrTENlR1YweHc2VW0wVzdfcUdyNkhnT1pKdFpWa1I5cmlqZm5fSHd2MnpaekgxMWF0YTVSYVVZSkNqTkVZZC1tNEktekUwTENWYWliUDRBaDZIT3VDcW1rTHVBQm5hLTBNemlVUmpVY0pYeVowSVNCSnRB?oc=5",
-   "source": "ｄメニューニュース",
-   "cat": "事件",
-   "region": "美作市",
-   "pub": "2026-11-07T01:43:00+09:00",
    "event_date": ""
   }
  ]
