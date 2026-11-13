@@ -1,26 +1,26 @@
 {
- "updated": "2026-11-13T03:48:00.018800+09:00",
+ "updated": "2026-11-13T09:06:35.824112+09:00",
  "source_stats": {
   "Googleニュース": {
    "ok": 22,
    "ng": 0,
    "raw": 364,
-   "adopted": 201,
-   "new": 21
+   "adopted": 208,
+   "new": 10
   },
   "Googleニュース(媒体別)": {
    "ok": 16,
    "ng": 0,
-   "raw": 807,
-   "adopted": 192,
-   "new": 11
+   "raw": 739,
+   "adopted": 177,
+   "new": 14
   },
   "Bingニュース": {
-   "ok": 21,
-   "ng": 1,
-   "raw": 59,
-   "adopted": 35,
-   "new": 15
+   "ok": 15,
+   "ng": 7,
+   "raw": 28,
+   "adopted": 19,
+   "new": 10
   },
   "岡山県(緊急情報)": {
    "ok": 1,
@@ -67,12 +67,62 @@
   "気象庁": {
    "ok": 1,
    "ng": 0,
-   "raw": 0,
-   "adopted": 0,
+   "raw": 5,
+   "adopted": 5,
    "new": 0
   }
  },
  "items": [
+  {
+   "id": "3caeb5abded8d403",
+   "title": "【岡山】2026年11月14日・15日週末開催の無料イベント9選 科学の祭典＆こどもフェスも",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HVk1qRHo0X0sybFVJUFNNUWRpTjJvTjZCVGp4M3pMMnVTVXZyQXpteXhCa1hKbmg5Zm14SFc2VWJSMWZnR2JJcmdQY2RYZjhaT1E?oc=5",
+   "source": "いこーよニュース",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-11-13T06:20:22+09:00",
+   "event_date": "2026-11-14"
+  },
+  {
+   "id": "ee0795f45f4ce9e3",
+   "title": "熊山遺跡で瞑想 心身整える 赤磐市観光協会 体験型ツアー初開催",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1laW8yTUtFZUhPWlVqNHE4YkR5YmxoMDVOaHBpY2FVWlZMenF2a3VnNWVxMkk0M1ZJSDU0T1FPSEI4dElCU29RVVJBaUpfM3BpZGc?oc=5",
+   "source": "山陽新聞",
+   "cat": "事件",
+   "region": "赤磐市",
+   "pub": "2026-11-13T06:03:01+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "2f47a65f4acf09e0",
+   "title": "M!LK塩﨑太智、「二宮への挑戦状」で被害者役 ミステリー漫画の巨匠がショートミステリーを書き下ろし",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE11M3pMbXNSZUllZ1haQjF1b0pVN0JtVjNrU0VicTRIMDRUM1FEN1JOSjk5ZWZpSnpjRU9rNFBPN1Q3ZHpHQ0VnLV84RmZrTWc3cUE?oc=5",
+   "source": "山陽新聞",
+   "cat": "事件",
+   "region": "県内・その他",
+   "pub": "2026-11-13T06:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "0166e4a04a85ef10",
+   "title": "【あすから】牛角「秋のうまい！もん祭り」開催 鴨の王様ステーキ＆七輪で炙る焼きいもなど“秋の味覚”全8種そろう",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5IVXRrN1hyT3BuVlFpbjQxbHZWMUlXRU9hTlhJQVAwcUxobGJKUE5IT1M1OGRJV0tQMGNWQUZzVUtCcC1TU0NwQTNrdHNfME9Fem54cDh5TzdKcGlYck82d3MtSXF1VzRCaGtoTUJScw?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-11-13T02:02:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "937dafe89b4aaa9b",
+   "title": "金属バットのラジオ『金属バットの社会の窓』初イベントが即完→「ご安心ください！」呼びかけ",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9hdDI0Q044LUtJVXNzVXJRMWZOd2VfdlZjcS1OMjFQQ1VPM0dNZEpoVGVEbFFkYmJ4NFVHUHozZ1Q1empsZGo3X1BXdGQwOXJDY1M1VFlSVHJpNVk1a3Mxa3ZXSQ?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-11-13T01:50:08+09:00",
+   "event_date": ""
+  },
   {
    "id": "c31d06d8c33fcdbd",
    "title": "（岡山）新見市足立でクマ出没の可能性 １１月１２日",
@@ -84,6 +134,16 @@
    "event_date": ""
   },
   {
+   "id": "762f206a049528e9",
+   "title": "３人死亡火災、住人逮捕 「寝たばこ」通報、広島",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBFS1ZTSU1tdUtCdHF6VjhnWGZ2R0E0N0djdmZubXE1OU9GMnRYRmpzLXVsWF9ySFhHaDdfbkIzNUlXYnkyeGpwdWdVaEtlUmFFUzVwQUYwbk5KbjQ0TUJOSDhHWkU?oc=5",
+   "source": "山陽新聞",
+   "cat": "火災",
+   "region": "県内・その他",
+   "pub": "2026-11-12T23:49:00+09:00",
+   "event_date": ""
+  },
+  {
    "id": "6439edb01eb49b04",
    "title": "広島３人死亡火災で住人逮捕、寝たばこか",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5DbE95RnJBSlhKTVNWY3FTdjdFY3NVdFlOY2ttallCaVJ6TzN0NzR4UGljVUVpcWJaQW1IY3AtdzhQeW1ybFJGVW1idUNMeVIxTzhmak1EMnE?oc=5",
@@ -92,6 +152,16 @@
    "region": "県内・その他",
    "pub": "2026-11-12T23:12:00+09:00",
    "event_date": ""
+  },
+  {
+   "id": "7232161850905b6f",
+   "title": "【岡山】2026年11月14日・15日週末開催の無料イベント9選 科学の祭典 ...",
+   "url": "https://report.iko-yo.net/articles/35478",
+   "source": "いこーよニュース",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-11-12T22:21:00+09:00",
+   "event_date": "2026-11-14"
   },
   {
    "id": "2ecbeab3dd2e4eb2",
@@ -1774,6 +1844,16 @@
    "event_date": ""
   },
   {
+   "id": "fe023ba77b1b883c",
+   "title": "【災害から学ぶ】住民グループ発足 防災・減災の要 高齢化進み共助の維持課題 鳥取県西部地震で被災の新見市千屋地区",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zbTRoWWdNc2xCUjRUMW1vNXMxMVJlOUZJbFFqN255UWNCZlRFaTZFYy1kVC1TODBaei10NHQyLU1nT08xQkNuR0JpY1hqRVd2UVE?oc=5",
+   "source": "山陽新聞",
+   "cat": "災害",
+   "region": "新見市",
+   "pub": "2026-11-10T17:00:00+09:00",
+   "event_date": ""
+  },
+  {
    "id": "e7961cdc4c71196b",
    "title": "Spotify日本上陸10周年、XGのビジュアルロンTやM!LKらのロゴ入りアパレル発売",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBLTmlRU3ptSS1nWE1leVYyRzJvSGJ6NGFlbF9RVjVCT2t1RGxYY25Zek4tejhUUjZaMWY1TnNWQ2pXeTNXUk1TSndvX0VhaXEyTlE?oc=5",
@@ -3364,6 +3444,16 @@
    "event_date": ""
   },
   {
+   "id": "2658022f78dceb50",
+   "title": "岡山気に入りIターン 事故低減講師務めやりがい （株）トヨタレンタリース岡山 岡山市 村尾 春風さん（27）リース推進課 CSグループ ソリューションサービス担当",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBORkR1TFd2Z0VCQldyeTdJVnBhQ2hLUmhhZkk3cjdrU3N1NkN3TWl5RkRoWTFFeG8wLXBCVzdGdGp5TDdkUERVVzIxcklQcVhHWEE?oc=5",
+   "source": "山陽新聞",
+   "cat": "事故",
+   "region": "岡山市",
+   "pub": "2026-11-08T17:00:00+09:00",
+   "event_date": ""
+  },
+  {
    "id": "f830b41c9c81f70d",
    "title": "花火シーズン到来 岡山県内、７、８月の主な大会",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05TDdEMHVLS1hHQzZNR3huazZRWUVKZE5MRTFnck85TVk0dnN3b25FMkpFa2JVd256T1M5VG9RU0F6MVJKNnN4UTZmVmprTnJyRnc?oc=5",
@@ -3961,6 +4051,16 @@
    "cat": "催し",
    "region": "県内・その他",
    "pub": "2026-11-07T13:37:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "2215e1dbd23894bc",
+   "title": "11/7（土）岡山戦 ステージイベント【トリコロールランド開催】",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9RdnFuaEVZemM4Ylh5WTJjSVV1WENwQ0Q5dGRGQjc0dHN2OHlYb2cwSlM1RDlfcy1kZnNPaXdMTXBPVDJHV2NHbm14UmYwZDRKcmtvNQ?oc=5",
+   "source": "横浜F・マリノス 公式サイト",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-11-07T13:14:41+09:00",
    "event_date": ""
   },
   {
@@ -5211,106 +5311,6 @@
    "cat": "事件",
    "region": "県内・その他",
    "pub": "2026-11-06T09:50:56+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "2053fa8dc0fea2ec",
-   "title": "無免許でひき逃げの疑い 塗装工の男(53)逮捕 岡山・5日",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9yY1h0aFlfZTQzZHp6RFlQUDM0OGQ3ZUZNRFBzYTc2TEJYcV8wYy1iYzNLdURQWFBxbjA1UGM1bUl0cEpiNDJydHFMR3Y5dE1peWdMa3huZmRkTlpsQ3dsaXlMbVduUFdNSm5uT1p6ZUnSAXZBVV95cUxPd0dfSHZaRzZ5ZGVLV0ZpaDJXck5Lci1kMlFINEt3RHo2dkxIQ2dBV0JHTWJncWJQWG1tLVpEa1U0NWxmbzMwaldRSmQxQVFoa0tzNmxtbW9adVpWT0xXNjRQRFNKWk1VSVpVS1hkM0ZpVEoxc1Zn?oc=5",
-   "source": "ｄメニューニュース",
-   "cat": "事件",
-   "region": "県内・その他",
-   "pub": "2026-11-06T08:51:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "ff59424e1b605fe1",
-   "title": "逮捕後に取り調べ拒否１５０件超 ２８都道府県で、弁護側集計",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wYXRQT19VU3lGMGI1empzWU9Jbi1QWF9OMFJfSXJDQXBPUTRSQ3B1X2ducFpBYTE5MlZ2VGZIWXM4cUw2RWswS0Zsa1NkQ3hsWkE?oc=5",
-   "source": "山陽新聞",
-   "cat": "事件",
-   "region": "県内・その他",
-   "pub": "2026-11-06T08:39:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "f32626b4bcce8546",
-   "title": "藤井隆＆乙葉、ドレッシーなリンクコーデで“夫婦ディナーショー”開催を報告 2ショットに反響「尊い」「理想のご夫婦」",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE96eUxGZWVMNlhDOE0yVFN4MGU5el9EMThMTmZJeXUwUWlZU29WUV9wY09oTGdJQ3FQZ3RXZ0dCcFR0cmZEYi0zN2RRN3hvN29aVUE?oc=5",
-   "source": "山陽新聞",
-   "cat": "催し",
-   "region": "県内・その他",
-   "pub": "2026-11-06T07:40:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "10a3b6168ea6ebb9",
-   "title": "『ABCラジオまつり』直近4年のうち3年が雨…今年は晴れを祈願して特番放送",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85T1hPRWJPUEFGdTAtOEVnWnI5d3VmWDZKVkR0RU5PYWhvRnpaUV9KUVRyLUZzMUNiLWxhNTE3cjRXTjdDc1dmMDdGTHRWQzJOOFE?oc=5",
-   "source": "山陽新聞",
-   "cat": "催し",
-   "region": "県内・その他",
-   "pub": "2026-11-06T07:30:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "cf7c6d397c1a3875",
-   "title": "鋭い打ち込みに応じ技 赤磐市青少年剣道大会",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fRmRPUDBGdWVHamlvcl9jRGlJUmlrY0hyam5SbEtMV0hMUVZfTlhKUEZ6TExyWUNreXl0SzEwaGpaTXJzTk5vMHQ3QmRFcWloLTZxSGlRNnZ6QQ?oc=5",
-   "source": "山陽新聞",
-   "cat": "催し",
-   "region": "赤磐市",
-   "pub": "2026-11-06T07:29:25+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "384044ea29157f33",
-   "title": "【2026岡山】11/7・8週末開催の無料イベント7選 ももたろうフェス＆デニムイベントも",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5yUGc0SGVNYkRhMUVxVWRFbTNBeVZHU2JMRGk0MUVFNWU4cG1Lc0d3X0cyWEcxYUxaa21HWHNsT01vM2l6RFd6NXNMTzh1d1A3OHc?oc=5",
-   "source": "いこーよニュース",
-   "cat": "催し",
-   "region": "県内・その他",
-   "pub": "2026-11-06T06:24:58+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "a041a69fdb0ef5a6",
-   "title": "ピザ作りで交流深めて ２８日、新見で婚活イベント",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1XT0VCUmluZXdyTmN4X3pqSlptdE1aOTAzMTYyV2F5VDRGT1BMRkUyb3JWN0V5aDJ4S09rbUQ4eF85OWwzR0M1UG9lQzJHR1FHcVE?oc=5",
-   "source": "山陽新聞",
-   "cat": "催し",
-   "region": "新見市",
-   "pub": "2026-11-06T06:06:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "066fd62c6945d3df",
-   "title": "火災発生時の適切な行動学ぶ 岡山・東疇小で対応訓練",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA0c0NoazNaMXd1QkxOTVlYOExYN053UTVudld4MXlBLTVrWXlyWWRBZnNqOUNaeXhySTFvbVpKSW1TbnJpTnhoMXRzOVc5QUtWc0E?oc=5",
-   "source": "山陽新聞",
-   "cat": "火災",
-   "region": "県内・その他",
-   "pub": "2026-11-06T05:46:11+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "202e41c006b075a8",
-   "title": "現代の陶芸家15人の作品展 岡山 備前",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBkSTJaOUVjT1JCaGN2MWwtRm8wU25DaXVvZjhiSEEzd1JXYmYtd3NDV3FadXRSSWlhQ3RuT2htMHNEZHQ1blVjcEZWTnBMYnV5MzNxQkFCNVh1ZVF0X3Fj?oc=5",
-   "source": "NHKニュース",
-   "cat": "催し",
-   "region": "県内・その他",
-   "pub": "2026-11-06T05:16:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "4b110cf32d933924",
-   "title": "新見市にパブリック支所オープン ４月１日から 「ゼロワン」地域で権利保護の態勢強化",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hdmJUMjlZV0h0UGZaVHU4LVdVaFhjaEJwRENHU2tYUndibjlIN3hoUmphUE1kTVljN0Iyb1I4RXI5UDE0aVgzZGRuVFAteVVzVXc?oc=5",
-   "source": "山陽新聞",
-   "cat": "事件",
-   "region": "新見市",
-   "pub": "2026-11-06T04:02:31+09:00",
    "event_date": ""
   }
  ]
