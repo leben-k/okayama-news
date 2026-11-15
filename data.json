@@ -1,26 +1,26 @@
 {
- "updated": "2026-11-15T05:36:17.895651+09:00",
+ "updated": "2026-11-15T09:57:33.845647+09:00",
  "source_stats": {
   "Googleニュース": {
    "ok": 22,
    "ng": 0,
-   "raw": 346,
-   "adopted": 197,
-   "new": 25
+   "raw": 352,
+   "adopted": 201,
+   "new": 9
   },
   "Googleニュース(媒体別)": {
    "ok": 16,
    "ng": 0,
-   "raw": 769,
-   "adopted": 158,
-   "new": 17
+   "raw": 770,
+   "adopted": 151,
+   "new": 9
   },
   "Bingニュース": {
    "ok": 22,
    "ng": 0,
-   "raw": 55,
-   "adopted": 34,
-   "new": 21
+   "raw": 59,
+   "adopted": 36,
+   "new": 25
   },
   "岡山県(緊急情報)": {
    "ok": 1,
@@ -41,7 +41,7 @@
    "ng": 0,
    "raw": 100,
    "adopted": 51,
-   "new": 25
+   "new": 26
   },
   "岡山市(緊急情報)": {
    "ok": 1,
@@ -74,6 +74,76 @@
  },
  "items": [
   {
+   "id": "a7f248b17ac37cc1",
+   "title": "迷宮入りを阻止した「3分の1だけの指紋」…時効直前に逮捕「岡山主婦強殺」 15年間の逃亡期間中に向上していた「捜査技術」とは（デイリー新潮）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXdEdtdlpfa1M1ZjZhZFpFcW1NMkJmSTZYeXVtTno3S3FXSHZBaTZwVmZIdWVYa2Z3U1lyQUotNmhQR09RWTAxU0diLWdXMHR5dUpEVkc0aW16TjVqeHFLcDY5RUdqZG5BUWFLOHc4enhfU0hCc1FTWEN2eFhRdHM?oc=5",
+   "source": "Yahoo!ニュース",
+   "cat": "事件",
+   "region": "県内・その他",
+   "pub": "2026-11-15T09:03:40+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "868fdb29fd224f2a",
+   "title": "時効直前「岡山主婦強殺」で逮捕された“優秀な営業マン” 上司が明かした最後の日「警察はソファを飛び越え、彼の前に立った」",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TZzBoYnFaRk5DbXk4TmhBcUItQ3FKeE54RjBHOEU4MXk0b1FNMkV2Q25YQmFBck5tMU01U1RGR1pkV3FuRV9lVnM2dm5IN0s2N0lVZFA5NjZZTld1eVQxRFgwbFRXbEViSmQtT1dUVGN3b01Pd2ZSOTV5RkRZZlE?oc=5",
+   "source": "Yahoo!ニュース",
+   "cat": "事件",
+   "region": "県内・その他",
+   "pub": "2026-11-15T09:02:57+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "9e2bbab41067755e",
+   "title": "「ラヴ上等」出演の女逮捕、風営法違反疑い",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrc1hPWDlyVlZKc08ySmlJaGR6US1QWmNfazYxb3p5YUZjYVZNdW9JdWE1eWFiQl9wT2hEQWRRNWJ4NHU1VEhlb0ZPQzBwQTVWNld5d1kweXJJQQ?oc=5",
+   "source": "山陽新聞",
+   "cat": "事件",
+   "region": "県内・その他",
+   "pub": "2026-11-15T08:46:30+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "42879bdac11c4ad4",
+   "title": "丸ビルに「ハリー・ポッター」ツリー登場 丸の内が魔法の世界に スタンプラリーも開催",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE15NU9LWEpPQjlkVU5iemhSMjVxQ1JFS3ZzOTVQRmQtZnRHQndoaHRwRklBR0RwbTlWRGNsZV8wVUtiOThiN2dFdzhNRXhPTllZWWc?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-11-15T08:40:26+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "2677dfc47cf40856",
+   "title": "藤本洸大×簡秀吉『修学旅行２』、クランクアップ 本作史上最大規模のイベント開催決定【“五天王”コメント全文】",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rLXlWWmIyYURNUDltWlBBN0dPWGsxLW1WcXV5dnU3cmdzdTZEaFY3b01RQnlMZ2Z5b1FQd2ZjNVRMdWxMWXJYaFlLUGVMSDZrZ2c?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-11-15T07:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "f0e7a70fc99d3c0f",
+   "title": "■岡南飛行場祭り開催のお知らせ■",
+   "url": "https://www.pref.okayama.lg.jp/page/1066152.html",
+   "source": "岡山県(新着情報)",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-11-15T07:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "7acdf896cec19a33",
+   "title": "【岡山市南区】岡山市サウスヴィレッジで「和牛フェア」開催 ロースステーキ無料試食会も",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNWhQQTZ4TFd1dVZhYW5HT0E2c2Z4cW9fLVhaNjA5THl0ZjhUemwyY1BwUFA1NFZEcTJ4d1pfNEtFMDFudC13eGRRWXJ2eFJvWWMwRkJ2b2FORkkyQjNRYjFHRV85R0lJdk9Rd1NaY3NpeTY0UEVrcy1LdFZHRlp3RlpELTlyMDg?oc=5",
+   "source": "号外NET 岡山市",
+   "cat": "催し",
+   "region": "岡山市",
+   "pub": "2026-11-15T06:56:42+09:00",
+   "event_date": ""
+  },
+  {
    "id": "82d5087f4d329749",
    "title": "【おかやま祭時記】⑦当人祭 梶並神社（美作市） 〝生き神様〟新たな形模索【動画あり】",
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5OXzJOQ0NEakd1X0k3RDVWU0JWZ2tacXNDNzZOd2hYNE1zeFR1T3p1bzVKY2VUOTZqYTU1V2JNbVJ3Z2J2RDhMTHhjNzNmNjlUelpxRWxwR1NXaW1BS01JWEptc2VCMUE?oc=5",
@@ -101,6 +171,26 @@
    "cat": "催し",
    "region": "県内・その他",
    "pub": "2026-11-15T05:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "45e367df721954b5",
+   "title": "迷宮入りを阻止した「3分の1だけの指紋」…時効直前に逮捕「岡山 ...",
+   "url": "https://news.yahoo.co.jp/articles/953ad66e8c632f9afc61238a51de9aa37e208d0a",
+   "source": "Yahoo!ニュース",
+   "cat": "事件",
+   "region": "県内・その他",
+   "pub": "2026-11-15T01:57:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "da1487c17ff2f2e5",
+   "title": "時効直前「岡山主婦強殺」で逮捕された“優秀な営業マン” 上司が ...",
+   "url": "https://news.livedoor.com/article/detail/32821456/",
+   "source": "ライブドアニュース",
+   "cat": "事件",
+   "region": "県内・その他",
+   "pub": "2026-11-15T01:00:00+09:00",
    "event_date": ""
   },
   {
@@ -181,6 +271,16 @@
    "cat": "催し",
    "region": "県内・その他",
    "pub": "2026-11-14T18:07:02+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "a888ef426dc342f2",
+   "title": "【岡山市南区】岡山市サウスヴィレッジで「和牛フェア」開催 ...",
+   "url": "https://okayamanakaku-minamiku-higashiku.goguynet.jp/2026/11/15/southvillage-28/",
+   "source": "号外NET 岡山市",
+   "cat": "催し",
+   "region": "岡山市",
+   "pub": "2026-11-14T17:56:00+09:00",
    "event_date": ""
   },
   {
@@ -570,6 +670,16 @@
    "source": "山陽新聞",
    "cat": "催し",
    "region": "津山市",
+   "pub": "2026-11-13T17:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "6165c672c9e49378",
+   "title": "「第40回ひなせみなとまつり」にてアキッパの公式駐車場運営が決定",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4xODNLaTRXRkFaYWdKby1mWmlQU044ZUV1dG5nejBZLXh1WjNvQmdIUGs1YnpEZmtDckMyS3ZWQ09TOXF1VzlEaWZlRjJxNTgwS1E?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "県内・その他",
    "pub": "2026-11-13T17:00:00+09:00",
    "event_date": ""
   },
@@ -4911,66 +5021,6 @@
    "cat": "催し",
    "region": "県内・その他",
    "pub": "2026-11-08T10:12:10+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "f78427e8d07f27ed",
-   "title": "地元アーティストの魅力感じて ２３日に岡山で「きゅんみＮＩＧＨＴ」 ＲＳＫ山陽放送が初開催",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwQUlBeERTNHFLOFFfa2JfOXRlcW1KaEZlMWFtaVJ6eTFYaUw1aXU5c2l0RDNWeEJiVFpneW9JbHFiRlgyS2NLZHNtbGwzcl9vQ0E?oc=5",
-   "source": "山陽新聞",
-   "cat": "催し",
-   "region": "県内・その他",
-   "pub": "2026-11-08T08:34:38+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "8049667393925f7e",
-   "title": "岡山で震度１ 静岡県西部で地震",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5fT1l0MTV1X1dQODBmWnBobVRlMnJfeUFKdjFzczZJWG1XNWhScW91dmVQTWxENmMxbVZjc3ZyRVI0ei11cHhkQmdjUlF5dWFPZExoaGN5YV9HMTJFV0pDVml5RDNDb0tOcldCaDJuckZodV9hbUZLRnJDcVI2Z9IBgwFBVV95cUxPVFpGQkhTaURYSG1ZVjZhY3hPNEp3VXMxNlJTMGJXaThTR2RXM2g4ZFU1Zlo3TWZmSFRjVUxyOS1Sb2QtM1E3ckNqd2JPdG5DNnlDNWVaSlc2b2V1ajZoY0VvVTk3cGZNRm4xazZGS1k4RjhSeTgzV05xc0tIci13TlFiRQ?oc=5",
-   "source": "ｄメニューニュース",
-   "cat": "災害",
-   "region": "県内・その他",
-   "pub": "2026-11-08T07:58:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "e4aae7a1faae3808",
-   "title": "ハライチ、リンクコーデでイベント「しっくり来てます」 オリナス錦糸町に登場",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tQVV5QXN6YXp6QTBJMEVfZHV3b3RCdkpLcW9XLTRWVURUZ1FCRm03WThTMVg0LTF1VGtmTDRlQTQ5UmMzTi1vSkhNcGtlMTZOaXAzSnFubDI5YzhTS2NZaTFlME9NWDhJ?oc=5",
-   "source": "山陽新聞",
-   "cat": "催し",
-   "region": "県内・その他",
-   "pub": "2026-11-08T07:55:12+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "b5d7f968490ec40c",
-   "title": "ポーランドで銃乱射、６人死亡 容疑者の男拘束、１５人負傷",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5fWDJYQ21KTktFM3B4Q3QtNUtFYVBfOHlsQWFsWnNxLXJRUkJsQ0FkWFo2Vjh3Q2xQazRHZXNnVzNLNDN1VDAwZ0dWNUdtcmhwOHc?oc=5",
-   "source": "山陽新聞",
-   "cat": "事件",
-   "region": "県内・その他",
-   "pub": "2026-11-08T06:39:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "74c32858d2ee02bd",
-   "title": "【叡啓大学】参加者募集！11月25日（水）第2回「ひろしまクロスイノベーションフォーラム」を開催します",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBcktFcXVNdWxOQUVjMmp4QXEtUW5fTW9JZmh5ai13RlBjWEVtVTRMNWk0OXJ6LUV3M25HVTFleGdJc1lZaTNzb3hZY1RmYnpEQUE?oc=5",
-   "source": "山陽新聞",
-   "cat": "催し",
-   "region": "県内・その他",
-   "pub": "2026-11-08T06:35:07+09:00",
-   "event_date": "2026-11-25"
-  },
-  {
-   "id": "9d0a255e0646caaa",
-   "title": "【倒産】文具小売の事業者が破産手続き開始決定...倉敷美観地区や鎌倉で文具・収納用品のブランド店舗を展開【帝国データバンク】",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9GVlZWTDh2SE0xWE12UjIzajJlWWFHVldpTEcxM1BZdjk2bXJ6SzhMNUN3Q080TjlhMXZ2VmRfaEhBM0hIdlNzVWRuWVpMY2NqeUlXTGdCa0xSVEZvakh2eU5EOA?oc=5",
-   "source": "TBS NEWS DIG",
-   "cat": "催し",
-   "region": "倉敷市",
-   "pub": "2026-11-08T06:00:00+09:00",
    "event_date": ""
   }
  ]
