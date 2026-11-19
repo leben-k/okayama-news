@@ -621,13 +621,13 @@ a:focus-visible,button:focus-visible,select:focus-visible,input:focus-visible{ou
 .brand .ic{width:2.8rem;height:2.8rem;background:#fff;color:#d6457a;border-radius:50%;padding:.35rem}
 .brand h1{margin:0;font-size:1.45rem;line-height:1.3;font-weight:800}
 .brand p{margin:0;font-size:.85rem;opacity:.92}
-.upd{display:flex;align-items:center;gap:8px;background:rgba(255,255,255,.16);border:1px solid rgba(255,255,255,.4);border-radius:12px;padding:6px 12px;font-size:.88rem;line-height:1.4}
+.upd{display:flex;align-items:center;gap:8px;background:rgba(255,255,255,.16);border:1px solid rgba(255,255,255,.4);border-radius:10px;padding:4px 10px;font-size:.78rem;line-height:1.35}
 .upd .ic{width:1.5em;height:1.5em}
-.upd b{display:block;font-size:1.02rem}
+.upd b{display:block;font-size:.88rem}
 .upd small{display:block;opacity:.9}
 /* 2. メニュー */
 .menu{position:sticky;top:0;z-index:10;background:var(--card);border-bottom:3px solid var(--main2);box-shadow:0 2px 6px rgba(0,0,0,.12)}
-.menu .wrap{display:flex;gap:6px;overflow-x:auto;padding-top:8px;padding-bottom:8px;scrollbar-width:thin}
+.menu .wrap{display:flex;flex-wrap:wrap;gap:6px;padding-top:8px;padding-bottom:8px}
 .mi{flex:none;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:0;min-width:4.6rem;min-height:3.6rem;padding:4px 10px;border:2px solid var(--line);border-radius:12px;background:var(--card);color:var(--fg);font:inherit;font-size:.92rem;font-weight:700;line-height:1.3;cursor:pointer;text-decoration:none}
 .mi .ic{width:1.6em;height:1.6em;color:var(--k,var(--main2))}
 .mi small{font-weight:600;color:var(--sub);font-size:.8rem}
@@ -673,7 +673,33 @@ li a.t:hover,li a.t:focus{text-decoration:underline}
 footer{background:var(--card);border-top:3px solid var(--main2);margin-top:20px;padding:14px 0 28px;font-size:.88rem;color:var(--sub)}
 footer a{color:var(--main2);font-weight:700}
 @media (prefers-color-scheme:dark){footer a{color:#9bbbe6}}
-@media (max-width:520px){.brand h1{font-size:1.2rem}.srow{grid-template-columns:1fr}.sbox{flex-wrap:wrap}}
+.aboutlink{display:none}
+@media (max-width:640px){
+.band .wrap{gap:6px 10px;padding-top:8px;padding-bottom:8px}
+.brand{gap:8px}
+.brand .ic{width:2.2rem;height:2.2rem;padding:.25rem}
+.brand h1{font-size:1.12rem}
+.brand p{display:none}
+.upd{width:100%;padding:3px 10px;border-radius:8px;font-size:.72rem}
+.upd .ic{display:none}
+.upd>div{display:flex;flex-wrap:wrap;align-items:baseline;gap:0 8px}
+.upd b{display:inline;font-size:.78rem}
+.menu{position:static}
+.menu .wrap{display:grid;grid-template-columns:repeat(3,1fr);gap:6px;padding-top:8px;padding-bottom:8px}
+.mi{min-width:0;min-height:3.3rem;padding:3px 4px}
+.mi.about{display:none}
+.aboutlink{display:inline-block;margin-left:auto;color:#fff;font-size:.82rem;text-decoration:underline}
+section.day h2{top:0}
+.search{padding:8px 10px;margin:8px 0 6px;border-radius:10px}
+.search h2{font-size:.9rem;margin:0 0 4px}
+input[type=search],select{min-height:40px;padding:6px 10px;font-size:.95rem;border-radius:8px}
+.btn{min-height:40px;padding:2px 12px;font-size:.88rem;border-radius:8px}
+.sbox{gap:6px}
+.srow{grid-template-columns:3em 1fr;gap:6px;margin-top:6px}
+.srow label{font-size:.85rem}
+.tools{margin-top:8px;padding-top:6px;gap:4px;font-size:.8rem}
+.fsb{min-height:32px;padding:0 10px;font-size:.8rem}
+.status{margin:2px 2px 4px;font-size:.9rem}}
 """
 
 JS = """
@@ -824,6 +850,7 @@ def render_index(items, now):
 <div class="wrap">
 <a class="brand" href="./"><svg class="ic" aria-hidden="true"><use href="icons.svg#i-peach"/></svg>
 <div><h1>__TITLE__</h1><p>岡山県のニュース見出しを、自動で集めて一覧にしています</p></div></a>
+<a class="aboutlink" href="about.html">このサイトについて</a>
 <div class="upd"><svg class="ic" aria-hidden="true"><use href="icons.svg#i-clock"/></svg>
 <div><small>最終更新</small><b>__UPDATED__</b><small>__TIMES__自動で更新</small></div></div>
 </div>
@@ -838,7 +865,7 @@ def render_index(items, now):
 <h2><svg class="ic" aria-hidden="true"><use href="icons.svg#i-search"/></svg>さがす</h2>
 <form id="sform" role="search">
 <div class="sbox"><input id="q" type="search" placeholder="例:倉敷 火災 / 花火 / 駅" aria-label="ことばでさがす" autocomplete="off">
-<button type="button" class="btn" id="qclear">消す</button></div>
+<button type="button" class="btn" id="qclear">クリア</button></div>
 <div class="srow"><label for="region">地域</label>
 <select id="region">__REGIONOPTS__</select></div>
 </form>
