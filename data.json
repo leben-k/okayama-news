@@ -1,26 +1,26 @@
 {
- "updated": "2026-11-19T21:38:46.878616+09:00",
+ "updated": "2026-11-19T21:45:55.893262+09:00",
  "source_stats": {
   "Googleニュース": {
    "ok": 22,
    "ng": 0,
-   "raw": 357,
-   "adopted": 201,
-   "new": 4
+   "raw": 353,
+   "adopted": 196,
+   "new": 5
   },
   "Googleニュース(媒体別)": {
    "ok": 16,
    "ng": 0,
    "raw": 792,
-   "adopted": 96,
-   "new": 3
+   "adopted": 92,
+   "new": 2
   },
   "Bingニュース": {
-   "ok": 21,
-   "ng": 1,
-   "raw": 61,
-   "adopted": 30,
-   "new": 15
+   "ok": 20,
+   "ng": 2,
+   "raw": 62,
+   "adopted": 32,
+   "new": 16
   },
   "岡山県(緊急情報)": {
    "ok": 1,
@@ -314,26 +314,6 @@
    "event_date": ""
   },
   {
-   "id": "73c9c02607811214",
-   "title": "初期消火 正確さやスピード競う 瀬戸内で技術訓練大会",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8wTE9jcUoxaUVlM3BKUUswSVI2MWNydnozeTdKblpxUk9LTkMwWXBaTEhtUkdoWDVpYm9HekFqYUNhczZYSWNXQjFYYjJaNlpkc1E?oc=5",
-   "source": "山陽新聞",
-   "cat": "催し",
-   "region": "県内・その他",
-   "pub": "2026-11-19T13:58:02+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "f425142df768ba59",
-   "title": "【岡山大学】若手研究者育成・異分野交流を目指す「Brainstorming 2026 in 直島」を開催",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFUURmb3BNM2djNTAzNzJOb09tQ2dBQUpDTUd0VFJaYllhV1lMMi14TDhmbS01X1FOLVRlaXQ4MmRDeVhoa0RmN2NiQ28xekZBYkE?oc=5",
-   "source": "山陽新聞",
-   "cat": "催し",
-   "region": "県内・その他",
-   "pub": "2026-11-19T13:50:00+09:00",
-   "event_date": ""
-  },
-  {
    "id": "d3a6f4433970187b",
    "title": "ポーカー賭博場開いたか 岡山中央署、容疑で経営者ら２人と客８人逮捕",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBWd01yQkFNSnFKUjhjdWpaLWhZTXpqY2g5TzlDU1d3bEFxRjg1NWxFdGkwVlJpM0JYODNGcXdJc05RaGFfUnpsRGUtTkVrZGNJWVE?oc=5",
@@ -341,6 +321,16 @@
    "cat": "事件",
    "region": "県内・その他",
    "pub": "2026-11-19T13:42:33+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "c8ec9f8039453f21",
+   "title": "大地震想定し備前市で合同訓練 消防や警察が連携確認",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE01cGlDcVMxNzM1aTNqNkZzQjl2Q3VaNVREUFFBYTJoM1V2Z1JUZ3Z1bXV5V3BWcVMxYy1FUkR4eE5JNmRBc3J1dEpJY1pYUlBhZGJ4M1NuSWM?oc=5",
+   "source": "山陽新聞",
+   "cat": "災害",
+   "region": "備前市",
+   "pub": "2026-11-19T13:41:44+09:00",
    "event_date": ""
   },
   {
@@ -354,16 +344,6 @@
    "event_date": ""
   },
   {
-   "id": "30e381b505eebb2a",
-   "title": "高松南警察署のパトカー同士が接触事故 けが人なし 暴走行為のバイクを追跡中に（KSB瀬戸内海放送）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5raWdieFdTTkFmMkxZTUJMS3BhZHBXa0RaVHAxX1hsLXN2eGN0SGoyVnRaajhrUHR0aWVVc3VRUGZiTTlkcG9mZUd5WTcxWFVOdi1Fa19PYWszWGtaYm96QUpOV3VpNmRiUVNhNDVzVVZqdnRQY1AxVFoxdkNGSDA?oc=5",
-   "source": "Yahoo!ニュース",
-   "cat": "事故",
-   "region": "県内・その他",
-   "pub": "2026-11-19T12:41:21+09:00",
-   "event_date": ""
-  },
-  {
    "id": "80d67dbad276db47",
    "title": "鍵のかかっていない家に侵入しブーツ4足を盗んだ疑い 岡山市中区 ...",
    "url": "https://news.yahoo.co.jp/articles/29a854dddffec8ae04a7c90d033086363e205f86",
@@ -371,6 +351,16 @@
    "cat": "事件",
    "region": "岡山市",
    "pub": "2026-11-19T12:14:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "ed17914aa2455f3d",
+   "title": "真庭・落合で「まちかど展覧会」 ２６会場で住民のアート披露",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81NlVIbmc5TVIzSVUtR1JTcUl3Y21ZVDM1TUp6ZWVac0FaYWJ6TXZpUzlZVkNGeGRHUjVGYTlMcEgtTmcwMDRBLXNPcWdjMjYxY0E?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "真庭市",
+   "pub": "2026-11-19T12:08:37+09:00",
    "event_date": ""
   },
   {
@@ -411,16 +401,6 @@
    "cat": "事件",
    "region": "県内・その他",
    "pub": "2026-11-19T11:07:01+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "d4fc68d041215732",
-   "title": "【速報】瀬戸中央道が強風のため５０キロ規制 二輪車通行止め 児島ＩＣ～坂出ＩＣ【岡山・香川】",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBDRFFsLUtoSzlQUEtuTWVRT1lhVEVIak9nQ0VQaWVMa19pWTlLdmxjY2YtUUJuZ1V0R2RyaHZtejVkeEJGaWo1b0NnY0lfZDBFaHpBSVozdlpUeTg?oc=5",
-   "source": "OHK岡山放送",
-   "cat": "災害",
-   "region": "県内・その他",
-   "pub": "2026-11-19T11:02:01+09:00",
    "event_date": ""
   },
   {
@@ -531,16 +511,6 @@
    "cat": "事件",
    "region": "赤磐市",
    "pub": "2026-11-19T09:22:44+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "13641dbe4b0eae50",
-   "title": "高松南警察署のパトカー同士が接触事故 けが人なし 違反車両を追跡中に (KSB瀬戸内海放送)",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSGFGUGtITzBSUXBRWG9ZLUtKNTV5XzhhekZmZThZcFdFcE42aGZxWE5JZlFQN3gzeWliUXRPdlZKSjZkaV9BZHJQTU1CSS0zZVNOYlYzM3VCU1kzWGZwTWRqd1N6RTlWemxzYkpRX05BVmdJM0lrc2FZa3puZlRxNTJ4dWt2TzBLa25GbFdn?oc=5",
-   "source": "Yahoo!ニュース",
-   "cat": "事故",
-   "region": "県内・その他",
-   "pub": "2026-11-19T09:08:38+09:00",
    "event_date": ""
   },
   {
@@ -902,16 +872,6 @@
    "region": "県内・その他",
    "pub": "2026-11-18T12:16:57+09:00",
    "event_date": "2026-11-28"
-  },
-  {
-   "id": "074204e443562e9f",
-   "title": "並ばなくてもよい便利さ 瀬戸内国際芸術祭実行委が離島航路「乗船券オンライン予約販売」実証実験【香川】",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE93WWhMXy1KbnZ1UmtZWHNIX1Jfektjd0k0RzhlRENNTkZWTG83OHZ5dWJoNHRlX24xcTFFdGs3NzRVOUFFeFY3VlhXaExpb01MUjdjbXZLWWNPdGtP?oc=5",
-   "source": "OHK岡山放送",
-   "cat": "催し",
-   "region": "県内・その他",
-   "pub": "2026-11-18T12:12:01+09:00",
-   "event_date": ""
   },
   {
    "id": "b69f663e1b75a152",
@@ -1724,16 +1684,6 @@
    "event_date": ""
   },
   {
-   "id": "e8a584b3fa6f8b0e",
-   "title": "ダイヤモンド瀬戸内マリンホテル（職業体験）",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9sOFJoTHIyMHJIV0JEU2F5dXFkUEVMcWpSOVhvc3NOMzNKbXhqUU1iNjdEYUJ3RWdSUWppQ01kUURmdDQtcFFDR2Z3?oc=5",
-   "source": "OHK岡山放送",
-   "cat": "催し",
-   "region": "県内・その他",
-   "pub": "2026-11-16T10:54:58+09:00",
-   "event_date": ""
-  },
-  {
    "id": "6255729b8d513b58",
    "title": "パンのおいしさ再発見！岡山県浅口市でタカキベーカリー2019岡山工場「パンまつり」開催",
    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE81RHlkcW5OWGNRRW9tZDhJYW10UFZlbUF4bGxsWHNXZ2ZYWTZ0WmdGWFpXRDFlN1JQSGxHaUJIeHlsRHR1b1BOSTg3bVg1Y0kxLVhrRNIBWkFVX3lxTE0xN1FRQnJPLUNLTHc5VVJINEMySm52TVloM1RkY01UMGc0Q1JLbzF3cXBxUVRqTTllV1Q3YURJR2I4Mjc4UGtMdnJFdFdCRWRoSi1BNGlxWl9mUQ?oc=5",
@@ -2134,16 +2084,6 @@
    "event_date": ""
   },
   {
-   "id": "ed340adc32e13f2b",
-   "title": "玉藻公園北側の遊歩道「キャッスルプロムナード」で香川の食や特産品などを集めたイベント開催【香川】（OHK岡山放送）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCNXF3SnItTFdBU1F0OGR1T2JYZzlGOFJfNHB5YnF4ZlZTMDdSR2VSWWMxd3U3a3lTaDN4TF9WQ2dLX1c4NTVXQldCWjJjS25aNC1Sa3FPVjFqcWJZVnhsWTZmLVFRb1E0NDV6NnA1MEVlZkR0SDF4bHhSQ1BCdE0?oc=5",
-   "source": "Yahoo!ニュース",
-   "cat": "催し",
-   "region": "県内・その他",
-   "pub": "2026-11-14T18:07:02+09:00",
-   "event_date": ""
-  },
-  {
    "id": "56aac25671f0e1e4",
    "title": "【ズームアップ】笠岡署長になった槙野憲一さん 特殊詐欺防止と摘発に力",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1jQkZ1Z3kyRW9lZC1CalNIbGo4aktGT1gwYkJsNHJTQVVmZko3bC1JU0tROHBMVzRGZmE1SEhWczFMakUydU5lWWZqZU1heG5FVVE?oc=5",
@@ -2269,16 +2209,6 @@
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1vRVlEVzVqYnFXbllrWWs1NlJwaEVrSGlzQlpYMHNZLVgtUmc0c2hCTXB6M0RENWV1SjA3VFhyYWNsSGJWNTNfdnhJWFE0U0E3VXdQYjBRcU1Eb1JETTBtZHVjZzBCVHo0a0JsZTc4RGVKdw?oc=5",
    "source": "読売新聞",
    "cat": "事故",
-   "region": "県内・その他",
-   "pub": "2026-11-13T17:00:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "aa4872cf432e0fbc",
-   "title": "中国・四国のイルミネーション人気ランキングTop 10！ 広島・岡山・香川のクリスマスツリーや花火！ 2026-2027年最新",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5MbGJUZFdQNHRucXl6b1BBWWxYZXFfQU96WWNXU1hhUVRlVmRKbFhHV0haUjZVZjVtRTFWZ1p4X3hnTWpvTUlmRVRqNkZHSFk?oc=5",
-   "source": "るるぶWeb",
-   "cat": "催し",
    "region": "県内・その他",
    "pub": "2026-11-13T17:00:00+09:00",
    "event_date": ""
@@ -2441,16 +2371,6 @@
    "cat": "催し",
    "region": "奈義町",
    "pub": "2026-11-13T10:09:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "07c318f150db75ea",
-   "title": "軽自動車でバイクと衝突 女性にけがを負わせて逃げた疑い 会社員の男(75)を逮捕 香川県警（KSB瀬戸内海放送）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9sUjhiZjVqWXBMS1JZMmppTWVIZ21ybWpoUDNRR3M0RVJkQWR0ZTVDdk9jNEx3akpQY04wcXRHTlVKOVYyUk5IOXIweUZ2MS00c1F3cHpRTGJoa2UtUVdvbnhRVWdfUTFwSkZCOTh1aXAtLXk2VnVoNkEwUUViYUk?oc=5",
-   "source": "Yahoo!ニュース",
-   "cat": "事故",
-   "region": "県内・その他",
-   "pub": "2026-11-13T09:37:01+09:00",
    "event_date": ""
   },
   {
