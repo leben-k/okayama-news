@@ -113,6 +113,18 @@ MUNICIPALITIES = [
 ]
 REGION_OTHER = "県内・その他"
 
+# 市町村名以外で「岡山県内」とわかる言葉(地区名・警察署・海上保安部・名所・行事など)。
+# 見出しにこれらが入っていれば、「岡山」の文字がなくても岡山の記事として扱います。
+# 山陽新聞などの配信元だけで岡山とみなすことはしません(全国ニュースが混ざるため)。
+OKAYAMA_PLACE_WORDS = [
+    "岡山", "おかやま", "備前", "備中", "美作", "吉備", "瀬戸内", "牛窓", "邑久", "長船", "日生", "西大寺",
+    "児島", "水島", "玉島", "庭瀬", "足守", "牛窓", "湯郷", "蒜山", "後楽園", "吉備津", "鷲羽山", "瀬戸大橋",
+    "大谷焼", "つやま", "会陽", "桃太郎", "ファジアーノ", "シーガルズ", "楽天生命パーク", "玉島",
+    "倉敷", "津山", "玉野", "笠岡", "井原", "総社", "高梁", "新見", "赤磐", "真庭", "浅口", "和気", "早島",
+    "里庄", "矢掛", "新庄村", "鏡野", "勝央", "奈義", "西粟倉", "久米南", "美咲",
+    "県民局",
+]
+
 CATS = ["事件", "事故", "火災", "災害", "催し"]
 
 RE_FIRE = re.compile(r"火災|火事|全焼|半焼|延焼|焼死|山火事|炎上")
@@ -139,7 +151,7 @@ RE_OTHER_AREA = re.compile(
     r"フィリピン|インドネシア|トルコ|ブラジル|カナダ|豪州|オーストラリア|英国|イギリス|フランス|ドイツ|イタリア|"
     r"スペイン|アフリカ|中東|北朝鮮|ミャンマー|パキスタン|ネパール|メキシコ|アルゼンチン|ケニア|ナイジェリア"
 )
-RE_LOCAL_SOURCE = re.compile(r"山陽新聞|津山朝日|OHK|岡山放送|RSK|山陽放送|山陽新聞デジタル")
+# 配信元だけで岡山とみなす仕組みはやめました(山陽新聞などにも全国ニュースがあるため)。
 
 # 収集する時刻(日本時間)。取りこぼしたら、次の30分ごとの確認で取り戻します
 SLOTS = [(h, 0) for h in range(24)]  # 毎時0分(1時間ごと)
@@ -414,13 +426,39 @@ def find_event_date(title, pub):
     return dt.strftime("%Y-%m-%d")
 
 
+# 他県の地名が混ざる見出しでも、岡山の記事と判断できる言葉(市町村の正式名と、紛らわしくない地区名など)
+_SHORT_ONLY = {k for _n, keys in MUNICIPALITIES for k in keys} - {n for n, _k in MUNICIPALITIES}
+STRONG_PLACE_WORDS = [n for n, _k in MUNICIPALITIES] + [w for w in OKAYAMA_PLACE_WORDS if w not in _SHORT_ONLY]
+
+
+def has_okayama_area(title):
+    """見出しだけを見て、岡山県内の地名・言葉が入っているかを返す。
+    配信元(山陽新聞など)は判定に使わない。"""
+    return any(w in title for w in OKAYAMA_PLACE_WORDS)
+
+
+def is_okayama_news(title):
+    """報道各社・検索結果の見出しが、岡山のものかどうか。
+    ・岡山県内の地名がない見出しは、配信元がどこであっても採用しない
+    ・他県・外国の地名があるのに、岡山の市町村名(「倉敷市」のように正式名)も「岡山」もない見出しは採用しない"""
+    if not has_okayama_area(title):
+        return False
+    if "震度" in title and "岡山" not in title:
+        return False
+    if RE_OTHER_AREA.search(title) and "岡山" not in title:
+        # 他県の地名が混ざる見出しは、はっきり岡山とわかる言葉がある場合だけ認める。
+        # 「新見」「玉野」のような人名・店名と紛らわしい短い地名だけでは通さない
+        if not any(w in title for w in STRONG_PLACE_WORDS):
+            return False
+    return True
+
+
 def make_item(raw):
     """生の見出しを整えて、岡山に関係あれば項目を返す。関係なければ None"""
     title = raw["title"]
     source = raw["source"]
     if source and title.endswith(" - " + source):
         title = title[: -(len(source) + 3)]
-    rsk_area = "岡山・香川のニュース" in title
     title = title.split(" | ")[0]
     title = re.sub(r"\s+", " ", title).strip()
     if not title:
@@ -444,17 +482,9 @@ def make_item(raw):
             "pub": pub.isoformat(),
             "event_date": find_event_date(title, pub) if cat == "催し" else "",
         }
-    has_area = ("岡山" in title) or ("おかやま" in title) or region != REGION_OTHER
-    if not has_area and rsk_area and not RE_OTHER_AREA.search(title) and "香川" not in title:
-        has_area = True
-    if not has_area:
-        if not (RE_LOCAL_SOURCE.search(source) and not RE_OTHER_AREA.search(title)):
-            return None
-    # 他県の地震などを除く
-    if "震度" in title and "岡山" not in title:
-        return None
-    # 地名が岡山市以外の他県で、岡山が付いていないもの
-    if RE_OTHER_AREA.search(title) and "岡山" not in title and region == REGION_OTHER:
+    # 地名が見出しにない記事は、山陽新聞・RSKなど地元の配信元でも採用しない
+    # (共同通信配信の全国ニュースが混ざるため)
+    if not is_okayama_news(title):
         return None
 
     cat = find_cat(title)
@@ -896,12 +926,11 @@ def main():
     print("岡山関連として採用: %d件" % len(new_items))
 
     old = load_data()
-    # 前に集めた見出しのうち、岡山以外の地名(他県・外国)だけの見出しは外す
+    # 前に集めた見出しも、新しい判定で見直す(公式RSS・気象庁は岡山の情報なので、そのまま残す)
     keep_old = []
     for i in old:
-        if (i["source"] != "気象庁" and not i["source"].startswith(("岡山県", "岡山市"))
-                and RE_OTHER_AREA.search(i["title"]) and "岡山" not in i["title"]
-                and i.get("region") == REGION_OTHER):
+        official = i["source"] == "気象庁" or i["source"].startswith(("岡山県", "岡山市"))
+        if not official and not is_okayama_news(i["title"]):
             continue
         keep_old.append(i)
     if len(keep_old) != len(old):
