@@ -1,26 +1,26 @@
 {
- "updated": "2026-11-19T21:45:55.893262+09:00",
+ "updated": "2026-11-20T02:16:12.764632+09:00",
  "source_stats": {
   "Googleニュース": {
    "ok": 22,
    "ng": 0,
-   "raw": 353,
-   "adopted": 196,
-   "new": 5
+   "raw": 357,
+   "adopted": 191,
+   "new": 4
   },
   "Googleニュース(媒体別)": {
    "ok": 16,
    "ng": 0,
-   "raw": 792,
-   "adopted": 92,
+   "raw": 790,
+   "adopted": 89,
    "new": 2
   },
   "Bingニュース": {
-   "ok": 20,
-   "ng": 2,
-   "raw": 62,
-   "adopted": 32,
-   "new": 16
+   "ok": 22,
+   "ng": 0,
+   "raw": 61,
+   "adopted": 34,
+   "new": 18
   },
   "岡山県(緊急情報)": {
    "ok": 1,
@@ -67,12 +67,22 @@
   "気象庁": {
    "ok": 1,
    "ng": 0,
-   "raw": 7,
-   "adopted": 7,
+   "raw": 9,
+   "adopted": 9,
    "new": 0
   }
  },
  "items": [
+  {
+   "id": "1cc54a6dc690e40e",
+   "title": "中学の給食から金属片 岡山県高梁市、健康被害の報告なし（山陽新聞デジタル）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5bnNTQWNoZ2FRRkxodmNUZDFoOE5DNFZKU0V0MmRibWJmWHdQSk1oX05sUEpTbzlsY09NY3pFRm8xdVREUHY1c1pNOXJZaVNib2UzWF9oOWlMY2lpOTFQU1JyeWtzRjVsMGhGR1h1d2pXVTJLNTNCdFJDS2RYLWM?oc=5",
+   "source": "Yahoo!ニュース",
+   "cat": "事件",
+   "region": "高梁市",
+   "pub": "2026-11-19T22:33:47+09:00",
+   "event_date": ""
+  },
   {
    "id": "3654b85b661b05b9",
    "title": "避難所向けインスタントルーム供給 瀬戸内市と販売会社（東京）協定",
@@ -491,6 +501,16 @@
    "cat": "催し",
    "region": "県内・その他",
    "pub": "2026-11-19T09:52:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "8db3593a6c5e85c9",
+   "title": "【岡山大学】TEDx Okayama University 2026「BEYOND」を開催",
+   "url": "https://prtimes.jp/main/html/rd/p/000004370.000072793.html",
+   "source": "PR TIMES",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-11-19T09:48:00+09:00",
    "event_date": ""
   },
   {
@@ -1184,26 +1204,6 @@
    "event_date": ""
   },
   {
-   "id": "aa7316b9591a0a29",
-   "title": "岡山の中山間地域「美咲町」がファン獲得へ 東京でイベント開催 11月19日（KSB瀬戸内海放送）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rQU1FbWMyamtQTDhEbWxKOEdxaWFnUmZqUWR2Z0ExbmN1b3FETnNUV3h1UllsdzNWcWNyRkZWbF9tSXlTRHgtRkhEaVJ1NzZUaFI3Mk1IVWFsQmpCMHVzN1FYTzJHQ3hFY3hRMTQwOGx5SHg5S0t5eFBfeG9Qc0k?oc=5",
-   "source": "Yahoo!ニュース",
-   "cat": "催し",
-   "region": "美咲町",
-   "pub": "2026-11-17T17:37:26+09:00",
-   "event_date": "2026-11-19"
-  },
-  {
-   "id": "8a5ca542652eb479",
-   "title": "岡山の中山間地域「美咲町」がファン獲得へ 東京でイベント開催 11月19日",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5BVEU1b25GNmRualpOUGJXRUhXVmFYYXhST0J2S0FzU19ISENOYW1hWnhMMWw2VEgySlpYUzR3TF9NZ1NSSkM2QUwwSEM5S2N2?oc=5",
-   "source": "KSBニュース",
-   "cat": "催し",
-   "region": "美咲町",
-   "pub": "2026-11-17T17:37:00+09:00",
-   "event_date": "2026-11-19"
-  },
-  {
    "id": "70b72c49ea0eb70b",
    "title": "【11月25日清水戦】「ファジアーノオータムフェスタ2026」第2弾！ファジフーズ初の本格日本酒イベント『SAKEスタジアム』開催のお知らせ",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmNnZuSVh5b3RqRGItdVN2bzNtX0RZY0NwUTUzR1h6SEUxUjRWczJsekdGRjlTSXFpRkl1cWZJSUd6eXc4T0ZJbG1IOFlFUUZDa3cxUGIwZU9DNGZTQ1BZ?oc=5",
@@ -1520,6 +1520,16 @@
    "source": "山陽新聞",
    "cat": "催し",
    "region": "井原市",
+   "pub": "2026-11-16T17:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "f640dad036a66f27",
+   "title": "倉敷消防署が定兼さん（西中１年）表彰 火災通報や住民避難に尽力",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9EcHd3QjRDY0tQbkI1ZTJGTm5OY3NjMi1nbEhnWHhET1Ywa2twX0VtMFhRaXhPa1hZUWxjbnRReENTbFd3OFlJNHFxR253eGNicTJRVmV0ZGRhZ0RIT18yc1FrNU45WVBEUEFaVC1mYWthMXE3WG1B?oc=5",
+   "source": "山陽新聞",
+   "cat": "火災",
+   "region": "倉敷市",
    "pub": "2026-11-16T17:00:00+09:00",
    "event_date": ""
   },
@@ -1870,6 +1880,16 @@
    "source": "山陽新聞",
    "cat": "催し",
    "region": "倉敷市",
+   "pub": "2026-11-15T17:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "80c2bdbeaf9ec313",
+   "title": "久世遷喬スポ少４年ぶりの栄冠 真庭市少年野球大会",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBBaFBVVE5vQUdtblNmdDE5Z3V3QlJBdG5DVmVnbUFTN1paQ21Yd3ctRTN2LURmU2tiYmRkNUhHTlBURVByd3Nmc2pFNXd4eE02QzZpMEpLUEVnT0dRXzJzREV3VG1lYnc?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "真庭市",
    "pub": "2026-11-15T17:00:00+09:00",
    "event_date": ""
   },
