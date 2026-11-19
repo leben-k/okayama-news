@@ -117,9 +117,9 @@ REGION_OTHER = "県内・その他"
 # 見出しにこれらが入っていれば、「岡山」の文字がなくても岡山の記事として扱います。
 # 山陽新聞などの配信元だけで岡山とみなすことはしません(全国ニュースが混ざるため)。
 OKAYAMA_PLACE_WORDS = [
-    "岡山", "おかやま", "備前", "備中", "美作", "吉備", "瀬戸内", "牛窓", "邑久", "長船", "日生", "西大寺",
-    "児島", "水島", "玉島", "庭瀬", "足守", "牛窓", "湯郷", "蒜山", "後楽園", "吉備津", "鷲羽山", "瀬戸大橋",
-    "大谷焼", "つやま", "会陽", "桃太郎", "ファジアーノ", "シーガルズ", "楽天生命パーク", "玉島",
+    "岡山", "おかやま", "備前", "備中", "美作", "吉備", "牛窓", "邑久", "長船", "日生", "西大寺",
+    "児島", "水島", "玉島", "庭瀬", "足守", "牛窓", "湯郷", "蒜山", "後楽園", "吉備津", "鷲羽山",
+    "大谷焼", "つやま", "会陽", "ファジアーノ", "シーガルズ", "楽天生命パーク", "玉島",
     "倉敷", "津山", "玉野", "笠岡", "井原", "総社", "高梁", "新見", "赤磐", "真庭", "浅口", "和気", "早島",
     "里庄", "矢掛", "新庄村", "鏡野", "勝央", "奈義", "西粟倉", "久米南", "美咲",
     "県民局",
@@ -432,18 +432,32 @@ _SHORT_ONLY = {k for _n, keys in MUNICIPALITIES for k in keys} - {n for n, _k in
 STRONG_PLACE_WORDS = [n for n, _k in MUNICIPALITIES] + [w for w in OKAYAMA_PLACE_WORDS if w not in _SHORT_ONLY]
 
 
+# 香川県の地名(香川の記事を除くために使う)
+RE_KAGAWA = re.compile(
+    r"香川|高松|丸亀|坂出|善通寺|観音寺|さぬき市|東かがわ|三豊|小豆島|直島|琴平|綾川|宇多津|多度津|まんのう|土庄|三木町|屋島|栗林公園"
+)
+# 「岡山・香川」のように、2県をならべただけの言い方(これだけでは岡山の記事とみなさない)
+RE_PAIR_LABEL = re.compile(r"岡山・香川|香川・岡山|岡山と香川|香川と岡山|岡山、香川|香川、岡山|岡山・香川")
+
+
 def has_okayama_area(title):
     """見出しだけを見て、岡山県内の地名・言葉が入っているかを返す。
     配信元(山陽新聞など)は判定に使わない。"""
-    return any(w in title for w in OKAYAMA_PLACE_WORDS)
+    return any(w in title for w in OKAYAMA_PLACE_WORDS) or find_region(title) != REGION_OTHER
 
 
 def is_okayama_news(title):
     """報道各社・検索結果の見出しが、岡山のものかどうか。
     ・岡山県内の地名がない見出しは、配信元がどこであっても採用しない
     ・他県・外国の地名があるのに、岡山の市町村名(「倉敷市」のように正式名)も「岡山」もない見出しは採用しない"""
+    # 「岡山・香川」のように2県をならべた言い方は、地名とは数えない(KSB・OHKなど両県向けの放送局が付けるため)
+    title = RE_PAIR_LABEL.sub("", title)
     if not has_okayama_area(title):
         return False
+    # 香川県の地名がある見出しは、「岡山県」「岡山市」や、市町村の正式名(倉敷市など)がある場合だけ採用する
+    if RE_KAGAWA.search(title):
+        if not re.search("岡山県|岡山市|" + "|".join(n for n, _k in MUNICIPALITIES), title):
+            return False
     if "震度" in title and "岡山" not in title:
         return False
     if RE_OTHER_AREA.search(title) and "岡山" not in title:
