@@ -1,26 +1,26 @@
 {
- "updated": "2026-11-19T20:31:05.925165+09:00",
+ "updated": "2026-11-19T21:03:24.986537+09:00",
  "source_stats": {
   "Googleニュース": {
    "ok": 22,
    "ng": 0,
-   "raw": 345,
-   "adopted": 203,
-   "new": 7
+   "raw": 356,
+   "adopted": 202,
+   "new": 8
   },
   "Googleニュース(媒体別)": {
    "ok": 16,
    "ng": 0,
-   "raw": 790,
+   "raw": 788,
    "adopted": 95,
-   "new": 3
+   "new": 2
   },
   "Bingニュース": {
    "ok": 22,
    "ng": 0,
-   "raw": 63,
-   "adopted": 33,
-   "new": 15
+   "raw": 62,
+   "adopted": 35,
+   "new": 20
   },
   "岡山県(緊急情報)": {
    "ok": 1,
@@ -67,8 +67,8 @@
   "気象庁": {
    "ok": 1,
    "ng": 0,
-   "raw": 9,
-   "adopted": 9,
+   "raw": 7,
+   "adopted": 7,
    "new": 0
   }
  },
@@ -511,6 +511,16 @@
    "cat": "催し",
    "region": "笠岡市",
    "pub": "2026-11-19T09:45:48+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "b5d43ada5146b341",
+   "title": "熊山遺跡で瞑想 心身整える 赤磐市観光協会 体験型ツアー初開催",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5OYjg0cGlFNWJlVzUzamtRTURld01iWHNjMTNpTlp2SUlKaWIxc0hhMHpuQnNvbGdhalNRdlppWVlIYklaWVBUOFY5bGVES2czVDRnOVJVay1UUDF4ZFJDM0xqS2Y5RkU?oc=5",
+   "source": "山陽新聞",
+   "cat": "事件",
+   "region": "赤磐市",
+   "pub": "2026-11-19T09:22:44+09:00",
    "event_date": ""
   },
   {
@@ -1524,6 +1534,26 @@
    "event_date": ""
   },
   {
+   "id": "1d029107fc2d8d45",
+   "title": "岡山県警警視・不同意わいせつ容疑事件 ９日地裁判決 検察側と弁護側、真っ向から対立 当事者らの証言・供述どう判断",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBla1VVbmZoWUVhSzBIVzZPRU0tWTNwekMyWF8yMXJTaVZiekJaZnMyMDJraGxLT0VGb0xmV0hDVWV3ZHN6QXdXN2g5NmVWSGlOMlE?oc=5",
+   "source": "山陽新聞",
+   "cat": "事件",
+   "region": "県内・その他",
+   "pub": "2026-11-16T17:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "281e09e142b9b786",
+   "title": "井原・葡萄浪漫館が日替わりイベント ピザの販売や体験型催しも",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rS3pXOE14MEdRTUxSbkxOU2djV2hFUjlhLUthaDhhcVRWSHhBa2ZCaWFITnhXS0JGR3lSVzlLNFhqYXI5dkpvSTBQM09FTzBBMkE?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "井原市",
+   "pub": "2026-11-16T17:00:00+09:00",
+   "event_date": ""
+  },
+  {
    "id": "279248cb3cb4cb47",
    "title": "車盗んで逃走する際、追いかけてきた所有者にけが 岡山中央署が強盗致傷疑いで男逮捕（山陽新聞デジタル）",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Dd3lvNllVNFlial9YakNTV190RW1iV2RYSzVFUlpaOVlqejZIN0pUaDFXZmV5ZmtIRHlJcWxPbEZoenlUZWV6MVplYW4tQlItbURlY2F4eVBzOGEwYXZSUjVoNzhGTGZvajNaWm5yS1lFSWxfaG1QaTJrNk9rTWc?oc=5",
@@ -1934,6 +1964,16 @@
    "event_date": ""
   },
   {
+   "id": "808b467ef191bde8",
+   "title": "出産した女児の首をタオルで絞め殺害 容疑で母親を再逮捕 岡山",
+   "url": "https://www.sankei.com/article/20261115-3GTEP6V5TNJY3DXW62OKTLU3WE/",
+   "source": "産経ニュース",
+   "cat": "事件",
+   "region": "県内・その他",
+   "pub": "2026-11-15T14:29:00+09:00",
+   "event_date": ""
+  },
+  {
    "id": "35cc81852461036d",
    "title": "岡山済生会総合病院が第3回防災わくわくフェスタにDMATブース出展へ",
    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1Hbk9SSUoxX0NNcmZRSjV4LXk1WHFwRXpZQ3VPQlpZNjJKeXpzNXp4SU9mNDEtc3NjMGRWSWJlcUpTV2xWdUZN?oc=5",
@@ -2011,6 +2051,16 @@
    "cat": "事件",
    "region": "県内・その他",
    "pub": "2026-11-15T10:02:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "3ca7d0e2d3fb9310",
+   "title": "女児への殺人容疑で母親を再逮捕 倉敷市の死体遺棄容疑事件",
+   "url": "https://www.msn.com/ja-jp/news/news/%E5%A5%B3%E5%85%90%E3%81%B8%E3%81%AE%E6%AE%BA%E4%BA%BA%E5%AE%B9%E7%96%91%E3%81%A7%E6%AF%8D%E8%A6%AA%E3%82%92%E5%86%8D%E9%80%AE%E6%8D%95-%E5%80%89%E6%95%B7%E5%B8%82%E3%81%AE%E6%AD%BB%E4%BD%93%E9%81%BA%E6%A3%84%E5%AE%B9%E7%96%91%E4%BA%8B%E4%BB%B6/ar-AA2htrBk",
+   "source": "山陽新聞デジタル on MSN",
+   "cat": "事件",
+   "region": "倉敷市",
+   "pub": "2026-11-15T09:35:31+09:00",
    "event_date": ""
   },
   {
