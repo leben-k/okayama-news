@@ -1,26 +1,26 @@
 {
- "updated": "2026-11-19T02:57:07.227488+09:00",
+ "updated": "2026-11-19T09:13:15.622267+09:00",
  "source_stats": {
   "Googleニュース": {
    "ok": 22,
    "ng": 0,
-   "raw": 361,
-   "adopted": 208,
-   "new": 24
+   "raw": 356,
+   "adopted": 205,
+   "new": 9
   },
   "Googleニュース(媒体別)": {
    "ok": 16,
    "ng": 0,
-   "raw": 787,
-   "adopted": 178,
-   "new": 17
+   "raw": 777,
+   "adopted": 173,
+   "new": 8
   },
   "Bingニュース": {
    "ok": 22,
    "ng": 0,
-   "raw": 67,
-   "adopted": 37,
-   "new": 21
+   "raw": 60,
+   "adopted": 36,
+   "new": 19
   },
   "岡山県(緊急情報)": {
    "ok": 1,
@@ -67,12 +67,42 @@
   "気象庁": {
    "ok": 1,
    "ng": 0,
-   "raw": 6,
-   "adopted": 6,
-   "new": 4
+   "raw": 2,
+   "adopted": 2,
+   "new": 0
   }
  },
  "items": [
+  {
+   "id": "bc2ae242947bbfb9",
+   "title": "「岡山県地域防災計画（風水害等対策編、地震・津波災害対策編、原子力災害等対策編）」（素案）へのご意見を募集します",
+   "url": "https://www.pref.okayama.lg.jp/page/1015327.html",
+   "source": "岡山県(新着情報)",
+   "cat": "災害",
+   "region": "県内・その他",
+   "pub": "2026-11-19T07:30:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "a8c9404c5a8862ad",
+   "title": "特産の自然薯味わって ２２日、吉備中央で「祭り」と「マルシェ」",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mSHdjdjZjbzRUUVpUUVY2RlRhNFpXcGs3ZmdvM1VhbnBsUlNDZUMzZEhPenNhV25sN3B4czQ2V3Z0RmdxLV83eHBFeEVWcmpkYnc?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "吉備中央町",
+   "pub": "2026-11-19T07:11:08+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "b3a0b2c1aed064e8",
+   "title": "『ダウト』新章開幕 “コウモリ”判明後に新たな事件発生【第8話あらすじ】",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fMlBOZWFPRThfazl0SGQ5MEUxcE0yNHdWNEtLWS15OC0tYVc3dWZ0R2czUWZJZmo4a0JJeEVMVXh6enZuOXFWSTEzckppclFUdlE?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-11-19T06:00:00+09:00",
+   "event_date": ""
+  },
   {
    "id": "47096e0167ac0885",
    "title": "知人生徒刺した中学３年男子逮捕 殺人未遂容疑で岡山県警 恋愛トラブルか",
@@ -134,6 +164,16 @@
    "event_date": ""
   },
   {
+   "id": "29effd29ab0299ba",
+   "title": "岡山・能楽堂ホールで、NAOTO×石成正人×松本圭司『Sugar & Spice Special Live』開催",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBBRmNjWmVIWHdNOXlfQ1hLa2FNN3c0cWdOcnlicncxODRTNEZ5eHgtbmVzVjVYbXFhSTRkN0kzNWl6cnZHRzVYckV6Ulk1WmfSAVRBVV95cUxQeGstaWVuV1FCalVXeHMxX1hJcV9tNFZEckNWVjNURk02ZFJmb1JXak5nVGF1dUZIdWRFM3dFZzlwNUpSTXRScFNDY1drNURHNGJYcGE?oc=5",
+   "source": "エンタメ特化型情報メディア スパイス",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-11-18T22:00:00+09:00",
+   "event_date": ""
+  },
+  {
    "id": "69f588c235687a2b",
    "title": "1泊2日自転車旅＆体験・グルメ・絶景を調査 秋の岡山県矢掛町を大満喫！｜VOICE de GO！",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PNlFBOHUteVphdW9laklySzR6RndnVnRlZEtNWVFDZVN4X2VqWDJheHF4VHNQaDlKMFdGemE3UDBDMjMxNThHWFhFNDNaNWhvamk4T3BCbHhGZ0k?oc=5",
@@ -171,6 +211,16 @@
    "cat": "災害",
    "region": "県内・その他",
    "pub": "2026-11-18T21:04:17+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "760aaa3abe26ef2f",
+   "title": "無免許運転で逮捕 陸自隊員を停職処分 岡山・三軒屋駐屯地 (山陽新聞デジタル)",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNUZaNnd3LVFBMjV2Mk1OelluYXdjZ3poSG1wSHZRa29xQ0J0YWJBbjFiRTRFbUpjajNDd1MyNURFVjRhRDBvRi1QeGpfcUdOLXBHWWptOENfWGN2aENaMmZJZTZhLWVBQUpqbV9sbzFsbnNZdV9fUmstNk5TM29Rbmx4WmIwN3B3dmd2MUt3?oc=5",
+   "source": "Yahoo!ニュース",
+   "cat": "事件",
+   "region": "県内・その他",
+   "pub": "2026-11-18T20:57:54+09:00",
    "event_date": ""
   },
   {
@@ -1940,6 +1990,36 @@
    "source": "山陽新聞",
    "cat": "災害",
    "region": "浅口市",
+   "pub": "2026-11-16T17:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "eab881a8dafbe7db",
+   "title": "車と野生動物の接触事故防止へ 岡山理科大の辻氏など装置開発中",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5VS3dVbXllOVVrZ1lLYTJyclltRHc5TExibFM2TXRENXhTcElmZTd0SmJDTE8wSVFPd3JPTV9BaG5LYjNYcDl4THQ2U1VGWGJ0WjlRaTVBSm5pREpGM01GY2sxVUxxWVp5NGtIRDRva2ZvdVAwUnow?oc=5",
+   "source": "山陽新聞",
+   "cat": "事故",
+   "region": "県内・その他",
+   "pub": "2026-11-16T17:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "a5bc6c2201ebb2a7",
+   "title": "詐欺未遂容疑で男逮捕 倉敷署",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1JakNTRjNnN003clcxaU1uUHdpS1JOMXB3M3NVcDdETk9wbV85cXgxckdaeUxYMzRadG1sdGVRNjlSTjRQWHE4Mm56X2U4WjRGYWpuaUNoZURnOTB2NVhfdE96eFoya1E?oc=5",
+   "source": "山陽新聞",
+   "cat": "事件",
+   "region": "倉敷市",
+   "pub": "2026-11-16T17:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "281e09e142b9b786",
+   "title": "井原・葡萄浪漫館が日替わりイベント ピザの販売や体験型催しも",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rS3pXOE14MEdRTUxSbkxOU2djV2hFUjlhLUthaDhhcVRWSHhBa2ZCaWFITnhXS0JGR3lSVzlLNFhqYXI5dkpvSTBQM09FTzBBMkE?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "井原市",
    "pub": "2026-11-16T17:00:00+09:00",
    "event_date": ""
   },
@@ -5441,56 +5521,6 @@
    "cat": "火災",
    "region": "県内・その他",
    "pub": "2026-11-12T09:29:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "9fcd232e8ac0e10f",
-   "title": "来秋開催「森の芸術祭 晴れの国・岡山」2027に向け、トークイベントを開催！",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IalhYVU1tU2dEdFBhc1l6RGZjUWpYNmR5TUo5RGxodVRMaEFEdTItZFpNcUNVY0Q3Tmo0eC1zb0Y2bHVyblI2QUdQQUk5YWE1eUE?oc=5",
-   "source": "山陽新聞",
-   "cat": "催し",
-   "region": "県内・その他",
-   "pub": "2026-11-12T09:06:29+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "fd7032f1bb015a60",
-   "title": "広島で住宅火災、３人と連絡取れず",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBQZEp3eF9yekowUDlrZFg1akUxbkI5R0hoYjd1UTN0WFM5QVdTREVyOXFfbHFnSnNCcmZEVHU2eUlKXzIzcFZBcWhvUnNTSWpSTmFuam91Q1A?oc=5",
-   "source": "山陽新聞",
-   "cat": "火災",
-   "region": "県内・その他",
-   "pub": "2026-11-12T08:59:26+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "d95a6da01b0b3146",
-   "title": "11/14（土）11/15（日）カルマの祭が日岡山のON THE HILLで開催！全国52組の作り手と三宅洋平・DJ KENSEIらが集結【入場無料・要事前受付】",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE02RWRES0d6Zm1mVExrMGZ0d0xST0sxRnozUnE0MzhSZmNXVldoeTc2QkVRenR0Q1ZtcHdESWk1aWktdHNtUDJVdG9KTDJtTE1oSlN6QXZoZ3lCbUk3OVJCWWFQQXpjLXV6RDFv?oc=5",
-   "source": "かこがわノート",
-   "cat": "催し",
-   "region": "県内・その他",
-   "pub": "2026-11-12T07:00:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "76f1d38781482f5c",
-   "title": "親子で楽しめる一大イベント 岡山県のおもちゃ王国で「ザッ！祭り」開催",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Fc3J2VlpQRWFXcm1ubkt6MzVwOXR2ZTVlczVkUlFJdUZONmhvVHEtSGtLVWdQNEY5eGpJdGNScXV3amVoeFZwVkZUUWFUR29SVmRaStIBWkFVX3lxTE5qbFF3YjF3LV9iRWNaWE1YNkZTSTF3UmRYcmJFc2JTbDBRc09Td1Qxa2s3WlpHN3ZGZW9FSVA1eXBsTWg1LWNiWi00Qm1FVE9Ed1dyX2ZmRGxFQQ?oc=5",
-   "source": "Walker Plus",
-   "cat": "催し",
-   "region": "県内・その他",
-   "pub": "2026-11-12T06:25:10+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "fd6e0f14d88aa0cd",
-   "title": "元同僚から570万円詐取 容疑で男逮捕、岡山西署",
-   "url": "https://www.sanyonews.jp/article/2019964",
-   "source": "山陽新聞デジタル",
-   "cat": "事件",
-   "region": "県内・その他",
-   "pub": "2026-11-12T04:21:00+09:00",
    "event_date": ""
   }
  ]
