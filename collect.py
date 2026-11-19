@@ -23,9 +23,9 @@ from email.utils import parsedate_to_datetime
 
 # ====================== 調整できるところ ======================
 BASE_URL = "https://leben-k.github.io/okayama-news/"
-SITE_TITLE = "岡山関係情報（事件・事故・災害・催し）"
+SITE_TITLE = "岡山の事件・事故・災害・催し"
 OPERATOR = "地域情報室"
-UPDATE_TIMES_TEXT = "適時に"  # 表示用の文言(時刻はcollect.ymlのcronで決まります)
+UPDATE_TIMES_TEXT = "随時"  # 表示用の文言(時刻はcollect.ymlのcronで決まります)
 
 DATA_FILE = "data.json"
 SITE_DIR = "site"
@@ -126,6 +126,7 @@ OKAYAMA_PLACE_WORDS = [
 ]
 
 CATS = ["事件", "事故", "火災", "災害", "催し"]
+CAT_ICON = {"事件": "i-siren", "事故": "i-car", "火災": "i-fire", "災害": "i-storm", "催し": "i-fireworks"}
 
 RE_FIRE = re.compile(r"火災|火事|全焼|半焼|延焼|焼死|山火事|炎上")
 RE_DISASTER = re.compile(
@@ -583,48 +584,82 @@ def sources_text():
 # ページ作成
 # ------------------------------------------------------------
 CSS = """
-:root{--bg:#f3f5f8;--fg:#1c2430;--sub:#566274;--card:#fff;--line:#d5dbe4;--main:#1f3a5f;--on:#fff}
-@media (prefers-color-scheme:dark){:root{--bg:#10151c;--fg:#e8ecf1;--sub:#a3adbb;--card:#18202a;--line:#2a3441;--main:#7fa6d8;--on:#10151c}}
-.k-事件{--k:#c62828;--kt:rgba(198,40,40,.09)}
-.k-事故{--k:#c75000;--kt:rgba(199,80,0,.09)}
-.k-火災{--k:#ad1457;--kt:rgba(173,20,87,.09)}
-.k-災害{--k:#1565c0;--kt:rgba(21,101,192,.09)}
-.k-催し{--k:#2e7d32;--kt:rgba(46,125,50,.09)}
+:root{--bg:#eef2f7;--fg:#14202e;--sub:#44536a;--card:#fff;--line:#c9d3e0;--main:#1f3a5f;--main2:#2d5a8e;--on:#fff;--focus:#1f3a5f}
+@media (prefers-color-scheme:dark){:root{--bg:#10151c;--fg:#f0f4f9;--sub:#b4c0d0;--card:#1a222c;--line:#364457;--main:#16263f;--main2:#9bbbe6;--on:#f0f4f9;--focus:#9bbbe6}}
+.k-事件{--k:#c62828;--kt:rgba(198,40,40,.07)}
+.k-事故{--k:#b34700;--kt:rgba(179,71,0,.07)}
+.k-火災{--k:#ad1457;--kt:rgba(173,20,87,.07)}
+.k-災害{--k:#1565c0;--kt:rgba(21,101,192,.07)}
+.k-催し{--k:#2e7d32;--kt:rgba(46,125,50,.07)}
+@media (prefers-color-scheme:dark){.k-事件{--k:#ff8a80}.k-事故{--k:#ffb04d}.k-火災{--k:#f48fb1}.k-災害{--k:#74bdf5}.k-催し{--k:#81c784}}
 *{box-sizing:border-box}
-html{font-size:100%}
-html.fs2{font-size:118%}html.fs3{font-size:138%}
-body{margin:0;background:var(--bg);color:var(--fg);font-family:-apple-system,BlinkMacSystemFont,"Hiragino Sans","Yu Gothic UI","Meiryo",sans-serif;line-height:1.6}
+html{font-size:17px;scroll-padding-top:70px}
+html.fs2{font-size:19.5px}html.fs3{font-size:22px}
+body{margin:0;background:var(--bg);color:var(--fg);font-family:"Hiragino Kaku Gothic ProN","Hiragino Sans","BIZ UDPGothic","Yu Gothic","Noto Sans JP",Meiryo,sans-serif;line-height:1.7}
 [hidden]{display:none!important}
-header{background:var(--main);color:var(--on);padding:14px 16px}
-header h1{margin:0;font-size:1.15rem;line-height:1.35}
-header p{margin:6px 0 0;font-size:.82rem;opacity:.95}
-main{max-width:820px;margin:0 auto;padding:12px}
-.panel{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:12px;margin-bottom:12px}
-.row{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin:0 0 10px}
-.row:last-child{margin-bottom:0}
-.lbl{font-size:.78rem;color:var(--sub);width:100%}
-button,select,input{font:inherit;color:var(--fg)}
-.chip{border:2px solid var(--line);background:var(--card);border-radius:999px;padding:6px 14px;cursor:pointer;min-height:42px;font-weight:600}
-.chip[aria-pressed=true]{background:var(--main);color:var(--on);border-color:var(--main)}
-.chip.cat{border-color:var(--k);color:var(--k)}
-.chip.cat[aria-pressed=true]{background:var(--k);color:#fff;border-color:var(--k)}
-.chip small{font-weight:400;opacity:.9;margin-left:2px}
-select,input[type=search]{border:1px solid var(--line);background:var(--card);border-radius:8px;padding:9px 10px;min-height:42px;flex:1;min-width:140px}
-.count{font-size:.85rem;color:var(--sub);margin:4px 2px 8px}
-section.day h2{font-size:1rem;margin:18px 2px 8px;color:var(--fg);border-bottom:2px solid var(--line);padding-bottom:4px}
+.ic{width:1.3em;height:1.3em;flex:none;vertical-align:-.25em}
+a:focus-visible,button:focus-visible,select:focus-visible,input:focus-visible{outline:3px solid var(--focus);outline-offset:2px}
+.wrap{max-width:860px;margin:0 auto;padding:0 14px}
+/* 1. 帯(サイト名・更新時間) */
+.band{background:linear-gradient(135deg,var(--main),var(--main2));color:#fff}
+.band .wrap{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:10px 18px;padding-top:14px;padding-bottom:14px}
+.brand{display:flex;align-items:center;gap:12px;color:#fff;text-decoration:none}
+.brand .ic{width:2.8rem;height:2.8rem;background:#fff;color:#d6457a;border-radius:50%;padding:.35rem}
+.brand h1{margin:0;font-size:1.45rem;line-height:1.3;font-weight:800}
+.brand p{margin:0;font-size:.85rem;opacity:.92}
+.upd{display:flex;align-items:center;gap:8px;background:rgba(255,255,255,.16);border:1px solid rgba(255,255,255,.4);border-radius:12px;padding:6px 12px;font-size:.88rem;line-height:1.4}
+.upd .ic{width:1.5em;height:1.5em}
+.upd b{display:block;font-size:1.02rem}
+.upd small{display:block;opacity:.9}
+/* 2. メニュー */
+.menu{position:sticky;top:0;z-index:10;background:var(--card);border-bottom:3px solid var(--main2);box-shadow:0 2px 6px rgba(0,0,0,.12)}
+.menu .wrap{display:flex;gap:6px;overflow-x:auto;padding-top:8px;padding-bottom:8px;scrollbar-width:thin}
+.mi{flex:none;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:0;min-width:4.6rem;min-height:3.6rem;padding:4px 10px;border:2px solid var(--line);border-radius:12px;background:var(--card);color:var(--fg);font:inherit;font-size:.92rem;font-weight:700;line-height:1.3;cursor:pointer;text-decoration:none}
+.mi .ic{width:1.6em;height:1.6em;color:var(--k,var(--main2))}
+.mi small{font-weight:600;color:var(--sub);font-size:.8rem}
+.mi[aria-pressed=true]{background:var(--k,var(--main2));border-color:var(--k,var(--main2));color:#fff}
+.mi[aria-pressed=true] .ic,.mi[aria-pressed=true] small{color:#fff}
+.mi.about{margin-left:auto;border-style:dashed}
+/* 3. さがす */
+.search{background:var(--card);border:1px solid var(--line);border-radius:14px;margin:14px 0 10px;padding:12px 14px}
+.search h2{margin:0 0 8px;font-size:1.05rem;display:flex;align-items:center;gap:6px}
+.sbox{display:flex;gap:8px}
+.sbox input{flex:1;min-width:0}
+input[type=search],select{font:inherit;color:var(--fg);background:var(--bg);border:2px solid var(--line);border-radius:10px;padding:10px 12px;min-height:50px;width:100%}
+.btn{font:inherit;font-weight:700;min-height:50px;padding:6px 16px;border:2px solid var(--main2);border-radius:10px;background:var(--card);color:var(--fg);cursor:pointer}
+.btn.go{background:var(--main2);color:#fff}
+@media (prefers-color-scheme:dark){.btn.go{color:#10151c}}
+.srow{display:grid;grid-template-columns:5.5em 1fr;align-items:center;gap:8px;margin-top:10px}
+.srow label{font-weight:700;font-size:.95rem}
+.tools{display:flex;flex-wrap:wrap;align-items:center;gap:6px;margin-top:12px;padding-top:10px;border-top:1px dashed var(--line);font-size:.9rem}
+.tools b{margin-right:4px}
+.fsb{font:inherit;min-height:44px;padding:4px 14px;border:2px solid var(--line);border-radius:999px;background:var(--card);color:var(--fg);cursor:pointer}
+.fsb[aria-pressed=true]{background:var(--main2);border-color:var(--main2);color:#fff;font-weight:800}
+@media (prefers-color-scheme:dark){.fsb[aria-pressed=true]{color:#10151c}}
+/* 4. 一覧 */
+.status{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:8px;margin:4px 2px 6px}
+.status p{margin:0;font-weight:800}
+.status .sub{font-weight:400;color:var(--sub);font-size:.9rem}
+.reset{font:inherit;font-size:.9rem;min-height:40px;padding:2px 14px;border:2px solid var(--main2);border-radius:999px;background:var(--card);color:var(--fg);cursor:pointer;font-weight:700}
+section.day h2{position:sticky;top:5.4rem;z-index:5;margin:18px 0 8px;padding:6px 12px;font-size:1.05rem;background:var(--main);color:#fff;border-radius:10px}
 ul{list-style:none;margin:0;padding:0}
-li{background:linear-gradient(var(--kt),var(--kt)),var(--card);border:1px solid var(--line);border-left:8px solid var(--k);border-radius:10px;padding:10px 12px;margin-bottom:8px}
-.meta{display:flex;flex-wrap:wrap;gap:6px 8px;font-size:.78rem;color:var(--sub);margin-bottom:4px;align-items:center}
-.tag{background:var(--k);color:#fff;font-weight:700;font-size:.85rem;border-radius:6px;padding:1px 10px}
-.new{background:#ffd600;color:#222;font-weight:700;border-radius:6px;padding:0 7px}
-.ev{background:#e8f5e9;color:#1b5e20;font-weight:700;border-radius:6px;padding:0 7px}
+li{background:linear-gradient(var(--kt),var(--kt)),var(--card);border:1px solid var(--line);border-left:8px solid var(--k);border-radius:12px;padding:10px 14px 12px;margin-bottom:10px}
+.meta{display:flex;flex-wrap:wrap;gap:4px 10px;font-size:.85rem;color:var(--sub);margin-bottom:4px;align-items:center}
+.tag{display:inline-flex;align-items:center;gap:4px;background:var(--k);color:#fff;font-weight:800;font-size:.9rem;border-radius:8px;padding:1px 10px 1px 7px}
+.tag .ic{width:1.15em;height:1.15em;color:#fff}
+@media (prefers-color-scheme:dark){.tag{color:#10151c}.tag .ic{color:#10151c}}
+.new{background:#ffd600;color:#222;font-weight:800;border-radius:8px;padding:0 8px}
+.ev{background:#e8f5e9;color:#1b5e20;font-weight:800;border-radius:8px;padding:0 8px}
 @media (prefers-color-scheme:dark){.ev{background:#1f3d24;color:#a5e6ad}}
-li a{color:var(--fg);text-decoration:none;font-weight:700;word-break:break-all;font-size:1.02rem}
-li a:hover,li a:focus{text-decoration:underline}
-.note{font-size:.8rem;color:var(--sub);margin:16px 2px}
-footer{max-width:820px;margin:0 auto;padding:4px 12px 28px;font-size:.8rem;color:var(--sub)}
-footer a{color:var(--main)}
-.empty{padding:20px;text-align:center;color:var(--sub)}
+li a.t{display:block;color:var(--fg);font-weight:800;font-size:1.08rem;line-height:1.55;text-decoration:none;word-break:break-all}
+li a.t:hover,li a.t:focus{text-decoration:underline}
+.empty{padding:28px 12px;text-align:center;color:var(--sub);background:var(--card);border:2px dashed var(--line);border-radius:14px}
+.empty .ic{width:3em;height:3em;color:var(--sub)}
+.note{font-size:.85rem;color:var(--sub);margin:18px 2px}
+footer{background:var(--card);border-top:3px solid var(--main2);margin-top:20px;padding:14px 0 28px;font-size:.88rem;color:var(--sub)}
+footer a{color:var(--main2);font-weight:700}
+@media (prefers-color-scheme:dark){footer a{color:#9bbbe6}}
+@media (max-width:520px){.brand h1{font-size:1.2rem}.srow{grid-template-columns:1fr}.sbox{flex-wrap:wrap}}
 """
 
 JS = """
@@ -633,7 +668,11 @@ JS = """
   var items=[].slice.call(document.querySelectorAll("#list li"));
   var days=[].slice.call(document.querySelectorAll("#list section"));
   var cnt=document.getElementById("count");
+  var cond=document.getElementById("cond");
   var empty=document.getElementById("empty");
+  var reset=document.getElementById("reset");
+  var qi=document.getElementById("q");
+  var rg=document.getElementById("region");
   function apply(){
     var n=0;
     items.forEach(function(li){
@@ -644,6 +683,12 @@ JS = """
     });
     days.forEach(function(s){s.hidden=!s.querySelector("li:not([hidden])");});
     cnt.textContent=n+"件";
+    var c=[];
+    if(cat!=="all")c.push("種類:"+cat);
+    if(reg!=="all")c.push("地域:"+reg);
+    if(q)c.push("ことば:「"+qi.value.trim()+"」");
+    cond.textContent=c.length?c.join(" / "):"すべての見出しを表示中";
+    reset.hidden=!c.length;
     empty.hidden=n>0;
   }
   [].forEach.call(document.querySelectorAll("[data-catbtn]"),function(b){
@@ -654,8 +699,16 @@ JS = """
       apply();
     });
   });
-  document.getElementById("region").addEventListener("change",function(e){reg=e.target.value;apply();});
-  document.getElementById("q").addEventListener("input",function(e){q=e.target.value.trim().toLowerCase();apply();});
+  rg.addEventListener("change",function(e){reg=e.target.value;apply();});
+  qi.addEventListener("input",function(e){q=e.target.value.trim().toLowerCase();apply();});
+  document.getElementById("sform").addEventListener("submit",function(e){e.preventDefault();qi.blur();apply();});
+  document.getElementById("qclear").addEventListener("click",function(){qi.value="";q="";apply();qi.focus();});
+  reset.addEventListener("click",function(){
+    cat="all";reg="all";q="";qi.value="";rg.value="all";
+    [].forEach.call(document.querySelectorAll("[data-catbtn]"),function(x){
+      x.setAttribute("aria-pressed",x.getAttribute("data-catbtn")==="all"?"true":"false");});
+    apply();
+  });
   function setFs(n){
     document.documentElement.className="fs"+n;
     [].forEach.call(document.querySelectorAll("[data-fs]"),function(x){
@@ -703,12 +756,12 @@ def render_index(items, now):
             search_text = (it["title"] + " " + it["region"] + " " + it["source"] + " " + it["cat"]).lower()
             parts.append(
                 '<li class="k-%s" data-cat="%s" data-region="%s" data-t="%s">'
-                '<div class="meta"><span class="tag">%s</span><span>%s</span>%s'
+                '<div class="meta"><span class="tag"><svg class="ic" aria-hidden="true"><use href="icons.svg#%s"/></svg>%s</span><span>%s</span>%s'
                 '<span>%d/%d %d:%02d</span><span>%s</span></div>'
-                '<a href="%s" target="_blank" rel="noopener nofollow">%s</a></li>'
+                '<a class="t" href="%s" target="_blank" rel="noopener nofollow">%s</a></li>'
                 % (
                     esc(it["cat"]), esc(it["cat"]), esc(it["region"]), esc(search_text),
-                    esc(it["cat"]), esc(it["region"]), ev,
+                    CAT_ICON.get(it["cat"], "i-news"), esc(it["cat"]), esc(it["region"]), ev,
                     pub.month, pub.day, pub.hour, pub.minute, esc(it["source"]),
                     esc(it["url"]), esc(it["title"]),
                 )
@@ -725,8 +778,10 @@ def render_index(items, now):
     for it in items:
         if it["cat"] in counts:
             counts[it["cat"]] += 1
-    cat_btns = '<button class="chip" data-catbtn="all" aria-pressed="true">すべて<small>%d</small></button>' % len(items) + "".join(
-        '<button class="chip cat k-%s" data-catbtn="%s" aria-pressed="false">%s<small>%d</small></button>' % (c, c, c, counts[c])
+    def ico(name):
+        return '<svg class="ic" aria-hidden="true"><use href="icons.svg#%s"/></svg>' % name
+    cat_btns = '<button class="mi" data-catbtn="all" aria-pressed="true">%s<span>すべて</span><small>%d件</small></button>' % (ico("i-all"), len(items)) + "".join(
+        '<button class="mi k-%s" data-catbtn="%s" aria-pressed="false">%s<span>%s</span><small>%d件</small></button>' % (c, c, ico(CAT_ICON[c]), c, counts[c])
         for c in CATS
     )
 
@@ -751,33 +806,48 @@ def render_index(items, now):
 <style>__CSS__</style>
 </head>
 <body>
-<header>
-<h1>__TITLE__</h1>
-<p>最終更新:__UPDATED__ ・ __TIMES__自動で更新</p>
-</header>
-<main>
-<div class="panel">
-<div class="row"><span class="lbl">種類</span>__CATBTNS__</div>
-<div class="row"><span class="lbl">地域・ことば</span>
-<select id="region" aria-label="地域をえらぶ">__REGIONOPTS__</select>
-<input id="q" type="search" placeholder="ことばでさがす" aria-label="ことばでさがす"></div>
-<div class="row"><span class="lbl">文字の大きさ</span>
-<button class="chip" data-fs="1" aria-pressed="true">ふつう</button>
-<button class="chip" data-fs="2" aria-pressed="false">大きい</button>
-<button class="chip" data-fs="3" aria-pressed="false">とても大きい</button></div>
+<header class="band">
+<div class="wrap">
+<a class="brand" href="./"><svg class="ic" aria-hidden="true"><use href="icons.svg#i-peach"/></svg>
+<div><h1>__TITLE__</h1><p>岡山県のニュース見出しを、自動で集めて一覧にしています</p></div></a>
+<div class="upd"><svg class="ic" aria-hidden="true"><use href="icons.svg#i-clock"/></svg>
+<div><small>最終更新</small><b>__UPDATED__</b><small>__TIMES__自動で更新</small></div></div>
 </div>
-<p class="count" id="count"></p>
+</header>
+<nav class="menu" aria-label="種類をえらぶメニュー">
+<div class="wrap">__CATBTNS__
+<a class="mi about" href="about.html"><svg class="ic" aria-hidden="true"><use href="icons.svg#i-info"/></svg>このサイトについて</a>
+</div>
+</nav>
+<main class="wrap">
+<section class="search" aria-label="さがす">
+<h2><svg class="ic" aria-hidden="true"><use href="icons.svg#i-search"/></svg>さがす</h2>
+<form id="sform" role="search">
+<div class="sbox"><input id="q" type="search" placeholder="例:倉敷 火災 / 花火 / 駅" aria-label="ことばでさがす" autocomplete="off">
+<button type="button" class="btn" id="qclear">消す</button></div>
+<div class="srow"><label for="region">地域</label>
+<select id="region">__REGIONOPTS__</select></div>
+</form>
+<div class="tools"><b>文字の大きさ</b>
+<button class="fsb" data-fs="1" aria-pressed="true">ふつう</button>
+<button class="fsb" data-fs="2" aria-pressed="false">大きい</button>
+<button class="fsb" data-fs="3" aria-pressed="false">とても大きい</button></div>
+</section>
+<div class="status"><p><span id="count"></span> <span class="sub" id="cond"></span></p>
+<button type="button" class="reset" id="reset" hidden>条件をリセット</button></div>
 <div id="list">
 __LIST__
 </div>
-<p class="empty" id="empty" hidden>該当する見出しはありません。</p>
+<div class="empty" id="empty" hidden><svg class="ic" aria-hidden="true"><use href="icons.svg#i-empty"/></svg><br>該当する見出しはありません。<br>ことばや種類・地域を変えてみてください。</div>
 <p class="note">見出しと元記事へのリンクだけを表示しています。くわしい内容は、必ず元記事で確認してください。<br>
 種類や地域は、見出しの言葉による自動判定です。まちがいや、もれがあります。催しの開催日は元記事で確認してください。<br>
 情報源:__SOURCES__</p>
 </main>
 <footer>
+<div class="wrap">
 <a href="about.html">このサイトについて(収集方法・免責事項・プライバシーポリシー・連絡先)</a><br>
 運営:__OPERATOR__
+</div>
 </footer>
 <script>__JS__</script>
 </body>
@@ -811,7 +881,7 @@ FALLBACK_ABOUT = """<!DOCTYPE html>
 <h2>運営者</h2>
 <p>__OPERATOR__(<a href="https://leben-k.github.io/">https://leben-k.github.io/</a>)</p>
 <h2>収集方法</h2>
-<p>岡山県・岡山市の公式RSS、Googleニュース・Bingニュースのニュース検索(RSS)、気象庁の防災情報から、岡山県に関する見出しを自動で集めています。1時間ごとに、プログラムが自動で更新します。本文は転載せず、見出しと元記事へのリンクだけを表示します。</p>
+<p>岡山県・岡山市の公式RSS、Googleニュース・Bingニュースのニュース検索(RSS)、気象庁の防災情報から、岡山県に関する見出しを自動で集めています。随時、プログラムが自動で更新します。本文は転載せず、見出しと元記事へのリンクだけを表示します。</p>
 <h2>免責事項</h2>
 <p>種類や地域は見出しの言葉による自動判定のため、まちがいやもれがあります。くわしい内容や最新の情報は、必ず元記事や公的機関の情報で確認してください。当サイトの利用により生じた損害について、責任を負いかねます。</p>
 <h2>プライバシーポリシー</h2>
@@ -829,6 +899,10 @@ def write_site(items, now):
 
     with open(os.path.join(SITE_DIR, "index.html"), "w", encoding="utf-8") as f:
         f.write(render_index(items, now))
+
+    # icons.svg(絵): index.html と about.html で使う
+    if os.path.exists("icons.svg"):
+        shutil.copy("icons.svg", os.path.join(SITE_DIR, "icons.svg"))
 
     # about.html: リポジトリにあればそれを使う(運営者情報・プライバシーポリシー)
     if os.path.exists("about.html"):
