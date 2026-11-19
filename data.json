@@ -1,25 +1,25 @@
 {
- "updated": "2026-11-20T02:16:12.764632+09:00",
+ "updated": "2026-11-20T06:10:24.254513+09:00",
  "source_stats": {
   "Googleニュース": {
    "ok": 22,
    "ng": 0,
-   "raw": 357,
-   "adopted": 191,
-   "new": 4
+   "raw": 379,
+   "adopted": 205,
+   "new": 8
   },
   "Googleニュース(媒体別)": {
    "ok": 16,
    "ng": 0,
-   "raw": 790,
+   "raw": 784,
    "adopted": 89,
-   "new": 2
+   "new": 9
   },
   "Bingニュース": {
    "ok": 22,
    "ng": 0,
-   "raw": 61,
-   "adopted": 34,
+   "raw": 62,
+   "adopted": 37,
    "new": 18
   },
   "岡山県(緊急情報)": {
@@ -67,8 +67,8 @@
   "気象庁": {
    "ok": 1,
    "ng": 0,
-   "raw": 9,
-   "adopted": 9,
+   "raw": 4,
+   "adopted": 4,
    "new": 0
   }
  },
@@ -784,6 +784,16 @@
    "event_date": ""
   },
   {
+   "id": "daf22faaf97a7fff",
+   "title": "住宅用火災警報器点検を 倉敷駅で啓発 県内１４消防本部",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBzbmZZdnd5Tk1PZDFISjhXNmc3MW1iTkFlQnlBeVVHSlVOTjk4eU16aGVmbE1TeC1nRGUtNmNSM0lIZmRfQ0IyVExHamZUUjl1VFB3am9vMTlab0FEc1lqd1BnelBfVGc?oc=5",
+   "source": "山陽新聞",
+   "cat": "火災",
+   "region": "倉敷市",
+   "pub": "2026-11-18T17:00:00+09:00",
+   "event_date": ""
+  },
+  {
    "id": "41955d6318b03583",
    "title": "善意の瓦が続々と 「文化財保護協力を」浅口市バンク事業申し出 ６市町２８件",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5PQXphZk15Tm9CUlpxRXVDX0EyVnRINzFKblJsUHpJeHl1UnJZQUgzU1FpdGVnX182ZzhnOVpwdzlvVm5aNG9pVUpvN1EwNkxpekE?oc=5",
@@ -811,6 +821,26 @@
    "cat": "災害",
    "region": "県内・その他",
    "pub": "2026-11-18T16:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "90a57dbaecce86a7",
+   "title": "「仕事に行くため」 酒酔い運転で対向車に衝突した疑い 会社員の男（57）現行犯逮捕 岡山（KSB瀬戸内海放送）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pb1F3aEVSckU1NFpwZllBb0hBV1lwMFJOYVQzbm4wajJaYXJPcEJYdHRaLVJIdUJHdXZRT2hvUm51MkJlYnRmWFdSQ1Z1MWNVYU9JSGdmSkpLWDRMejFiR0p5UnF0S2lib1FqT09xQTNncmdxbFg4ZE5tclRZWU0?oc=5",
+   "source": "Yahoo!ニュース",
+   "cat": "事故",
+   "region": "県内・その他",
+   "pub": "2026-11-18T15:40:46+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "fe8f658d324045d2",
+   "title": "「仕事に行くため」 酒酔い運転で対向車に衝突した疑い 会社員の男（57）現行犯逮捕 岡山",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5HQjVFVklGdlFsdkdmdzZ2cnlYRFB2TDF6ZG4yVkx0TWRpV2tHNTRVOUFXRm51T2V6dnNadVExR2hWSkdTaUtwYkNhVDVGTlNr?oc=5",
+   "source": "KSBニュース",
+   "cat": "事故",
+   "region": "県内・その他",
+   "pub": "2026-11-18T15:40:00+09:00",
    "event_date": ""
   },
   {
@@ -1244,6 +1274,16 @@
    "event_date": ""
   },
   {
+   "id": "ce9bd6a306c646f9",
+   "title": "集めた金を配当金と偽り渡す… 知人夫婦らから出資名目で金を集めだまし取った疑い 岡山市の無職の女(70)を再逮捕",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1DTG81aVlEZWxIUjNob3FXd2hFSVJzWk1kcl9SMkdyaVNFOTk3MTVjbHAzSUtBWkRBT0g0V2txRWNGSjNXb21WZ3QwQUEtT3Yy?oc=5",
+   "source": "KSBニュース",
+   "cat": "事件",
+   "region": "岡山市",
+   "pub": "2026-11-17T15:40:00+09:00",
+   "event_date": ""
+  },
+  {
    "id": "066fd62c6945d3df",
    "title": "火災発生時の適切な行動学ぶ 岡山・東疇小で対応訓練",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA0c0NoazNaMXd1QkxOTVlYOExYN053UTVudld4MXlBLTVrWXlyWWRBZnNqOUNaeXhySTFvbVpKSW1TbnJpTnhoMXRzOVc5QUtWc0E?oc=5",
@@ -1534,6 +1574,16 @@
    "event_date": ""
   },
   {
+   "id": "e8fdcc55990390d5",
+   "title": "岡山市北区伊福町の共同住宅で火災 約５０分後に鎮火 住人の男性救急搬送",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90a0F6QjNybm1WV3E0QnNTRXU5WWVGYzJ4dWRwaV9UbVE5V09VWFlXQ0VGZnFXUnVuZndIckRyX2JVNWhxekRTLS1KZnJueDZCMEQ3U3dxMmg3ZmZ0UmlmaUhhQmM0SEU?oc=5",
+   "source": "山陽新聞",
+   "cat": "火災",
+   "region": "岡山市",
+   "pub": "2026-11-16T17:00:00+09:00",
+   "event_date": ""
+  },
+  {
    "id": "279248cb3cb4cb47",
    "title": "車盗んで逃走する際、追いかけてきた所有者にけが 岡山中央署が強盗致傷疑いで男逮捕（山陽新聞デジタル）",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Dd3lvNllVNFlial9YakNTV190RW1iV2RYSzVFUlpaOVlqejZIN0pUaDFXZmV5ZmtIRHlJcWxPbEZoenlUZWV6MVplYW4tQlItbURlY2F4eVBzOGEwYXZSUjVoNzhGTGZvajNaWm5yS1lFSWxfaG1QaTJrNk9rTWc?oc=5",
@@ -1664,6 +1714,16 @@
    "event_date": ""
   },
   {
+   "id": "5775c55cdcbe36e5",
+   "title": "「自分で使用するために…」自宅の庭で大麻草を栽培した疑い 岡山市東区の無職の男（67）を再逮捕",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBRVVkySjJzYzU1MThkWnE3SUs0UEUzRlRoTWdWY1VibUhyY0d5QUR3THE2MWtDNDlSVUxPdkNuRzFHRWhQdnZ4YlpOcWFYb290T0ZSRzdSUHo0RENZSHB6TGRjalFza01FNzVQanRB?oc=5",
+   "source": "au Webポータル",
+   "cat": "事件",
+   "region": "岡山市",
+   "pub": "2026-11-16T12:42:16+09:00",
+   "event_date": ""
+  },
+  {
    "id": "147efba02ca8e6a0",
    "title": "「自分で使うために栽培していた」自宅で大麻草を栽培した疑い 無職の男（67）を再逮捕 岡山",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1fSEZaQ0VTa2xTc0hmbXRfRjZLMV9zQzVZX0V5SmJrczl0T2RSYlFYR1ZOZTdvTGN0VDliN0M0T3pvZzVZRUhYV3RPWDhRWW82?oc=5",
@@ -1671,6 +1731,16 @@
    "cat": "事件",
    "region": "県内・その他",
    "pub": "2026-11-16T12:27:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "640b51b4502f93ce",
+   "title": "相次ぐ自転車の盗難被害に歯止めを 岡山県警が対策乗り出す",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9QMTdTYXFDT2xiMkdOalV6NWEwVWZqbkx3WG0xMkppZlRfSnlTWGlNWEc0N01IeHlyVEJnV0dDZHNRWTlVRXJZMEtSRVlqLWJRNzNTSTNWRmxTNVhwa1RZ?oc=5",
+   "source": "NHKニュース",
+   "cat": "事件",
+   "region": "県内・その他",
+   "pub": "2026-11-16T11:54:00+09:00",
    "event_date": ""
   },
   {
@@ -1691,6 +1761,16 @@
    "cat": "火災",
    "region": "玉野市",
    "pub": "2026-11-16T11:13:22+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "6d824b80f4904443",
+   "title": "「ばれなければいいと思って飲酒運転した」酒酔い運転で停止中の車に追突した疑い 無職の男（76）を逮捕 岡山",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBiOHY0Z2UxNlN0Rm5aQ0dGNVR0dnB6ZElvYjY5ZmFicVhUcWprZ2wyVnlySXpzSlBHc0MzYjhmb3pENGdBbFZTUHlwc0ZxTGRXazhsQXlnclZIajB6N3FfMUdWUXZWMkRxV2ZUUnBn?oc=5",
+   "source": "au Webポータル",
+   "cat": "事故",
+   "region": "県内・その他",
+   "pub": "2026-11-16T10:54:00+09:00",
    "event_date": ""
   },
   {
@@ -1744,6 +1824,16 @@
    "event_date": ""
   },
   {
+   "id": "fc718eea61d55823",
+   "title": "「酔っていたので分かりません」容疑否認 車盗み逃走する際に被害者にけがさせた疑い 会社員の男(23)逮捕 岡山",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE05ZXVPb29tc0NFVTlkRi14Ym5KWGxMMXZOa2wtQnhNV3Baa2FqRGtTZTN2MXNzazBOYS0tVXdKaU5iTDhsVXhqUTNuNTN4d0gy?oc=5",
+   "source": "KSBニュース",
+   "cat": "事件",
+   "region": "県内・その他",
+   "pub": "2026-11-16T10:29:00+09:00",
+   "event_date": ""
+  },
+  {
    "id": "f921acd76f76d4d7",
    "title": "金光駅西公園 浅口市が整備基本計画 ５ゾーン分け運動、防災機能配置",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1nNkpTb19zcWU3Rk5EYUxTNmJoLTNhdk9aU2pMNENZdWFfSVpCSDNQblgyMllwX2VlcFM5b2tubERRQjVZTUxQb2dGeWV6R0NxSXFNNThGd3Y?oc=5",
@@ -1781,6 +1871,16 @@
    "cat": "火災",
    "region": "玉野市",
    "pub": "2026-11-16T08:42:04+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "cb761189106dae51",
+   "title": "岡山・玉野市で住宅が全焼 男性1人が遺体で見つかる",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBleHRLU0FEVGdEX1cyUU1QSVJtOU52TWZpY19KS2QtVW5pNlU3WS12dThCSldQeVB2WE5ia1Zjb2x5dEVzQjRPNGczOVZIaDhD?oc=5",
+   "source": "KSBニュース",
+   "cat": "火災",
+   "region": "玉野市",
+   "pub": "2026-11-16T08:42:00+09:00",
    "event_date": ""
   },
   {
@@ -2211,6 +2311,16 @@
    "cat": "事件",
    "region": "岡山市",
    "pub": "2026-11-13T17:27:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "a820ad6504f7be57",
+   "title": "会社事務所に放火した疑いで大学院生の男を逮捕 岡山県警",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1pMnVRU0tYVlpLSjFSUHcwMzhhMFA0dS1NeEZCbkQzYncwS25ONVM3UDFxU204SjF1eTdKZkZDdnNjaUhpdUFCQ3BnNktkNFVM?oc=5",
+   "source": "KSBニュース",
+   "cat": "事件",
+   "region": "県内・その他",
+   "pub": "2026-11-13T17:22:00+09:00",
    "event_date": ""
   },
   {
