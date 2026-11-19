@@ -1,26 +1,26 @@
 {
- "updated": "2026-11-19T21:03:24.986537+09:00",
+ "updated": "2026-11-19T21:38:46.878616+09:00",
  "source_stats": {
   "Googleニュース": {
    "ok": 22,
    "ng": 0,
-   "raw": 356,
-   "adopted": 202,
-   "new": 8
+   "raw": 357,
+   "adopted": 201,
+   "new": 4
   },
   "Googleニュース(媒体別)": {
    "ok": 16,
    "ng": 0,
-   "raw": 788,
-   "adopted": 95,
-   "new": 2
+   "raw": 792,
+   "adopted": 96,
+   "new": 3
   },
   "Bingニュース": {
-   "ok": 22,
-   "ng": 0,
-   "raw": 62,
-   "adopted": 35,
-   "new": 20
+   "ok": 21,
+   "ng": 1,
+   "raw": 61,
+   "adopted": 30,
+   "new": 15
   },
   "岡山県(緊急情報)": {
    "ok": 1,
@@ -73,6 +73,16 @@
   }
  },
  "items": [
+  {
+   "id": "3654b85b661b05b9",
+   "title": "避難所向けインスタントルーム供給 瀬戸内市と販売会社（東京）協定",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1JVUZkSnA2bHhuTG9GbUdIeUFMcnNhYVdaQ2JpX3RKeWd5TjNwLUFXTEN6RkJvMnY3TW1qSGw4ZGNsUXlUbDFLcFZ1cXpuMEp1NWc?oc=5",
+   "source": "山陽新聞",
+   "cat": "災害",
+   "region": "瀬戸内市",
+   "pub": "2026-11-19T20:33:34+09:00",
+   "event_date": ""
+  },
   {
    "id": "74e8b2fec387add1",
    "title": "ポーカー賭博の疑い 賭博店の経営者らを逮捕 岡山県警",
@@ -2290,6 +2300,16 @@
    "source": "山陽新聞",
    "cat": "事件",
    "region": "新見市",
+   "pub": "2026-11-13T17:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "2360dd26bbc8e9b8",
+   "title": "誰も虐げられることのない社会へ…ＤＶ被害者を保護する津山市のシェルター９年の歩み【岡山】",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBYV040Uk9sbGhVeGhvSTlSWWZ5OXRhWGVPZDJxTXZDZWtvd1ZPVWIxSHVuUHZGeTNwLUgwYUdqMlJfMUdOOGVrNy1XNWhleXlBQU5aQTFyT1Bkd2RqOWlzOWNQNkQ?oc=5",
+   "source": "OHK岡山放送",
+   "cat": "事件",
+   "region": "津山市",
    "pub": "2026-11-13T17:00:00+09:00",
    "event_date": ""
   },
