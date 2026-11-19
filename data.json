@@ -1,26 +1,26 @@
 {
- "updated": "2026-11-19T20:14:03.346038+09:00",
+ "updated": "2026-11-19T20:31:05.925165+09:00",
  "source_stats": {
   "Googleニュース": {
    "ok": 22,
    "ng": 0,
-   "raw": 351,
-   "adopted": 204,
-   "new": 29
+   "raw": 345,
+   "adopted": 203,
+   "new": 7
   },
   "Googleニュース(媒体別)": {
    "ok": 16,
    "ng": 0,
    "raw": 790,
-   "adopted": 91,
+   "adopted": 95,
    "new": 3
   },
   "Bingニュース": {
    "ok": 22,
    "ng": 0,
-   "raw": 64,
-   "adopted": 34,
-   "new": 20
+   "raw": 63,
+   "adopted": 33,
+   "new": 15
   },
   "岡山県(緊急情報)": {
    "ok": 1,
@@ -74,6 +74,16 @@
  },
  "items": [
   {
+   "id": "74e8b2fec387add1",
+   "title": "ポーカー賭博の疑い 賭博店の経営者らを逮捕 岡山県警",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5lZUJ4YlA4bDZWVU9xWFMzVUwxU1Z1RWJSUWhiOHFoblY0VnhnZWdhMmdtaDhUTUE2Uk1NTHVfYlY2U2RsMERGWmVRYWpENFdtNnJSWTkyZ01lS0lSRGtR?oc=5",
+   "source": "NHKニュース",
+   "cat": "事件",
+   "region": "県内・その他",
+   "pub": "2026-11-19T20:01:42+09:00",
+   "event_date": ""
+  },
+  {
    "id": "a71badaaef3f27b1",
    "title": "2026年11月21日(土)～11月22日（日）岡山週末イベントスケジュール",
    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA2VWFuLU5NXzJSRnY3dWVCLUZyZGpnUnVZdzhzOFdxTkVwcmxtT1Azekl3UFY2eGlaT0VaNmUzdXFnYVFtVTZCUXl3?oc=5",
@@ -111,6 +121,16 @@
    "cat": "事件",
    "region": "県内・その他",
    "pub": "2026-11-19T18:01:50+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "b44c462da7ffbd27",
+   "title": "岡山市の繁華街でポーカー賭博店を摘発 経営者の５４歳男と客ら計１０人を賭博の疑いで現行犯逮捕【岡山】",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1scmp1aGMyQ1FzUmw0Mks0X19hSnhVczJ0YnY3eDgzM3FkMVZRX0RwdzRzUUtfMkdRSzhtdFc0TXN3MEd4UGQ0Qk9oU0tBM3NaLTl4OEM5VDBUUnRq?oc=5",
+   "source": "OHK岡山放送",
+   "cat": "事件",
+   "region": "岡山市",
+   "pub": "2026-11-19T18:01:08+09:00",
    "event_date": ""
   },
   {
@@ -2074,6 +2094,16 @@
    "event_date": ""
   },
   {
+   "id": "7d17ddfd5fab7c6e",
+   "title": "【牛窓花火大会の復活とマリンスポーツによる観光振興へ】岡山県瀬戸内市が地域おこし協力隊3名を新たに任命[岡山県瀬戸内市]",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE42cFlyRUdiRERKUTFjWTY4LU8tTFYzZEwyQWM5eDZfMkZUVWFMRDhnbzdkOGZBQl91R0R0U0lhcDZITFZUQWpMUlVYSWdfN0xXdnc?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "瀬戸内市",
+   "pub": "2026-11-14T17:00:00+09:00",
+   "event_date": ""
+  },
+  {
    "id": "8e74dd30da7b187e",
    "title": "県民参加で植樹活動 岡山の大規模山林火災 「再生の一助に」",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Wek9OV3E5WWpIQ0ZUQXlUUXJmeWtndERfWHI3T0wyTkFnQWNfaWoteUpWbzdiUHBaT0FHdTJfbGVUWVpEWHlVUkFWbnppbmpQeHc?oc=5",
@@ -2362,16 +2392,6 @@
    "region": "井原市",
    "pub": "2026-11-13T08:49:00+09:00",
    "event_date": "2026-12-05"
-  },
-  {
-   "id": "1700f5aab9de18ac",
-   "title": "児童虐待防止、思いを川柳に 笠岡市が受賞作品表彰",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB6QU15VTlSVWEwN2RXeEhJLTA3eXNUMlJZQjM3R0E4NzlDcUFqdEgzRE5sX2pJNHYwOUJRZkp0VHE3Qm5Ja09aY3AtVld1VklENzdDLVFNVTdzQQ?oc=5",
-   "source": "中国新聞デジタル",
-   "cat": "事件",
-   "region": "笠岡市",
-   "pub": "2026-11-12T20:19:02+09:00",
-   "event_date": ""
   }
  ]
 }
