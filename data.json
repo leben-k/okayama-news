@@ -1,25 +1,25 @@
 {
- "updated": "2026-11-21T01:01:35.890142+09:00",
+ "updated": "2026-11-21T07:37:08.812379+09:00",
  "source_stats": {
   "Googleニュース": {
-   "ok": 21,
-   "ng": 1,
-   "raw": 379,
-   "adopted": 216,
-   "new": 20
+   "ok": 22,
+   "ng": 0,
+   "raw": 411,
+   "adopted": 228,
+   "new": 11
   },
   "Googleニュース(媒体別)": {
    "ok": 16,
    "ng": 0,
-   "raw": 810,
-   "adopted": 112,
-   "new": 13
+   "raw": 792,
+   "adopted": 108,
+   "new": 5
   },
   "Bingニュース": {
    "ok": 22,
    "ng": 0,
-   "raw": 64,
-   "adopted": 38,
+   "raw": 65,
+   "adopted": 37,
    "new": 17
   },
   "岡山県(緊急情報)": {
@@ -34,7 +34,7 @@
    "ng": 0,
    "raw": 100,
    "adopted": 32,
-   "new": 16
+   "new": 17
   },
   "岡山県(報道発表)": {
    "ok": 1,
@@ -62,17 +62,97 @@
    "ng": 0,
    "raw": 30,
    "adopted": 10,
-   "new": 9
+   "new": 8
   },
   "気象庁": {
    "ok": 1,
    "ng": 0,
-   "raw": 8,
-   "adopted": 8,
+   "raw": 3,
+   "adopted": 3,
    "new": 3
   }
  },
  "items": [
+  {
+   "id": "9fe6e321f151b699",
+   "title": "【岡山地方気象台】気象特別警報・警報・注意報「【岡山県気象警報・注意報】北部では、落雷に注意してください。」",
+   "url": "https://www.jma.go.jp/bosai/warning/#area_type=offices&area_code=330000",
+   "source": "気象庁",
+   "cat": "災害",
+   "region": "県内・その他",
+   "pub": "2026-11-21T04:07:23+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "a15fc26eaa51d74f",
+   "title": "【岡山地方気象台】気象警報・注意報（Ｈ２７）「【岡山県気象警報・注意報】北部では、落雷に注意してください。」",
+   "url": "https://www.jma.go.jp/bosai/warning/#area_type=offices&area_code=330000",
+   "source": "気象庁",
+   "cat": "災害",
+   "region": "県内・その他",
+   "pub": "2026-11-21T04:07:23+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "52ac221b18af4add",
+   "title": "【岡山地方気象台】気象警報・注意報（Ｒ０６）（その他注意報）「【岡山県雷注意報】北部では、急な強い雨や落雷に注意してください。」",
+   "url": "https://www.jma.go.jp/bosai/warning/#area_type=offices&area_code=330000",
+   "source": "気象庁",
+   "cat": "災害",
+   "region": "県内・その他",
+   "pub": "2026-11-21T04:07:05+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "5f61aa44ce9537b6",
+   "title": "速度超過の基準、岡山県内で初適用 危険運転致傷容疑で男を書類 ...",
+   "url": "https://www.sanyonews.jp/article/2024926",
+   "source": "山陽新聞デジタル",
+   "cat": "事件",
+   "region": "県内・その他",
+   "pub": "2026-11-20T22:25:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "d1885bc3a7ac21c3",
+   "title": "高梁・変電所で火災 、伯備線が半日運転見合わせ 倒木で架線損傷が原因か",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9FcUREdjNwa2hXN3FYTzNwNHNIYUdRcnZ5UVZKSm54OF9pakVoOWFoODhuR3EwV2lFSUsyWXpjLUFnamQ5TnlHY25lbkJ4eXVBM2huVC1BRF9yaEZXdU1WMUFYWWlYbkU?oc=5",
+   "source": "山陽新聞",
+   "cat": "火災",
+   "region": "高梁市",
+   "pub": "2026-11-20T20:41:25+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "6ca09b365f9cc548",
+   "title": "治山ダム完成、山林火災受け整備 岡山市南区に県、土砂被害低減へ",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tX2ZsUW92QmdjcDh3NFBLM2l1eG1BUnJLY2VFV3lJT1RoM2hQR3dodmN3bGFyaEQ4OFBhVXBnV0c1ekRXdXVacnJvdk1DTlhsR0Roei1rMkVpNm5RQnN2RFhSdTZQRFU?oc=5",
+   "source": "山陽新聞",
+   "cat": "火災",
+   "region": "岡山市",
+   "pub": "2026-11-20T20:34:52+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "fc8a8d05177be85e",
+   "title": "浅口 「三ツ山レモン」自動収穫に向けロボットが作業を披露",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBBWmoxenFJYVc1aXVfaDk0M2J2cldCbDNlcU40emZndHJpdFNCcmJqeHFJV0VKWWljRHlUUVJNZ3otdHR1c3Z2bkM4amxGMU9GQlFoWUlsNFlkb3NORnc4?oc=5",
+   "source": "NHKニュース",
+   "cat": "催し",
+   "region": "浅口市",
+   "pub": "2026-11-20T19:29:07+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "a7e8ad74914f93c4",
+   "title": "四足歩行の犬型ロボットがレモンを収穫する様子に小学生は興味津々！農家の高齢化対策に期待【岡山】",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9wNXR4UlVxSko2bG1rSFVURmF1ZDNOcGxVYmJfZXNyZkpnUUExOWp3N1V5Rm82ZG5NQ19iNzZmNnE2THEtb0dodVYta3htRGtZbWpGQ25nQWZxT1Zf?oc=5",
+   "source": "OHK岡山放送",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-11-20T19:11:01+09:00",
+   "event_date": ""
+  },
   {
    "id": "5ccd330746973361",
    "title": "岡山市南区の大規模山林火災跡地に県民の力で緑を…ボランティアが大切に育てた苗木５０本を植樹【岡山】",
@@ -522,6 +602,16 @@
    "region": "県内・その他",
    "pub": "2026-11-20T06:20:40+09:00",
    "event_date": "2026-11-21"
+  },
+  {
+   "id": "fda54faeae19971e",
+   "title": "商品開発や訪日客受け入れセミナー実施 井原ＤＭＯ、総会で事業計画報告",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE50ZXZfbnF6aC1JYjdkTzJERFVPRXBNWEptUkR3cDJvZ0RRV1RiMG9CUzBkdmRKOEZ3b3BNRWt2S3lXdm5FT0xUSjYzbXczNnNDcXNRMTQ4TEg?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "井原市",
+   "pub": "2026-11-20T06:10:31+09:00",
+   "event_date": ""
   },
   {
    "id": "c5f5093c95df3a2e",
@@ -1354,6 +1444,16 @@
    "event_date": ""
   },
   {
+   "id": "ec6eba7cb855a3cd",
+   "title": "身体能力の変化を体験を通して知る 岡山市で安全運転セミナー 高齢者の安全意識向上へ",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5xSmNnaGZkcHVNOExaWUw3VEV2cElCcXJMSUFGOWJzVFNGNG5ZREMwQ05sMy1QcllGMHl0dG1FZ2doRlJ0SUpGY3BEM1NkYmtCNnNQRUg4Y29qUDdnRzFTbGtBdkZPN0ZVczhOa2dXY1jSAXZBVV95cUxNbUZySDR3WVhmd0dpVDhxU0ItMmM2bVBqNmg0RmZ2dlFwRDVnSXVOVTcyTzZtSFMzel9oem52aFhfNmVvS0JmZFBkVzdRdV9VcDRuSGxXeFpnTndabkdkd2RaZHc0QXRkdG1ZR0tXUTRXRDdXbXRR?oc=5",
+   "source": "ｄメニューニュース",
+   "cat": "催し",
+   "region": "岡山市",
+   "pub": "2026-11-18T19:17:00+09:00",
+   "event_date": ""
+  },
+  {
    "id": "cb075087b0487829",
    "title": "東京・新橋に“蟹取県”のカニ料理が大集合！とっとり・おかやま新橋館で「蟹取県ウェルカニグルメフェア」開催",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB6WU9wZ0gtN3Ata0E1ZlA4VlRXcWQ4enJub0doUTVfTmxtT3A5b0drOUU4SlB4ZVNpR0NQQW1abVhIbk00S3lnaEpJTGlNV1VUTXc?oc=5",
@@ -2021,6 +2121,16 @@
    "cat": "催し",
    "region": "浅口市",
    "pub": "2026-11-17T14:45:35+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "468944973ba7745c",
+   "title": "田んぼで泥遊びイベント 瀬戸内市で親子ら２００人楽しむ",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeTM2YldkUmxYWEZNTHBjMVBrZ1RTSmt3a0tSeHNMMGgtZFlDTGhHa1NUd1NxNGtKSm0weGM0eWdmQVgtSS16MjN4amdSa1p0c0E0YUxKekdlbVU2N2J2dHE1Uk1fRlhWSHR6UURpaW11NGxpaUlMdUlyZ0xuUUFxRHh3LTllZw?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "瀬戸内市",
+   "pub": "2026-11-17T14:13:01+09:00",
    "event_date": ""
   },
   {
