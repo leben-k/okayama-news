@@ -1,26 +1,26 @@
 {
- "updated": "2026-11-21T11:48:41.957821+09:00",
+ "updated": "2026-11-21T12:52:41.820051+09:00",
  "source_stats": {
   "Googleニュース": {
    "ok": 22,
    "ng": 0,
-   "raw": 406,
-   "adopted": 235,
-   "new": 11
+   "raw": 411,
+   "adopted": 223,
+   "new": 10
   },
   "Googleニュース(媒体別)": {
    "ok": 16,
    "ng": 0,
-   "raw": 791,
-   "adopted": 104,
-   "new": 6
+   "raw": 792,
+   "adopted": 100,
+   "new": 5
   },
   "Bingニュース": {
    "ok": 22,
    "ng": 0,
-   "raw": 64,
-   "adopted": 36,
-   "new": 15
+   "raw": 66,
+   "adopted": 38,
+   "new": 16
   },
   "岡山県(緊急情報)": {
    "ok": 1,
@@ -74,6 +74,26 @@
  },
  "items": [
   {
+   "id": "0091aa83cfa08b5d",
+   "title": "【速報】玉野市のスーパーに軽乗用車が突っ込む事故 店内いた男性がけが",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1sY3BLcC1aNXpVOTJfeEhQNEdoMy05ekJ4dmdnenFqVDRQdVBfYWU0c1drd3BVbVhON3BadVVTYTlTWVk3cjh0YTlZX0NaZ3RGMWc4ZUE1MGRnaUlRMEp1MFNvX1dSVVFCdmdZZEFn?oc=5",
+   "source": "au Webポータル",
+   "cat": "事故",
+   "region": "玉野市",
+   "pub": "2026-11-21T12:32:27+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "446ee2593ac93047",
+   "title": "【速報】玉野市のスーパーに軽乗用車が突っ込む事故 店内いた男性がけが（RSK山陽放送）",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52ejNnMWJPTGVRQVRHYndmWmVaRldiNDgtT2haTWJHSnBybnRRWDZxQXJFMTQyTmUxMWpCQ0V1SmxJRXdWOFA1MUljUllCMm1HRUtZQVRMbWV0Ti11bXlMTkludTEwcFc0R1ZKelpxVkZYNGtRMVhwQ1RWMk1ZSE0?oc=5",
+   "source": "Yahoo!ニュース",
+   "cat": "事故",
+   "region": "玉野市",
+   "pub": "2026-11-21T12:23:13+09:00",
+   "event_date": ""
+  },
+  {
    "id": "afa077917130b168",
    "title": "山陽自動車道 鴨方IC～玉島IC間上り線で通行止め 車両火災で",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0tUmlyOUhIVXVCVG9ucHVsMjJpbmk4NnUyazNnaGdHc1MtTkZQbnptbzgyMWlqV201UnRDaUc0ODMxczNoTUNYcnRHUTQyMG90?oc=5",
@@ -88,6 +108,16 @@
    "title": "山陽自動車道 車両火災のため 鴨方IC-玉島IC(上り）通行止め【岡山】",
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vZV94b2JoQV82Z3FMaktRaXFZZE1icWZzWGU2d09LNVdmS1UwZWhzVmRkaEIzbVBSYUJPNEY2S3ZEYVltUE9naEFNbk1tRTNDSUx5YzlOUU5Jdw?oc=5",
    "source": "TBS NEWS DIG",
+   "cat": "火災",
+   "region": "県内・その他",
+   "pub": "2026-11-21T08:49:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "d76d57c76a58c05d",
+   "title": "山陽自動車道 車両火災のため 鴨方IC-玉島IC(上り）通行止め【岡山】 (2026年11月21日掲載)",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9xNTdnam9NVGJJbmdxSG04clNCMUJENkh4aURHRUJtc1NyNVNxeEY2S1NsQi1oNWVQZVlkNFB0cXdoWnNETVh5VXVrYlJla2Y3WlVhbzROdnNZZi1ldlE?oc=5",
+   "source": "ライブドアニュース",
    "cat": "火災",
    "region": "県内・その他",
    "pub": "2026-11-21T08:49:00+09:00",
@@ -524,6 +554,16 @@
    "event_date": ""
   },
   {
+   "id": "6d337fe52f2a0b35",
+   "title": "危険運転傷害の容疑で岡山市の男性（21）を書類送検 法改正後 数値基準超えの高速度による検挙は県内で初 最高速度を50キロ以上超えた疑い",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB5YVBhUEZNNzNubzk5dmxTUUNONUhnQk1UQ0JFVlNqYjNXU0gyS3R4blR1QVdfanRTSzUybWtDd1c1eHJCaDh2UnhvYnNLenZyRnZEV3pXNXo2UlMyM3pJcUF0ZFlOckQtNk9zd0h0Y9IBdEFVX3lxTE9KVUZjbmo5M1FhbnFnZ29uU01QR1hvcUpSTjY1RUI1ajRJUmJzM2liaDRsbFhGQUNPOEVVSWFBa2E5UVpkeThUZkVfU2NFeGFjQlBMOEpFblo0aWp4NFVRQVlkQnRGM21vblRhV0FLQmtnaldx?oc=5",
+   "source": "ｄメニューニュース",
+   "cat": "事件",
+   "region": "岡山市",
+   "pub": "2026-11-20T10:32:00+09:00",
+   "event_date": ""
+  },
+  {
    "id": "ea237d0522bda465",
    "title": "【岡山大学】「放射光利用連携Workshop」を開催～放射光で「見える」研究の可能性、医療・生命科学分野への展開を目指して～",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zTHZ6UkpidmxtaVMzVV8yTVJMS1pONjZGR3R6emJja2lxLTh2aGRQN0pHUUhiZ25pR2dQeUl1dTRZeUc1YjZJcy1LNm9xNDkwdlE?oc=5",
@@ -930,6 +970,16 @@
    "source": "山陽新聞",
    "cat": "事件",
    "region": "県内・その他",
+   "pub": "2026-11-19T17:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "a0a1c6e05196b36d",
+   "title": "備前長船の日本刀模したマドラー発売 赤磐市のフジノハガネ",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ib1gxTEx3dm9PMXBsQ0NvV0tQd2dNbTQydG1VRV95MUpUbUtJOTNsUTY2TDk5cFoybVJxbjZLRmJucXJ1ZnlyYlZNZ1paZzNNXzd1RkJUVHZsNE9YcWlyV09FMGZmejhycVgtRUw1U3pEeUpYWFJJ?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "赤磐市",
    "pub": "2026-11-19T17:00:00+09:00",
    "event_date": ""
   },
@@ -3301,16 +3351,6 @@
    "cat": "催し",
    "region": "岡山市",
    "pub": "2026-11-14T13:08:33+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "865302051a624880",
-   "title": "「再び豊かな緑を」大規模山林火災の跡地で森林の復旧に向け地域住民らが「ヤマザクラ」など植樹【岡山】",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5RMC1waEVVWTZTVS14VWVGNktQZVVKUG4zRXd1NDlmMklYdXQ1LU1QU1RmTkNheHlFWVVfV2pXYUU0QlFwcksyV0FtWUpDaXY4c1hUWXpYMV93RklUYkhEbmQ3ZDVhcmM?oc=5",
-   "source": "TBS NEWS DIG",
-   "cat": "火災",
-   "region": "県内・その他",
-   "pub": "2026-11-14T12:00:00+09:00",
    "event_date": ""
   }
  ]
