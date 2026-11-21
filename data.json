@@ -1,26 +1,26 @@
 {
- "updated": "2026-11-21T21:27:38.485398+09:00",
+ "updated": "2026-11-22T04:42:33.952062+09:00",
  "source_stats": {
   "Googleニュース": {
    "ok": 22,
    "ng": 0,
-   "raw": 408,
-   "adopted": 230,
-   "new": 19
+   "raw": 412,
+   "adopted": 243,
+   "new": 13
   },
   "Googleニュース(媒体別)": {
    "ok": 16,
    "ng": 0,
-   "raw": 796,
-   "adopted": 106,
-   "new": 8
+   "raw": 779,
+   "adopted": 101,
+   "new": 3
   },
   "Bingニュース": {
    "ok": 22,
    "ng": 0,
-   "raw": 67,
-   "adopted": 41,
-   "new": 19
+   "raw": 63,
+   "adopted": 42,
+   "new": 18
   },
   "岡山県(緊急情報)": {
    "ok": 1,
@@ -55,7 +55,7 @@
    "ng": 0,
    "raw": 30,
    "adopted": 21,
-   "new": 17
+   "new": 18
   },
   "岡山市(くらしの情報)": {
    "ok": 1,
@@ -67,12 +67,22 @@
   "気象庁": {
    "ok": 1,
    "ng": 0,
-   "raw": 4,
-   "adopted": 4,
+   "raw": 5,
+   "adopted": 5,
    "new": 0
   }
  },
  "items": [
+  {
+   "id": "79a22ff7b96121d7",
+   "title": "名探偵プリキュア！ ドリームステージ♪（倉敷公演）",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE45X2RpRHRaYzdhQXdKUkJnR2dzZkxEdmxYeXREVS1PMm9pTjJhNHRNc2R6OXNvemlkbWNRVEhYbVozSVY0TWRfdV9R?oc=5",
+   "source": "OHK岡山放送",
+   "cat": "催し",
+   "region": "倉敷市",
+   "pub": "2026-11-21T22:59:53+09:00",
+   "event_date": ""
+  },
   {
    "id": "c33a31c8c66b4bc5",
    "title": "92歳の女性が運転する軽乗用車がスーパーに突っ込み買い物客2人をはねる 直前に子どもら4人が乗る車に衝突 アクセルとブレーキを踏み間違えたか 岡山県玉野市（RSK山陽放送）",
@@ -131,6 +141,16 @@
    "cat": "催し",
    "region": "県内・その他",
    "pub": "2026-11-21T14:31:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "104263b5b9129f15",
+   "title": "土居宿マラソン、マルシェＰＲ 美作・土居小児童がのぼり旗設置",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBtaWV0M294TWtqd0hwbU00SUtZbk84MUtDNllUMnVCallzZWlKbXI5ZTk1REhCbEdNZ3gtSjNJdmhqaVliZU5sM2hDOHZpa04xeTM5NUdocE4tWUVqUFB6UUFvM2pQT2h1NWZsbDB3?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "美作市",
+   "pub": "2026-11-21T13:57:08+09:00",
    "event_date": ""
   },
   {
@@ -324,6 +344,16 @@
    "event_date": ""
   },
   {
+   "id": "2fa5f662f00c7a81",
+   "title": "岡山市の魅力を紹介するイベント、渋谷で11月28日から開催",
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE93OHpIRkYzZTB2b3JKU3JoeDJrWG1yeTJ6ZUFqcVI1Z0lVbnVtSHU3SVFDTE9aVUJFS1RfSUhhNzJteHlYUGtJ?oc=5",
+   "source": "Dellows News",
+   "cat": "催し",
+   "region": "岡山市",
+   "pub": "2026-11-20T23:02:22+09:00",
+   "event_date": "2026-11-28"
+  },
+  {
    "id": "5f61aa44ce9537b6",
    "title": "速度超過の基準、岡山県内で初適用 危険運転致傷容疑で男を書類 ...",
    "url": "https://www.sanyonews.jp/article/2024926",
@@ -421,6 +451,16 @@
    "cat": "催し",
    "region": "県内・その他",
    "pub": "2026-11-20T17:30:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "3270ab755a005b20",
+   "title": "SUPER GT 2026年 第1戦（開幕戦）岡山 イベント情報",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ZcUV3VmROTjljSkZUYlZpR3AxUzlzVHU1R1hyNEw1U2d2Nm1GRkotN1BDQWp5bUNlRWUxUndwRHZMN0syWDdueTI4TUx2YXlERXdkdmI5RkkxWGU1RUFLQ0ZzdzllQ3FMMXhYX2Qwcw?oc=5",
+   "source": "GAZOO Racing",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-11-20T17:24:24+09:00",
    "event_date": ""
   },
   {
@@ -544,6 +584,16 @@
    "event_date": ""
   },
   {
+   "id": "bc128a64274a0241",
+   "title": "岡山と東京の交流イベント「ももスタ CONNECT in TOKYO」開催",
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE95ck00bXhqZ1cyUWNZb0EtejBpMFNsdEFrcHVPSElOMDZZRGRYM0lGVDBoSUlLM2tEbnJNd3lJMXBzSDZaT3Jz?oc=5",
+   "source": "Dellows News",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-11-20T14:19:30+09:00",
+   "event_date": ""
+  },
+  {
    "id": "d7ac765e7e6d216c",
    "title": "ひとり鍋で肉三昧…幻の黒毛和牛「千屋牛」やあっさり豚肉をしゃぶしゃぶで！ 岡山【ほっとマルシェ】",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBROUNKb2I3YlpjbUpOd2JRUlRTUHo0UzRodUU4Wm9tc2NTSEVvd0FSU0pGZkhDMXdDeWJBRmNqSmYzLU5CYkJtSW44cERNaFhFeUlFaHNiQzVXZXBpQkxLUEdNdzExYVlicld3YUpJRi3SAXZBVV95cUxNakJJbDdLOVNuZW1uSzI2YklfaHRFU1M2NDRvLWpleWFJYUVNU3JDenhUMHRHSzJzTTh3TUE2dDBUci0xNmxuY0x6QXozYzQ3dHVrM1lJMGpjczhaT2Fha0JHdF9Mc1ExdlN3bEdxeEJRc2NWOW9B?oc=5",
@@ -572,26 +622,6 @@
    "region": "岡山市",
    "pub": "2026-11-20T12:59:00+09:00",
    "event_date": "2026-12-04"
-  },
-  {
-   "id": "2bc0639b04a1bec3",
-   "title": "「チーズケーキ」１８店舗が大集合…倉敷でチーズケーキフェス１１月２１日～２３日開催【岡山】",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9JOHVNa3lpT0xUZ1ZEQXVUSmxmOE43NDNfOTBFOEhFbG1QcWdvTDI5TEtpcnlMdFFtS2FneHdoTDEyXy1kb2hXaDlPSm9qQWJ5LXlobEVyOGFWUlVl?oc=5",
-   "source": "OHK岡山放送",
-   "cat": "催し",
-   "region": "倉敷市",
-   "pub": "2026-11-20T12:22:01+09:00",
-   "event_date": "2026-11-21"
-  },
-  {
-   "id": "302e9f7790f9feb9",
-   "title": "「チーズケーキ」１８店舗が大集合…倉敷でチーズケーキフェス１１月２１日～２３日開催【岡山】（OHK岡山放送）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1fYXdLQUVTcU9UcEhCZ1BKcUtPNTd5bmQxOW9fS0xQUUE4OFZSTThiNlNiRHB1eU1RYnlHa2czSkhRdkhnTnRyOGpMNFdzRjBic0s1aTBqd2JRb054b01tTDlOVTBnUC0tVkFCS3JsNDMyOWJmR0dydkE3N29CN1k?oc=5",
-   "source": "Yahoo!ニュース",
-   "cat": "催し",
-   "region": "倉敷市",
-   "pub": "2026-11-20T12:21:01+09:00",
-   "event_date": "2026-11-21"
   },
   {
    "id": "ce7e32781202c401",
@@ -701,6 +731,16 @@
    "cat": "火災",
    "region": "岡山市",
    "pub": "2026-11-20T10:46:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "7d5d140200c7ba7e",
+   "title": "「なぞとき交通安全ミッション」に挑戦！「クルマの学校」を倉敷市と京都市で開催（社会貢献活動レポート）",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUjRjTEEwa3VISzM2cGxwa09yUE5QNWtCRnlsZGctMWE0WFFULUtRVEZoUFFySTd6THpxRzRveDZ3aE11aE9razNwN0FvSlF4d0x6REdQVzlaWlFXcl82Q1BfaFF0VWFQYWQ1TmotM01qOUZkcHEwc2VNdzhXdjgydjh1QWpndDJwdHBSeWZtWl9fVm5CTDJrM2Y2Zw?oc=5",
+   "source": "三菱自動車",
+   "cat": "催し",
+   "region": "倉敷市",
+   "pub": "2026-11-20T10:37:37+09:00",
    "event_date": ""
   },
   {
@@ -844,16 +884,6 @@
    "event_date": ""
   },
   {
-   "id": "08b68a34edcecfbb",
-   "title": "【岡山】2026年11月21日・22日・23日三連休の無料イベント10選 マルシェ＆秋祭りも！",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBxZWZCdmNLYk1oS3VNT3E5SVUyRENvSlduMFFIZlFzcXhJcmFWakllWGFQT2VPYkd5WHNVb2NzanVnQ09pamx0OTFaeE9yd0Qtdnc?oc=5",
-   "source": "いこーよニュース",
-   "cat": "催し",
-   "region": "県内・その他",
-   "pub": "2026-11-20T06:20:40+09:00",
-   "event_date": "2026-11-21"
-  },
-  {
    "id": "fda54faeae19971e",
    "title": "商品開発や訪日客受け入れセミナー実施 井原ＤＭＯ、総会で事業計画報告",
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE50ZXZfbnF6aC1JYjdkTzJERFVPRXBNWEptUkR3cDJvZ0RRV1RiMG9CUzBkdmRKOEZ3b3BNRWt2S3lXdm5FT0xUSjYzbXczNnNDcXNRMTQ4TEg?oc=5",
@@ -954,16 +984,6 @@
    "event_date": ""
   },
   {
-   "id": "8781b9bf22835469",
-   "title": "【岡山】2026年11月21日・22日・23日三連休の無料イベント10選 ...",
-   "url": "https://report.iko-yo.net/articles/35686",
-   "source": "いこーよニュース",
-   "cat": "催し",
-   "region": "県内・その他",
-   "pub": "2026-11-19T22:20:00+09:00",
-   "event_date": "2026-11-21"
-  },
-  {
    "id": "3654b85b661b05b9",
    "title": "避難所向けインスタントルーム供給 瀬戸内市と販売会社（東京）協定",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1JVUZkSnA2bHhuTG9GbUdIeUFMcnNhYVdaQ2JpX3RKeWd5TjNwLUFXTEN6RkJvMnY3TW1qSGw4ZGNsUXlUbDFLcFZ1cXpuMEp1NWc?oc=5",
@@ -992,16 +1012,6 @@
    "region": "県内・その他",
    "pub": "2026-11-19T20:01:42+09:00",
    "event_date": ""
-  },
-  {
-   "id": "a71badaaef3f27b1",
-   "title": "2026年11月21日(土)～11月22日（日）岡山週末イベントスケジュール",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA2VWFuLU5NXzJSRnY3dWVCLUZyZGpnUnVZdzhzOFdxTkVwcmxtT1Azekl3UFY2eGlaT0VaNmUzdXFnYVFtVTZCUXl3?oc=5",
-   "source": "岡山おにさんぽ",
-   "cat": "催し",
-   "region": "県内・その他",
-   "pub": "2026-11-19T19:28:55+09:00",
-   "event_date": "2026-11-21"
   },
   {
    "id": "f384cd192f09438b",
@@ -1150,6 +1160,16 @@
    "source": "山陽新聞",
    "cat": "催し",
    "region": "赤磐市",
+   "pub": "2026-11-19T17:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "a7ea1c836cbe3af8",
+   "title": "犠牲者に鎮魂の祈りささげる 尼崎ＪＲ脱線事故２１年 ＪＲ西日本岡山支社で社員３０人",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB5cXdwa0wxY2xxNUVDTTczdDQzV1hiQkMzRjdQaFlrRS14X2lZQkFEMGM5cUl3cGNVYjctS2NKWEg3MEQ4WUR3TF96VEx5d0FkRXc?oc=5",
+   "source": "山陽新聞",
+   "cat": "事故",
+   "region": "県内・その他",
    "pub": "2026-11-19T17:00:00+09:00",
    "event_date": ""
   },
@@ -1614,6 +1634,16 @@
    "event_date": ""
   },
   {
+   "id": "83308b0cb6e605d0",
+   "title": "岡山が光のまちに、岡山駅一帯で「MOMOTAROH FANTASY 2020」「冬のおかやま桃太郎まつり」開催",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xdW1EYUs5VHgxaGtULVRjaXI4YVAwUy1jNFdNYmNkem5Pa2s5MjR4dWgxeDMyeUYwTnlIM2wwRGFvTngyOXZ6RnNMY3pKXzhIVk9DRWd30gFbQVVfeXFMTS1jUlk5czRiWTFvbjk5NjFEdVhFVDR1cXEwMlc3VzlnRnNZYWh3eElhVU9reVUxcjE4d3h5RmhVckxmUDBlektvQlZ0NUl3emhYOC1YbUZzRURyNA?oc=5",
+   "source": "ウォーカープラス",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-11-18T22:36:56+09:00",
+   "event_date": ""
+  },
+  {
    "id": "a053594957440ba7",
    "title": "香川県で働こう！ 香川UJIターンイベントを岡山市で11月28日（土 ...",
    "url": "https://news.ksb.co.jp/article/17063177",
@@ -1661,6 +1691,16 @@
    "cat": "事件",
    "region": "県内・その他",
    "pub": "2026-11-18T21:02:01+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "78f31b3fc498510c",
+   "title": "岡山のスタートアップが東京に進出する「ももスタ CONNECT IN TOKYO」開催のご案内",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9iUTE4b053d0FYRXZSTVFtUElzM0ZvOWZrLVY0Nmo4VWg5YzBIUm5WNU1PYVBBUVphOGFER3NhdUxIUXBMcDdDZC1mQklWMGtaWWhqVHBGNU1tTFBTTDB3R1doZTNpZTVkVHN1QQ?oc=5",
+   "source": "ニュースメディアVOIX",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-11-18T20:54:00+09:00",
    "event_date": ""
   },
   {
