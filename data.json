@@ -1,26 +1,26 @@
 {
- "updated": "2026-11-21T07:37:08.812379+09:00",
+ "updated": "2026-11-21T11:48:41.957821+09:00",
  "source_stats": {
   "Googleニュース": {
    "ok": 22,
    "ng": 0,
-   "raw": 411,
-   "adopted": 228,
+   "raw": 406,
+   "adopted": 235,
    "new": 11
   },
   "Googleニュース(媒体別)": {
    "ok": 16,
    "ng": 0,
-   "raw": 792,
-   "adopted": 108,
-   "new": 5
+   "raw": 791,
+   "adopted": 104,
+   "new": 6
   },
   "Bingニュース": {
    "ok": 22,
    "ng": 0,
-   "raw": 65,
-   "adopted": 37,
-   "new": 17
+   "raw": 64,
+   "adopted": 36,
+   "new": 15
   },
   "岡山県(緊急情報)": {
    "ok": 1,
@@ -67,12 +67,42 @@
   "気象庁": {
    "ok": 1,
    "ng": 0,
-   "raw": 3,
-   "adopted": 3,
-   "new": 3
+   "raw": 5,
+   "adopted": 5,
+   "new": 0
   }
  },
  "items": [
+  {
+   "id": "afa077917130b168",
+   "title": "山陽自動車道 鴨方IC～玉島IC間上り線で通行止め 車両火災で",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0tUmlyOUhIVXVCVG9ucHVsMjJpbmk4NnUyazNnaGdHc1MtTkZQbnptbzgyMWlqV201UnRDaUc0ODMxczNoTUNYcnRHUTQyMG90?oc=5",
+   "source": "KSBニュース",
+   "cat": "火災",
+   "region": "県内・その他",
+   "pub": "2026-11-21T08:55:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "d719735ce6d6f1ac",
+   "title": "山陽自動車道 車両火災のため 鴨方IC-玉島IC(上り）通行止め【岡山】",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vZV94b2JoQV82Z3FMaktRaXFZZE1icWZzWGU2d09LNVdmS1UwZWhzVmRkaEIzbVBSYUJPNEY2S3ZEYVltUE9naEFNbk1tRTNDSUx5YzlOUU5Jdw?oc=5",
+   "source": "TBS NEWS DIG",
+   "cat": "火災",
+   "region": "県内・その他",
+   "pub": "2026-11-21T08:49:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "cba201931fa40b03",
+   "title": "【道路情報】車両火災で通行止め 山陽道鴨方ＩＣ―玉島ＩＣ",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KQi1WZ0sycXQ1OXlSNUtJcnQ1S09EdllDWGdCSHFaeGdxR202NkFZbVhHNnRMVGI2OUtPNkJ5QlFSUDBNN09va1FMWWhRZGdSeFE?oc=5",
+   "source": "山陽新聞",
+   "cat": "火災",
+   "region": "県内・その他",
+   "pub": "2026-11-21T08:03:00+09:00",
+   "event_date": ""
+  },
   {
    "id": "9fe6e321f151b699",
    "title": "【岡山地方気象台】気象特別警報・警報・注意報「【岡山県気象警報・注意報】北部では、落雷に注意してください。」",
@@ -461,6 +491,16 @@
    "cat": "事件",
    "region": "県内・その他",
    "pub": "2026-11-20T10:48:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "0a2f860ab960af72",
+   "title": "岡山市南区の大規模山林火災跡地に県民の力で緑を…ボランティア ...",
+   "url": "https://news.yahoo.co.jp/articles/3d4750cfce2b5a05a3ace4d1bf7ee637558e7c53",
+   "source": "Yahoo!ニュース",
+   "cat": "火災",
+   "region": "岡山市",
+   "pub": "2026-11-20T10:46:00+09:00",
    "event_date": ""
   },
   {
@@ -1354,6 +1394,16 @@
    "event_date": "2026-11-28"
   },
   {
+   "id": "8c23b9a22ec4294c",
+   "title": "岡山・能楽堂ホールで、NAOTO×石成正人×松本圭司『Sugar & Spice Special Live』開催",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmeWVQaWVBOXdBVDBjMURSQWNIQWN4ZVJJX3VOZW9iYnZfNU1aTlVXN1FnbFE2WXlkRTZQemtUVV9CbWhzbWFxakZtZ2dEeWdjSFE?oc=5",
+   "source": "音楽業界総合情報サイト",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-11-18T22:00:00+09:00",
+   "event_date": ""
+  },
+  {
    "id": "634caf9e5bca8b20",
    "title": "恋愛トラブルが発端か…岡山県美咲町で知人の男子中学生を殺害 ...",
    "url": "https://news.ksb.co.jp/article/17061290",
@@ -1550,6 +1600,36 @@
    "source": "山陽新聞",
    "cat": "事件",
    "region": "県内・その他",
+   "pub": "2026-11-18T17:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "d97a6607dd987913",
+   "title": "会陽冬花火も来年中止 死亡事故受け、実行委",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9GT2ZIeUhzX1NpOU5NWEtDVG9GMEFSejl4aGRMS19mYks5OEhUeVhPZkIyVGRfZmpjN1J2VzRTLUVUQWNPa3lVLXBSZHZhdm9aVFE?oc=5",
+   "source": "山陽新聞",
+   "cat": "事故",
+   "region": "県内・その他",
+   "pub": "2026-11-18T17:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "8b024586b8311194",
+   "title": "行方不明の２歳男児を無事保護 矢掛町東三成",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhQ1JBS29OQmlKTU9mRV9EUmViMkp3eXhGMlJ0RFZCM0RoVVBJLTlzVTdRc0lwOXpEVE9kVm5kWTNqZ1R5NUJFb0hLT1FrQ3R0N0E?oc=5",
+   "source": "山陽新聞",
+   "cat": "事件",
+   "region": "矢掛町",
+   "pub": "2026-11-18T17:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "5b9ba8d2efe5d0ad",
+   "title": "放射性物質漏れ想定し防災訓練 鏡野・人形峠センター 関係機関が対応確認",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5MckN4WmpOWUFyZkltdWpRa0pRQ0JoYW84YUpoaHkteG5TcEE2ZWUwcmQ4eDlPTTFDcDYza292YjljVWJEWDlETTBBT1l3UGprYmc?oc=5",
+   "source": "山陽新聞",
+   "cat": "災害",
+   "region": "鏡野町",
    "pub": "2026-11-18T17:00:00+09:00",
    "event_date": ""
   },
@@ -2490,6 +2570,16 @@
    "source": "山陽新聞",
    "cat": "災害",
    "region": "総社市",
+   "pub": "2026-11-16T17:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "14bd8e4e918302f3",
+   "title": "３１歳の男に懲役１５年 少年１９人にわいせつ行為 岡山地裁判決「未熟さにつけ込んだ」",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0wQlBSaTc0ODRRN204QnlPTTVCaTMwcUlhNkxwZ0dzVENXS3k3UC1FLXFOZnVFbGFFTGU3ZGVwNWhLU1RlRkJJOHBGaEdhRXRPcnc?oc=5",
+   "source": "山陽新聞",
+   "cat": "事件",
+   "region": "県内・その他",
    "pub": "2026-11-16T17:00:00+09:00",
    "event_date": ""
   },
