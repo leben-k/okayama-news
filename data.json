@@ -1,25 +1,25 @@
 {
- "updated": "2026-11-22T09:15:02.956928+09:00",
+ "updated": "2026-11-22T16:20:53.545343+09:00",
  "source_stats": {
   "Googleニュース": {
    "ok": 22,
    "ng": 0,
-   "raw": 391,
-   "adopted": 229,
-   "new": 6
+   "raw": 374,
+   "adopted": 221,
+   "new": 20
   },
   "Googleニュース(媒体別)": {
    "ok": 16,
    "ng": 0,
-   "raw": 784,
-   "adopted": 124,
-   "new": 8
+   "raw": 773,
+   "adopted": 120,
+   "new": 5
   },
   "Bingニュース": {
    "ok": 22,
    "ng": 0,
-   "raw": 62,
-   "adopted": 42,
+   "raw": 60,
+   "adopted": 43,
    "new": 18
   },
   "岡山県(緊急情報)": {
@@ -67,12 +67,102 @@
   "気象庁": {
    "ok": 1,
    "ng": 0,
-   "raw": 5,
-   "adopted": 5,
+   "raw": 0,
+   "adopted": 0,
    "new": 0
   }
  },
  "items": [
+  {
+   "id": "19de40121cb104a8",
+   "title": "岡山市で住宅が全焼 けが人なし",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9zRFA3ck9FWE4wd0FUUG9uT3FDbmRTZ3B0QnlXeDlSVk9ocXdHbTg5NFRZX1ZxWnVYeTA2YVEyTmdyV1QtV0NQbW5SbC1rbmVkeU5ISWdsV2Vkdi1jMUd1QkgzRmFXdnNMN2xuUkFn?oc=5",
+   "source": "au Webポータル",
+   "cat": "火災",
+   "region": "岡山市",
+   "pub": "2026-11-22T14:20:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "009fb8c62905c087",
+   "title": "岡山で民家全焼 けが人なし",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9nRmJoMkRnWEFLWG92dzZ1REJVc0g1NVFtLWkwbTk1bjBJU0FfWFQ1Q1k5dE1yWnJOSmxsdDlvaXFJeEs5bTFpcWN1aWtPaXlpa2ZTZUFnUHhNdXlQazZXQ005bw?oc=5",
+   "source": "山陽新聞",
+   "cat": "火災",
+   "region": "県内・その他",
+   "pub": "2026-11-22T13:55:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "22a79a53560f93bf",
+   "title": "岡山で民家全焼 けが人なし【動画あり】",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HSE8zQTJyS05BVHQybDh2ZUlUN3ZzTVZEZDNMcDJxQVFzbzdLaVBOU2pWWVRlS1g3bmQ2QUhVeUM5eWxHSE5PejVid0dpUUo3aV9KRzZla09vX1ptZVNvcQ?oc=5",
+   "source": "山陽新聞",
+   "cat": "火災",
+   "region": "県内・その他",
+   "pub": "2026-11-22T13:55:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "aee1caf365652b5f",
+   "title": "踊りで猛暑吹き飛ばせ １１日、赤磐で「ＫＯＹＯ祭」",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5qUXBCRTc4VDNUOXJWdVlqeFVxTHV2b3VOLVRpU0hudFZaOGpLbW5fVFp4S3dOM0ZRM1hDV0dELVlZN1VYS0xlUnVOSjBhWHRvY2c?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "赤磐市",
+   "pub": "2026-11-22T12:50:07+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "03430be51d98bd6b",
+   "title": "【速報】早朝の岡山市東区で住宅火災 消防車14台が出動 (2026年11月22日掲載)",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE80RXVqVlNUMXJORXFzazgtTGlPWmVwd01aQnFkYWZzM1lnNGwydVlraTBxd2Exd3RjS2lFa3lCT25yWjNXNHRMdk50Z25RVENqem9RZkJNUW4xaFh5YXc?oc=5",
+   "source": "ライブドアニュース",
+   "cat": "火災",
+   "region": "岡山市",
+   "pub": "2026-11-22T12:08:29+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "1aea0f242c9a95dd",
+   "title": "井原のまちを〝博覧会場〟に １２月５日、初のイベント デニム製品作りやわな猟、仏道修行 ２０カ所で体験プログラム",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wNkkxSXk4a0RwM08zUFJwUXR5Wkp6d195LXdjRkNxUkxweGRpTUtDLXZFZ0lLUUtwd0tUTEVQTjVhWUt3VmhhVmxZdzVKX0ZpWnc?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "井原市",
+   "pub": "2026-11-22T11:06:06+09:00",
+   "event_date": "2026-12-05"
+  },
+  {
+   "id": "9ff93299b54a9175",
+   "title": "【速報】早朝の岡山市東区で住宅火災 消防車14台が出動",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TSUN6QzVqdm9wUUViSVhnZDBaenBhejB0bURXbzdlY1ZubGlObC1SSFF5OGZrMmRRdXdpWklwOE1YMl92TFktRXF6d3RaRXFvOFF2a1lGQ0Y3UQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "cat": "火災",
+   "region": "岡山市",
+   "pub": "2026-11-22T10:23:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "f84255f6b3581367",
+   "title": "早朝の岡山市東区で住宅1棟が全焼 住人2人にけがなし【岡山】",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1HUHlLQTJKWVJSNzlnZDZEUTV0OVZWUExROFh6cFNXV2VNR3hqdm01RnExcUM1RDZUcFdLYXJkTUlhM0JGWFRKVmZDYzdzWGhUY2h5ZDVjWQ?oc=5",
+   "source": "TBS NEWS DIG",
+   "cat": "火災",
+   "region": "岡山市",
+   "pub": "2026-11-22T10:23:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "94108bd7fef92c9c",
+   "title": "【速報】岡山市東区金岡東町の住宅で火災 煙上がる",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9salNqLVV1Ry1VWlZBS0VZV2hHbDRTUy1IbUh0aHFyX2o0WmtoLXNadG9BNFgyRlJJX1dXR1BZaUJwbEpDd0ZmcU1GNmhLcF9FUHRzdUVBd3A4MmRFTlcxdkpTYXc5Tl9BX2txdS1EVE0?oc=5",
+   "source": "newsdigest.jp",
+   "cat": "火災",
+   "region": "岡山市",
+   "pub": "2026-11-22T09:25:00+09:00",
+   "event_date": ""
+  },
   {
    "id": "a450b9a30b5f2688",
    "title": "響きあう、インド（岡山公演）",
@@ -91,6 +181,16 @@
    "cat": "催し",
    "region": "倉敷市",
    "pub": "2026-11-21T22:59:53+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "5475641bb9b2669d",
+   "title": "【道～Ｍｙ Ｗａｙ】コロナ禍越え花火継承 森上煙火工業所（岡山市） 森上真夢社長",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBYVFMtYVMwVWJkUUNEaWlPalBJaFEyQ2FMUlExUUtkeFktalAtN05fRTQxWndSUVhVMlVhZzRwSDJBb0hlVF9zUXF4Qmg1QW5kdVNLbXRfd21Dc19qbGNCMThnbTNTaWJoUDA2d1VxOG9fejAzZFBn?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "岡山市",
+   "pub": "2026-11-21T19:59:17+09:00",
    "event_date": ""
   },
   {
@@ -520,6 +620,16 @@
    "source": "山陽新聞",
    "cat": "事件",
    "region": "県内・その他",
+   "pub": "2026-11-20T17:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "25b2e5539caf7c46",
+   "title": "岡山デニムの魅力伝える「ＢＬＵＥ ＰＥＡＲＬ」 青木被服（井原）が映画製作 ２０日に上映会開催",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBsX3kwb25Pa3B5eDJmM1AzNFdMMHBXbGxSdmZCSXhKcWNfdlhjd2NseTFFNnpvLTFncXNzTWRMckdQNHNhZkViRGF1S3BQbmoyaUE?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "井原市",
    "pub": "2026-11-20T17:00:00+09:00",
    "event_date": ""
   },
@@ -1210,6 +1320,16 @@
    "source": "山陽新聞",
    "cat": "事故",
    "region": "県内・その他",
+   "pub": "2026-11-19T17:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "416f1d18d4b02b1a",
+   "title": "マドレーヌ配ってロマンス詐欺に「マドわさレーヌ」 県と井原署、スーパーで街頭啓発",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4wSzVyS1dMd3JqYTNyODUwN21CS3JQd2R3UTVDdWZid3Q4Q2FITXhKMUdkNjk5ckhoTUJvS3RsOVMzTHhkMWFQcDlvTDRWQmdrM3c?oc=5",
+   "source": "山陽新聞",
+   "cat": "事件",
+   "region": "井原市",
    "pub": "2026-11-19T17:00:00+09:00",
    "event_date": ""
   },
@@ -2624,6 +2744,16 @@
    "event_date": ""
   },
   {
+   "id": "f9e8e89f943958a8",
+   "title": "【おかやま祭時記】⑦当人祭 梶並神社（美作市） 今年の流れを振り返る",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYW1DOVNGaHN4Z0V6Nmd0VHhsRENhYU1LeWsxaHlqZVFlNTBMNWJUWWU4dE9ocVdEWjMzdnYwMW5ETTB3cUhKeTdYekJha21fTDhvR1ZVLXZUUUZwdEJ2YkZaVG5VbjZSdVBubHV6OElHVFBTTW1BTUw1bVRWLVR4THowb1RFM2llMTljSg?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "美作市",
+   "pub": "2026-11-17T10:41:37+09:00",
+   "event_date": ""
+  },
+  {
    "id": "c0c582079bbe6527",
    "title": "火災延焼の民宿が再スタート 瀬戸内・牛窓、復活望む声受け",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0za25nc2FSZGR5Z2lrdHVFMFdnWDZJd1Y5eXZxY3ZyUTZkcVVtMzdwNzJaVllVSkZzamJNUFFCYllnWF9YVUVNdUwxTVFOVG9wTDhaUFpSNW41MURyckd2akdLQU90WFlRVmFPZWxxM2cyUQ?oc=5",
@@ -3384,153 +3514,13 @@
    "event_date": ""
   },
   {
-   "id": "f91bade5caf93cfb",
-   "title": "自宅で出産の赤ちゃんを殺害した疑い 母親を再逮捕 岡山県警",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9mdnExbldhbjRNS0JPdGNxcmxGUHBLRkM5aV9RTkVUUlNlZzNZYmpScEFCUTdCSURTY3dyZmFObzFIZnhSdEQ4SGtXQlo2aW1MRHVvOWhxS1FrT3FTQjJj?oc=5",
-   "source": "NHKニュース",
-   "cat": "事件",
-   "region": "県内・その他",
-   "pub": "2026-11-15T16:17:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "ece0b77b9c7318e3",
-   "title": "笠岡で初の「カブトガニフェス」 自然守る大切さ学ぶ 検定、ワークショップ、サミットも【動画あり】",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5LQWFuTW9Cc0JxaHVaVWVPWVhlajZoTGFCZEZZT2hHc2RFZE9YbFcwc28wcnppaUFKT3V3QmE3VlBoSmIydmNiUHdmUWx3UG5fV0E?oc=5",
+   "id": "386725268df171dc",
+   "title": "【おかやま祭時記】⑦当人祭 梶並神社（美作市） 〝生き神様〟新たな形模索【動画あり】",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE41STZ3b21Vb001S1BDdmh2U3VyNHRLSW5tTFJpTldqakdhYko2VERGREZCSTFENVFPTVZDN3NUc0FIYXZNZ3dpQXhZcEVKRWItenFSSm4xSmE4dmZKNElDZzV5Zw?oc=5",
    "source": "山陽新聞",
    "cat": "催し",
-   "region": "笠岡市",
-   "pub": "2026-11-15T15:44:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "45539dbe7b4822b2",
-   "title": "ロースステーキ無料試食会も 21日から3日間「和牛フェア」 岡山市サウスヴィレッジ",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE01SzFSdWNOS1N3QUdwazFCQXRtYlJ6Tm5sMDJFWG1tN2dHdFFDZlNibjJrdTl3bE92dXZCR1U4QUVLRWVqQUZsUU53bk1MVk1N?oc=5",
-   "source": "KSBニュース",
-   "cat": "催し",
-   "region": "岡山市",
-   "pub": "2026-11-15T15:28:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "d81fc9e6122d91ac",
-   "title": "全国大会上位目指し全力尽くす 赤磐市、出場選手ら激励会",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONkp1aTh5RUdHYkJFUnM5MGVYb2hnR19MTXpZOHhSYUxVU2JaUldwa1poclVQSGFMT0o3RlhTWlRmR05nWjZQczJPTmhmM0wxS2JSV2JLTEhiMkMtNk5Wc0gwZzFwQnpVZU1hdkRjVmdheTZHRFlBM0lReDFoVjJLZEpCekp0UQ?oc=5",
-   "source": "山陽新聞",
-   "cat": "催し",
-   "region": "赤磐市",
-   "pub": "2026-11-15T15:26:53+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "7890a3189bdf7b0e",
-   "title": "自宅のトイレで出産後…赤ちゃんを殺害した疑い 26歳の女を再逮捕 岡山",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBkS3QyekhuQ3F0XzZoZDUwX0FHMnlpUEFLNmthOE51S3NaRUZ4TmxibzhvdHYzYkFRem9WOWNlNmpYTVdlc1Bobk40WDZfallr?oc=5",
-   "source": "KSBニュース",
-   "cat": "事件",
-   "region": "県内・その他",
-   "pub": "2026-11-15T14:36:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "808b467ef191bde8",
-   "title": "出産した女児の首をタオルで絞め殺害 容疑で母親を再逮捕 岡山",
-   "url": "https://www.sankei.com/article/20261115-3GTEP6V5TNJY3DXW62OKTLU3WE/",
-   "source": "産経ニュース",
-   "cat": "事件",
-   "region": "県内・その他",
-   "pub": "2026-11-15T14:29:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "35cc81852461036d",
-   "title": "岡山済生会総合病院が第3回防災わくわくフェスタにDMATブース出展へ",
-   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1Hbk9SSUoxX0NNcmZRSjV4LXk1WHFwRXpZQ3VPQlpZNjJKeXpzNXp4SU9mNDEtc3NjMGRWSWJlcUpTV2xWdUZN?oc=5",
-   "source": "Dellows News",
-   "cat": "災害",
-   "region": "県内・その他",
-   "pub": "2026-11-15T13:06:22+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "63ccf77f904f40c6",
-   "title": "鋭い打ち込みに応じ技 赤磐市青少年剣道大会",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1SSFZZMlc0eUhvcENtLWRKSGxWR3FyV3JFa2VWc28yQzNPeF9DZXNaY3haekYybDVmMEVfTC1vSmRmVGUwRFJpb1dOMU4zZGxwbGlLLUowYk5VbWlXZThvSFhnVHUxTG5QTjl4T3E3MA?oc=5",
-   "source": "山陽新聞",
-   "cat": "催し",
-   "region": "赤磐市",
-   "pub": "2026-11-15T12:56:15+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "7aa8670140d7635b",
-   "title": "近隣ショップで同様手口の事件 窃盗グループの一部関与か 近く再逮捕へ 岡山県警",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CeTVXcnV0X1hHZEN1dVhZQWRCckxsQ0FYM1RsQzh1SjY5bEE4VkJiTTU5NTJmelMwNFd5Q1NyeHRuaWJoQUFlRl82ZDQtandiV1JuY0VWbmQyUQ?oc=5",
-   "source": "山陽新聞",
-   "cat": "事件",
-   "region": "県内・その他",
-   "pub": "2026-11-15T12:13:32+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "793c40764197cd25",
-   "title": "過去に渋野日向子選手も出場…津山市でジュニアゴルフ大会【岡山】",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9OQ2Vtd3NFQUVoQVQ3MXVKVy0yZ3gxRTBsbE00c0xiSjdtRWtPZUJFZzFJVjNGMVJVWmtEdHItbkU2ZkYyMTlodlBVUjhyVVo4?oc=5",
-   "source": "OHK岡山放送",
-   "cat": "催し",
-   "region": "津山市",
-   "pub": "2026-11-15T12:09:44+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "9040afa5460e09e4",
-   "title": "タオルで首を絞めて殺害か…自ら出産した赤ちゃんを殺害した疑いで26歳の母親再逮捕【岡山】",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBaMkRSUUJiUXFRXzFOOFNLRHUyRXR2X0RGY2VZc1FETWUyR3A3cTQyZ3ZnSXpSbFV3SWQ3cUdrcTZ4allDRHQxMncxVVdTSEZWVzY1aGNpSDRYWFdK?oc=5",
-   "source": "OHK岡山放送",
-   "cat": "事件",
-   "region": "県内・その他",
-   "pub": "2026-11-15T11:11:01+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "4117d541c5b3e201",
-   "title": "【速報】自宅で出産した赤ちゃんを殺害した疑いで再逮捕 死体遺棄容疑で逮捕の女（26） タオルで首をしめつけるなどして窒息させたか【岡山】",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9zZFhMdTBhd0V4S2swcDFLbHJYUnBpYlVwYUZxdzlrcmtlN2Z3by12S0o2RF94ZjFxemxTUC1rTXhWTmdpTkpua1hEVTRreGp2SmZSOGpHbw?oc=5",
-   "source": "TBS NEWS DIG",
-   "cat": "事件",
-   "region": "県内・その他",
-   "pub": "2026-11-15T11:07:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "5b985f9fd8f8acd3",
-   "title": "迷宮入りを阻止した「3分の1だけの指紋」…時効直前に逮捕「岡山 ...",
-   "url": "https://topics.smt.docomo.ne.jp/article/dailyshincho/nation/dailyshincho-1522452",
-   "source": "dメニューニュース",
-   "cat": "事件",
-   "region": "県内・その他",
-   "pub": "2026-11-15T10:03:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "c63bec8a05cb1beb",
-   "title": "時効直前「岡山主婦強殺」で逮捕された“優秀な営業マン” 上司が ...",
-   "url": "https://topics.smt.docomo.ne.jp/article/dailyshincho/nation/dailyshincho-1522407",
-   "source": "dメニューニュース",
-   "cat": "事件",
-   "region": "県内・その他",
-   "pub": "2026-11-15T10:02:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "3ca7d0e2d3fb9310",
-   "title": "女児への殺人容疑で母親を再逮捕 倉敷市の死体遺棄容疑事件",
-   "url": "https://www.msn.com/ja-jp/news/news/%E5%A5%B3%E5%85%90%E3%81%B8%E3%81%AE%E6%AE%BA%E4%BA%BA%E5%AE%B9%E7%96%91%E3%81%A7%E6%AF%8D%E8%A6%AA%E3%82%92%E5%86%8D%E9%80%AE%E6%8D%95-%E5%80%89%E6%95%B7%E5%B8%82%E3%81%AE%E6%AD%BB%E4%BD%93%E9%81%BA%E6%A3%84%E5%AE%B9%E7%96%91%E4%BA%8B%E4%BB%B6/ar-AA2htrBk",
-   "source": "山陽新聞デジタル on MSN",
-   "cat": "事件",
-   "region": "倉敷市",
-   "pub": "2026-11-15T09:35:31+09:00",
+   "region": "美作市",
+   "pub": "2026-11-15T16:56:33+09:00",
    "event_date": ""
   }
  ]
