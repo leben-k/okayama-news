@@ -1,26 +1,26 @@
 {
- "updated": "2026-11-23T00:36:39.104806+09:00",
+ "updated": "2026-11-23T06:40:40.992507+09:00",
  "source_stats": {
   "Googleニュース": {
    "ok": 22,
    "ng": 0,
-   "raw": 403,
-   "adopted": 235,
-   "new": 25
+   "raw": 417,
+   "adopted": 253,
+   "new": 11
   },
   "Googleニュース(媒体別)": {
    "ok": 16,
    "ng": 0,
-   "raw": 771,
-   "adopted": 120,
-   "new": 6
+   "raw": 781,
+   "adopted": 104,
+   "new": 3
   },
   "Bingニュース": {
    "ok": 22,
    "ng": 0,
-   "raw": 61,
-   "adopted": 40,
-   "new": 17
+   "raw": 72,
+   "adopted": 44,
+   "new": 20
   },
   "岡山県(緊急情報)": {
    "ok": 1,
@@ -324,6 +324,16 @@
    "event_date": ""
   },
   {
+   "id": "f6b9ba63bb07ec63",
+   "title": "岡山検察審査協会がイベント初開催 制度へ理解深める演劇披露",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE04MmZ5Zk4yYlFGbG5NY0FXai1HeUFtZkwxcTIzREpIMFpKU1NuWnRDZXRVQ1dEWC04cU52SUhudG92Ym80MjdrcWN2bFRfenpqYmNOeUNKYmNhSzNiTHB6a0txT3BOUTl0OTJZbHBUNA?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-11-22T09:24:55+09:00",
+   "event_date": ""
+  },
+  {
    "id": "a450b9a30b5f2688",
    "title": "響きあう、インド（岡山公演）",
    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB4eE14ZnZDTjUxVlpiN2pKM2NKY1NJX3ZBT1g0SzBlWDJHTkJNaFo1dlFEWEpJbDlHay1aQ2piT3gzd0dFbHJHdjBB?oc=5",
@@ -351,6 +361,16 @@
    "cat": "催し",
    "region": "岡山市",
    "pub": "2026-11-21T19:59:17+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "022f679f0917b730",
+   "title": "岡山一番街で「クリスマスのデザートマルシェ」開催へ",
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE90a052Xzc5ckJmYWhraFJhaENDYzNZbWM4elZFZnpWQjAybG1UR1ROcHJ2UWVkMkQxc3lsS0x1Z19XOGV3RjhR?oc=5",
+   "source": "Dellows News",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-11-21T19:01:18+09:00",
    "event_date": ""
   },
   {
@@ -701,6 +721,16 @@
    "cat": "火災",
    "region": "岡山市",
    "pub": "2026-11-20T20:34:52+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "320cc6fa852428f7",
+   "title": "声優の森久保祥太郎さんと立花慎之介さん招きイベント 井原市美星町、「星空保護区」5周年で",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80Y3hLT3lZWDNOLWh2YXlSV3ZBejFJUVRYZUZNUDRwc05Qa2U1WEp0VC1HdDdZZ2dYcl9saUliUExueEoxYlhlOWNkTEVEM2lZdFFZbGpURUxKUQ?oc=5",
+   "source": "中国新聞デジタル",
+   "cat": "事件",
+   "region": "井原市",
+   "pub": "2026-11-20T19:49:01+09:00",
    "event_date": ""
   },
   {
@@ -2341,6 +2371,16 @@
    "cat": "事故",
    "region": "県内・その他",
    "pub": "2026-11-18T15:40:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "0257f206a5b2c6da",
+   "title": "ロボットやドローン、フィジカルAIを体験 岡山で小中学生向け「高専フェス」開催",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1sRm4zQnV5YXlGT18waTViWlZfaVI4MnBYVnB1X01leW9GRmVuQWtUUlQ0d1g5MHhLaklabnc4RDBnS05jeE5qeXM4ZG5VdjctdkZwdDVhUTE4X1IwTXdUQTVySEU?oc=5",
+   "source": "こどもとIT",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-11-18T15:30:00+09:00",
    "event_date": ""
   },
   {
