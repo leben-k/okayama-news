@@ -1,24 +1,24 @@
 {
- "updated": "2026-11-22T04:42:33.952062+09:00",
+ "updated": "2026-11-22T09:15:02.956928+09:00",
  "source_stats": {
   "Googleニュース": {
    "ok": 22,
    "ng": 0,
-   "raw": 412,
-   "adopted": 243,
-   "new": 13
+   "raw": 391,
+   "adopted": 229,
+   "new": 6
   },
   "Googleニュース(媒体別)": {
    "ok": 16,
    "ng": 0,
-   "raw": 779,
-   "adopted": 101,
-   "new": 3
+   "raw": 784,
+   "adopted": 124,
+   "new": 8
   },
   "Bingニュース": {
    "ok": 22,
    "ng": 0,
-   "raw": 63,
+   "raw": 62,
    "adopted": 42,
    "new": 18
   },
@@ -73,6 +73,16 @@
   }
  },
  "items": [
+  {
+   "id": "a450b9a30b5f2688",
+   "title": "響きあう、インド（岡山公演）",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB4eE14ZnZDTjUxVlpiN2pKM2NKY1NJX3ZBT1g0SzBlWDJHTkJNaFo1dlFEWEpJbDlHay1aQ2piT3gzd0dFbHJHdjBB?oc=5",
+   "source": "OHK岡山放送",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-11-22T06:06:33+09:00",
+   "event_date": ""
+  },
   {
    "id": "79a22ff7b96121d7",
    "title": "名探偵プリキュア！ ドリームステージ♪（倉敷公演）",
@@ -164,6 +174,16 @@
    "event_date": ""
   },
   {
+   "id": "77d0cb3693b5b0fa",
+   "title": "山陽自動車道 鴨方IC～玉島IC 通行止め解除",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5taTBHcnVoWWlqXzAzNUtnSXhmSkR3X0ZqSWd3UG5PbEYxNEhVaVFld2puRmhRejdLcHczdlo1R1VqZGlLSkdtNWRwQlFaT25aMTNVNDFURm5BeDlEbExn?oc=5",
+   "source": "NHKニュース",
+   "cat": "災害",
+   "region": "県内・その他",
+   "pub": "2026-11-21T13:23:16+09:00",
+   "event_date": ""
+  },
+  {
    "id": "0091aa83cfa08b5d",
    "title": "【速報】玉野市のスーパーに軽乗用車が突っ込む事故 店内いた男性がけが",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1sY3BLcC1aNXpVOTJfeEhQNEdoMy05ekJ4dmdnenFqVDRQdVBfYWU0c1drd3BVbVhON3BadVVTYTlTWVk3cjh0YTlZX0NaZ3RGMWc4ZUE1MGRnaUlRMEp1MFNvX1dSVVFCdmdZZEFn?oc=5",
@@ -221,6 +241,16 @@
    "cat": "事件",
    "region": "県内・その他",
    "pub": "2026-11-21T11:35:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "8f528c0b0cd093c5",
+   "title": "吉備中央でみのり園夏祭り 園生ら住民と交流 岡山西ＬＣ協力",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OSndJb2RHTUJsd3JVb2FSRG1mUC0wLWRDbXlKRlFGUmprQVBZWGdWa3lNY2IwWjVBZnFBcmdHbTBIWW55ZEktTnpRcnpwa2xRc1hQUGhLT3g0emJ0UEE?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "吉備中央町",
+   "pub": "2026-11-21T10:58:56+09:00",
    "event_date": ""
   },
   {
@@ -471,6 +501,16 @@
    "cat": "事件",
    "region": "県内・その他",
    "pub": "2026-11-20T17:15:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "04dadc7d3c719311",
+   "title": "瀬戸内市が協力隊３人任命 花火大会やマリンスポーツで振興",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5EVzZaanpyQkJfTGRNWlVaS01GeVp0NjFmQy1lOVMxSmpuNzR0cnRkMTRXN1M3RHUxWnU5RTJhdUloaW9rMUdleTFQNl9TVXFXZTk4RUY3X1lGdmFHU1d3QlJoclRKSWpZTGlTdmJDNA?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "瀬戸内市",
+   "pub": "2026-11-20T17:11:10+09:00",
    "event_date": ""
   },
   {
@@ -3491,56 +3531,6 @@
    "cat": "事件",
    "region": "倉敷市",
    "pub": "2026-11-15T09:35:31+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "a7f248b17ac37cc1",
-   "title": "迷宮入りを阻止した「3分の1だけの指紋」…時効直前に逮捕「岡山主婦強殺」 15年間の逃亡期間中に向上していた「捜査技術」とは（デイリー新潮）",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXdEdtdlpfa1M1ZjZhZFpFcW1NMkJmSTZYeXVtTno3S3FXSHZBaTZwVmZIdWVYa2Z3U1lyQUotNmhQR09RWTAxU0diLWdXMHR5dUpEVkc0aW16TjVqeHFLcDY5RUdqZG5BUWFLOHc4enhfU0hCc1FTWEN2eFhRdHM?oc=5",
-   "source": "Yahoo!ニュース",
-   "cat": "事件",
-   "region": "県内・その他",
-   "pub": "2026-11-15T09:03:40+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "595de361fde77e14",
-   "title": "【おかやま祭時記】⑦当人祭 梶並神社（美作市） 今年の流れを振り返る",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1WUzJBand6aDdYdWc4YlNVcHlwSHRTRXBEV1lMWDU0T1FiZ0U2djZhNmNnbVRaSHhLRFl6MjQtUDY3cUlzUFdidy00N044d0RKQWNpcUhxY2FkRXAybkp5MTRidnpFeHhu?oc=5",
-   "source": "山陽新聞",
-   "cat": "催し",
-   "region": "美作市",
-   "pub": "2026-11-15T09:03:06+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "868fdb29fd224f2a",
-   "title": "時効直前「岡山主婦強殺」で逮捕された“優秀な営業マン” 上司が明かした最後の日「警察はソファを飛び越え、彼の前に立った」",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TZzBoYnFaRk5DbXk4TmhBcUItQ3FKeE54RjBHOEU4MXk0b1FNMkV2Q25YQmFBck5tMU01U1RGR1pkV3FuRV9lVnM2dm5IN0s2N0lVZFA5NjZZTld1eVQxRFgwbFRXbEViSmQtT1dUVGN3b01Pd2ZSOTV5RkRZZlE?oc=5",
-   "source": "Yahoo!ニュース",
-   "cat": "事件",
-   "region": "県内・その他",
-   "pub": "2026-11-15T09:02:57+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "03a279756c880e5a",
-   "title": "【おかやま祭時記】⑦当人祭 梶並神社（美作市） 〝生き神様〟新たな形模索【動画あり】",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhQXM0Q2RFa3dwa3c2U3lUTGRIeEdoRFVEN0NqZWw0MU5xclh6aUJ3V3ZZWEQ4dFVncnhlR0ZySGhGUVd0X0cybFdvVHV2RTF1bWc?oc=5",
-   "source": "山陽新聞",
-   "cat": "催し",
-   "region": "美作市",
-   "pub": "2026-11-15T05:06:13+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "ec4b7cf942b7a191",
-   "title": "岡山：東区で藪井さんコンサート 戦国の世楽器音で表現 「５次元キーボード」駆使 ：地域ニュース",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5mTVVIOVpRTEEyelJ3dTQ0X0VBYzBUVW5SUTRlNDl0NkFqTjRKZ0NsUVdFLXFHZ3JTUm93cE54VGlkY3pyZUhxWTFIcDFOTkJtSkZzRDRDVHlXN0V1OGlXVDBXa1dfNnRXbjVHMVpLSW1yN1E?oc=5",
-   "source": "読売新聞",
-   "cat": "催し",
-   "region": "県内・その他",
-   "pub": "2026-11-15T05:00:00+09:00",
    "event_date": ""
   }
  ]
