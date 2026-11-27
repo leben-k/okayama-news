@@ -473,6 +473,40 @@ def is_okayama_news(title):
     return True
 
 
+# 昔の記事を最近の日付で配信することがあり、見分けられない配信元(取り込まない)
+RE_BLOCK_SOURCE = re.compile(r"ウォーカープラス|ウォーカー|walkerplus", re.I)
+
+RE_YEAR = re.compile(r"(?<![0-9])(20[0-9]{2})(?![0-9])|(令和|平成)\s*([0-9０-９]{1,2}|元)\s*年")
+
+
+def title_years(title):
+    """見出しに書かれている西暦の年を返す(令和・平成も西暦にする)"""
+    ys = []
+    for m in RE_YEAR.finditer(title):
+        if m.group(1):
+            ys.append(int(m.group(1)))
+        else:
+            n = m.group(3)
+            n = 1 if n == "元" else int(n.translate(str.maketrans("０１２３４５６７８９", "0123456789")))
+            ys.append((2018 + n) if m.group(2) == "令和" else (1988 + n))
+    return ys
+
+
+def is_old_year_title(title, pub):
+    """見出しの年が、記事の日付の年より古ければ True。
+    Googleニュースは、昔の記事を最近の日付で返すことがあるため(例:「夏まつり西大寺2018」)。
+    1〜2月は、前の年(年末年始など)の見出しは認める"""
+    ys = title_years(title)
+    if not ys:
+        return False
+    latest = max(ys)
+    if latest >= pub.year:
+        return False
+    if latest == pub.year - 1 and pub.month <= 2:
+        return False
+    return True
+
+
 def make_item(raw):
     """生の見出しを整えて、岡山に関係あれば項目を返す。関係なければ None"""
     title = raw["title"]
@@ -505,6 +539,11 @@ def make_item(raw):
     # 地名が見出しにない記事は、山陽新聞・RSKなど地元の配信元でも採用しない
     # (共同通信配信の全国ニュースが混ざるため)
     if not is_okayama_news(title):
+        return None
+    if RE_BLOCK_SOURCE.search(source or ""):
+        return None
+    # 見出しに古い年が書かれている記事は採用しない
+    if is_old_year_title(title, raw["pub"]):
         return None
 
     cat = find_cat(title)
@@ -1052,6 +1091,13 @@ def main():
         official = i["source"] == "気象庁" or i["source"].startswith(("岡山県", "岡山市"))
         if not official and not is_okayama_news(i["title"]):
             continue
+        if not official and RE_BLOCK_SOURCE.search(i.get("source", "")):
+            continue
+        try:
+            if not official and is_old_year_title(i["title"], datetime.fromisoformat(i["pub"])):
+                continue
+        except Exception:  # noqa: BLE001
+            pass
         keep_old.append(i)
     if len(keep_old) != len(old):
         print("岡山以外の見出しを %d件 外しました。" % (len(old) - len(keep_old)))
