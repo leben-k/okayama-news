@@ -1,26 +1,26 @@
 {
- "updated": "2026-11-27T23:53:41.609849+09:00",
+ "updated": "2026-11-28T07:29:22.063526+09:00",
  "source_stats": {
   "Googleニュース": {
-   "ok": 18,
-   "ng": 4,
-   "raw": 420,
-   "adopted": 199,
-   "new": 26
+   "ok": 22,
+   "ng": 0,
+   "raw": 406,
+   "adopted": 207,
+   "new": 9
   },
   "Googleニュース(媒体別)": {
    "ok": 16,
    "ng": 0,
-   "raw": 794,
-   "adopted": 84,
-   "new": 5
+   "raw": 775,
+   "adopted": 82,
+   "new": 4
   },
   "Bingニュース": {
-   "ok": 22,
-   "ng": 0,
-   "raw": 55,
+   "ok": 21,
+   "ng": 1,
+   "raw": 58,
    "adopted": 38,
-   "new": 22
+   "new": 23
   },
   "岡山県(緊急情報)": {
    "ok": 1,
@@ -34,14 +34,14 @@
    "ng": 0,
    "raw": 100,
    "adopted": 29,
-   "new": 21
+   "new": 23
   },
   "岡山県(報道発表)": {
    "ok": 1,
    "ng": 0,
    "raw": 100,
    "adopted": 39,
-   "new": 20
+   "new": 19
   },
   "岡山市(緊急情報)": {
    "ok": 1,
@@ -62,17 +62,47 @@
    "ng": 0,
    "raw": 30,
    "adopted": 9,
-   "new": 7
+   "new": 8
   },
   "気象庁": {
    "ok": 1,
    "ng": 0,
-   "raw": 0,
-   "adopted": 0,
-   "new": 0
+   "raw": 5,
+   "adopted": 5,
+   "new": 3
   }
  },
  "items": [
+  {
+   "id": "1ba2473a47eadc87",
+   "title": "【岡山地方気象台】気象警報・注意報（Ｈ２７）「【岡山県気象警報・注意報】岡山県では、竜巻などの激しい突風や落雷に注意してください。」",
+   "url": "https://www.jma.go.jp/bosai/warning/#area_type=offices&area_code=330000",
+   "source": "気象庁",
+   "cat": "災害",
+   "region": "県内・その他",
+   "pub": "2026-11-28T04:58:17+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "bd1b7da369deeb9f",
+   "title": "【岡山地方気象台】気象特別警報・警報・注意報「【岡山県気象警報・注意報】岡山県では、竜巻などの激しい突風や落雷に注意してください。」",
+   "url": "https://www.jma.go.jp/bosai/warning/#area_type=offices&area_code=330000",
+   "source": "気象庁",
+   "cat": "災害",
+   "region": "県内・その他",
+   "pub": "2026-11-28T04:58:17+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "6999101810814040",
+   "title": "【岡山地方気象台】気象警報・注意報（Ｒ０６）（その他注意報）「【岡山県雷注意報】岡山県では、竜巻などの激しい突風や急な強い雨、落雷に注意してください。」",
+   "url": "https://www.jma.go.jp/bosai/warning/#area_type=offices&area_code=330000",
+   "source": "気象庁",
+   "cat": "災害",
+   "region": "県内・その他",
+   "pub": "2026-11-28T04:18:07+09:00",
+   "event_date": ""
+  },
   {
    "id": "8be8c9e7a52b8f0f",
    "title": "2024年9月の倉敷商店街火災から約2年――。地域に愛された『笑咲屋 はなび』が2026年12月3日(木)に復活グランドオープン！豪快な「藁焼き」と彩り豊かな「野菜巻き串」を掲げ再び倉敷に笑顔を灯す",
@@ -644,6 +674,16 @@
    "event_date": ""
   },
   {
+   "id": "9382cc7c7b717ff6",
+   "title": "日本刀を見て、触って、体験！備前長船刀剣博物館で刀造り見学",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE40WXQ5ZVJLbWp3YWdRcXkzSnVtel80bnNpM1NtUnpYdnJpckZaUnZOVHQ1cURKa3dzYWxUNC10Y01Za1A2MVNCNzcyNVBLOVJheDBPcg?oc=5",
+   "source": "ウォーカープラス",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-11-26T17:00:00+09:00",
+   "event_date": ""
+  },
+  {
    "id": "856155a51b3476b4",
    "title": "特殊詐欺グループとみられる男2人再逮捕 岡山県の女性から現金650万円だまし取った疑い 青森県警察本部",
    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWktUNjN3UUgtb1NQVjFYN1JfLTQzM1RzaElfekZHdklsRFYxSkJDX2lPd0lVOEdzMHJzRHl1aTNyV2hNZzhUajRiWjNWRXJ1VVVwZzlVTHpNa3ZGMXU2OWgxWFNDaGJ1d2c2MldINWxnbUltQXd2RHNxQjQyODNvVURjYXJSNEZDRHBjWTdBQTgxWHNObHF0aTRXSmtvZUJickhRT0gxbk1wdUtIakVlWDBQZ09wTkl5QTZxOUFzZS1ldVRqNjdfZTdSWmZpU2RJ0gGAAUFVX3lxTFBHeVc5ODUzTWxVeXVhczhxMDdEM0RMV0lkdDh2Yks1MUhTT1JuQnJmV2J4SEw2UndiZm9pS2RiLUZHMzB3UnIwUWN2aUJWS1BybGpXUGYtTFZOSmdBX2g3aVdocl9GOHBxWDV4d1ptdDBSWTNSSXZpeVZXc1Brcmxr?oc=5",
@@ -741,6 +781,16 @@
    "cat": "催し",
    "region": "県内・その他",
    "pub": "2026-11-26T13:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "1b67156df6dd9673",
+   "title": "鹿児島で住宅火災３人死亡 ６０代住人らと連絡取れず",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNN2VqTktVa2pkRzlSeVA0Z0t3OHB3cHBxV3B3QjRWRmVLc19XalBQcDV3cVhEeVhfZzJyWUNST2ZGYk5zSk5QMU9tbTM0enZ3THA0bHpkNlBiMWtRR1lsWWpPSW5YbF9US0MwOV9wTTEwU0V0MEVNV1VuWk1tVDRsU0lmaERSVWVtdVVv?oc=5",
+   "source": "山陽新聞",
+   "cat": "火災",
+   "region": "県内・その他",
+   "pub": "2026-11-26T12:35:00+09:00",
    "event_date": ""
   },
   {
@@ -851,6 +901,16 @@
    "cat": "火災",
    "region": "県内・その他",
    "pub": "2026-11-26T09:45:59+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "2c7ae31d750467a8",
+   "title": "台湾籍の男女2人を逮捕...投資運用資金名目で会社役員の男性から現金500万円をだまし取った疑い【岡山県警】",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOZFI5MXBkamVtcG0zSXZwT0ZHeDhtaVJhUUkxa0RLSVBsRk1qUHFONDlKY2JDY0lfUnRGa01jdUpNSXdpaWVuSFcwVkhiQURSMDdXcTdNRXNoMThVLXdISnVpWmt1dGd1dGhMZHB0M0pBVU9xRnA5TFh3UFVhUlE?oc=5",
+   "source": "Yahoo!ニュース",
+   "cat": "事件",
+   "region": "県内・その他",
+   "pub": "2026-11-26T09:43:12+09:00",
    "event_date": ""
   },
   {
@@ -1044,12 +1104,32 @@
    "event_date": ""
   },
   {
+   "id": "68880eb4b7ff94a1",
+   "title": "故郷の津山で稲葉浩志さんの凱旋ソロコンサート 稲葉さんの誕生日祝う62発の花火も【岡山】",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9IRC1uMTZ5bTg1UnpiN3RXb2V5SlFGSmFSWnppZ1dkWnprRkU2WEN4VE9teXVsdHJFU2hmV0o3akZOZU9WQ011X29iaDlxVzVCbkx4WUJoYmVrcEdneWVZ?oc=5",
+   "source": "TBS NEWS DIG",
+   "cat": "催し",
+   "region": "津山市",
+   "pub": "2026-11-25T17:30:00+09:00",
+   "event_date": ""
+  },
+  {
    "id": "548674d94e3c3ae7",
    "title": "米粉使いデザートやパン７品考案 倉敷 作陽大生 普及へイベントで披露",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5PdjExb1Yzd2NxOHVyS2JOb3k4TThZN1VmNVJEQVVrUHNRNFdrYmtFeG9pbTJZZXlSaXoyRmdsYlZCaTlKbWpjV3ZoSzcwdVpWMVE?oc=5",
    "source": "山陽新聞",
    "cat": "催し",
    "region": "倉敷市",
+   "pub": "2026-11-25T17:00:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "7c2c954087aa5728",
+   "title": "【おかやま祭時記】中世夢が原大神楽（井原市） 民俗学者・神崎宣武さん「全国的つながりを」",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YRFI2aGNZLTRPN1dnalBzYXhDVS16QzVIQTBjcWxtMlpaX3RXWkxVME9yaUpBVmNoWFdtWnlOUk53WkZrb05tXzF3ZXNiRUptTEpBMHhvS3RPV1h2VHA1dkZLRjJCOVk?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "井原市",
    "pub": "2026-11-25T17:00:00+09:00",
    "event_date": ""
   },
@@ -2104,6 +2184,16 @@
    "event_date": "2026-12-06"
   },
   {
+   "id": "15b71ba8c68e69e0",
+   "title": "民家駐車場からスタッドレスタイヤ盗んだ疑いで廃品回収業の男逮捕 岡山県警備前署 「他にも10～20件やった」",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tVHVfbDcxMFVtbE5zSFNkXzRJZDNDS2dWcnJJWjlQdm5kSThaTVZ4ZElBN3RwMFRGU3hsZE5qOExzOEZ6aXJPaVl6NEpjWEF1VnVlY1VWOHVhY1IyQ1M1SkNCLXloTGwyZGM2dE00MHowbGVNc1lVM0FjeGtJdnM?oc=5",
+   "source": "Yahoo!ニュース",
+   "cat": "事件",
+   "region": "県内・その他",
+   "pub": "2026-11-23T18:16:07+09:00",
+   "event_date": ""
+  },
+  {
    "id": "a8fa33b53e5b0430",
    "title": "障害ある人が生産した農作物や加工品を販売する「ノウフクマルシェ」 11月28日 岡山市",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9vclJJblRicVZndk1qMWI5LXd4cU16emtUZ2xTcGJmX1ZyYjlVTVRmVkphdTFVSko4QTY3MDZEYVc4NDExNnFIRXpYVmFTS2gz?oc=5",
@@ -2694,6 +2784,16 @@
    "event_date": ""
   },
   {
+   "id": "02ba093bf86c0b86",
+   "title": "ポーカー賭博容疑で男２人逮捕 岡山南署",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45b1RaREVOSWFoVDBBWFJieDFHRzk0NXR2NnZjZm9xVUxBQTBNSGFJTTFFNW9iZE93dDlrYzRMT0xUeUR5UWluSUdjRUZVcWN6WXc?oc=5",
+   "source": "山陽新聞",
+   "cat": "事件",
+   "region": "県内・その他",
+   "pub": "2026-11-21T21:01:00+09:00",
+   "event_date": ""
+  },
+  {
    "id": "5475641bb9b2669d",
    "title": "【道～Ｍｙ Ｗａｙ】コロナ禍越え花火継承 森上煙火工業所（岡山市） 森上真夢社長",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBYVFMtYVMwVWJkUUNEaWlPalBJaFEyQ2FMUlExUUtkeFktalAtN05fRTQxWndSUVhVMlVhZzRwSDJBb0hlVF9zUXF4Qmg1QW5kdVNLbXRfd21Dc19qbGNCMThnbTNTaWJoUDA2d1VxOG9fejAzZFBn?oc=5",
@@ -3204,6 +3304,16 @@
    "event_date": ""
   },
   {
+   "id": "72309a929c7ad144",
+   "title": "ポーカーゲーム機で違法賭博の容疑...経営者の男（68）と客の男（20）を現行犯逮捕 岡山市南区",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1hQUY5bl9YSjU0a3NkNFBnNFA4TnVtajR0eERWUjlPM21YeEl6WE5UM0VZX3pZN1JjNGxxcWNEVjkxRDNOeTZGaG5WWFNHWGRFU0xrQ1ppaw?oc=5",
+   "source": "TBS NEWS DIG",
+   "cat": "事件",
+   "region": "岡山市",
+   "pub": "2026-11-21T10:42:00+09:00",
+   "event_date": ""
+  },
+  {
    "id": "8a75528b87e97fea",
    "title": "歯磨きやバランス良い食事を 赤磐で子どもポスター作品展",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBrTFFKeHU2OFdpY3NMMVpBcjUxYjN1d09YNlJYT2lpemNNZUhydGtHWmtHRjFKOFBsc3FEdklVUEwzS2JtclpXQXBPYWgteS1icDVIUmNnUTdkU3A3VXdWTkxlUFNBTW1Bb05STmkzek0tcGZZU200NWtOdXdNUdIBgwFBVV95cUxPakxPZEVfQWU4X2NOR3gyS2ZYeVBFREoydzYzMDJ3WTd1RFJ3akJCQnV6OHc3SXBhV0diUHhCLWszWGkyb3J4NVhtRUtieGItaDlJWEpqTXFnZFY1amFkOFlaQU1BREtoNWtnOTVnSU5FaVlub1BhbU5YcUwwYWdjSUxmcw?oc=5",
@@ -3301,56 +3411,6 @@
    "cat": "事件",
    "region": "県内・その他",
    "pub": "2026-11-21T08:01:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "9fe6e321f151b699",
-   "title": "【岡山地方気象台】気象特別警報・警報・注意報「【岡山県気象警報・注意報】北部では、落雷に注意してください。」",
-   "url": "https://www.jma.go.jp/bosai/warning/#area_type=offices&area_code=330000",
-   "source": "気象庁",
-   "cat": "災害",
-   "region": "県内・その他",
-   "pub": "2026-11-21T04:07:23+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "a15fc26eaa51d74f",
-   "title": "【岡山地方気象台】気象警報・注意報（Ｈ２７）「【岡山県気象警報・注意報】北部では、落雷に注意してください。」",
-   "url": "https://www.jma.go.jp/bosai/warning/#area_type=offices&area_code=330000",
-   "source": "気象庁",
-   "cat": "災害",
-   "region": "県内・その他",
-   "pub": "2026-11-21T04:07:23+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "52ac221b18af4add",
-   "title": "【岡山地方気象台】気象警報・注意報（Ｒ０６）（その他注意報）「【岡山県雷注意報】北部では、急な強い雨や落雷に注意してください。」",
-   "url": "https://www.jma.go.jp/bosai/warning/#area_type=offices&area_code=330000",
-   "source": "気象庁",
-   "cat": "災害",
-   "region": "県内・その他",
-   "pub": "2026-11-21T04:07:05+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "48d3dd073d69e1ba",
-   "title": "【岡山大学】第30回おかやま地域発展協議体委員会を開催 ...",
-   "url": "https://www.jiji.com/jc/article?k=000004379.000072793&g=prt",
-   "source": "時事ドットコム",
-   "cat": "催し",
-   "region": "県内・その他",
-   "pub": "2026-11-21T01:00:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "8c63972d89634141",
-   "title": "浅口のレモン、四足ロボットで収穫自動化 岡山大などが実証実験",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nUUdEdXRSeTR5ZlloMkRfLWxJdGNMWHR3dlFuU1h4UHRtcUR6eU11d3VzWVZBWU5WaWNKa0JIRk41YVFuNTVhcUo0VnVfRUVyZ1N0dDVKM3pFQQ?oc=5",
-   "source": "中国新聞デジタル",
-   "cat": "催し",
-   "region": "浅口市",
-   "pub": "2026-11-20T23:55:48+09:00",
    "event_date": ""
   }
  ]
