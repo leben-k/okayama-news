@@ -1,26 +1,26 @@
 {
- "updated": "2026-11-28T07:49:16.278386+09:00",
+ "updated": "2026-11-28T08:06:22.892436+09:00",
  "source_stats": {
   "Googleニュース": {
    "ok": 22,
    "ng": 0,
-   "raw": 518,
-   "adopted": 284,
-   "new": 12
+   "raw": 449,
+   "adopted": 245,
+   "new": 5
   },
   "Googleニュース(媒体別)": {
    "ok": 16,
    "ng": 0,
-   "raw": 781,
-   "adopted": 76,
+   "raw": 785,
+   "adopted": 83,
    "new": 3
   },
   "Bingニュース": {
    "ok": 22,
    "ng": 0,
-   "raw": 59,
-   "adopted": 39,
-   "new": 23
+   "raw": 56,
+   "adopted": 38,
+   "new": 22
   },
   "岡山県(緊急情報)": {
    "ok": 1,
@@ -104,16 +104,6 @@
    "event_date": ""
   },
   {
-   "id": "346b0b031fae8e42",
-   "title": "“桃ジュース”が出る蛇口が出現！岡山で夏の期間限定イベント",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBYbGUtdlJEVWVuU0h6eGJWbWd3UmhCMWhtWG9uZ3VsdlRTcTUyYnVweFlEUzdHXzBOTmwxMlZYeUJWOWdVeFA4eEVjdzBLMTV6SFJURNIBWkFVX3lxTE1MNG5PaFFBRUh1OVVYSUFzMFQzbFViR296QndGUFAyUm9YR29oendkaVF2eEROTk50V0pXb1pRYmRVUkM4d3Jlb2lWNURQc05IRFVzVWNkQW52QQ?oc=5",
-   "source": "ウォーカープラス",
-   "cat": "催し",
-   "region": "県内・その他",
-   "pub": "2026-11-27T21:36:49+09:00",
-   "event_date": ""
-  },
-  {
    "id": "8be8c9e7a52b8f0f",
    "title": "2024年9月の倉敷商店街火災から約2年――。地域に愛された『笑咲屋 はなび』が2026年12月3日(木)に復活グランドオープン！豪快な「藁焼き」と彩り豊かな「野菜巻き串」を掲げ再び倉敷に笑顔を灯す",
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0xU0t6cjJOQ1ZsOHVXSU8tcXBVZVNWSUJqRU9EUlFPa0ZQLVJyWDd4a2c1VjFXVVNCVDdyYWNoZnZJYTk3VDBFeFRvYk9PQjRGaFF5VzI1UXlKbVBJS2FRZWlybjRTQVppSmc?oc=5",
@@ -161,16 +151,6 @@
    "cat": "催し",
    "region": "倉敷市",
    "pub": "2026-11-27T18:51:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "aa321074e7cf1dce",
-   "title": "児島虎次郎が写した風景や人々の姿を鑑賞できる特別展が岡山県で開催中",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB2N05lOG5qT0ttbFB5MHVqTGRiQ0dDbTlBOWR0ZklSTm1oYVc1X0NrQ3FFeERRVnZmR1FYNnpZaDdqdW1mUlBLX1NEaXZ2S2hveFBLUkJB0gFbQVVfeXFMUHRZeU1LRE9FMWszeWF5TmJja0hTM0stMmI5ZmZNaXV2QzN1UUJlWWdIbGx2LTQxc2VPX3RXLTczMW1CVE01Unp6RWdHNUlQVDg4SmhqbUhPa29scw?oc=5",
-   "source": "ウォーカープラス",
-   "cat": "催し",
-   "region": "県内・その他",
-   "pub": "2026-11-27T18:50:22+09:00",
    "event_date": ""
   },
   {
@@ -244,6 +224,16 @@
    "event_date": ""
   },
   {
+   "id": "572a26afded0007e",
+   "title": "【12/10〜14】岡山市で「暮らしを​彩る​器フェア in コンベックス岡山」開催。全国各地の「器」が岡山に集結！",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYzhuYlRkUVZEZFUtLUlnVUJCRy1YVkRzOUtIdXNXODdqTE02SFZhRmZOUU45Wk1CazhZSFdnY1lPVmFDaVY4Wkp2cnR4bjRVSFgwRWxxSUpLM0NXbHVTOUJRNG1UOGlHd3gtdm5PRlpfckVFa0k2RHZKUUp1LU9lZDQ1cmlOSU16djczVNIBjAFBVV95cUxNYzhuYlRkUVZEZFUtLUlnVUJCRy1YVkRzOUtIdXNXODdqTE02SFZhRmZOUU45Wk1CazhZSFdnY1lPVmFDaVY4Wkp2cnR4bjRVSFgwRWxxSUpLM0NXbHVTOUJRNG1UOGlHd3gtdm5PRlpfckVFa0k2RHZKUUp1LU9lZDQ1cmlOSU16djczVA?oc=5",
+   "source": "ｄメニューニュース",
+   "cat": "催し",
+   "region": "岡山市",
+   "pub": "2026-11-27T16:09:00+09:00",
+   "event_date": ""
+  },
+  {
    "id": "e646e916be72acc2",
    "title": "「瀬戸内４県 海ごみクリーンアップ交流会」を開催します",
    "url": "https://www.pref.okayama.lg.jp/site/presssystem/1068204.html",
@@ -281,16 +271,6 @@
    "cat": "事件",
    "region": "県内・その他",
    "pub": "2026-11-27T14:37:01+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "7c5db4ff5d04b5dd",
-   "title": "日本洋画の発展に尽くした画家を紹介、岡山県の高梁市成羽美術館で「白馬のゆくえ－近代日本洋画の黎明」開催",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE05RmNIRUR1UEdwckx6OGV5Y0Q0Z29hY01KN2xUYnpYSkpfXzhsMDlfU1lGQkVEMTFQTEJtUDdnTExxX0h3M2MtZDRwWGdTT2pINEhhczlR0gFbQVVfeXFMTXdIdmdKRVk2QjZXeUdZQ0tmdGhzXzhYNE1sSUpzWTBUQnVpcGtuRTVjTEM4Q0Y3UXJVTEVCSjRMRUJEeU9lWGtoYV9RWkgzaGpXaU5XaVFIcDFLMA?oc=5",
-   "source": "ウォーカープラス",
-   "cat": "催し",
-   "region": "高梁市",
-   "pub": "2026-11-27T13:33:35+09:00",
    "event_date": ""
   },
   {
@@ -464,16 +444,6 @@
    "event_date": ""
   },
   {
-   "id": "5b48c217094063d7",
-   "title": "岡山で「キモかわいい展」が開催！知的好奇心を刺激する、気持ち悪くてかわいい生き物が大集合",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03S2pOc3J3SDNOYV9mSmZCVy1qX0lUdTZkdUl5dEhFQmNRSlZSMFNzcG92eDNwU2ZyQ3R0RnhVOS1USnZxTXJ3QVc1cGVjdE9FNDZXTkZ3?oc=5",
-   "source": "ウォーカープラス",
-   "cat": "催し",
-   "region": "県内・その他",
-   "pub": "2026-11-27T05:06:09+09:00",
-   "event_date": ""
-  },
-  {
    "id": "348ebbfd1fe7c358",
    "title": "岡山を「見て、食べて、踊って」体感！「おかやま City DAYS in 渋谷」11/28(土)・29(日)にShibuya Sakura Stageにて開催",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GWmZDaEptN291SDUybGhnOFZQUTVHcVphbVJ1NHlWc3BVMlR2QkNWSlFaSEd4Q3BwSUxXSS1FODJTSHFSMmNGTjZVWlhuTmtDTWc?oc=5",
@@ -502,26 +472,6 @@
    "region": "岡山市",
    "pub": "2026-11-27T03:13:19+09:00",
    "event_date": "2026-12-19"
-  },
-  {
-   "id": "363cbb2d355504ff",
-   "title": "岡山県西部に生息する「ゆるキャラ」が大集合！おかやま備中マルシェ2017開催",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9rVVY5RHNYZFZqeGVscDhmV0R4LU5wSjNRSGNnbUU1djJmWGhYV1hkZzFaWnd1aTFPQXgtd2xPWTlkcmc3eVZYQnFtdDNBd28wSHhvY9IBWkFVX3lxTE1kbW5QQVVpSDg3akRDSnZTYUlla01DZnhSRUxrUm5mMFFYdmY1V1BkckhZWWFfR1R3dmZDZzFZd09XRllEQ2lBLWtjTWZ1cU1PR1JRa0xKUjNMUQ?oc=5",
-   "source": "ウォーカープラス",
-   "cat": "催し",
-   "region": "県内・その他",
-   "pub": "2026-11-27T02:29:04+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "23a15dbc2508ff77",
-   "title": "画像1 / 3＞謎を解いて巨人に立ち向かおう、岡山県岡山市で「リアル脱出ゲーム×進撃の巨人The Final Season 5つの巨人からの脱出」開催",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wYjVxcWh6Sm9DdEM1N3kxZUFwbHVScmt4RlU0TVExbGtrUmRjZDhld3owclRHZ3k2MXYzTS0yR3ZrdUR1SFVWdUU4VF9Sb2NHVUlMTE9xcEp6Y2J3bXZOWWpRSG14aWIySEJ5dGl3?oc=5",
-   "source": "ウォーカープラス",
-   "cat": "催し",
-   "region": "岡山市",
-   "pub": "2026-11-27T01:36:27+09:00",
-   "event_date": ""
   },
   {
    "id": "3433fb609b7320d9",
@@ -711,16 +661,6 @@
    "cat": "催し",
    "region": "県内・その他",
    "pub": "2026-11-26T17:02:20+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "9382cc7c7b717ff6",
-   "title": "日本刀を見て、触って、体験！備前長船刀剣博物館で刀造り見学",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE40WXQ5ZVJLbWp3YWdRcXkzSnVtel80bnNpM1NtUnpYdnJpckZaUnZOVHQ1cURKa3dzYWxUNC10Y01Za1A2MVNCNzcyNVBLOVJheDBPcg?oc=5",
-   "source": "ウォーカープラス",
-   "cat": "催し",
-   "region": "県内・その他",
-   "pub": "2026-11-26T17:00:00+09:00",
    "event_date": ""
   },
   {
@@ -2594,16 +2534,6 @@
    "event_date": ""
   },
   {
-   "id": "ddb3cb2a56084c6d",
-   "title": "約15万球のLEDが輝く「きらめきのみち」が岡山県倉敷市で開催中",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBTcDRUd3VqSHRPckpMcEVaZERMRzJwOW5VZG5GcW9DWGRtUUJ0XzZtV2F0Q01MY0pvUHNXUzM5Zm9kWVIzMjl2bVo0dTNTdDNBSmRsQtIBWkFVX3lxTE9Rbk9BQ0tXQUQ2eWtJSkoyMHFhSTByZXYyTTMzM3kyRDg3TUJuQjVWNmw0LVhna0hpQmRTbm9hYzR0bFQ3dC1CZXJxYXBKZUJoM2R0bGtHMzRwdw?oc=5",
-   "source": "ウォーカープラス",
-   "cat": "催し",
-   "region": "倉敷市",
-   "pub": "2026-11-22T17:00:00+09:00",
-   "event_date": ""
-  },
-  {
    "id": "f830b41c9c81f70d",
    "title": "花火シーズン到来 岡山県内、７、８月の主な大会",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05TDdEMHVLS1hHQzZNR3huazZRWUVKZE5MRTFnck85TVk0dnN3b25FMkpFa2JVd256T1M5VG9RU0F6MVJKNnN4UTZmVmprTnJyRnc?oc=5",
@@ -2702,16 +2632,6 @@
    "region": "井原市",
    "pub": "2026-11-22T11:06:06+09:00",
    "event_date": "2026-12-05"
-  },
-  {
-   "id": "d08ed2e1633272ba",
-   "title": "画像4 / 4＞岡山で「キモかわいい展」が開催！知的好奇心を刺激する、気持ち悪くてかわいい生き物が大集合",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1zY2VxY1BrTFM2ejhxYThITldnR3dtRWR6bWVZcUV6eTJxVUNJNENMdlpyd0hQUEpHOFFiNHYwbkYxMkdGZmlBNU5uMG9ZNjFJajhqWGNMSU1KNldDUmpCd2N3NE5KRDgzT05PQnd3?oc=5",
-   "source": "ウォーカープラス",
-   "cat": "催し",
-   "region": "県内・その他",
-   "pub": "2026-11-22T10:27:11+09:00",
-   "event_date": ""
   },
   {
    "id": "6a98242eb458c474",
@@ -3411,26 +3331,6 @@
    "cat": "火災",
    "region": "県内・その他",
    "pub": "2026-11-21T08:49:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "cba201931fa40b03",
-   "title": "【道路情報】車両火災で通行止め 山陽道鴨方ＩＣ―玉島ＩＣ",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KQi1WZ0sycXQ1OXlSNUtJcnQ1S09EdllDWGdCSHFaeGdxR202NkFZbVhHNnRMVGI2OUtPNkJ5QlFSUDBNN09va1FMWWhRZGdSeFE?oc=5",
-   "source": "山陽新聞",
-   "cat": "火災",
-   "region": "県内・その他",
-   "pub": "2026-11-21T08:03:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "734c325ab766c528",
-   "title": "ポーカー賭博容疑で男2人逮捕 岡山南署",
-   "url": "https://www.sanyonews.jp/article/2025305",
-   "source": "山陽新聞デジタル",
-   "cat": "事件",
-   "region": "県内・その他",
-   "pub": "2026-11-21T08:01:00+09:00",
    "event_date": ""
   }
  ]
