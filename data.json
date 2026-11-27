@@ -1,25 +1,25 @@
 {
- "updated": "2026-11-28T07:29:22.063526+09:00",
+ "updated": "2026-11-28T07:49:16.278386+09:00",
  "source_stats": {
   "Googleニュース": {
    "ok": 22,
    "ng": 0,
-   "raw": 406,
-   "adopted": 207,
-   "new": 9
+   "raw": 518,
+   "adopted": 284,
+   "new": 12
   },
   "Googleニュース(媒体別)": {
    "ok": 16,
    "ng": 0,
-   "raw": 775,
-   "adopted": 82,
-   "new": 4
+   "raw": 781,
+   "adopted": 76,
+   "new": 3
   },
   "Bingニュース": {
-   "ok": 21,
-   "ng": 1,
-   "raw": 58,
-   "adopted": 38,
+   "ok": 22,
+   "ng": 0,
+   "raw": 59,
+   "adopted": 39,
    "new": 23
   },
   "岡山県(緊急情報)": {
@@ -69,7 +69,7 @@
    "ng": 0,
    "raw": 5,
    "adopted": 5,
-   "new": 3
+   "new": 0
   }
  },
  "items": [
@@ -101,6 +101,16 @@
    "cat": "災害",
    "region": "県内・その他",
    "pub": "2026-11-28T04:18:07+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "346b0b031fae8e42",
+   "title": "“桃ジュース”が出る蛇口が出現！岡山で夏の期間限定イベント",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBYbGUtdlJEVWVuU0h6eGJWbWd3UmhCMWhtWG9uZ3VsdlRTcTUyYnVweFlEUzdHXzBOTmwxMlZYeUJWOWdVeFA4eEVjdzBLMTV6SFJURNIBWkFVX3lxTE1MNG5PaFFBRUh1OVVYSUFzMFQzbFViR296QndGUFAyUm9YR29oendkaVF2eEROTk50V0pXb1pRYmRVUkM4d3Jlb2lWNURQc05IRFVzVWNkQW52QQ?oc=5",
+   "source": "ウォーカープラス",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-11-27T21:36:49+09:00",
    "event_date": ""
   },
   {
@@ -151,6 +161,16 @@
    "cat": "催し",
    "region": "倉敷市",
    "pub": "2026-11-27T18:51:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "aa321074e7cf1dce",
+   "title": "児島虎次郎が写した風景や人々の姿を鑑賞できる特別展が岡山県で開催中",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB2N05lOG5qT0ttbFB5MHVqTGRiQ0dDbTlBOWR0ZklSTm1oYVc1X0NrQ3FFeERRVnZmR1FYNnpZaDdqdW1mUlBLX1NEaXZ2S2hveFBLUkJB0gFbQVVfeXFMUHRZeU1LRE9FMWszeWF5TmJja0hTM0stMmI5ZmZNaXV2QzN1UUJlWWdIbGx2LTQxc2VPX3RXLTczMW1CVE01Unp6RWdHNUlQVDg4SmhqbUhPa29scw?oc=5",
+   "source": "ウォーカープラス",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-11-27T18:50:22+09:00",
    "event_date": ""
   },
   {
@@ -304,6 +324,16 @@
    "event_date": ""
   },
   {
+   "id": "113aa9d6b187beac",
+   "title": "消防車、救急車描いて 山陽新聞こども写生大会 ２４日、笠岡の恐竜公園：山陽新聞デジタル｜さんデジ",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84N21JZ0w3aUdZNXZlU2kxTHRBMDBRbGJkQUhyLTFETm5HVlQ3NWRPc3NmbkFwUVBPZFREaW9NYm5xNkliSU1Yd2c3MFBEajR0bVE?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "笠岡市",
+   "pub": "2026-11-27T11:50:39+09:00",
+   "event_date": ""
+  },
+  {
    "id": "d927627ff76078b2",
    "title": "井原 白球追って全力プレー 近県少年大会で１６チーム熱戦",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4ta3VMNjJ0MFkxN3M5TWxyc0xRd1dpUFRvOHZYXzM1czhyZUtWcXRBMW85ZGRmcElUMks0ZG5EbnZYVjJXdS1vRkx2LWRxR0xCOXc?oc=5",
@@ -362,6 +392,16 @@
    "region": "県内・その他",
    "pub": "2026-11-27T10:27:07+09:00",
    "event_date": ""
+  },
+  {
+   "id": "8a2a2505efac3a10",
+   "title": "12月6日に「海と魚の祭典」開催 浅口・寄島町 カキは成長遅く、販売せず",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE11THRGTnJDN2hHYmpZb0plZ0FTTGRjVXVBNEdhc0dTS2NWRFZ2WmJuNVI1c2NMQWVESF9hR3hsSy0zQ3AxQ1ZBaDVBSTNVR2Rick9qVnBlT1RRTm5qWUZDTGFaUm5zczUtY3B1LXRkMHMxcGtSSUdZ?oc=5",
+   "source": "Excite エキサイト",
+   "cat": "催し",
+   "region": "浅口市",
+   "pub": "2026-11-27T10:20:00+09:00",
+   "event_date": "2026-12-06"
   },
   {
    "id": "40d3cf9105682353",
@@ -432,6 +472,16 @@
    "region": "県内・その他",
    "pub": "2026-11-27T05:06:09+09:00",
    "event_date": ""
+  },
+  {
+   "id": "348ebbfd1fe7c358",
+   "title": "岡山を「見て、食べて、踊って」体感！「おかやま City DAYS in 渋谷」11/28(土)・29(日)にShibuya Sakura Stageにて開催",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GWmZDaEptN291SDUybGhnOFZQUTVHcVphbVJ1NHlWc3BVMlR2QkNWSlFaSEd4Q3BwSUxXSS1FODJTSHFSMmNGTjZVWlhuTmtDTWc?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-11-27T05:05:12+09:00",
+   "event_date": "2026-11-28"
   },
   {
    "id": "881233c00dfc79a6",
@@ -541,16 +591,6 @@
    "cat": "催し",
    "region": "県内・その他",
    "pub": "2026-11-26T20:03:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "2a2e3e44b7f8adbf",
-   "title": "クロウサギの交通事故、過去最多 鹿児島・奄美、生息数が増加",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9sb0JGRzdTZWJvRVJWLVBLMnlhWUM5WXBxaThIdjM4MFFVSzdPX3dOem5LU3I1QTRhVmNHQmtYX09ua0ZUS1A4dkZiallWMXhOVWc?oc=5",
-   "source": "山陽新聞",
-   "cat": "事故",
-   "region": "県内・その他",
-   "pub": "2026-11-26T19:24:00+09:00",
    "event_date": ""
   },
   {
@@ -784,16 +824,6 @@
    "event_date": ""
   },
   {
-   "id": "1b67156df6dd9673",
-   "title": "鹿児島で住宅火災３人死亡 ６０代住人らと連絡取れず",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNN2VqTktVa2pkRzlSeVA0Z0t3OHB3cHBxV3B3QjRWRmVLc19XalBQcDV3cVhEeVhfZzJyWUNST2ZGYk5zSk5QMU9tbTM0enZ3THA0bHpkNlBiMWtRR1lsWWpPSW5YbF9US0MwOV9wTTEwU0V0MEVNV1VuWk1tVDRsU0lmaERSVWVtdVVv?oc=5",
-   "source": "山陽新聞",
-   "cat": "火災",
-   "region": "県内・その他",
-   "pub": "2026-11-26T12:35:00+09:00",
-   "event_date": ""
-  },
-  {
    "id": "574ae0deaf1286fa",
    "title": "詐欺の電話を警告・遮断するアプリの紹介など 岡山県警が詐欺の被害防止を呼び掛けるイベント 28日",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9xREhxN0k5dVhSS3RzMU9QcW9TVk9VM2htTkNoa1BtWWc3U1N4a0ZfMkVaMmxKcDJBZGlaZGJ1ck9aX1hOQjgxODdWVkJUX1NI?oc=5",
@@ -801,16 +831,6 @@
    "cat": "事件",
    "region": "県内・その他",
    "pub": "2026-11-26T12:25:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "6fce3785d0fbb3b8",
-   "title": "鹿児島の住宅火災、現場から３遺体",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Lb2h4X3BQZEFYR2JnZmNaM1hZQ01QUUNuNk03TWsxQTV1SkFDSzNOV0xFZEloelE3akR4V0w4ZkZkZVZVSm1mWXNGd2N0dW9GSkQ5Y2t3bU1VQQ?oc=5",
-   "source": "山陽新聞",
-   "cat": "火災",
-   "region": "県内・その他",
-   "pub": "2026-11-26T12:08:00+09:00",
    "event_date": ""
   },
   {
@@ -841,16 +861,6 @@
    "cat": "災害",
    "region": "真庭市",
    "pub": "2026-11-26T11:09:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "319e7b7edf9d3591",
-   "title": "鹿児島住宅火災、３人連絡取れず 姶良市、高齢夫婦ら",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE55X1pUTk5vRkNEbDBCNWZlRHlfNFpGM3dkSGNrbTJ5djB2bnFKd0dtM2FOODg4VFRVYmdaVmxGU2RCbS1sMl9rc0FrY2pMWW95amc?oc=5",
-   "source": "山陽新聞",
-   "cat": "火災",
-   "region": "県内・その他",
-   "pub": "2026-11-26T10:54:00+09:00",
    "event_date": ""
   },
   {
@@ -894,16 +904,6 @@
    "event_date": ""
   },
   {
-   "id": "612f0eb3f19d67a8",
-   "title": "鹿児島で住宅火災、３人と連絡取れず",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MMUxGQmt1aGRqaWtYVE9zT2k2T3gtLWdsUS1CM3BycXF2MlRQVWgtTkZ1VXdMRlA1OG9DLXczNUIzRnRUVko2ZGJfOTNpQzFxTzB0bVZRclhHUQ?oc=5",
-   "source": "山陽新聞",
-   "cat": "火災",
-   "region": "県内・その他",
-   "pub": "2026-11-26T09:45:59+09:00",
-   "event_date": ""
-  },
-  {
    "id": "2c7ae31d750467a8",
    "title": "台湾籍の男女2人を逮捕...投資運用資金名目で会社役員の男性から現金500万円をだまし取った疑い【岡山県警】",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOZFI5MXBkamVtcG0zSXZwT0ZHeDhtaVJhUUkxa0RLSVBsRk1qUHFONDlKY2JDY0lfUnRGa01jdUpNSXdpaWVuSFcwVkhiQURSMDdXcTdNRXNoMThVLXdISnVpWmt1dGd1dGhMZHB0M0pBVU9xRnA5TFh3UFVhUlE?oc=5",
@@ -941,16 +941,6 @@
    "cat": "催し",
    "region": "新見市",
    "pub": "2026-11-26T07:00:00+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "179a8bbf68e7e431",
-   "title": "鹿児島 姶良で住宅火災 住んでいるとみられる3人と連絡取れず",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13VjdPYUZfWUp2dUd4R3YyRGlLUTg0ZUFWVDFzdW54d004TUh2b3pJSTJSTUoyZ2otX3ZBV040bDlseVVhWnVJTjZ6VWZibXFkR25yWnAyNG9keGQtOUxN?oc=5",
-   "source": "NHKニュース",
-   "cat": "火災",
-   "region": "県内・その他",
-   "pub": "2026-11-26T06:54:36+09:00",
    "event_date": ""
   },
   {
@@ -1081,6 +1071,16 @@
    "cat": "催し",
    "region": "県内・その他",
    "pub": "2026-11-25T18:09:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "6844015a2cc74718",
+   "title": "住宅1棟を全焼させた疑いで逮捕されていた岡山市中区の39歳の男性を不起訴処分 岡山地検",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BQkVTd2k2SS1FYUJKQURORWhBMmhmdk5MNl9GSUlLSW1XZ0ZsOUNmQkZKckhKTldkX09oQnJWUHgtYWtrUGxlWmJ1RGppZGYxcllLRHZENFR5bzd6T1AySHJ3TG5DdnhHX0R0V1hR?oc=5",
+   "source": "au Webポータル",
+   "cat": "火災",
+   "region": "岡山市",
+   "pub": "2026-11-25T17:58:17+09:00",
    "event_date": ""
   },
   {
@@ -2384,6 +2384,16 @@
    "event_date": ""
   },
   {
+   "id": "df92ee5e76de76e6",
+   "title": "「自分と同じ思いしてほしくない」 速度１９４キロの車衝突、弟亡くす 大分の長さん、岡山で講演",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ORXZJdG5LdC11RHB4T1hBczJXcFFZRVVPc05rczBTbkdYX3V5T0RDLVBNNGVtcWJBQlFXUXN0U0c1NEtnTUw4REhUVm12OWhUc0E?oc=5",
+   "source": "山陽新聞",
+   "cat": "事故",
+   "region": "県内・その他",
+   "pub": "2026-11-22T21:40:00+09:00",
+   "event_date": ""
+  },
+  {
    "id": "0d5ebd40a5348236",
    "title": "獅子舞、勇壮に 伝統受け継ぐ4団体 美作で民俗芸能フェス",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE84eVJSWVVYUWs1OWw4a0pDRExZVzd4dWZtU2pQcEdzVjRQejZaSWJfR012UkNVUDA2QlFvZmROZFkxSzhOR05xcU5vNS1tTEJ4NjlTNm16ZE5Ca29VTk5uSGtDODVaVDhDSVpLa08wTkNMbzRnNHc?oc=5",
@@ -3209,6 +3219,16 @@
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE10RzBNc2dwTk01RUl2b01UTHF2NzVKMU45LTZjZFgzZV9CLXZFNEhlTk1FQjR2S0JieFBmQzhCTkZuS0RGWEtRWGlwZFV1cC1LWmIyVVkwVkR5T0tOMlE?oc=5",
    "source": "TBS NEWS DIG",
    "cat": "火災",
+   "region": "倉敷市",
+   "pub": "2026-11-21T12:21:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "608c709657fc6a55",
+   "title": "居眠り運転か 倉敷市児島下の町で歩行者の男性（58）が軽乗用車にはねられ重体 運転していた男子大学生（19）を現行犯逮捕【岡山】",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LNF94ZU13VFhlQk1JOWtnRHozdnVKczZUVWJhNGdjWVRQeEY3a2xyMUN3VzdLcnpPRXh1TFcxRTcxZE9USW9zWnhLazNXV0loa0l5UVBkZFpfUFd6ckdR?oc=5",
+   "source": "TBS NEWS DIG",
+   "cat": "事故",
    "region": "倉敷市",
    "pub": "2026-11-21T12:21:00+09:00",
    "event_date": ""
