@@ -440,9 +440,14 @@ RE_KAGAWA = re.compile(
 RE_PAIR_LABEL = re.compile(r"岡山・香川|香川・岡山|岡山と香川|香川と岡山|岡山、香川|香川、岡山|岡山・香川")
 
 
+# 岡山の地名とまちがえやすい言葉(「鹿児島」の中に「児島」が入っている、など)。判定の前に取りのぞく
+RE_LOOKALIKE = re.compile(r"鹿児島|和気あいあい|和気藹々")
+
+
 def has_okayama_area(title):
     """見出しだけを見て、岡山県内の地名・言葉が入っているかを返す。
     配信元(山陽新聞など)は判定に使わない。"""
+    title = RE_LOOKALIKE.sub("", title)
     return any(w in title for w in OKAYAMA_PLACE_WORDS) or find_region(title) != REGION_OTHER
 
 
