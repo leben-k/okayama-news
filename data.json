@@ -1,26 +1,26 @@
 {
- "updated": "2026-11-28T20:11:09.398438+09:00",
+ "updated": "2026-11-28T23:02:15.622895+09:00",
  "source_stats": {
   "Googleニュース": {
    "ok": 22,
    "ng": 0,
-   "raw": 473,
-   "adopted": 248,
-   "new": 16
+   "raw": 419,
+   "adopted": 213,
+   "new": 13
   },
   "Googleニュース(媒体別)": {
    "ok": 16,
    "ng": 0,
-   "raw": 781,
+   "raw": 766,
    "adopted": 76,
-   "new": 3
+   "new": 4
   },
   "Bingニュース": {
-   "ok": 18,
-   "ng": 4,
-   "raw": 40,
-   "adopted": 26,
-   "new": 18
+   "ok": 22,
+   "ng": 0,
+   "raw": 64,
+   "adopted": 43,
+   "new": 25
   },
   "岡山県(緊急情報)": {
    "ok": 1,
@@ -67,12 +67,82 @@
   "気象庁": {
    "ok": 1,
    "ng": 0,
-   "raw": 8,
-   "adopted": 8,
+   "raw": 4,
+   "adopted": 4,
    "new": 0
   }
  },
  "items": [
+  {
+   "id": "3236b4c18f6d044a",
+   "title": "首絞め母親殺害しようとした疑い 容疑で男逮捕 倉敷署",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5mczd2ZExwbWpUMWNsUWZJSk1LQUliZGM4Q2FuZHM3b1ZZZkwwWU9rVGVsNGw3V0NXSGR0Ql9GY2ZaTnFNcWVGV3ZUMkpkTDZlbkE?oc=5",
+   "source": "山陽新聞",
+   "cat": "事件",
+   "region": "倉敷市",
+   "pub": "2026-11-28T22:39:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "3e770d162fa02ec4",
+   "title": "LPガスタンカーが岸壁に接触し船体に穴、桟橋が損傷…当時風速15m/sで強風波浪雷注意報発表中…巡視艇「りゅうおう」が出動し原因を調査中 岡山県倉敷市",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53U253bHplSGEwU3BUeVVmbFVwazNUcjJ6Q053NEtJUHFRcXpfMzJNVGhycXVZV1JsV2NJMG9fMkFtZ25NZGNXMGZVUEhBZ3oyc2tQdm5GS1lOdw?oc=5",
+   "source": "TBS NEWS DIG",
+   "cat": "災害",
+   "region": "倉敷市",
+   "pub": "2026-11-28T21:09:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "f869938b80f90164",
+   "title": "母親の首を絞めて殺害しようとした疑い 会社員の男（34）を現行犯逮捕 倉敷市",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9NSUFqXy1JbldmWGJBRkg2UHJQWkJHM1NXeVhoeWMxcE1OSUlmeVd4d2xnQWdhMFJOWkYtSHNZaGZsS29jOVMydlZWSTcxMko0Vk1TaS13OWVpLXIwelY5MHpjMDJrT18yNWdoV09n?oc=5",
+   "source": "au Webポータル",
+   "cat": "事件",
+   "region": "倉敷市",
+   "pub": "2026-11-28T20:48:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "b30acec1be18e204",
+   "title": "昨年約2,000人が体験、今年は過去最大50事業者が参加！ 津山の歴史、文化、食などを、まちじゅうで楽しむ体験型イベント 津山まち博～津山まちじゅう体験博2026～",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5JZlRyY1BkTDhYazNVRGVuSXE0NlRkbkh5RGZLUElDVTZYcGRUeEZFajY0dzlQN2hPbC1nOWJqSm1rSjNkZF9Nb28wc0tZaGpMb0E?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "津山市",
+   "pub": "2026-11-28T20:31:31+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "0709d18dd0d01156",
+   "title": "【速報】「人を殺します」駐車場にとめた車内で母親の首をしめ殺害しようとした疑い 会社員の男（34）を逮捕【岡山・倉敷市】",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9DZU1XN085N2M0NGRQVml2ck13Z3ZybXdXQjBmMlEyZDFuWEM1X1ZfdVBXbkp4Rm9tTmdvNGIzaHl2Y21ud0VVcnQtNDc1T3k2cERPUy1icGVjNW0zYTd6LVFackxTSWM?oc=5",
+   "source": "TBS NEWS DIG",
+   "cat": "事件",
+   "region": "倉敷市",
+   "pub": "2026-11-28T20:03:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "8d771ce32e79dfb6",
+   "title": "【速報】「人を殺します」親族の車の中にいた母親の首をしめ殺害しようとした疑い 会社員の男（34）を現行犯逮捕【岡山・倉敷市】",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1saDNJSEg1MVpLYWlrY3RxQ2J3dWJjWGhsTHJvcEdZY0VlRk5wa1g0b09fdzhwZ2doVlpDQndsQzJJRFJhQUZfcDNGME5RdXkybWY0ei12QUpJRjVaRDByRnRXX1QwTHl6SHlvTVhTQdIBdEFVX3lxTFBxbnRPSXktUzRLWWw4dVhfOU00LVplYXVNRUhjWVdXVV94cGtBblV5UE41cDNuRGRsTHljNVc0eWZybEY3WUx3ejFOdklfVVMzd0hHMDYxMlllS0VtMWhTeG95T21hNzRFUWZuUWhUMmNPQXhH?oc=5",
+   "source": "ｄメニューニュース",
+   "cat": "事件",
+   "region": "倉敷市",
+   "pub": "2026-11-28T20:03:00+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "d16171d931c97a0d",
+   "title": "【岡山県内最大級！】大規模マルシェ「HARENOBA MARCHE」（ハレノバ マルシェ）を開催します[岡山県瀬戸内市]",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kNVlTdUhSZ1k0dUNZVEhra1NpVTV6c2tJNlV6c1lxUDZLdW1EcFRMeWlWLTBfX0tXYXVtNDB1NXMwWDEzU3VRY3ExbVZWeG1Benc?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "瀬戸内市",
+   "pub": "2026-11-28T19:22:14+09:00",
+   "event_date": ""
+  },
   {
    "id": "25b2e5539caf7c46",
    "title": "岡山デニムの魅力伝える「ＢＬＵＥ ＰＥＡＲＬ」 青木被服（井原）が映画製作 ２０日に上映会開催",
@@ -131,6 +201,16 @@
    "cat": "催し",
    "region": "県内・その他",
    "pub": "2026-11-28T15:44:37+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "a9151470f0fa1aa0",
+   "title": "夜市、ｅスポーツ体験…催し多彩 ２５日に岡山駅周辺で「カーニバル」",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4tQ0g2SWZERTAwZURWUjVpVGY4ZHM4R21aVFRtQXdtajhHRVh4VHcxdEl3TXdRQTRCZ1Y1WlA5NzRqd1RSZks1TlBVOVhSbEFoOWc?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-11-28T14:56:55+09:00",
    "event_date": ""
   },
   {
@@ -684,6 +764,16 @@
    "event_date": ""
   },
   {
+   "id": "c0199e5d961325de",
+   "title": "星渉先生の新刊出版記念講演会が岡山で開催決定！2027年2月20日(土 ...",
+   "url": "https://note.com/miki_assistant/n/n1805941e1d7b",
+   "source": "note",
+   "cat": "催し",
+   "region": "県内・その他",
+   "pub": "2026-11-27T00:01:00+09:00",
+   "event_date": "2027-02-20"
+  },
+  {
    "id": "3433fb609b7320d9",
    "title": "投資詐欺容疑で台湾籍の男2人逮捕 岡山県警井原署（山陽新聞デジタル）",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LYWh3MG80OWZZQS0xa1pnVjVKZVo4amI1TlFuR1J3MmQ2YnZyVG1Obk1maHlBUEZZWUM1Tm1HRkp6MlljYzlsTnNFOW1LOTNHOVdVUmNjbnlfRldhTXdBS0hYQU1vTTIzeFhDRGhIMnNVWlhnVUdIamlqN0tib2s?oc=5",
@@ -884,6 +974,16 @@
    "event_date": ""
   },
   {
+   "id": "57492961b31c3ccc",
+   "title": "おすわ祭り、21年ぶり花火打ち上げ ２２、２３日、赤磐・諏訪神社で屋台や踊り",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QRjJGemp5OWxRRm5XcUt0WTJTSW92OTJsT0RQVUpFUl8yWE1TQ2NoQ3NRYVA4MXQtUVg4d3ozNVdMOGdjcl9lQnd1MHdYbXMwdW9Bd19MOWRFemZRSC12LWxoUGNDVEU?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "赤磐市",
+   "pub": "2026-11-26T17:00:00+09:00",
+   "event_date": ""
+  },
+  {
    "id": "856155a51b3476b4",
    "title": "特殊詐欺グループとみられる男2人再逮捕 岡山県の女性から現金650万円だまし取った疑い 青森県警察本部",
    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWktUNjN3UUgtb1NQVjFYN1JfLTQzM1RzaElfekZHdklsRFYxSkJDX2lPd0lVOEdzMHJzRHl1aTNyV2hNZzhUajRiWjNWRXJ1VVVwZzlVTHpNa3ZGMXU2OWgxWFNDaGJ1d2c2MldINWxnbUltQXd2RHNxQjQyODNvVURjYXJSNEZDRHBjWTdBQTgxWHNObHF0aTRXSmtvZUJickhRT0gxbk1wdUtIakVlWDBQZ09wTkl5QTZxOUFzZS1ldVRqNjdfZTdSWmZpU2RJ0gGAAUFVX3lxTFBHeVc5ODUzTWxVeXVhczhxMDdEM0RMV0lkdDh2Yks1MUhTT1JuQnJmV2J4SEw2UndiZm9pS2RiLUZHMzB3UnIwUWN2aUJWS1BybGpXUGYtTFZOSmdBX2g3aVdocl9GOHBxWDV4d1ptdDBSWTNSSXZpeVZXc1Brcmxr?oc=5",
@@ -941,6 +1041,16 @@
    "cat": "事件",
    "region": "県内・その他",
    "pub": "2026-11-26T15:43:41+09:00",
+   "event_date": ""
+  },
+  {
+   "id": "224ce0473544ce42",
+   "title": "宇治吹屋分団（高梁）小型ポンプＶ７ 岡山県消防操法大会 作業の正確さ競う",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ZSU45R1JtSjZGbWpFd1pCNUVwblBhQTR4WnBjYndTVGljdnBaelRiZFUxdFdzZnhhVnlDdWREMXFTMUU2V2NKY29LdE5lWUMwSDd1ekxjUk1fUU1mN0ZJaXo1Sm0tem5oYnN6cGc0ZGFzUQ?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "高梁市",
+   "pub": "2026-11-26T15:43:15+09:00",
    "event_date": ""
   },
   {
@@ -2504,6 +2614,16 @@
    "event_date": ""
   },
   {
+   "id": "840bb6717f7cf070",
+   "title": "岡山市の国道交差点で衝突事故 酒気帯び運転の男、現行犯逮捕",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB5alAxVDJfX1Y0TC1MTE5WTU05cG40a0hkN0t4VXhSTHZkUVZ1QVZUOGJDWGNNTnRDSVNEdDNnTUFrT0hLNmxoMFNrNVZoWVRXSjYxTE8wNTYtV1pyT1Z1UnFSZjVSQQ?oc=5",
+   "source": "山陽新聞",
+   "cat": "事故",
+   "region": "岡山市",
+   "pub": "2026-11-23T11:33:00+09:00",
+   "event_date": ""
+  },
+  {
    "id": "81408f0b86ba444b",
    "title": "スタッドレスタイヤ4本を盗んだ疑い 廃品回収業の男（57）を逮捕【岡山】",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9EX3dRbGZYLUdURWlQVmR2bjRGQi04OVltc3pHaDFJYWJpMjFETnNwZGtyb2FWdHdNRjdlQ0RrOFVkbWppUWxqQmVaWU5oZm8yX19CbmtXV0JjZ19pSDNDZmJxY0lWSFExQWo3Z1dB?oc=5",
@@ -2794,6 +2914,16 @@
    "event_date": ""
   },
   {
+   "id": "9b8749ba5050c80c",
+   "title": "【おかやま祭時記】中世夢が原大神楽（井原市） 継承担うプロフェッショナル「太夫さん」",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBkYS03Q1lIVEtPVEItV1ZSWGxPaVJEZ25kREpqNDZNaFlyMkRORGY2WmNqRzBwSlZzX3Rka1dvSEdkZS10dVYwOTBKUlBtWmE2S2t0RlBwdjAxWUxybUFRUzlTQUV1UmZfV3JsWTNSWS1MVzRTQV9v?oc=5",
+   "source": "山陽新聞",
+   "cat": "催し",
+   "region": "井原市",
+   "pub": "2026-11-22T17:00:00+09:00",
+   "event_date": ""
+  },
+  {
    "id": "f830b41c9c81f70d",
    "title": "花火シーズン到来 岡山県内、７、８月の主な大会",
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05TDdEMHVLS1hHQzZNR3huazZRWUVKZE5MRTFnck85TVk0dnN3b25FMkpFa2JVd256T1M5VG9RU0F6MVJKNnN4UTZmVmprTnJyRnc?oc=5",
@@ -2971,26 +3101,6 @@
    "cat": "催し",
    "region": "県内・その他",
    "pub": "2026-11-22T06:06:33+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "79a22ff7b96121d7",
-   "title": "名探偵プリキュア！ ドリームステージ♪（倉敷公演）",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE45X2RpRHRaYzdhQXdKUkJnR2dzZkxEdmxYeXREVS1PMm9pTjJhNHRNc2R6OXNvemlkbWNRVEhYbVozSVY0TWRfdV9R?oc=5",
-   "source": "OHK岡山放送",
-   "cat": "催し",
-   "region": "倉敷市",
-   "pub": "2026-11-21T22:59:53+09:00",
-   "event_date": ""
-  },
-  {
-   "id": "02ba093bf86c0b86",
-   "title": "ポーカー賭博容疑で男２人逮捕 岡山南署",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45b1RaREVOSWFoVDBBWFJieDFHRzk0NXR2NnZjZm9xVUxBQTBNSGFJTTFFNW9iZE93dDlrYzRMT0xUeUR5UWluSUdjRUZVcWN6WXc?oc=5",
-   "source": "山陽新聞",
-   "cat": "事件",
-   "region": "県内・その他",
-   "pub": "2026-11-21T21:01:00+09:00",
    "event_date": ""
   }
  ]
